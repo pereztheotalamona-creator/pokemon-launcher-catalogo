@@ -259,7 +259,8 @@
         "id": "altura_del_desafio",
         "nombre": "🍃 A la altura del desafío",
         "descripcion": "Derrota a Hoja en uno de sus combates importantes.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 73
       },
       {
         "id": "medalla_volcan",
