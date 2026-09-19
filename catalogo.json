@@ -207,7 +207,8 @@
         "id": "viejo_rival",
         "nombre": "🔵 Viejo rival",
         "descripcion": "Enfréntate a Azul por primera vez.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 66
       },
       {
         "id": "medalla_cascada",
@@ -220,7 +221,8 @@
         "id": "nueva_rivalidad",
         "nombre": "🍃 Una nueva rivalidad",
         "descripcion": "Enfréntate a Hoja por primera vez.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 68
       },
       {
         "id": "medalla_trueno",
@@ -233,7 +235,8 @@
         "id": "team_rocket_primera_vez",
         "nombre": "🚀 ¡Team Rocket!",
         "descripcion": "Enfréntate al Team Rocket por primera vez.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 75
       },
       {
         "id": "medalla_arcoiris",
@@ -246,7 +249,8 @@
         "id": "rivalidad_renovada",
         "nombre": "🔵 Rivalidad renovada",
         "descripcion": "Vuelve a enfrentarte a Azul y consigue la victoria.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 70
       },
       {
         "id": "medalla_alma",
@@ -273,13 +277,15 @@
         "id": "rescate_silph",
         "nombre": "🏢 Rescate en Silph S.A.",
         "descripcion": "Libera Silph S.A. del Team Rocket.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 327
       },
       {
         "id": "el_jefe",
         "nombre": "👑 El jefe",
         "descripcion": "Enfréntate a Giovanni.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 239
       },
       {
         "id": "medalla_tierra",
@@ -292,7 +298,8 @@
         "id": "fin_team_rocket",
         "nombre": "🚀 El fin del Team Rocket",
         "descripcion": "Derrota a Giovanni y acaba con sus planes.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 240
       },
       {
         "id": "ultimo_gimnasio",
@@ -304,13 +311,15 @@
         "id": "camino_a_la_liga",
         "nombre": "🗺️ Camino a la Liga",
         "descripcion": "Llega a la Meseta Añil.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 230
       },
       {
         "id": "campeon_de_kanto",
         "nombre": "🏆 ¡Campeón de Kanto!",
         "descripcion": "Derrota al Alto Mando y conviértete en Campeón.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 248
       },
       {
         "id": "nueva_aventura_postgame",
@@ -434,7 +443,8 @@
         "id": "rival_definitivo",
         "nombre": "🔵 El rival definitivo",
         "descripcion": "Derrota a Azul en su enfrentamiento más difícil.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "switch",
+        "requisitoSwitch": 234
       },
       {
         "id": "rematch",
