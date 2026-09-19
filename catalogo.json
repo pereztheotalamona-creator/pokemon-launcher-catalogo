@@ -407,18 +407,6 @@
         ]
       },
       {
-        "id": "evolucion_completa",
-        "nombre": "🧩 Evolución completa",
-        "descripcion": "Consigue todas las líneas evolutivas disponibles de Kanto.",
-        "tipo": "pendienteDiagnostico"
-      },
-      {
-        "id": "pescador_experto",
-        "nombre": "🎣 Pescador experto",
-        "descripcion": "Captura todos los Pokémon obtenibles mediante pesca.",
-        "tipo": "pendienteDiagnostico"
-      },
-      {
         "id": "criador_pokemon",
         "nombre": "🥚 Criador Pokémon",
         "descripcion": "Obtén un Pokémon mediante crianza.",
@@ -448,9 +436,11 @@
       },
       {
         "id": "rematch",
-        "nombre": "🏅 Rematch",
-        "descripcion": "Supera todos los combates de revancha importantes disponibles.",
-        "tipo": "pendienteDiagnostico"
+        "nombre": "🏅 Doble Campeón",
+        "descripcion": "Vencé a la Liga Pokémon (Alto Mando) dos veces.",
+        "tipo": "variable",
+        "requisitoVariable": 13,
+        "requisitoValor": 2
       },
       {
         "id": "coleccionista_de_kanto",
@@ -461,9 +451,10 @@
       },
       {
         "id": "explorador_incansable",
-        "nombre": "🗺️ Explorador incansable",
-        "descripcion": "Explora todas las localizaciones importantes de Kanto y el postgame.",
-        "tipo": "pendienteDiagnostico"
+        "nombre": "⚰️ El secreto del cementerio",
+        "descripcion": "Descubrí el objeto oculto del cementerio de la Ruta 8, tocando las tumbas correctas.",
+        "tipo": "switch",
+        "requisitoSwitch": 119
       },
       {
         "id": "cazador_cromatico",
@@ -489,6 +480,31 @@
         "nombre": "💎 LEYENDA DE KANTO",
         "descripcion": "Desbloquea los otros 44 logros.",
         "tipo": "todosLosDemas"
+      },
+      {
+        "id": "recupera_pikachu",
+        "nombre": "🐭 ¡Recupera el Pikachu!",
+        "descripcion": "Encontrá al Pikachu perdido del chico de Ciudad Plateada, en el Bosque Verde.",
+        "tipo": "switch",
+        "requisitoSwitch": 113
+      },
+      {
+        "id": "evoluciones_eevee",
+        "nombre": "🦊 Eeveelucionario",
+        "descripcion": "Conseguí las 10 evoluciones de Eevee disponibles en Pokémon Añil.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "VAPOREON",
+          "JOLTEON",
+          "FLAREON",
+          "ESPEON",
+          "UMBREON",
+          "LEAFEON",
+          "GLACEON",
+          "SYLVEON",
+          "CEFIRON",
+          "ROYALEON"
+        ]
       }
     ]
   }
