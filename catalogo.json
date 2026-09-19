@@ -187,7 +187,9 @@
         "id": "primer_combate",
         "nombre": "🎯 Primer combate",
         "descripcion": "Gana tu primer combate Pokémon.",
-        "tipo": "pendienteDiagnostico"
+        "tipo": "variableExacta",
+        "requisitoVariable": 1,
+        "requisitoValorExacto": 1
       },
       {
         "id": "hazte_con_todos",
