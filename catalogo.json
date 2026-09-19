@@ -507,6 +507,20 @@
           "CEFIRON",
           "ROYALEON"
         ]
+      },
+      {
+        "id": "museo_team_rocket",
+        "nombre": "🔍 El ladrón del museo",
+        "descripcion": "Enfréntate al Team Rocket por primera vez, en el Museo de Ciudad Plateada.",
+        "tipo": "switch",
+        "requisitoSwitch": 71
+      },
+      {
+        "id": "fuji_salvado",
+        "nombre": "🗼 Libertad para Pueblo Lavanda",
+        "descripcion": "Terminá la Torre Pokémon ayudando al Sr. Fuji.",
+        "tipo": "switch",
+        "requisitoSwitch": 104
       }
     ]
   }
