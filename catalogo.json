@@ -159,10 +159,15 @@
   {
     "id": 4,
     "nombre": "Pokémon Añil",
-    "portada": "https://placehold.co/600x300/1a3450/93a9c2?text=Pokemon+Anil",
+    "portada": "capturas/anil/logo.jpg",
     "capturas": [
-      "https://placehold.co/200x130/142b44/93a9c2?text=1",
-      "https://placehold.co/200x130/142b44/93a9c2?text=2"
+      "capturas/anil/preview-1.png",
+      "capturas/anil/preview-2.png",
+      "capturas/anil/preview-3.png",
+      "capturas/anil/preview-4.png",
+      "capturas/anil/preview-5.png",
+      "capturas/anil/preview-6.png",
+      "capturas/anil/preview-7.png"
     ],
     "descripcion": "Tu propio fangame instalado localmente, usado para probar la conexión real del launcher (Jugar de verdad y conteo de horas).",
     "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
