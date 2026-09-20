@@ -159,15 +159,15 @@
   {
     "id": 4,
     "nombre": "Pokémon Añil",
-    "portada": "capturas/anil/logo.jpg",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logo.jpg",
     "capturas": [
-      "capturas/anil/preview-1.png",
-      "capturas/anil/preview-2.png",
-      "capturas/anil/preview-3.png",
-      "capturas/anil/preview-4.png",
-      "capturas/anil/preview-5.png",
-      "capturas/anil/preview-6.png",
-      "capturas/anil/preview-7.png"
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/preview-5.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/preview-6.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/preview-7.png"
     ],
     "descripcion": "Tu propio fangame instalado localmente, usado para probar la conexión real del launcher (Jugar de verdad y conteo de horas).",
     "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
