@@ -1,162 +1,5 @@
 [
   {
-    "id": 1,
-    "nombre": "Pokémon Rejuvenation",
-    "portada": "https://placehold.co/600x300/1a3450/93a9c2?text=Rejuvenation",
-    "capturas": [
-      "https://placehold.co/200x130/142b44/93a9c2?text=1",
-      "https://placehold.co/200x130/142b44/93a9c2?text=2",
-      "https://placehold.co/200x130/142b44/93a9c2?text=3",
-      "https://placehold.co/200x130/142b44/93a9c2?text=4"
-    ],
-    "descripcion": "Un fangame oscuro y complejo con una historia madura y un sistema de dificultad Intense.",
-    "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
-    "categorias": [
-      "RPG",
-      "Aventura",
-      "Fan Game"
-    ],
-    "tiempoEstimado": "30 - 50 horas",
-    "desarrollador": "Rejuvenation Team",
-    "lanzamiento": "2023",
-    "logros": [
-      {
-        "id": "primeros_pasos",
-        "nombre": "Primeros pasos",
-        "descripcion": "Jugá al menos 1 minuto",
-        "requisitoMinutos": 1
-      },
-      {
-        "id": "entrenador_camino",
-        "nombre": "Entrenador en camino",
-        "descripcion": "Acumulá 5 minutos jugados",
-        "requisitoMinutos": 5
-      },
-      {
-        "id": "explorador",
-        "nombre": "Explorador",
-        "descripcion": "Acumulá 15 minutos jugados",
-        "requisitoMinutos": 15
-      },
-      {
-        "id": "coleccionista",
-        "nombre": "Coleccionista",
-        "descripcion": "Acumulá 30 minutos jugados",
-        "requisitoMinutos": 30
-      },
-      {
-        "id": "veterano",
-        "nombre": "Veterano",
-        "descripcion": "Acumulá 60 minutos jugados",
-        "requisitoMinutos": 60
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "nombre": "Pokémon Insurgence",
-    "portada": "https://placehold.co/600x300/1a3450/93a9c2?text=Insurgence",
-    "capturas": [
-      "https://placehold.co/200x130/142b44/93a9c2?text=1",
-      "https://placehold.co/200x130/142b44/93a9c2?text=2",
-      "https://placehold.co/200x130/142b44/93a9c2?text=3",
-      "https://placehold.co/200x130/142b44/93a9c2?text=4"
-    ],
-    "descripcion": "Introduce las Pokémon Delta, versiones alternativas de especies existentes, y una historia centrada en cultos.",
-    "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
-    "categorias": [
-      "RPG",
-      "Aventura"
-    ],
-    "tiempoEstimado": "25 - 40 horas",
-    "desarrollador": "Insurgence Team",
-    "lanzamiento": "2015",
-    "logros": [
-      {
-        "id": "primeros_pasos",
-        "nombre": "Primeros pasos",
-        "descripcion": "Jugá al menos 1 minuto",
-        "requisitoMinutos": 1
-      },
-      {
-        "id": "entrenador_camino",
-        "nombre": "Entrenador en camino",
-        "descripcion": "Acumulá 5 minutos jugados",
-        "requisitoMinutos": 5
-      },
-      {
-        "id": "explorador",
-        "nombre": "Explorador",
-        "descripcion": "Acumulá 15 minutos jugados",
-        "requisitoMinutos": 15
-      },
-      {
-        "id": "coleccionista",
-        "nombre": "Coleccionista",
-        "descripcion": "Acumulá 30 minutos jugados",
-        "requisitoMinutos": 30
-      },
-      {
-        "id": "veterano",
-        "nombre": "Veterano",
-        "descripcion": "Acumulá 60 minutos jugados",
-        "requisitoMinutos": 60
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "nombre": "Pokémon Uranium",
-    "portada": "https://placehold.co/600x300/1a3450/93a9c2?text=Uranium",
-    "capturas": [
-      "https://placehold.co/200x130/142b44/93a9c2?text=1",
-      "https://placehold.co/200x130/142b44/93a9c2?text=2",
-      "https://placehold.co/200x130/142b44/93a9c2?text=3",
-      "https://placehold.co/200x130/142b44/93a9c2?text=4"
-    ],
-    "descripcion": "Un fangame con más de 190 Pokémon fanmade y un nuevo tipo: Nuclear.",
-    "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
-    "categorias": [
-      "RPG",
-      "Fan Game"
-    ],
-    "tiempoEstimado": "20 - 30 horas",
-    "desarrollador": "Uranium Team",
-    "lanzamiento": "2016",
-    "logros": [
-      {
-        "id": "primeros_pasos",
-        "nombre": "Primeros pasos",
-        "descripcion": "Jugá al menos 1 minuto",
-        "requisitoMinutos": 1
-      },
-      {
-        "id": "entrenador_camino",
-        "nombre": "Entrenador en camino",
-        "descripcion": "Acumulá 5 minutos jugados",
-        "requisitoMinutos": 5
-      },
-      {
-        "id": "explorador",
-        "nombre": "Explorador",
-        "descripcion": "Acumulá 15 minutos jugados",
-        "requisitoMinutos": 15
-      },
-      {
-        "id": "coleccionista",
-        "nombre": "Coleccionista",
-        "descripcion": "Acumulá 30 minutos jugados",
-        "requisitoMinutos": 30
-      },
-      {
-        "id": "veterano",
-        "nombre": "Veterano",
-        "descripcion": "Acumulá 60 minutos jugados",
-        "requisitoMinutos": 60
-      }
-    ]
-  },
-  {
     "id": 4,
     "nombre": "Pokémon Añil",
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/anil-logo.jpg",
@@ -169,7 +12,7 @@
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/anil-preview-6.png",
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/anil-preview-7.png"
     ],
-    "descripcion": "Tu propio fangame instalado localmente, usado para probar la conexión real del launcher (Jugar de verdad y conteo de horas).",
+    "descripcion": "Pokémon Añil es un fangame completo en español creado por Eric Lostie (EricLostie), el mismo desarrollador de Pokémon Titán, Pokémon Iberia y Pokémon Ópalo. Hecho con RPG Maker XP y Pokémon Essentials, reconstruye la región de Kanto desde cero: mapas rediseñados, una historia extendida con nuevos personajes, y la posibilidad de elegir entre Rojo, Azul o Amarillo como protagonista. Incluye Pokémon desde la primera hasta la novena generación (con formas de Hisui), sprites animados, Pokémon que te siguen por el mapa, ciclo de día y noche, y varios modos de juego (Clásico, Completo, Random, Nuzlocke, entre otros). Tras conseguir las 8 medallas y vencer la Liga Pokémon, un extenso postgame te espera con cacería de legendarios y contenido adicional.",
     "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
     "rutaEjecutable": "D:\\JUEGOS\\Pokemon\\Pokemon Anil V4.13\\Game.exe",
     "carpetaGuardadoAppData": "Pokemon Anil",
@@ -178,9 +21,9 @@
       "Aventura",
       "Fan Game"
     ],
-    "tiempoEstimado": "Desconocido",
-    "desarrollador": "Equipo Añil",
-    "lanzamiento": "2025",
+    "tiempoEstimado": "25 - 40 horas (estimado, incluye postgame)",
+    "desarrollador": "Eric Lostie (EricLostie)",
+    "lanzamiento": "2023",
     "logros": [
       {
         "id": "aventura_comienza",
@@ -526,6 +369,163 @@
         "descripcion": "Terminá la Torre Pokémon ayudando al Sr. Fuji.",
         "tipo": "switch",
         "requisitoSwitch": 104
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "nombre": "Pokémon Rejuvenation",
+    "portada": "https://placehold.co/600x300/1a3450/93a9c2?text=Rejuvenation",
+    "capturas": [
+      "https://placehold.co/200x130/142b44/93a9c2?text=1",
+      "https://placehold.co/200x130/142b44/93a9c2?text=2",
+      "https://placehold.co/200x130/142b44/93a9c2?text=3",
+      "https://placehold.co/200x130/142b44/93a9c2?text=4"
+    ],
+    "descripcion": "Un fangame oscuro y complejo con una historia madura y un sistema de dificultad Intense.",
+    "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
+    "categorias": [
+      "RPG",
+      "Aventura",
+      "Fan Game"
+    ],
+    "tiempoEstimado": "30 - 50 horas",
+    "desarrollador": "Rejuvenation Team",
+    "lanzamiento": "2023",
+    "logros": [
+      {
+        "id": "primeros_pasos",
+        "nombre": "Primeros pasos",
+        "descripcion": "Jugá al menos 1 minuto",
+        "requisitoMinutos": 1
+      },
+      {
+        "id": "entrenador_camino",
+        "nombre": "Entrenador en camino",
+        "descripcion": "Acumulá 5 minutos jugados",
+        "requisitoMinutos": 5
+      },
+      {
+        "id": "explorador",
+        "nombre": "Explorador",
+        "descripcion": "Acumulá 15 minutos jugados",
+        "requisitoMinutos": 15
+      },
+      {
+        "id": "coleccionista",
+        "nombre": "Coleccionista",
+        "descripcion": "Acumulá 30 minutos jugados",
+        "requisitoMinutos": 30
+      },
+      {
+        "id": "veterano",
+        "nombre": "Veterano",
+        "descripcion": "Acumulá 60 minutos jugados",
+        "requisitoMinutos": 60
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Pokémon Insurgence",
+    "portada": "https://placehold.co/600x300/1a3450/93a9c2?text=Insurgence",
+    "capturas": [
+      "https://placehold.co/200x130/142b44/93a9c2?text=1",
+      "https://placehold.co/200x130/142b44/93a9c2?text=2",
+      "https://placehold.co/200x130/142b44/93a9c2?text=3",
+      "https://placehold.co/200x130/142b44/93a9c2?text=4"
+    ],
+    "descripcion": "Introduce las Pokémon Delta, versiones alternativas de especies existentes, y una historia centrada en cultos.",
+    "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
+    "categorias": [
+      "RPG",
+      "Aventura"
+    ],
+    "tiempoEstimado": "25 - 40 horas",
+    "desarrollador": "Insurgence Team",
+    "lanzamiento": "2015",
+    "logros": [
+      {
+        "id": "primeros_pasos",
+        "nombre": "Primeros pasos",
+        "descripcion": "Jugá al menos 1 minuto",
+        "requisitoMinutos": 1
+      },
+      {
+        "id": "entrenador_camino",
+        "nombre": "Entrenador en camino",
+        "descripcion": "Acumulá 5 minutos jugados",
+        "requisitoMinutos": 5
+      },
+      {
+        "id": "explorador",
+        "nombre": "Explorador",
+        "descripcion": "Acumulá 15 minutos jugados",
+        "requisitoMinutos": 15
+      },
+      {
+        "id": "coleccionista",
+        "nombre": "Coleccionista",
+        "descripcion": "Acumulá 30 minutos jugados",
+        "requisitoMinutos": 30
+      },
+      {
+        "id": "veterano",
+        "nombre": "Veterano",
+        "descripcion": "Acumulá 60 minutos jugados",
+        "requisitoMinutos": 60
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Pokémon Uranium",
+    "portada": "https://placehold.co/600x300/1a3450/93a9c2?text=Uranium",
+    "capturas": [
+      "https://placehold.co/200x130/142b44/93a9c2?text=1",
+      "https://placehold.co/200x130/142b44/93a9c2?text=2",
+      "https://placehold.co/200x130/142b44/93a9c2?text=3",
+      "https://placehold.co/200x130/142b44/93a9c2?text=4"
+    ],
+    "descripcion": "Un fangame con más de 190 Pokémon fanmade y un nuevo tipo: Nuclear.",
+    "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
+    "categorias": [
+      "RPG",
+      "Fan Game"
+    ],
+    "tiempoEstimado": "20 - 30 horas",
+    "desarrollador": "Uranium Team",
+    "lanzamiento": "2016",
+    "logros": [
+      {
+        "id": "primeros_pasos",
+        "nombre": "Primeros pasos",
+        "descripcion": "Jugá al menos 1 minuto",
+        "requisitoMinutos": 1
+      },
+      {
+        "id": "entrenador_camino",
+        "nombre": "Entrenador en camino",
+        "descripcion": "Acumulá 5 minutos jugados",
+        "requisitoMinutos": 5
+      },
+      {
+        "id": "explorador",
+        "nombre": "Explorador",
+        "descripcion": "Acumulá 15 minutos jugados",
+        "requisitoMinutos": 15
+      },
+      {
+        "id": "coleccionista",
+        "nombre": "Coleccionista",
+        "descripcion": "Acumulá 30 minutos jugados",
+        "requisitoMinutos": 30
+      },
+      {
+        "id": "veterano",
+        "nombre": "Veterano",
+        "descripcion": "Acumulá 60 minutos jugados",
+        "requisitoMinutos": 60
       }
     ]
   }
