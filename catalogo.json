@@ -414,12 +414,6 @@
         ]
       },
       {
-        "id": "criador_pokemon",
-        "nombre": "🥚 Criador Pokémon",
-        "descripcion": "Obtén un Pokémon mediante crianza.",
-        "tipo": "pendienteDiagnostico"
-      },
-      {
         "id": "entrenador_veterano",
         "nombre": "💯 Entrenador veterano",
         "descripcion": "Lleva un Pokémon al nivel 100.",
@@ -477,12 +471,6 @@
         "tipo": "pendienteDiagnostico"
       },
       {
-        "id": "maestro_pokemon",
-        "nombre": "👑 Maestro Pokémon",
-        "descripcion": "Completa todo el contenido principal y los desafíos más importantes del postgame.",
-        "tipo": "pendienteDiagnostico"
-      },
-      {
         "id": "leyenda_de_kanto",
         "nombre": "💎 LEYENDA DE KANTO",
         "descripcion": "Desbloquea los otros 44 logros.",
@@ -526,6 +514,12 @@
         "descripcion": "Terminá la Torre Pokémon ayudando al Sr. Fuji.",
         "tipo": "switch",
         "requisitoSwitch": 104
+      },
+      {
+        "id": "ivs_perfectos",
+        "nombre": "💠 Genética perfecta",
+        "descripcion": "Conseguí un Pokémon con los 6 IVs al máximo (31 en cada estadística).",
+        "tipo": "ivsPerfectos"
       }
     ]
   }
