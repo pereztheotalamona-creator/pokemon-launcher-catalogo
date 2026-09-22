@@ -16,60 +16,421 @@
     "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
     "rutaEjecutable": "D:\\JUEGOS\\Pokemon\\Pokemon Anil V4.13\\Game.exe",
     "carpetaGuardadoAppData": "Pokemon Anil",
-    "categorias": ["RPG", "Aventura", "Fan Game"],
+    "categorias": [
+      "RPG",
+      "Aventura",
+      "Fan Game"
+    ],
     "tiempoEstimado": "25 - 40 horas (estimado, incluye postgame)",
     "desarrollador": "Eric Lostie (EricLostie)",
     "lanzamiento": "2023",
     "logros": [
-      { "id": "aventura_comienza", "nombre": "🌱 ¡Que comience la aventura!", "descripcion": "Recibe tu primer Pokémon.", "tipo": "primerPokemonReal", "imagen": null },
-      { "id": "primer_combate", "nombre": "🎯 Primer combate", "descripcion": "Gana tu primer combate Pokémon.", "tipo": "variableExacta", "requisitoVariable": 1, "requisitoValorExacto": 1, "imagen": null },
-      { "id": "hazte_con_todos", "nombre": "🎒 ¡Hazte con todos!", "descripcion": "Captura tu primer Pokémon.", "tipo": "capturasReales", "requisito": 2, "imagen": null },
-      { "id": "medalla_roca", "nombre": "🪨 Medalla Roca", "descripcion": "Consigue la Medalla Roca.", "tipo": "medalla", "requisitoIndice": 0, "imagen": null },
-      { "id": "rival_ruta_22", "nombre": "🔵 Rival en la Ruta 22", "descripcion": "Enfréntate a Azul por primera vez, en la Ruta 22.", "tipo": "switch", "requisitoSwitch": 66, "imagen": null },
-      { "id": "medalla_cascada", "nombre": "💧 Medalla Cascada", "descripcion": "Consigue la Medalla Cascada.", "tipo": "medalla", "requisitoIndice": 1, "imagen": null },
-      { "id": "nueva_rivalidad", "nombre": "🍃 Una nueva rivalidad", "descripcion": "Enfréntate a Hoja por primera vez.", "tipo": "switch", "requisitoSwitch": 68, "imagen": null },
-      { "id": "medalla_trueno", "nombre": "⚡ Medalla Trueno", "descripcion": "Consigue la Medalla Trueno.", "tipo": "medalla", "requisitoIndice": 2, "imagen": null },
-      { "id": "team_rocket_primera_vez", "nombre": "🚀 ¡Team Rocket!", "descripcion": "Enfréntate al Team Rocket por primera vez.", "tipo": "switch", "requisitoSwitch": 75, "imagen": null },
-      { "id": "medalla_arcoiris", "nombre": "🌈 Medalla Arcoíris", "descripcion": "Consigue la Medalla Arcoíris.", "tipo": "medalla", "requisitoIndice": 3, "imagen": null },
-      { "id": "rival_ciudad_celeste", "nombre": "🔵 Rival en Ciudad Celeste", "descripcion": "Enfréntate a Azul en Ciudad Celeste.", "tipo": "switch", "requisitoSwitch": 70, "imagen": null },
-      { "id": "rival_pueblo_lavanda", "nombre": "🔵 Rival en Pueblo Lavanda", "descripcion": "Enfréntate a Azul en Pueblo Lavanda.", "tipo": "pendienteDiagnostico", "imagen": null },
-      { "id": "rival_silph", "nombre": "🔵 Rival en Silph S.A.", "descripcion": "Enfréntate a Azul en Silph S.A.", "tipo": "pendienteDiagnostico", "imagen": null },
-      { "id": "medalla_alma", "nombre": "☠️ Medalla Alma", "descripcion": "Consigue la Medalla Alma.", "tipo": "medalla", "requisitoIndice": 4, "imagen": null },
-      { "id": "altura_del_desafio", "nombre": "🍃 A la altura del desafío", "descripcion": "Derrota a Hoja en uno de sus combates importantes.", "tipo": "switch", "requisitoSwitch": 73, "imagen": null },
-      { "id": "medalla_volcan", "nombre": "🔥 Medalla Volcán", "descripcion": "Consigue la Medalla Volcán.", "tipo": "medalla", "requisitoIndice": 5, "imagen": null },
-      { "id": "rescate_silph", "nombre": "🏢 Rescate en Silph S.A.", "descripcion": "Libera Silph S.A. del Team Rocket.", "tipo": "switch", "requisitoSwitch": 327, "imagen": null },
-      { "id": "el_jefe", "nombre": "👑 El jefe", "descripcion": "Enfréntate a Giovanni.", "tipo": "switch", "requisitoSwitch": 239, "imagen": null },
-      { "id": "medalla_tierra", "nombre": "🌎 Medalla Tierra", "descripcion": "Consigue la Medalla Tierra.", "tipo": "medalla", "requisitoIndice": 6, "imagen": null },
-      { "id": "fin_team_rocket", "nombre": "🚀 El fin del Team Rocket", "descripcion": "Derrota a Giovanni y acaba con sus planes.", "tipo": "switch", "requisitoSwitch": 240, "imagen": null },
-      { "id": "ultimo_gimnasio", "nombre": "🥋 Último gimnasio", "descripcion": "Consigue las 8 medallas de Kanto.", "tipo": "todasMedallas", "imagen": null },
-      { "id": "camino_a_la_liga", "nombre": "🗺️ Camino a la Liga", "descripcion": "Llega a la Meseta Añil.", "tipo": "switch", "requisitoSwitch": 230, "imagen": null },
-      { "id": "campeon_de_kanto", "nombre": "🏆 ¡Campeón de Kanto!", "descripcion": "Derrota al Alto Mando y conviértete en Campeón.", "tipo": "switch", "requisitoSwitch": 248, "imagen": null },
-      { "id": "nueva_aventura_postgame", "nombre": "🔥 Una nueva aventura", "descripcion": "Desbloquea el contenido posterior a la Liga.", "tipo": "pendienteDiagnostico", "imagen": null },
-      { "id": "es_diferente", "nombre": "✨ ¡Es diferente!", "descripcion": "Captura tu primer Pokémon variocolor.", "tipo": "shinyActual", "requisito": 1, "imagen": null },
-      { "id": "tres_pajaros", "nombre": "🦅 Los tres pájaros legendarios", "descripcion": "Captura a Articuno, Zapdos y Moltres.", "tipo": "pokedexEspecies", "especies": ["ARTICUNO", "ZAPDOS", "MOLTRES"], "imagen": null },
-      { "id": "pokemon_creado", "nombre": "🧬 El Pokémon creado", "descripcion": "Captura a Mewtwo.", "tipo": "pokedexEspecie", "especie": "MEWTWO", "imagen": null },
-      { "id": "pokemon_singular", "nombre": "🌸 El Pokémon singular", "descripcion": "Consigue a Mew.", "tipo": "pokedexEspecie", "especie": "MEW", "imagen": null },
-      { "id": "mas_alla_de_kanto", "nombre": "🏝️ Más allá de Kanto", "descripcion": "Descubre todas las zonas principales disponibles después de la Liga.", "tipo": "pendienteDiagnostico", "imagen": null },
-      { "id": "aprendiz_de_profesor", "nombre": "📖 Aprendiz de Profesor", "descripcion": "Registra 100 Pokémon en la Pokédex.", "tipo": "pokedexOwned", "requisito": 100, "imagen": null },
-      { "id": "investigador_pokemon", "nombre": "📚 Investigador Pokémon", "descripcion": "Registra 150 Pokémon en la Pokédex.", "tipo": "pokedexOwned", "requisito": 150, "imagen": null },
-      { "id": "maestro_de_kanto", "nombre": "🔴 Maestro de Kanto", "descripcion": "Completa la Pokédex de Kanto.", "tipo": "pokedexOwned", "requisito": 151, "imagen": null },
-      { "id": "pokedex_completa", "nombre": "🌎 Pokédex completa", "descripcion": "Completa la Pokédex total de Pokémon Añil.", "tipo": "pokedexOwned", "requisito": 999, "imagen": null },
-      { "id": "coleccionista_legendario", "nombre": "⭐ Coleccionista legendario", "descripcion": "Captura todos los Pokémon legendarios disponibles.", "tipo": "pokedexEspecies", "especies": ["ARTICUNO", "ZAPDOS", "MOLTRES", "MEWTWO", "MEW"], "imagen": null },
-      { "id": "criador_pokemon", "nombre": "🥚 Criador Pokémon", "descripcion": "Obtén un Pokémon mediante crianza.", "tipo": "pendienteDiagnostico", "imagen": null },
-      { "id": "entrenador_veterano", "nombre": "💯 Entrenador veterano", "descripcion": "Lleva un Pokémon al nivel 100.", "tipo": "nivelMaximo", "requisitoNivel": 100, "imagen": null },
-      { "id": "equipo_perfecto", "nombre": "💎 Equipo perfecto", "descripcion": "Forma un equipo de seis Pokémon al nivel 100.", "tipo": "equipoNivelMinimo", "requisitoNivel": 100, "requisitoCantidad": 6, "imagen": null },
-      { "id": "rival_liga_pokemon", "nombre": "🔵 Rival en la Liga Pokémon", "descripcion": "Derrota a Azul en la Liga Pokémon.", "tipo": "switch", "requisitoSwitch": 234, "imagen": null },
-      { "id": "rematch", "nombre": "🏅 Doble Campeón", "descripcion": "Vencé a la Liga Pokémon (Alto Mando) dos veces.", "tipo": "variable", "requisitoVariable": 13, "requisitoValor": 2, "imagen": null },
-      { "id": "coleccionista_de_kanto", "nombre": "💰 Coleccionista de Kanto", "descripcion": "Consigue una gran cantidad de dinero durante tu aventura.", "tipo": "dineroMinimo", "requisito": 100000, "imagen": null },
-      { "id": "explorador_incansable", "nombre": "⚰️ El secreto del cementerio", "descripcion": "Descubrí el objeto oculto del cementerio de la Ruta 8, tocando las tumbas correctas.", "tipo": "switch", "requisitoSwitch": 119, "imagen": null },
-      { "id": "cazador_cromatico", "nombre": "✨ Cazador cromático", "descripcion": "Captura 10 Pokémon variocolor.", "tipo": "shinyActual", "requisito": 10, "imagen": null },
-      { "id": "entrenador_implacable", "nombre": "💀 Entrenador implacable", "descripcion": "Completa la Liga sin que ningún Pokémon de tu equipo quede debilitado.", "tipo": "pendienteDiagnostico", "imagen": null },
-      { "id": "maestro_pokemon", "nombre": "👑 Maestro Pokémon", "descripcion": "Completa todo el contenido principal y los desafíos más importantes del postgame.", "tipo": "pendienteDiagnostico", "imagen": null },
-      { "id": "leyenda_de_kanto", "nombre": "💎 LEYENDA DE KANTO", "descripcion": "Desbloquea los otros 48 logros.", "tipo": "todosLosDemas", "imagen": null },
-      { "id": "recupera_pikachu", "nombre": "🐭 ¡Recupera el Pikachu!", "descripcion": "Encontrá al Pikachu perdido del chico de Ciudad Plateada, en el Bosque Verde.", "tipo": "switch", "requisitoSwitch": 113, "imagen": null },
-      { "id": "evoluciones_eevee", "nombre": "🦊 Eeveelucionario", "descripcion": "Conseguí las 10 evoluciones de Eevee disponibles en Pokémon Añil.", "tipo": "pokedexEspecies", "especies": ["VAPOREON", "JOLTEON", "FLAREON", "ESPEON", "UMBREON", "LEAFEON", "GLACEON", "SYLVEON", "CEFIRON", "ROYALEON"], "imagen": null },
-      { "id": "museo_team_rocket", "nombre": "🔍 El ladrón del museo", "descripcion": "Enfréntate al Team Rocket por primera vez, en el Museo de Ciudad Plateada.", "tipo": "switch", "requisitoSwitch": 71, "imagen": null },
-      { "id": "fuji_salvado", "nombre": "🗼 Libertad para Pueblo Lavanda", "descripcion": "Terminá la Torre Pokémon ayudando al Sr. Fuji.", "tipo": "switch", "requisitoSwitch": 104, "imagen": null }
+      {
+        "id": "aventura_comienza",
+        "nombre": "🌱 ¡Que comience la aventura!",
+        "descripcion": "Recibe tu primer Pokémon.",
+        "tipo": "primerPokemonReal",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/1.jpg"
+      },
+      {
+        "id": "primer_combate",
+        "nombre": "🎯 Primer combate",
+        "descripcion": "Gana tu primer combate Pokémon.",
+        "tipo": "variableExacta",
+        "requisitoVariable": 1,
+        "requisitoValorExacto": 1,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/3.jpg"
+      },
+      {
+        "id": "hazte_con_todos",
+        "nombre": "🎒 ¡Hazte con todos!",
+        "descripcion": "Captura tu primer Pokémon.",
+        "tipo": "capturasReales",
+        "requisito": 2,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/2.jpg"
+      },
+      {
+        "id": "medalla_roca",
+        "nombre": "🪨 Medalla Roca",
+        "descripcion": "Consigue la Medalla Roca.",
+        "tipo": "medalla",
+        "requisitoIndice": 0,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/4.jpg"
+      },
+      {
+        "id": "rival_ruta_22",
+        "nombre": "🔵 Rival en la Ruta 22",
+        "descripcion": "Enfréntate a Azul por primera vez, en la Ruta 22.",
+        "tipo": "switch",
+        "requisitoSwitch": 66,
+        "imagen": null
+      },
+      {
+        "id": "medalla_cascada",
+        "nombre": "💧 Medalla Cascada",
+        "descripcion": "Consigue la Medalla Cascada.",
+        "tipo": "medalla",
+        "requisitoIndice": 1,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/5.jpg"
+      },
+      {
+        "id": "nueva_rivalidad",
+        "nombre": "🍃 Una nueva rivalidad",
+        "descripcion": "Enfréntate a Hoja por primera vez.",
+        "tipo": "switch",
+        "requisitoSwitch": 68,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/14.jpg"
+      },
+      {
+        "id": "medalla_trueno",
+        "nombre": "⚡ Medalla Trueno",
+        "descripcion": "Consigue la Medalla Trueno.",
+        "tipo": "medalla",
+        "requisitoIndice": 2,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/6.jpg"
+      },
+      {
+        "id": "team_rocket_primera_vez",
+        "nombre": "🚀 ¡Team Rocket!",
+        "descripcion": "Enfréntate al Team Rocket por primera vez.",
+        "tipo": "switch",
+        "requisitoSwitch": 75,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/22.jpg"
+      },
+      {
+        "id": "medalla_arcoiris",
+        "nombre": "🌈 Medalla Arcoíris",
+        "descripcion": "Consigue la Medalla Arcoíris.",
+        "tipo": "medalla",
+        "requisitoIndice": 3,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/7.jpg"
+      },
+      {
+        "id": "rival_ciudad_celeste",
+        "nombre": "🔵 Rival en Ciudad Celeste",
+        "descripcion": "Enfréntate a Azul en Ciudad Celeste.",
+        "tipo": "switch",
+        "requisitoSwitch": 70,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/18.jpg"
+      },
+      {
+        "id": "rival_pueblo_lavanda",
+        "nombre": "🔵 Rival en Pueblo Lavanda",
+        "descripcion": "Enfréntate a Azul en Pueblo Lavanda.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/17.jpg"
+      },
+      {
+        "id": "rival_silph",
+        "nombre": "🔵 Rival en Silph S.A.",
+        "descripcion": "Enfréntate a Azul en Silph S.A.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "medalla_alma",
+        "nombre": "☠️ Medalla Alma",
+        "descripcion": "Consigue la Medalla Alma.",
+        "tipo": "medalla",
+        "requisitoIndice": 4,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/8.jpg"
+      },
+      {
+        "id": "altura_del_desafio",
+        "nombre": "🍃 A la altura del desafío",
+        "descripcion": "Derrota a Hoja en uno de sus combates importantes.",
+        "tipo": "switch",
+        "requisitoSwitch": 73,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/19.jpg"
+      },
+      {
+        "id": "medalla_volcan",
+        "nombre": "🔥 Medalla Volcán",
+        "descripcion": "Consigue la Medalla Volcán.",
+        "tipo": "medalla",
+        "requisitoIndice": 5,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/10.jpg"
+      },
+      {
+        "id": "rescate_silph",
+        "nombre": "🏢 Rescate en Silph S.A.",
+        "descripcion": "Libera Silph S.A. del Team Rocket.",
+        "tipo": "switch",
+        "requisitoSwitch": 327,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/12.jpg"
+      },
+      {
+        "id": "el_jefe",
+        "nombre": "👑 El jefe",
+        "descripcion": "Enfréntate a Giovanni.",
+        "tipo": "switch",
+        "requisitoSwitch": 239,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/23.jpg"
+      },
+      {
+        "id": "medalla_tierra",
+        "nombre": "🌎 Medalla Tierra",
+        "descripcion": "Consigue la Medalla Tierra.",
+        "tipo": "medalla",
+        "requisitoIndice": 6,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/11.jpg"
+      },
+      {
+        "id": "fin_team_rocket",
+        "nombre": "🚀 El fin del Team Rocket",
+        "descripcion": "Derrota a Giovanni y acaba con sus planes.",
+        "tipo": "switch",
+        "requisitoSwitch": 240,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/21.jpg"
+      },
+      {
+        "id": "ultimo_gimnasio",
+        "nombre": "🥋 Último gimnasio",
+        "descripcion": "Consigue las 8 medallas de Kanto.",
+        "tipo": "todasMedallas",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/13.jpg"
+      },
+      {
+        "id": "camino_a_la_liga",
+        "nombre": "🗺️ Camino a la Liga",
+        "descripcion": "Llega a la Meseta Añil.",
+        "tipo": "switch",
+        "requisitoSwitch": 230,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/24.jpg"
+      },
+      {
+        "id": "campeon_de_kanto",
+        "nombre": "🏆 ¡Campeón de Kanto!",
+        "descripcion": "Derrota al Alto Mando y conviértete en Campeón.",
+        "tipo": "switch",
+        "requisitoSwitch": 248,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/26.jpg"
+      },
+      {
+        "id": "nueva_aventura_postgame",
+        "nombre": "🔥 Una nueva aventura",
+        "descripcion": "Desbloquea el contenido posterior a la Liga.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/44.jpg"
+      },
+      {
+        "id": "es_diferente",
+        "nombre": "✨ ¡Es diferente!",
+        "descripcion": "Captura tu primer Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 1,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/27.jpg"
+      },
+      {
+        "id": "tres_pajaros",
+        "nombre": "🦅 Los tres pájaros legendarios",
+        "descripcion": "Captura a Articuno, Zapdos y Moltres.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "ARTICUNO",
+          "ZAPDOS",
+          "MOLTRES"
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/32.jpg"
+      },
+      {
+        "id": "pokemon_creado",
+        "nombre": "🧬 El Pokémon creado",
+        "descripcion": "Captura a Mewtwo.",
+        "tipo": "pokedexEspecie",
+        "especie": "MEWTWO",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/35.jpg"
+      },
+      {
+        "id": "pokemon_singular",
+        "nombre": "🌸 El Pokémon singular",
+        "descripcion": "Consigue a Mew.",
+        "tipo": "pokedexEspecie",
+        "especie": "MEW",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/34.jpg"
+      },
+      {
+        "id": "mas_alla_de_kanto",
+        "nombre": "🏝️ Más allá de Kanto",
+        "descripcion": "Descubre todas las zonas principales disponibles después de la Liga.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "aprendiz_de_profesor",
+        "nombre": "📖 Aprendiz de Profesor",
+        "descripcion": "Registra 100 Pokémon en la Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 100,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/31.jpg"
+      },
+      {
+        "id": "investigador_pokemon",
+        "nombre": "📚 Investigador Pokémon",
+        "descripcion": "Registra 150 Pokémon en la Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 150,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/30.jpg"
+      },
+      {
+        "id": "maestro_de_kanto",
+        "nombre": "🔴 Maestro de Kanto",
+        "descripcion": "Completa la Pokédex de Kanto.",
+        "tipo": "pokedexOwned",
+        "requisito": 151,
+        "imagen": null
+      },
+      {
+        "id": "pokedex_completa",
+        "nombre": "🌎 Pokédex completa",
+        "descripcion": "Completa la Pokédex total de Pokémon Añil.",
+        "tipo": "pokedexOwned",
+        "requisito": 999,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/29.jpg"
+      },
+      {
+        "id": "coleccionista_legendario",
+        "nombre": "⭐ Coleccionista legendario",
+        "descripcion": "Captura todos los Pokémon legendarios disponibles.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "ARTICUNO",
+          "ZAPDOS",
+          "MOLTRES",
+          "MEWTWO",
+          "MEW"
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/33.jpg"
+      },
+      {
+        "id": "criador_pokemon",
+        "nombre": "🥚 Criador Pokémon",
+        "descripcion": "Obtén un Pokémon mediante crianza.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "entrenador_veterano",
+        "nombre": "💯 Entrenador veterano",
+        "descripcion": "Lleva un Pokémon al nivel 100.",
+        "tipo": "nivelMaximo",
+        "requisitoNivel": 100,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/38.jpg"
+      },
+      {
+        "id": "equipo_perfecto",
+        "nombre": "💎 Equipo perfecto",
+        "descripcion": "Forma un equipo de seis Pokémon al nivel 100.",
+        "tipo": "equipoNivelMinimo",
+        "requisitoNivel": 100,
+        "requisitoCantidad": 6,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/37.jpg"
+      },
+      {
+        "id": "rival_liga_pokemon",
+        "nombre": "🔵 Rival en la Liga Pokémon",
+        "descripcion": "Derrota a Azul en la Liga Pokémon.",
+        "tipo": "switch",
+        "requisitoSwitch": 234,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/16.jpg"
+      },
+      {
+        "id": "rematch",
+        "nombre": "🏅 Doble Campeón",
+        "descripcion": "Vencé a la Liga Pokémon (Alto Mando) dos veces.",
+        "tipo": "variable",
+        "requisitoVariable": 13,
+        "requisitoValor": 2,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/25.jpg"
+      },
+      {
+        "id": "coleccionista_de_kanto",
+        "nombre": "💰 Coleccionista de Kanto",
+        "descripcion": "Consigue una gran cantidad de dinero durante tu aventura.",
+        "tipo": "dineroMinimo",
+        "requisito": 100000,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/42.jpg"
+      },
+      {
+        "id": "explorador_incansable",
+        "nombre": "⚰️ El secreto del cementerio",
+        "descripcion": "Descubrí el objeto oculto del cementerio de la Ruta 8, tocando las tumbas correctas.",
+        "tipo": "switch",
+        "requisitoSwitch": 119,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/43.jpg"
+      },
+      {
+        "id": "cazador_cromatico",
+        "nombre": "✨ Cazador cromático",
+        "descripcion": "Captura 10 Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 10,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/28.jpg"
+      },
+      {
+        "id": "entrenador_implacable",
+        "nombre": "💀 Entrenador implacable",
+        "descripcion": "Completa la Liga sin que ningún Pokémon de tu equipo quede debilitado.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/41.jpg"
+      },
+      {
+        "id": "maestro_pokemon",
+        "nombre": "👑 Maestro Pokémon",
+        "descripcion": "Completa todo el contenido principal y los desafíos más importantes del postgame.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/45.jpg"
+      },
+      {
+        "id": "leyenda_de_kanto",
+        "nombre": "💎 LEYENDA DE KANTO",
+        "descripcion": "Desbloquea los otros 48 logros.",
+        "tipo": "todosLosDemas",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/46.jpg"
+      },
+      {
+        "id": "recupera_pikachu",
+        "nombre": "🐭 ¡Recupera el Pikachu!",
+        "descripcion": "Encontrá al Pikachu perdido del chico de Ciudad Plateada, en el Bosque Verde.",
+        "tipo": "switch",
+        "requisitoSwitch": 113,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/40.jpg"
+      },
+      {
+        "id": "evoluciones_eevee",
+        "nombre": "🦊 Eeveelucionario",
+        "descripcion": "Conseguí las 10 evoluciones de Eevee disponibles en Pokémon Añil.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "VAPOREON",
+          "JOLTEON",
+          "FLAREON",
+          "ESPEON",
+          "UMBREON",
+          "LEAFEON",
+          "GLACEON",
+          "SYLVEON",
+          "CEFIRON",
+          "ROYALEON"
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/36.jpg"
+      },
+      {
+        "id": "museo_team_rocket",
+        "nombre": "🔍 El ladrón del museo",
+        "descripcion": "Enfréntate al Team Rocket por primera vez, en el Museo de Ciudad Plateada.",
+        "tipo": "switch",
+        "requisitoSwitch": 71,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/20.jpg"
+      },
+      {
+        "id": "fuji_salvado",
+        "nombre": "🗼 Libertad para Pueblo Lavanda",
+        "descripcion": "Terminá la Torre Pokémon ayudando al Sr. Fuji.",
+        "tipo": "switch",
+        "requisitoSwitch": 104,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/39.jpg"
+      }
     ],
     "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/banner%20pokemon%20a%C3%B1il.jpg"
   },
@@ -85,16 +446,45 @@
     ],
     "descripcion": "Un fangame oscuro y complejo con una historia madura y un sistema de dificultad Intense.",
     "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
-    "categorias": ["RPG", "Aventura", "Fan Game"],
+    "categorias": [
+      "RPG",
+      "Aventura",
+      "Fan Game"
+    ],
     "tiempoEstimado": "30 - 50 horas",
     "desarrollador": "Rejuvenation Team",
     "lanzamiento": "2023",
     "logros": [
-      { "id": "primeros_pasos", "nombre": "Primeros pasos", "descripcion": "Jugá al menos 1 minuto", "requisitoMinutos": 1 },
-      { "id": "entrenador_camino", "nombre": "Entrenador en camino", "descripcion": "Acumulá 5 minutos jugados", "requisitoMinutos": 5 },
-      { "id": "explorador", "nombre": "Explorador", "descripcion": "Acumulá 15 minutos jugados", "requisitoMinutos": 15 },
-      { "id": "coleccionista", "nombre": "Coleccionista", "descripcion": "Acumulá 30 minutos jugados", "requisitoMinutos": 30 },
-      { "id": "veterano", "nombre": "Veterano", "descripcion": "Acumulá 60 minutos jugados", "requisitoMinutos": 60 }
+      {
+        "id": "primeros_pasos",
+        "nombre": "Primeros pasos",
+        "descripcion": "Jugá al menos 1 minuto",
+        "requisitoMinutos": 1
+      },
+      {
+        "id": "entrenador_camino",
+        "nombre": "Entrenador en camino",
+        "descripcion": "Acumulá 5 minutos jugados",
+        "requisitoMinutos": 5
+      },
+      {
+        "id": "explorador",
+        "nombre": "Explorador",
+        "descripcion": "Acumulá 15 minutos jugados",
+        "requisitoMinutos": 15
+      },
+      {
+        "id": "coleccionista",
+        "nombre": "Coleccionista",
+        "descripcion": "Acumulá 30 minutos jugados",
+        "requisitoMinutos": 30
+      },
+      {
+        "id": "veterano",
+        "nombre": "Veterano",
+        "descripcion": "Acumulá 60 minutos jugados",
+        "requisitoMinutos": 60
+      }
     ]
   },
   {
@@ -109,16 +499,44 @@
     ],
     "descripcion": "Introduce las Pokémon Delta, versiones alternativas de especies existentes, y una historia centrada en cultos.",
     "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
-    "categorias": ["RPG", "Aventura"],
+    "categorias": [
+      "RPG",
+      "Aventura"
+    ],
     "tiempoEstimado": "25 - 40 horas",
     "desarrollador": "Insurgence Team",
     "lanzamiento": "2015",
     "logros": [
-      { "id": "primeros_pasos", "nombre": "Primeros pasos", "descripcion": "Jugá al menos 1 minuto", "requisitoMinutos": 1 },
-      { "id": "entrenador_camino", "nombre": "Entrenador en camino", "descripcion": "Acumulá 5 minutos jugados", "requisitoMinutos": 5 },
-      { "id": "explorador", "nombre": "Explorador", "descripcion": "Acumulá 15 minutos jugados", "requisitoMinutos": 15 },
-      { "id": "coleccionista", "nombre": "Coleccionista", "descripcion": "Acumulá 30 minutos jugados", "requisitoMinutos": 30 },
-      { "id": "veterano", "nombre": "Veterano", "descripcion": "Acumulá 60 minutos jugados", "requisitoMinutos": 60 }
+      {
+        "id": "primeros_pasos",
+        "nombre": "Primeros pasos",
+        "descripcion": "Jugá al menos 1 minuto",
+        "requisitoMinutos": 1
+      },
+      {
+        "id": "entrenador_camino",
+        "nombre": "Entrenador en camino",
+        "descripcion": "Acumulá 5 minutos jugados",
+        "requisitoMinutos": 5
+      },
+      {
+        "id": "explorador",
+        "nombre": "Explorador",
+        "descripcion": "Acumulá 15 minutos jugados",
+        "requisitoMinutos": 15
+      },
+      {
+        "id": "coleccionista",
+        "nombre": "Coleccionista",
+        "descripcion": "Acumulá 30 minutos jugados",
+        "requisitoMinutos": 30
+      },
+      {
+        "id": "veterano",
+        "nombre": "Veterano",
+        "descripcion": "Acumulá 60 minutos jugados",
+        "requisitoMinutos": 60
+      }
     ]
   },
   {
@@ -133,16 +551,44 @@
     ],
     "descripcion": "Un fangame con más de 190 Pokémon fanmade y un nuevo tipo: Nuclear.",
     "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
-    "categorias": ["RPG", "Fan Game"],
+    "categorias": [
+      "RPG",
+      "Fan Game"
+    ],
     "tiempoEstimado": "20 - 30 horas",
     "desarrollador": "Uranium Team",
     "lanzamiento": "2016",
     "logros": [
-      { "id": "primeros_pasos", "nombre": "Primeros pasos", "descripcion": "Jugá al menos 1 minuto", "requisitoMinutos": 1 },
-      { "id": "entrenador_camino", "nombre": "Entrenador en camino", "descripcion": "Acumulá 5 minutos jugados", "requisitoMinutos": 5 },
-      { "id": "explorador", "nombre": "Explorador", "descripcion": "Acumulá 15 minutos jugados", "requisitoMinutos": 15 },
-      { "id": "coleccionista", "nombre": "Coleccionista", "descripcion": "Acumulá 30 minutos jugados", "requisitoMinutos": 30 },
-      { "id": "veterano", "nombre": "Veterano", "descripcion": "Acumulá 60 minutos jugados", "requisitoMinutos": 60 }
+      {
+        "id": "primeros_pasos",
+        "nombre": "Primeros pasos",
+        "descripcion": "Jugá al menos 1 minuto",
+        "requisitoMinutos": 1
+      },
+      {
+        "id": "entrenador_camino",
+        "nombre": "Entrenador en camino",
+        "descripcion": "Acumulá 5 minutos jugados",
+        "requisitoMinutos": 5
+      },
+      {
+        "id": "explorador",
+        "nombre": "Explorador",
+        "descripcion": "Acumulá 15 minutos jugados",
+        "requisitoMinutos": 15
+      },
+      {
+        "id": "coleccionista",
+        "nombre": "Coleccionista",
+        "descripcion": "Acumulá 30 minutos jugados",
+        "requisitoMinutos": 30
+      },
+      {
+        "id": "veterano",
+        "nombre": "Veterano",
+        "descripcion": "Acumulá 60 minutos jugados",
+        "requisitoMinutos": 60
+      }
     ]
   }
 ]
