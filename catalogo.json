@@ -30,7 +30,7 @@
         "nombre": "🌱 ¡Que comience la aventura!",
         "descripcion": "Recibe tu primer Pokémon.",
         "tipo": "primerPokemonReal",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/1.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/1.jpeg"
       },
       {
         "id": "primer_combate",
@@ -39,7 +39,7 @@
         "tipo": "variableExacta",
         "requisitoVariable": 1,
         "requisitoValorExacto": 1,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/3.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/3.jpeg"
       },
       {
         "id": "hazte_con_todos",
@@ -47,7 +47,7 @@
         "descripcion": "Captura tu primer Pokémon.",
         "tipo": "capturasReales",
         "requisito": 2,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/2.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/2.jpeg"
       },
       {
         "id": "medalla_roca",
@@ -55,7 +55,7 @@
         "descripcion": "Consigue la Medalla Roca.",
         "tipo": "medalla",
         "requisitoIndice": 0,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/4.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/4.jpeg"
       },
       {
         "id": "rival_ruta_22",
@@ -71,7 +71,7 @@
         "descripcion": "Consigue la Medalla Cascada.",
         "tipo": "medalla",
         "requisitoIndice": 1,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/5.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/5.jpeg"
       },
       {
         "id": "nueva_rivalidad",
@@ -79,7 +79,7 @@
         "descripcion": "Enfréntate a Hoja por primera vez.",
         "tipo": "switch",
         "requisitoSwitch": 68,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/14.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/14.jpeg"
       },
       {
         "id": "medalla_trueno",
@@ -87,7 +87,7 @@
         "descripcion": "Consigue la Medalla Trueno.",
         "tipo": "medalla",
         "requisitoIndice": 2,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/6.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/6.jpeg"
       },
       {
         "id": "team_rocket_primera_vez",
@@ -95,7 +95,7 @@
         "descripcion": "Enfréntate al Team Rocket por primera vez.",
         "tipo": "switch",
         "requisitoSwitch": 75,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/22.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/22.jpeg"
       },
       {
         "id": "medalla_arcoiris",
@@ -103,7 +103,7 @@
         "descripcion": "Consigue la Medalla Arcoíris.",
         "tipo": "medalla",
         "requisitoIndice": 3,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/7.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/7.jpeg"
       },
       {
         "id": "rival_ciudad_celeste",
@@ -111,14 +111,14 @@
         "descripcion": "Enfréntate a Azul en Ciudad Celeste.",
         "tipo": "switch",
         "requisitoSwitch": 70,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/18.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/18.jpeg"
       },
       {
         "id": "rival_pueblo_lavanda",
         "nombre": "🔵 Rival en Pueblo Lavanda",
         "descripcion": "Enfréntate a Azul en Pueblo Lavanda.",
         "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/17.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/17.jpeg"
       },
       {
         "id": "rival_silph",
@@ -133,7 +133,7 @@
         "descripcion": "Consigue la Medalla Alma.",
         "tipo": "medalla",
         "requisitoIndice": 4,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/8.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/8.jpeg"
       },
       {
         "id": "altura_del_desafio",
@@ -141,7 +141,7 @@
         "descripcion": "Derrota a Hoja en uno de sus combates importantes.",
         "tipo": "switch",
         "requisitoSwitch": 73,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/19.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/19.jpeg"
       },
       {
         "id": "medalla_volcan",
@@ -149,7 +149,7 @@
         "descripcion": "Consigue la Medalla Volcán.",
         "tipo": "medalla",
         "requisitoIndice": 5,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/10.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/10.jpeg"
       },
       {
         "id": "rescate_silph",
@@ -157,7 +157,7 @@
         "descripcion": "Libera Silph S.A. del Team Rocket.",
         "tipo": "switch",
         "requisitoSwitch": 327,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/12.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/12.jpeg"
       },
       {
         "id": "el_jefe",
@@ -165,7 +165,7 @@
         "descripcion": "Enfréntate a Giovanni.",
         "tipo": "switch",
         "requisitoSwitch": 239,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/23.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/23.jpeg"
       },
       {
         "id": "medalla_tierra",
@@ -173,7 +173,7 @@
         "descripcion": "Consigue la Medalla Tierra.",
         "tipo": "medalla",
         "requisitoIndice": 6,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/11.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/11.jpeg"
       },
       {
         "id": "fin_team_rocket",
@@ -181,14 +181,14 @@
         "descripcion": "Derrota a Giovanni y acaba con sus planes.",
         "tipo": "switch",
         "requisitoSwitch": 240,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/21.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/21.jpeg"
       },
       {
         "id": "ultimo_gimnasio",
         "nombre": "🥋 Último gimnasio",
         "descripcion": "Consigue las 8 medallas de Kanto.",
         "tipo": "todasMedallas",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/13.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/13.jpeg"
       },
       {
         "id": "camino_a_la_liga",
@@ -196,7 +196,7 @@
         "descripcion": "Llega a la Meseta Añil.",
         "tipo": "switch",
         "requisitoSwitch": 230,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/24.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/24.jpeg"
       },
       {
         "id": "campeon_de_kanto",
@@ -204,14 +204,14 @@
         "descripcion": "Derrota al Alto Mando y conviértete en Campeón.",
         "tipo": "switch",
         "requisitoSwitch": 248,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/26.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/26.jpeg"
       },
       {
         "id": "nueva_aventura_postgame",
         "nombre": "🔥 Una nueva aventura",
         "descripcion": "Desbloquea el contenido posterior a la Liga.",
         "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/44.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/44.jpeg"
       },
       {
         "id": "es_diferente",
@@ -219,7 +219,7 @@
         "descripcion": "Captura tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/27.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/27.jpeg"
       },
       {
         "id": "tres_pajaros",
@@ -231,7 +231,7 @@
           "ZAPDOS",
           "MOLTRES"
         ],
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/32.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/32.jpeg"
       },
       {
         "id": "pokemon_creado",
@@ -239,7 +239,7 @@
         "descripcion": "Captura a Mewtwo.",
         "tipo": "pokedexEspecie",
         "especie": "MEWTWO",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/35.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/35.jpeg"
       },
       {
         "id": "pokemon_singular",
@@ -247,7 +247,7 @@
         "descripcion": "Consigue a Mew.",
         "tipo": "pokedexEspecie",
         "especie": "MEW",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/34.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/34.jpeg"
       },
       {
         "id": "mas_alla_de_kanto",
@@ -262,7 +262,7 @@
         "descripcion": "Registra 100 Pokémon en la Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 100,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/31.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/31.jpeg"
       },
       {
         "id": "investigador_pokemon",
@@ -270,7 +270,7 @@
         "descripcion": "Registra 150 Pokémon en la Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 150,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/30.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/30.jpeg"
       },
       {
         "id": "maestro_de_kanto",
@@ -286,7 +286,7 @@
         "descripcion": "Completa la Pokédex total de Pokémon Añil.",
         "tipo": "pokedexOwned",
         "requisito": 999,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/29.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/29.jpeg"
       },
       {
         "id": "coleccionista_legendario",
@@ -300,7 +300,7 @@
           "MEWTWO",
           "MEW"
         ],
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/33.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/33.jpeg"
       },
       {
         "id": "criador_pokemon",
@@ -315,7 +315,7 @@
         "descripcion": "Lleva un Pokémon al nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/38.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/38.jpeg"
       },
       {
         "id": "equipo_perfecto",
@@ -324,7 +324,7 @@
         "tipo": "equipoNivelMinimo",
         "requisitoNivel": 100,
         "requisitoCantidad": 6,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/37.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/37.jpeg"
       },
       {
         "id": "rival_liga_pokemon",
@@ -332,7 +332,7 @@
         "descripcion": "Derrota a Azul en la Liga Pokémon.",
         "tipo": "switch",
         "requisitoSwitch": 234,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/16.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/16.jpeg"
       },
       {
         "id": "rematch",
@@ -341,7 +341,7 @@
         "tipo": "variable",
         "requisitoVariable": 13,
         "requisitoValor": 2,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/25.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/25.jpeg"
       },
       {
         "id": "coleccionista_de_kanto",
@@ -349,7 +349,7 @@
         "descripcion": "Consigue una gran cantidad de dinero durante tu aventura.",
         "tipo": "dineroMinimo",
         "requisito": 100000,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/42.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/42.jpeg"
       },
       {
         "id": "explorador_incansable",
@@ -357,7 +357,7 @@
         "descripcion": "Descubrí el objeto oculto del cementerio de la Ruta 8, tocando las tumbas correctas.",
         "tipo": "switch",
         "requisitoSwitch": 119,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/43.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/43.jpeg"
       },
       {
         "id": "cazador_cromatico",
@@ -365,28 +365,28 @@
         "descripcion": "Captura 10 Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 10,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/28.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/28.jpeg"
       },
       {
         "id": "entrenador_implacable",
         "nombre": "💀 Entrenador implacable",
         "descripcion": "Completa la Liga sin que ningún Pokémon de tu equipo quede debilitado.",
         "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/41.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/41.jpeg"
       },
       {
         "id": "maestro_pokemon",
         "nombre": "👑 Maestro Pokémon",
         "descripcion": "Completa todo el contenido principal y los desafíos más importantes del postgame.",
         "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/45.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/45.jpeg"
       },
       {
         "id": "leyenda_de_kanto",
         "nombre": "💎 LEYENDA DE KANTO",
         "descripcion": "Desbloquea los otros 48 logros.",
         "tipo": "todosLosDemas",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/46.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/46.jpeg"
       },
       {
         "id": "recupera_pikachu",
@@ -394,7 +394,7 @@
         "descripcion": "Encontrá al Pikachu perdido del chico de Ciudad Plateada, en el Bosque Verde.",
         "tipo": "switch",
         "requisitoSwitch": 113,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/40.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/40.jpeg"
       },
       {
         "id": "evoluciones_eevee",
@@ -413,7 +413,7 @@
           "CEFIRON",
           "ROYALEON"
         ],
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/36.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/36.jpeg"
       },
       {
         "id": "museo_team_rocket",
@@ -421,7 +421,7 @@
         "descripcion": "Enfréntate al Team Rocket por primera vez, en el Museo de Ciudad Plateada.",
         "tipo": "switch",
         "requisitoSwitch": 71,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/20.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/20.jpeg"
       },
       {
         "id": "fuji_salvado",
@@ -429,7 +429,7 @@
         "descripcion": "Terminá la Torre Pokémon ayudando al Sr. Fuji.",
         "tipo": "switch",
         "requisitoSwitch": 104,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/39.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/39.jpeg"
       }
     ],
     "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/banner%20pokemon%20a%C3%B1il.jpg"
