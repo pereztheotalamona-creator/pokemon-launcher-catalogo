@@ -54,9 +54,9 @@
         "requisitoIndice": 0
       },
       {
-        "id": "viejo_rival",
-        "nombre": "🔵 Viejo rival",
-        "descripcion": "Enfréntate a Azul por primera vez.",
+        "id": "rival_ruta_22",
+        "nombre": "🔵 Rival en la Ruta 22",
+        "descripcion": "Enfréntate a Azul por primera vez, en la Ruta 22.",
         "tipo": "switch",
         "requisitoSwitch": 66
       },
@@ -96,11 +96,23 @@
         "requisitoIndice": 3
       },
       {
-        "id": "rivalidad_renovada",
-        "nombre": "🔵 Rivalidad renovada",
-        "descripcion": "Vuelve a enfrentarte a Azul y consigue la victoria.",
+        "id": "rival_ciudad_celeste",
+        "nombre": "🔵 Rival en Ciudad Celeste",
+        "descripcion": "Enfréntate a Azul en Ciudad Celeste.",
         "tipo": "switch",
         "requisitoSwitch": 70
+      },
+      {
+        "id": "rival_pueblo_lavanda",
+        "nombre": "🔵 Rival en Pueblo Lavanda",
+        "descripcion": "Enfréntate a Azul en Pueblo Lavanda.",
+        "tipo": "pendienteDiagnostico"
+      },
+      {
+        "id": "rival_silph",
+        "nombre": "🔵 Rival en Silph S.A.",
+        "descripcion": "Enfréntate a Azul en Silph S.A.",
+        "tipo": "pendienteDiagnostico"
       },
       {
         "id": "medalla_alma",
@@ -278,9 +290,9 @@
         "requisitoCantidad": 6
       },
       {
-        "id": "rival_definitivo",
-        "nombre": "🔵 El rival definitivo",
-        "descripcion": "Derrota a Azul en su enfrentamiento más difícil.",
+        "id": "rival_liga_pokemon",
+        "nombre": "🔵 Rival en la Liga Pokémon",
+        "descripcion": "Derrota a Azul en la Liga Pokémon.",
         "tipo": "switch",
         "requisitoSwitch": 234
       },
@@ -328,7 +340,7 @@
       {
         "id": "leyenda_de_kanto",
         "nombre": "💎 LEYENDA DE KANTO",
-        "descripcion": "Desbloquea los otros 44 logros.",
+        "descripcion": "Desbloquea los otros 48 logros.",
         "tipo": "todosLosDemas"
       },
       {
