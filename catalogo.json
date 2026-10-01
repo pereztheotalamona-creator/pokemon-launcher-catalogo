@@ -638,8 +638,16 @@
   {
     "id": 6,
     "nombre": "Pokémon Ópalo",
-    "portada": "",
-    "capturas": [],
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-logo.png",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-preview-5.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-preview-6.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-preview-7.png"
+    ],
     "idiomas": [
       "Español"
     ],
