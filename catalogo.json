@@ -636,87 +636,87 @@
     "logros": [
       {
         "id": "aventura_comienza",
-        "nombre": "🌱 ¡Que comience la aventura!",
-        "descripcion": "Recibe tu primer Pokémon.",
+        "nombre": "🕯️ Despierta, aventurero",
+        "descripcion": "Recibe a tu primer compañero Pokémon.",
         "tipo": "primerPokemonReal",
         "imagen": null
       },
       {
         "id": "hazte_con_todos",
-        "nombre": "🎒 ¡Hazte con todos!",
-        "descripcion": "Captura tu primer Pokémon.",
+        "nombre": "🪢 Primer lazo",
+        "descripcion": "Captura a tu primer Pokémon salvaje.",
         "tipo": "capturasReales",
         "requisito": 2,
         "imagen": null
       },
       {
         "id": "primer_rival",
-        "nombre": "⚔️ Primer combate rival",
-        "descripcion": "Enfréntate a tu rival por primera vez.",
+        "nombre": "🗡️ Chispa de rivalidad",
+        "descripcion": "Cruza tu primer combate con tu rival.",
         "tipo": "switch",
         "requisitoSwitch": 70,
         "imagen": null
       },
       {
         "id": "primer_combate_melia",
-        "nombre": "🌸 Primer combate con Melia",
-        "descripcion": "Enfréntate a Melia por primera vez.",
+        "nombre": "🌷 El pulso de Melia",
+        "descripcion": "Mide tus fuerzas con Melia por primera vez.",
         "tipo": "switch",
         "requisitoSwitch": 73,
         "imagen": null
       },
       {
         "id": "furfrou_encontrado",
-        "nombre": "🐩 Un amigo perdido",
-        "descripcion": "Encuentra al Furfrou desaparecido.",
+        "nombre": "🐾 Rastro de pelaje",
+        "descripcion": "Encuentra al Furfrou extraviado.",
         "tipo": "switch",
         "requisitoSwitch": 77,
         "imagen": null
       },
       {
         "id": "team_azoth",
-        "nombre": "🕶️ Team Azoth",
-        "descripcion": "Descubre al Team Azoth.",
+        "nombre": "🕶️ Sombras de Azoth",
+        "descripcion": "Descubre la existencia del Team Azoth.",
         "tipo": "switch",
         "requisitoSwitch": 78,
         "imagen": null
       },
       {
         "id": "medalla_1",
-        "nombre": "🏅 1ª medalla",
-        "descripcion": "Consigue la 1ª medalla de Kalos.",
+        "nombre": "🛡️ Primer blasón",
+        "descripcion": "Conquista el primer gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 88,
         "imagen": null
       },
       {
         "id": "medalla_2",
-        "nombre": "🏅 2ª medalla",
-        "descripcion": "Consigue la 2ª medalla de Kalos.",
+        "nombre": "🛡️ Segundo blasón",
+        "descripcion": "Conquista el segundo gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 97,
         "imagen": null
       },
       {
         "id": "medalla_3",
-        "nombre": "🏅 3ª medalla",
-        "descripcion": "Consigue la 3ª medalla de Kalos.",
+        "nombre": "🛡️ Tercer blasón",
+        "descripcion": "Conquista el tercer gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 150,
         "imagen": null
       },
       {
         "id": "medalla_4",
-        "nombre": "🏅 4ª medalla",
-        "descripcion": "Consigue la 4ª medalla de Kalos.",
+        "nombre": "🛡️ Cuarto blasón",
+        "descripcion": "Conquista el cuarto gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 211,
         "imagen": null
       },
       {
         "id": "medalla_5",
-        "nombre": "🏅 5ª medalla",
-        "descripcion": "Consigue la 5ª medalla de Kalos.",
+        "nombre": "🛡️ Quinto blasón",
+        "descripcion": "Conquista el quinto gimnasio de Kalos.",
         "tipo": "switchAlguno",
         "requisitoSwitches": [
           326,
@@ -726,8 +726,8 @@
       },
       {
         "id": "medalla_6",
-        "nombre": "🏅 6ª medalla",
-        "descripcion": "Consigue la 6ª medalla de Kalos.",
+        "nombre": "🛡️ Sexto blasón",
+        "descripcion": "Conquista el sexto gimnasio de Kalos.",
         "tipo": "switchAlguno",
         "requisitoSwitches": [
           360,
@@ -737,8 +737,8 @@
       },
       {
         "id": "medalla_7",
-        "nombre": "🏅 7ª medalla",
-        "descripcion": "Consigue la 7ª medalla de Kalos.",
+        "nombre": "🛡️ Séptimo blasón",
+        "descripcion": "Conquista el séptimo gimnasio de Kalos.",
         "tipo": "switchAlguno",
         "requisitoSwitches": [
           470,
@@ -748,8 +748,8 @@
       },
       {
         "id": "medalla_8",
-        "nombre": "🏅 8ª medalla",
-        "descripcion": "Consigue la 8ª medalla de Kalos.",
+        "nombre": "🛡️ Octavo blasón",
+        "descripcion": "Conquista el octavo gimnasio de Kalos.",
         "tipo": "switchAlguno",
         "requisitoSwitches": [
           493,
@@ -759,8 +759,8 @@
       },
       {
         "id": "medalla_9",
-        "nombre": "🏅 9ª medalla",
-        "descripcion": "Consigue la 9ª medalla de Kalos.",
+        "nombre": "🛡️ Noveno blasón",
+        "descripcion": "Conquista el noveno gimnasio de Kalos.",
         "tipo": "switchAlguno",
         "requisitoSwitches": [
           559,
@@ -770,8 +770,8 @@
       },
       {
         "id": "medalla_10",
-        "nombre": "🏅 10ª medalla",
-        "descripcion": "Consigue la 10ª medalla de Kalos.",
+        "nombre": "🛡️ Décimo blasón",
+        "descripcion": "Conquista el décimo gimnasio de Kalos.",
         "tipo": "switchAlguno",
         "requisitoSwitches": [
           596,
@@ -781,24 +781,24 @@
       },
       {
         "id": "medalla_11",
-        "nombre": "🏅 11ª medalla",
-        "descripcion": "Consigue la 11ª medalla de Kalos.",
+        "nombre": "🛡️ Undécimo blasón",
+        "descripcion": "Conquista el undécimo gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 507,
         "imagen": null
       },
       {
         "id": "medalla_12",
-        "nombre": "🏅 12ª medalla",
-        "descripcion": "Consigue la 12ª medalla de Kalos.",
+        "nombre": "🛡️ Duodécimo blasón",
+        "descripcion": "Conquista el duodécimo gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 508,
         "imagen": null
       },
       {
         "id": "todas_medallas",
-        "nombre": "🥋 Último gimnasio",
-        "descripcion": "Consigue las 12 medallas.",
+        "nombre": "⚜️ Doce blasones",
+        "descripcion": "Reúne los doce blasones de gimnasio.",
         "tipo": "switchAlguno",
         "requisitoSwitches": [
           508,
@@ -808,15 +808,15 @@
       },
       {
         "id": "nubila_vencida",
-        "nombre": "☁️ Cielos despejados",
-        "descripcion": "Vence a Nubila.",
+        "nombre": "🌤️ Se rasgan las nubes",
+        "descripcion": "Derrota a Nubila.",
         "tipo": "switch",
         "requisitoSwitch": 167,
         "imagen": null
       },
       {
         "id": "lanto_vencido",
-        "nombre": "🏰 Fin del Chateau Lanto",
+        "nombre": "🏰 Caen los muros de Lanto",
         "descripcion": "Supera el Chateau Lanto.",
         "tipo": "switch",
         "requisitoSwitch": 169,
@@ -824,23 +824,23 @@
       },
       {
         "id": "rey_acertijo",
-        "nombre": "🧩 Rey de los acertijos",
-        "descripcion": "Vence al Rey del Acertijo.",
+        "nombre": "🗝️ Acertijo resuelto",
+        "descripcion": "Derrota al Rey del Acertijo.",
         "tipo": "switch",
         "requisitoSwitch": 232,
         "imagen": null
       },
       {
         "id": "restaurante",
-        "nombre": "🍽️ Servicio completado",
-        "descripcion": "Supera el reto del restaurante.",
+        "nombre": "🥂 Cena de gala",
+        "descripcion": "Supera el reto del restaurante Le Chonk.",
         "tipo": "switch",
         "requisitoSwitch": 263,
         "imagen": null
       },
       {
         "id": "hospicio_salvado",
-        "nombre": "🕯️ Luz en el hospicio",
+        "nombre": "🔥 Llama del hospicio",
         "descripcion": "Salva el hospicio.",
         "tipo": "switch",
         "requisitoSwitch": 350,
@@ -848,31 +848,39 @@
       },
       {
         "id": "hombre_saco",
-        "nombre": "🌙 Pesadilla superada",
-        "descripcion": "Vence al Hombre del Saco.",
+        "nombre": "🪡 Fin de la nana oscura",
+        "descripcion": "Derrota al Hombre del Saco.",
         "tipo": "switch",
         "requisitoSwitch": 465,
         "imagen": null
       },
       {
+        "id": "pesadilla_circo",
+        "nombre": "🎪 Telón de pesadilla",
+        "descripcion": "Libera a Yveltal en la Pesadilla del Circo.",
+        "tipo": "switch",
+        "requisitoSwitch": 735,
+        "imagen": null
+      },
+      {
         "id": "clon_vencido",
-        "nombre": "🪞 El otro yo",
-        "descripcion": "Vence al clon.",
+        "nombre": "🪞 Reflejo roto",
+        "descripcion": "Derrota a tu propio clon.",
         "tipo": "switch",
         "requisitoSwitch": 474,
         "imagen": null
       },
       {
         "id": "aure_vencido",
-        "nombre": "⚔️ Duelo en la forja",
-        "descripcion": "Vence a Aure.",
+        "nombre": "🔨 Yunque y brasa",
+        "descripcion": "Vence a Aure en la forja.",
         "tipo": "switch",
         "requisitoSwitch": 552,
         "imagen": null
       },
       {
         "id": "lysson_vencido",
-        "nombre": "🔧 El arma de Lysson",
+        "nombre": "⚙️ Ingenio quebrado",
         "descripcion": "Vence a Lysson.",
         "tipo": "switch",
         "requisitoSwitch": 730,
@@ -880,71 +888,116 @@
       },
       {
         "id": "batalla_kalos_este",
-        "nombre": "🛡️ La batalla de Kalos Este",
-        "descripcion": "Termina la gran batalla de Kalos Este.",
+        "nombre": "⚔️ Estandarte de Kalos Este",
+        "descripcion": "Sobrevive a la gran batalla de Kalos Este.",
         "tipo": "switch",
         "requisitoSwitch": 618,
         "imagen": null
       },
       {
         "id": "zygarde_terminado",
-        "nombre": "🐍 Orden y equilibrio",
-        "descripcion": "Termina el episodio de Zygarde.",
+        "nombre": "🌿 Pulso del orden",
+        "descripcion": "Cierra el episodio de Zygarde.",
         "tipo": "switch",
         "requisitoSwitch": 721,
         "imagen": null
       },
       {
         "id": "xerneas_terminado",
-        "nombre": "🦌 La vida de Xerneas",
-        "descripcion": "Termina el episodio de Xerneas.",
+        "nombre": "🌳 Aliento de la vida",
+        "descripcion": "Cierra el episodio de Xerneas.",
         "tipo": "switch",
         "requisitoSwitch": 732,
         "imagen": null
       },
       {
         "id": "yveltal_terminado",
-        "nombre": "🦅 La destrucción de Yveltal",
-        "descripcion": "Termina el episodio de Yveltal.",
+        "nombre": "🦇 Ocaso de la destrucción",
+        "descripcion": "Cierra el episodio de Yveltal.",
         "tipo": "switch",
         "requisitoSwitch": 733,
         "imagen": null
       },
       {
         "id": "az_vencido",
-        "nombre": "👑 El rey AZ",
-        "descripcion": "Vence a AZ en el combate final.",
+        "nombre": "👑 Rey sin tiempo",
+        "descripcion": "Derrota a AZ en el combate final.",
         "tipo": "switch",
         "requisitoSwitch": 424,
         "imagen": null
       },
       {
         "id": "arma_culminada",
-        "nombre": "💥 El arma definitiva",
-        "descripcion": "Culmina la historia del arma definitiva.",
+        "nombre": "☄️ Ceniza del arma",
+        "descripcion": "Pon fin a la historia del arma definitiva.",
         "tipo": "switch",
         "requisitoSwitch": 758,
         "imagen": null
       },
       {
         "id": "balneario",
-        "nombre": "♨️ Días de balneario",
+        "nombre": "🛁 Descanso del guerrero",
         "descripcion": "Completa la aventura del balneario.",
         "tipo": "switch",
         "requisitoSwitch": 784,
         "imagen": null
       },
       {
+        "id": "camara_tileo",
+        "nombre": "🔮 Espejo de Tileo",
+        "descripcion": "Supera la cámara de Tileo en la Liga.",
+        "tipo": "switch",
+        "requisitoSwitch": 414,
+        "imagen": null
+      },
+      {
+        "id": "camara_dracena",
+        "nombre": "🐲 Cenizas de Dracena",
+        "descripcion": "Supera la cámara de Dracena en la Liga.",
+        "tipo": "switch",
+        "requisitoSwitch": 415,
+        "imagen": null
+      },
+      {
+        "id": "camara_narciso",
+        "nombre": "🌼 Pétalos de Narciso",
+        "descripcion": "Supera la cámara de Narciso en la Liga.",
+        "tipo": "switch",
+        "requisitoSwitch": 416,
+        "imagen": null
+      },
+      {
+        "id": "camara_malva",
+        "nombre": "🌹 Espina de Malva",
+        "descripcion": "Supera la cámara de Malva en la Liga.",
+        "tipo": "switch",
+        "requisitoSwitch": 417,
+        "imagen": null
+      },
+      {
+        "id": "alto_mando_completo",
+        "nombre": "🏛️ Cuatro cámaras, un camino",
+        "descripcion": "Supera las cuatro cámaras de la Liga.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          414,
+          415,
+          416,
+          417
+        ],
+        "imagen": null
+      },
+      {
         "id": "liga_pasada",
-        "nombre": "🏆 ¡Campeón de la Liga!",
-        "descripcion": "Supera la Liga Pokémon.",
+        "nombre": "🏆 Corona de la Liga",
+        "descripcion": "Supera la Liga Pokémon de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 805,
         "imagen": null
       },
       {
         "id": "juego_pasado",
-        "nombre": "🌟 Historia completada",
+        "nombre": "📜 Fin del relato",
         "descripcion": "Termina la historia principal de Pokémon Z.",
         "tipo": "switch",
         "requisitoSwitch": 800,
@@ -952,7 +1005,7 @@
       },
       {
         "id": "revancha_melia",
-        "nombre": "🌸 Revancha con Melia",
+        "nombre": "🌷 Segundo pulso con Melia",
         "descripcion": "Disputa la revancha contra Melia.",
         "tipo": "switch",
         "requisitoSwitch": 803,
@@ -960,7 +1013,7 @@
       },
       {
         "id": "revancha_crisanto",
-        "nombre": "⚔️ Revancha con Crisanto",
+        "nombre": "🗡️ Deuda con Crisanto",
         "descripcion": "Disputa la revancha contra Crisanto.",
         "tipo": "switch",
         "requisitoSwitch": 823,
@@ -968,31 +1021,31 @@
       },
       {
         "id": "aprendiz_pokedex",
-        "nombre": "📖 Aprendiz de Profesor",
-        "descripcion": "Registra 100 Pokémon en la Pokédex.",
+        "nombre": "📓 Cuaderno de campo",
+        "descripcion": "Registra 100 especies en tu Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 100,
         "imagen": null
       },
       {
         "id": "investigador_pokedex",
-        "nombre": "📚 Investigador Pokémon",
-        "descripcion": "Registra 250 Pokémon en la Pokédex.",
+        "nombre": "🗺️ Cartógrafo de especies",
+        "descripcion": "Registra 250 especies en tu Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 250,
         "imagen": null
       },
       {
         "id": "erudito_pokedex",
-        "nombre": "🧠 Erudito Pokémon",
-        "descripcion": "Registra 500 Pokémon en la Pokédex.",
+        "nombre": "🏺 Archivista de Kalos",
+        "descripcion": "Registra 500 especies en tu Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 500,
         "imagen": null
       },
       {
         "id": "pokedex_completa",
-        "nombre": "🌎 Pokédex completa",
+        "nombre": "📚 Crónica viviente",
         "descripcion": "Completa la Pokédex de Pokémon Z.",
         "tipo": "switchAlguno",
         "requisitoSwitches": [
@@ -1002,23 +1055,23 @@
       },
       {
         "id": "es_diferente",
-        "nombre": "✨ ¡Es diferente!",
-        "descripcion": "Captura tu primer Pokémon variocolor.",
+        "nombre": "💫 Destello raro",
+        "descripcion": "Consigue tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
         "imagen": null
       },
       {
         "id": "cazador_cromatico",
-        "nombre": "✨ Cazador cromático",
-        "descripcion": "Ten 10 Pokémon variocolor.",
+        "nombre": "🌠 Cazador de destellos",
+        "descripcion": "Reúne 10 Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 10,
         "imagen": null
       },
       {
         "id": "regis",
-        "nombre": "🧱 Los tres Regis",
+        "nombre": "🗿 Tríada de piedra",
         "descripcion": "Consigue a Regirock, Regice y Registeel.",
         "tipo": "pokedexEspecies",
         "especies": [
@@ -1026,11 +1079,16 @@
           "378",
           "379"
         ],
+        "especiesNombres": [
+          "REGIROCK",
+          "REGICE",
+          "REGISTEEL"
+        ],
         "imagen": null
       },
       {
         "id": "lagos",
-        "nombre": "💠 Espíritus del lago",
+        "nombre": "🪷 Voluntades del lago",
         "descripcion": "Consigue a Uxie, Mesprit y Azelf.",
         "tipo": "pokedexEspecies",
         "especies": [
@@ -1038,11 +1096,16 @@
           "481",
           "482"
         ],
+        "especiesNombres": [
+          "UXIE",
+          "MESPRIT",
+          "AZELF"
+        ],
         "imagen": null
       },
       {
         "id": "tapus",
-        "nombre": "🌺 Guardianes de la isla",
+        "nombre": "🏝️ Custodios de Montesanto",
         "descripcion": "Consigue a Tapu Koko, Tapu Lele, Tapu Bulu y Tapu Fini.",
         "tipo": "pokedexEspecies",
         "especies": [
@@ -1051,11 +1114,17 @@
           "787",
           "788"
         ],
+        "especiesNombres": [
+          "TAPUKOKO",
+          "TAPULELE",
+          "TAPUBULU",
+          "TAPUFINI"
+        ],
         "imagen": null
       },
       {
         "id": "trio_kalos",
-        "nombre": "🌌 Trío de Kalos",
+        "nombre": "🌌 Tres destinos de Kalos",
         "descripcion": "Consigue a Xerneas, Yveltal y Zygarde.",
         "tipo": "pokedexEspecies",
         "especies": [
@@ -1063,27 +1132,51 @@
           "717",
           "718"
         ],
+        "especiesNombres": [
+          "XERNEAS",
+          "YVELTAL",
+          "ZYGARDE"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "mision_tres_legendarios",
+        "nombre": "🤝 Pacto de los tres",
+        "descripcion": "Completa la misión de los tres legendarios de Kalos.",
+        "tipo": "switch",
+        "requisitoSwitch": 622,
         "imagen": null
       },
       {
         "id": "mewtwo",
-        "nombre": "🧬 El Pokémon creado",
+        "nombre": "🧪 Obra prohibida",
         "descripcion": "Consigue a Mewtwo.",
         "tipo": "pokedexEspecie",
         "especie": "150",
+        "especieNombre": "MEWTWO",
+        "imagen": null
+      },
+      {
+        "id": "mew",
+        "nombre": "🌸 Susurro ancestral",
+        "descripcion": "Consigue a Mew.",
+        "tipo": "pokedexEspecie",
+        "especie": "151",
+        "especieNombre": "MEW",
         "imagen": null
       },
       {
         "id": "arceus",
-        "nombre": "🔱 El origen de todo",
+        "nombre": "🔱 Voz del origen",
         "descripcion": "Consigue a Arceus.",
         "tipo": "pokedexEspecie",
         "especie": "493",
+        "especieNombre": "ARCEUS",
         "imagen": null
       },
       {
         "id": "eeveelucionario",
-        "nombre": "🦊 Eeveelucionario",
+        "nombre": "🦊 Ocho caminos",
         "descripcion": "Consigue las 8 evoluciones de Eevee.",
         "tipo": "pokedexEspecies",
         "especies": [
@@ -1096,20 +1189,30 @@
           "471",
           "700"
         ],
+        "especiesNombres": [
+          "VAPOREON",
+          "JOLTEON",
+          "FLAREON",
+          "ESPEON",
+          "UMBREON",
+          "LEAFEON",
+          "GLACEON",
+          "SYLVEON"
+        ],
         "imagen": null
       },
       {
         "id": "entrenador_veterano",
-        "nombre": "💯 Entrenador veterano",
-        "descripcion": "Lleva un Pokémon al nivel 100.",
+        "nombre": "🔝 Nivel cumbre",
+        "descripcion": "Lleva a un Pokémon hasta el nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
         "imagen": null
       },
       {
         "id": "equipo_perfecto",
-        "nombre": "💎 Equipo perfecto",
-        "descripcion": "Forma un equipo de seis Pokémon al nivel 100.",
+        "nombre": "🛡️ Escuadra impecable",
+        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
         "tipo": "equipoNivelMinimo",
         "requisitoNivel": 100,
         "requisitoCantidad": 6,
@@ -1117,15 +1220,15 @@
       },
       {
         "id": "magnate",
-        "nombre": "💰 Magnate de Kalos",
-        "descripcion": "Consigue una gran cantidad de dinero.",
+        "nombre": "🪙 Cofre de la corona",
+        "descripcion": "Reúne una gran fortuna durante tu viaje.",
         "tipo": "dineroMinimo",
         "requisito": 100000,
         "imagen": null
       },
       {
         "id": "leyenda_de_kalos",
-        "nombre": "💎 LEYENDA DE KALOS",
+        "nombre": "🌟 CRÓNICA DE KALOS",
         "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
         "imagen": null
