@@ -602,6 +602,7 @@
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-preview-5.png",
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-preview-6.png"
     ],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-banner.jpg",
     "destacado": true,
     "idiomas": [
       "Español"
@@ -623,6 +624,7 @@
       "Existen versiones en inglés y otros idiomas, además de la española."
     ],
     "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/z-v2.18/POKEMON.Z.V2.18.zip",
+    "carpetaGuardadoAppData": "Pokemon Z",
     "categorias": [
       "Fan Game",
       "RPG",
