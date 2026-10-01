@@ -593,8 +593,15 @@
   {
     "id": 5,
     "nombre": "Pokémon Z",
-    "portada": "",
-    "capturas": [],
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-logo.png",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-preview-5.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-preview-6.png"
+    ],
     "destacado": true,
     "idiomas": [
       "Español"
@@ -615,7 +622,7 @@
       "Del mismo creador que Pokémon Añil y Pokémon Ópalo.",
       "Existen versiones en inglés y otros idiomas, además de la española."
     ],
-    "urlDescarga": "",
+    "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/z-v2.18/POKEMON.Z.V2.18.zip",
     "categorias": [
       "Fan Game",
       "RPG",
