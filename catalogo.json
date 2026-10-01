@@ -589,5 +589,109 @@
         "requisitoMinutos": 60
       }
     ]
+  },
+  {
+    "id": 5,
+    "nombre": "Pokémon Z",
+    "portada": "",
+    "capturas": [],
+    "destacado": true,
+    "idiomas": [
+      "Español"
+    ],
+    "version": "2.18",
+    "resumen": "Un viaje a la antigua Kalos, 300 años antes de X/Y: gran guerra, arma definitiva, 12 gimnasios y todos los Pokémon hasta la 9.ª generación.",
+    "descripcion": "Pokémon Z es un fangame completo de EricLostie, el creador de Pokémon Añil y Pokémon Ópalo. La aventura te lleva a Kalos unos 300 años antes de los hechos de X/Y, en plena gran guerra, con el arma definitiva y el rey Aster Zephyr de por medio.\n\nRecorrés una región reconstruida con personajes, rivales y villanos propios, 12 gimnasios y Liga Pokémon, y mucho contenido extra después de terminar la historia. Está hecho con RPG Maker XP y Pokémon Essentials.",
+    "caracteristicas": [
+      "12 gimnasios, Liga Pokémon y contenido posgame",
+      "Todos los Pokémon hasta la 9.ª generación, con sprites animados y formas Z propias",
+      "Tus Pokémon te siguen por el mapa",
+      "Reconstrucción de aldea y crafteo de objetos",
+      "Gráficos de 5.ª generación y banda sonora original"
+    ],
+    "importante": [
+      "Es un juego gratuito y sin fines de lucro: si alguien lo vende, no está autorizado.",
+      "Funciona en PC (Windows) sin emulador.",
+      "Del mismo creador que Pokémon Añil y Pokémon Ópalo.",
+      "Existen versiones en inglés y otros idiomas, además de la española."
+    ],
+    "urlDescarga": "",
+    "categorias": [
+      "Fan Game",
+      "RPG",
+      "Aventura"
+    ],
+    "tiempoEstimado": "40+ horas (historia principal)",
+    "desarrollador": "EricLostie",
+    "lanzamiento": "2026",
+    "logros": []
+  },
+  {
+    "id": 6,
+    "nombre": "Pokémon Ópalo",
+    "portada": "",
+    "capturas": [],
+    "idiomas": [
+      "Español"
+    ],
+    "resumen": "Explorá Céfira, una región inspirada en el Oeste americano, con 16 gimnasios, dos ligas y más de 40 horas de aventura.",
+    "descripcion": "Pokémon Ópalo es un fangame completo en español de EricLostie, también autor de Pokémon Iberia y Pokémon Añil. La historia arranca unos 60 años después de que Rojo se convirtiera en campeón de Kanto, y te lleva por la región de Céfira, con una ambientación que recuerda al cine western.\n\nCon 16 gimnasios, dos ligas, Fakemon, formas regionales, nuevos personajes y muchas misiones, es una aventura larga que además te deja entrenar Pokémon de hasta ocho generaciones. Hecho con RPG Maker XP y Pokémon Essentials.",
+    "caracteristicas": [
+      "Región de Céfira, inspirada en el Oeste americano",
+      "16 gimnasios y dos ligas",
+      "Pokémon de hasta 8 generaciones, Fakemon y formas regionales",
+      "Gráficos renovados estilo Blanco y Negro",
+      "Muchas misiones y personajes nuevos"
+    ],
+    "importante": [
+      "Es un juego gratuito y completo (ya terminado).",
+      "Funciona en PC (Windows) sin emulador.",
+      "Del mismo creador que Pokémon Añil y Pokémon Z.",
+      "Existe también una versión en inglés, que suele ir un poco por detrás de la española."
+    ],
+    "urlDescarga": "",
+    "categorias": [
+      "Fan Game",
+      "RPG",
+      "Aventura"
+    ],
+    "tiempoEstimado": "40+ horas",
+    "desarrollador": "EricLostie",
+    "lanzamiento": "2022",
+    "logros": []
+  },
+  {
+    "id": 7,
+    "nombre": "Pokémon Infinite Fusion",
+    "portada": "",
+    "capturas": [],
+    "idiomas": [
+      "Inglés"
+    ],
+    "resumen": "Fusioná dos Pokémon cualesquiera en uno nuevo: más de 220.000 combinaciones con sprites hechos por la comunidad.",
+    "descripcion": "Pokémon Infinite Fusion es un fan game donde podés fusionar dos Pokémon distintos y obtener un híbrido con el aspecto, los tipos y las habilidades de ambos, y el orden de cabeza y cuerpo cambia el resultado.\n\nRecorrés una aventura al estilo clásico, con exploración, combates y armado de equipo, pero con una variedad de fusiones enorme y un montón de sprites creados por la comunidad. Está hecho con RPG Maker XP y Pokémon Essentials, y es uno de los fan games más rejugables.",
+    "caracteristicas": [
+      "Más de 220.000 combinaciones posibles de fusión",
+      "El orden de la fusión (cabeza y cuerpo) cambia el resultado",
+      "Sprites de fusiones hechos por la comunidad",
+      "Personalización de personaje y nuevos Pokémon",
+      "Alto valor de rejugabilidad"
+    ],
+    "importante": [
+      "Es un juego gratuito: si alguien lo vende, no está autorizado.",
+      "Está pensado para PC (Windows); en otros sistemas hay que usar adaptaciones.",
+      "Por defecto puede descargar sprites de fusión de internet; existe una versión con sprites precargados para jugar sin conexión.",
+      "El juego está en inglés."
+    ],
+    "urlDescarga": "",
+    "categorias": [
+      "Fan Game",
+      "RPG",
+      "Aventura"
+    ],
+    "tiempoEstimado": "20 - 30 horas (estimado)",
+    "desarrollador": "Chardub y comunidad",
+    "lanzamiento": "2015",
+    "logros": []
   }
 ]
