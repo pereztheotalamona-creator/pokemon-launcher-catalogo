@@ -639,7 +639,7 @@
         "nombre": "🕯️ Despierta, aventurero",
         "descripcion": "Recibe a tu primer compañero Pokémon.",
         "tipo": "primerPokemonReal",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/1.jpg"
       },
       {
         "id": "hazte_con_todos",
@@ -647,7 +647,7 @@
         "descripcion": "Captura a tu primer Pokémon salvaje.",
         "tipo": "capturasReales",
         "requisito": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/2.jpg"
       },
       {
         "id": "primer_rival",
@@ -655,7 +655,7 @@
         "descripcion": "Cruza tu primer combate con tu rival.",
         "tipo": "switch",
         "requisitoSwitch": 70,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/3.jpg"
       },
       {
         "id": "primer_combate_melia",
@@ -663,7 +663,7 @@
         "descripcion": "Mide tus fuerzas con Melia por primera vez.",
         "tipo": "switch",
         "requisitoSwitch": 73,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/4.jpg"
       },
       {
         "id": "furfrou_encontrado",
@@ -671,7 +671,7 @@
         "descripcion": "Encuentra al Furfrou extraviado.",
         "tipo": "switch",
         "requisitoSwitch": 77,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/5.jpg"
       },
       {
         "id": "team_azoth",
@@ -679,7 +679,7 @@
         "descripcion": "Descubre la existencia del Team Azoth.",
         "tipo": "switch",
         "requisitoSwitch": 78,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/6.jpg"
       },
       {
         "id": "medalla_1",
@@ -687,7 +687,7 @@
         "descripcion": "Conquista el primer gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 88,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/7.jpg"
       },
       {
         "id": "medalla_2",
@@ -695,7 +695,7 @@
         "descripcion": "Conquista el segundo gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 97,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/8.jpg"
       },
       {
         "id": "medalla_3",
@@ -703,7 +703,7 @@
         "descripcion": "Conquista el tercer gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 150,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/9.jpg"
       },
       {
         "id": "medalla_4",
@@ -711,7 +711,7 @@
         "descripcion": "Conquista el cuarto gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 211,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/10.jpg"
       },
       {
         "id": "medalla_5",
@@ -722,7 +722,7 @@
           326,
           501
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/11.jpg"
       },
       {
         "id": "medalla_6",
@@ -733,7 +733,7 @@
           360,
           502
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/12.jpg"
       },
       {
         "id": "medalla_7",
@@ -744,7 +744,7 @@
           470,
           503
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/13.jpg"
       },
       {
         "id": "medalla_8",
@@ -755,7 +755,7 @@
           493,
           504
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/14.jpg"
       },
       {
         "id": "medalla_9",
@@ -766,7 +766,7 @@
           559,
           505
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/15.jpg"
       },
       {
         "id": "medalla_10",
@@ -777,7 +777,7 @@
           596,
           506
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/16.jpg"
       },
       {
         "id": "medalla_11",
@@ -785,7 +785,7 @@
         "descripcion": "Conquista el undécimo gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 507,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/17.jpg"
       },
       {
         "id": "medalla_12",
@@ -793,7 +793,7 @@
         "descripcion": "Conquista el duodécimo gimnasio de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 508,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/18.jpg"
       },
       {
         "id": "todas_medallas",
@@ -804,7 +804,7 @@
           508,
           740
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/19.jpg"
       },
       {
         "id": "nubila_vencida",
@@ -812,7 +812,7 @@
         "descripcion": "Derrota a Nubila.",
         "tipo": "switch",
         "requisitoSwitch": 167,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/20.jpg"
       },
       {
         "id": "lanto_vencido",
@@ -820,7 +820,7 @@
         "descripcion": "Supera el Chateau Lanto.",
         "tipo": "switch",
         "requisitoSwitch": 169,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/21.jpg"
       },
       {
         "id": "rey_acertijo",
@@ -828,7 +828,7 @@
         "descripcion": "Derrota al Rey del Acertijo.",
         "tipo": "switch",
         "requisitoSwitch": 232,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/22.jpg"
       },
       {
         "id": "restaurante",
@@ -836,7 +836,7 @@
         "descripcion": "Supera el reto del restaurante Le Chonk.",
         "tipo": "switch",
         "requisitoSwitch": 263,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/23.jpg"
       },
       {
         "id": "hospicio_salvado",
@@ -844,7 +844,7 @@
         "descripcion": "Salva el hospicio.",
         "tipo": "switch",
         "requisitoSwitch": 350,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/24.jpg"
       },
       {
         "id": "hombre_saco",
@@ -852,7 +852,7 @@
         "descripcion": "Derrota al Hombre del Saco.",
         "tipo": "switch",
         "requisitoSwitch": 465,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/25.jpg"
       },
       {
         "id": "pesadilla_circo",
@@ -860,7 +860,7 @@
         "descripcion": "Libera a Yveltal en la Pesadilla del Circo.",
         "tipo": "switch",
         "requisitoSwitch": 735,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/26.jpg"
       },
       {
         "id": "clon_vencido",
@@ -868,7 +868,7 @@
         "descripcion": "Derrota a tu propio clon.",
         "tipo": "switch",
         "requisitoSwitch": 474,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/27.jpg"
       },
       {
         "id": "aure_vencido",
@@ -876,7 +876,7 @@
         "descripcion": "Vence a Aure en la forja.",
         "tipo": "switch",
         "requisitoSwitch": 552,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/28.jpg"
       },
       {
         "id": "lysson_vencido",
@@ -884,7 +884,7 @@
         "descripcion": "Vence a Lysson.",
         "tipo": "switch",
         "requisitoSwitch": 730,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/29.jpg"
       },
       {
         "id": "batalla_kalos_este",
@@ -892,7 +892,7 @@
         "descripcion": "Sobrevive a la gran batalla de Kalos Este.",
         "tipo": "switch",
         "requisitoSwitch": 618,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/30.jpg"
       },
       {
         "id": "zygarde_terminado",
@@ -900,7 +900,7 @@
         "descripcion": "Cierra el episodio de Zygarde.",
         "tipo": "switch",
         "requisitoSwitch": 721,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/31.jpg"
       },
       {
         "id": "xerneas_terminado",
@@ -908,7 +908,7 @@
         "descripcion": "Cierra el episodio de Xerneas.",
         "tipo": "switch",
         "requisitoSwitch": 732,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/32.jpg"
       },
       {
         "id": "yveltal_terminado",
@@ -916,7 +916,7 @@
         "descripcion": "Cierra el episodio de Yveltal.",
         "tipo": "switch",
         "requisitoSwitch": 733,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/33.jpg"
       },
       {
         "id": "az_vencido",
@@ -924,7 +924,7 @@
         "descripcion": "Derrota a AZ en el combate final.",
         "tipo": "switch",
         "requisitoSwitch": 424,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/34.jpg"
       },
       {
         "id": "arma_culminada",
@@ -932,7 +932,7 @@
         "descripcion": "Pon fin a la historia del arma definitiva.",
         "tipo": "switch",
         "requisitoSwitch": 758,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/35.jpg"
       },
       {
         "id": "balneario",
@@ -940,7 +940,7 @@
         "descripcion": "Completa la aventura del balneario.",
         "tipo": "switch",
         "requisitoSwitch": 784,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/36.jpg"
       },
       {
         "id": "camara_tileo",
@@ -948,7 +948,7 @@
         "descripcion": "Supera la cámara de Tileo en la Liga.",
         "tipo": "switch",
         "requisitoSwitch": 414,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/37.jpg"
       },
       {
         "id": "camara_dracena",
@@ -956,7 +956,7 @@
         "descripcion": "Supera la cámara de Dracena en la Liga.",
         "tipo": "switch",
         "requisitoSwitch": 415,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/38.jpg"
       },
       {
         "id": "camara_narciso",
@@ -964,7 +964,7 @@
         "descripcion": "Supera la cámara de Narciso en la Liga.",
         "tipo": "switch",
         "requisitoSwitch": 416,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/39.jpg"
       },
       {
         "id": "camara_malva",
@@ -972,7 +972,7 @@
         "descripcion": "Supera la cámara de Malva en la Liga.",
         "tipo": "switch",
         "requisitoSwitch": 417,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/40.jpg"
       },
       {
         "id": "alto_mando_completo",
@@ -985,7 +985,7 @@
           416,
           417
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/41.jpg"
       },
       {
         "id": "liga_pasada",
@@ -993,7 +993,7 @@
         "descripcion": "Supera la Liga Pokémon de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 805,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/42.jpg"
       },
       {
         "id": "juego_pasado",
@@ -1001,7 +1001,7 @@
         "descripcion": "Termina la historia principal de Pokémon Z.",
         "tipo": "switch",
         "requisitoSwitch": 800,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/43.jpg"
       },
       {
         "id": "revancha_melia",
@@ -1009,7 +1009,7 @@
         "descripcion": "Disputa la revancha contra Melia.",
         "tipo": "switch",
         "requisitoSwitch": 803,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/44.jpg"
       },
       {
         "id": "revancha_crisanto",
@@ -1017,7 +1017,7 @@
         "descripcion": "Disputa la revancha contra Crisanto.",
         "tipo": "switch",
         "requisitoSwitch": 823,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/45.jpg"
       },
       {
         "id": "aprendiz_pokedex",
@@ -1025,7 +1025,7 @@
         "descripcion": "Registra 100 especies en tu Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 100,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/46.jpg"
       },
       {
         "id": "investigador_pokedex",
@@ -1033,7 +1033,7 @@
         "descripcion": "Registra 250 especies en tu Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 250,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/47.jpg"
       },
       {
         "id": "erudito_pokedex",
@@ -1041,7 +1041,7 @@
         "descripcion": "Registra 500 especies en tu Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 500,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/48.jpg"
       },
       {
         "id": "pokedex_completa",
@@ -1051,7 +1051,7 @@
         "requisitoSwitches": [
           332
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/49.jpg"
       },
       {
         "id": "es_diferente",
@@ -1059,7 +1059,7 @@
         "descripcion": "Consigue tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/50.jpg"
       },
       {
         "id": "cazador_cromatico",
@@ -1067,7 +1067,7 @@
         "descripcion": "Reúne 10 Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 10,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/51.jpg"
       },
       {
         "id": "regis",
@@ -1084,7 +1084,7 @@
           "REGICE",
           "REGISTEEL"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/52.jpg"
       },
       {
         "id": "lagos",
@@ -1101,7 +1101,7 @@
           "MESPRIT",
           "AZELF"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/53.jpg"
       },
       {
         "id": "tapus",
@@ -1120,7 +1120,7 @@
           "TAPUBULU",
           "TAPUFINI"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/54.jpg"
       },
       {
         "id": "trio_kalos",
@@ -1137,7 +1137,7 @@
           "YVELTAL",
           "ZYGARDE"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/55.jpg"
       },
       {
         "id": "mision_tres_legendarios",
@@ -1145,7 +1145,7 @@
         "descripcion": "Completa la misión de los tres legendarios de Kalos.",
         "tipo": "switch",
         "requisitoSwitch": 622,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/56.jpg"
       },
       {
         "id": "mewtwo",
@@ -1154,7 +1154,7 @@
         "tipo": "pokedexEspecie",
         "especie": "150",
         "especieNombre": "MEWTWO",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/57.jpg"
       },
       {
         "id": "mew",
@@ -1163,7 +1163,7 @@
         "tipo": "pokedexEspecie",
         "especie": "151",
         "especieNombre": "MEW",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/58.jpg"
       },
       {
         "id": "arceus",
@@ -1172,7 +1172,7 @@
         "tipo": "pokedexEspecie",
         "especie": "493",
         "especieNombre": "ARCEUS",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/59.jpg"
       },
       {
         "id": "eeveelucionario",
@@ -1199,7 +1199,7 @@
           "GLACEON",
           "SYLVEON"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/60.jpg"
       },
       {
         "id": "entrenador_veterano",
@@ -1207,7 +1207,7 @@
         "descripcion": "Lleva a un Pokémon hasta el nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/61.jpg"
       },
       {
         "id": "equipo_perfecto",
@@ -1216,7 +1216,7 @@
         "tipo": "equipoNivelMinimo",
         "requisitoNivel": 100,
         "requisitoCantidad": 6,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/62.jpg"
       },
       {
         "id": "magnate",
@@ -1224,14 +1224,14 @@
         "descripcion": "Reúne una gran fortuna durante tu viaje.",
         "tipo": "dineroMinimo",
         "requisito": 100000,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/63.jpg"
       },
       {
         "id": "leyenda_de_kalos",
         "nombre": "🌟 CRÓNICA DE KALOS",
         "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/64.jpg"
       }
     ]
   },
