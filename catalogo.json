@@ -1233,7 +1233,34 @@
         "tipo": "todosLosDemas",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/logros/64.jpg"
       }
-    ]
+    ],
+    "maestria": {
+      "recompensa": {
+        "id": "maestro-z",
+        "nombre": "Maestro Pokémon Z",
+        "descripcion": "Completar las tres maestrías de Pokémon Z: misiones secundarias, Nuzlocke sin bajas y Randomlocke sin bajas"
+      },
+      "items": [
+        {
+          "id": "misiones-secundarias",
+          "icono": "star",
+          "titulo": "Nivel 1 · Misiones secundarias",
+          "descripcion": "Completar todas las misiones secundarias"
+        },
+        {
+          "id": "nuzlocke-sin-bajas",
+          "icono": "heart",
+          "titulo": "Nivel 2 · Nuzlocke sin bajas",
+          "descripcion": "Completar el juego en modo Nuzlocke sin que ningún Pokémon caiga debilitado"
+        },
+        {
+          "id": "randomlocke-z-sin-bajas",
+          "icono": "crown",
+          "titulo": "Nivel 3 · Randomlocke sin bajas",
+          "descripcion": "Completar el juego en modo Randomlocke sin que ningún Pokémon caiga debilitado"
+        }
+      ]
+    }
   },
   {
     "id": 6,
