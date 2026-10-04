@@ -1238,23 +1238,29 @@
       "recompensa": {
         "id": "maestro-z",
         "nombre": "Maestro Pokémon Z",
-        "descripcion": "Completar las tres maestrías de Pokémon Z: misiones secundarias, Nuzlocke sin bajas y Randomlocke sin bajas"
+        "descripcion": "Completar las tres maestrías de Pokémon Z: misiones secundarias, Nuzlocke sin bajas y Randomlocke sin bajas",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/maestria/medallon-maestria.png",
+        "tema": "esmeralda",
+        "estiloId": "pokemon-z-dorado"
       },
       "items": [
         {
           "id": "misiones-secundarias",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/maestria/maestria-misiones-secundarias.jpg",
           "icono": "star",
           "titulo": "Nivel 1 · Misiones secundarias",
           "descripcion": "Completar todas las misiones secundarias"
         },
         {
           "id": "nuzlocke-sin-bajas",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/maestria/maestria-nuzlocke.jpg",
           "icono": "heart",
           "titulo": "Nivel 2 · Nuzlocke sin bajas",
           "descripcion": "Completar el juego en modo Nuzlocke sin que ningún Pokémon caiga debilitado"
         },
         {
           "id": "randomlocke-z-sin-bajas",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/maestria/maestria-randomlocke.jpg",
           "icono": "crown",
           "titulo": "Nivel 3 · Randomlocke sin bajas",
           "descripcion": "Completar el juego en modo Randomlocke sin que ningún Pokémon caiga debilitado"
