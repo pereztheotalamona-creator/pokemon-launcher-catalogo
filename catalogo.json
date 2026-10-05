@@ -1350,22 +1350,6 @@
         "imagen": null
       },
       {
-        "id": "opalo_gatling_estepa",
-        "nombre": "🏜️ Limpieza en la Estepa",
-        "descripcion": "Vence a Team Gatling en la Estepa Polvorienta.",
-        "tipo": "switch",
-        "requisitoSwitch": 110,
-        "imagen": null
-      },
-      {
-        "id": "opalo_artificiero",
-        "nombre": "💣 Mecha corta",
-        "descripcion": "Vence al primer artificiero de Team Gatling.",
-        "tipo": "switch",
-        "requisitoSwitch": 335,
-        "imagen": null
-      },
-      {
         "id": "opalo_motin",
         "nombre": "🚨 Motín en Calígine",
         "descripcion": "Vive el motín de la prisión de Calígine.",
@@ -1414,22 +1398,6 @@
         "imagen": null
       },
       {
-        "id": "opalo_medalla_2",
-        "nombre": "🥈 Segunda medalla",
-        "descripcion": "Consigue la medalla nº 2 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 1,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_3",
-        "nombre": "🥉 Tercera medalla",
-        "descripcion": "Consigue la medalla nº 3 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 2,
-        "imagen": null
-      },
-      {
         "id": "opalo_medalla_4",
         "nombre": "🏅 Cuarta medalla",
         "descripcion": "Consigue la medalla nº 4 de Céfira.",
@@ -1438,99 +1406,11 @@
         "imagen": null
       },
       {
-        "id": "opalo_medalla_5",
-        "nombre": "🎖️ Quinta medalla",
-        "descripcion": "Consigue la medalla nº 5 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 4,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_6",
-        "nombre": "🏵️ Sexta medalla",
-        "descripcion": "Consigue la medalla nº 6 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 5,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_7",
-        "nombre": "🌟 Séptima medalla",
-        "descripcion": "Consigue la medalla nº 7 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 6,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_8",
-        "nombre": "💫 Octava medalla",
-        "descripcion": "Consigue la medalla nº 8 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 7,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_9",
-        "nombre": "🔰 Novena medalla",
-        "descripcion": "Consigue la medalla nº 9 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 8,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_10",
-        "nombre": "⚜️ Décima medalla",
-        "descripcion": "Consigue la medalla nº 10 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 9,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_11",
-        "nombre": "🛡️ Undécima medalla",
-        "descripcion": "Consigue la medalla nº 11 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 10,
-        "imagen": null
-      },
-      {
         "id": "opalo_medalla_12",
         "nombre": "👑 Duodécima medalla",
         "descripcion": "Consigue la medalla nº 12 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 11,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_13",
-        "nombre": "💎 Decimotercera medalla",
-        "descripcion": "Consigue la medalla nº 13 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 12,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_14",
-        "nombre": "🔱 Decimocuarta medalla",
-        "descripcion": "Consigue la medalla nº 14 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 13,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_15",
-        "nombre": "☄️ Decimoquinta medalla",
-        "descripcion": "Consigue la medalla nº 15 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 14,
-        "imagen": null
-      },
-      {
-        "id": "opalo_medalla_16",
-        "nombre": "🌠 Decimosexta medalla",
-        "descripcion": "Consigue la medalla nº 16 de Céfira.",
-        "tipo": "medalla",
-        "requisitoIndice": 15,
         "imagen": null
       },
       {
@@ -1623,35 +1503,11 @@
         "imagen": null
       },
       {
-        "id": "opalo_mision_silene",
-        "nombre": "📜 Encargo de Silene",
-        "descripcion": "Cumple el encargo de Silene.",
-        "tipo": "switch",
-        "requisitoSwitch": 222,
-        "imagen": null
-      },
-      {
         "id": "opalo_mision_bosque",
         "nombre": "🌲 Guardián del bosque",
         "descripcion": "Completa la misión del bosque.",
         "tipo": "switch",
         "requisitoSwitch": 261,
-        "imagen": null
-      },
-      {
-        "id": "opalo_mision_monos",
-        "nombre": "🐒 Tres monos sabios",
-        "descripcion": "Completa la misión de los monos.",
-        "tipo": "switch",
-        "requisitoSwitch": 271,
-        "imagen": null
-      },
-      {
-        "id": "opalo_mision_pesca",
-        "nombre": "🎣 Pesca milagrosa",
-        "descripcion": "Completa la misión de las llaves de pesca.",
-        "tipo": "switch",
-        "requisitoSwitch": 299,
         "imagen": null
       },
       {
@@ -1663,22 +1519,6 @@
         "imagen": null
       },
       {
-        "id": "opalo_mision_mich",
-        "nombre": "📬 Recado de Mich",
-        "descripcion": "Completa el encargo de Mich.",
-        "tipo": "switch",
-        "requisitoSwitch": 278,
-        "imagen": null
-      },
-      {
-        "id": "opalo_mision_bora",
-        "nombre": "🏘️ Pueblo Bora a salvo",
-        "descripcion": "Completa la misión de Pueblo Bora.",
-        "tipo": "switch",
-        "requisitoSwitch": 294,
-        "imagen": null
-      },
-      {
         "id": "opalo_mision_boreal",
         "nombre": "❄️ Cartas de Boreal",
         "descripcion": "Completa las misiones de Ciudad Boreal.",
@@ -1687,35 +1527,11 @@
         "imagen": null
       },
       {
-        "id": "opalo_mision_biel",
-        "nombre": "🧣 Favor a Biel",
-        "descripcion": "Completa la misión de Biel.",
-        "tipo": "switch",
-        "requisitoSwitch": 466,
-        "imagen": null
-      },
-      {
-        "id": "opalo_mision_bouffalant",
-        "nombre": "🐂 Cuernos al viento",
-        "descripcion": "Completa la misión de los Bouffalant.",
-        "tipo": "switch",
-        "requisitoSwitch": 468,
-        "imagen": null
-      },
-      {
         "id": "opalo_mision_pasado",
         "nombre": "⏳ Ecos del pasado",
         "descripcion": "Completa la misión del pasado.",
         "tipo": "switch",
         "requisitoSwitch": 587,
-        "imagen": null
-      },
-      {
-        "id": "opalo_mision_platero",
-        "nombre": "🥈 Plata fina",
-        "descripcion": "Completa la misión de Platero.",
-        "tipo": "switch",
-        "requisitoSwitch": 702,
         "imagen": null
       },
       {
@@ -1775,14 +1591,6 @@
         "imagen": null
       },
       {
-        "id": "opalo_hierbas",
-        "nombre": "🌿 Botica del camino",
-        "descripcion": "Reúne las hierbas curativas.",
-        "tipo": "switch",
-        "requisitoSwitch": 511,
-        "imagen": null
-      },
-      {
         "id": "opalo_ermitano",
         "nombre": "🧙 Sabiduría del ermitaño",
         "descripcion": "Completa el recorrido del ermitaño.",
@@ -1809,22 +1617,6 @@
         "descripcion": "Vence a Alonzo.",
         "tipo": "switch",
         "requisitoSwitch": 375,
-        "imagen": null
-      },
-      {
-        "id": "opalo_derringer",
-        "nombre": "🔪 Cierra la tapa",
-        "descripcion": "Vence a Derringer.",
-        "tipo": "switch",
-        "requisitoSwitch": 378,
-        "imagen": null
-      },
-      {
-        "id": "opalo_coalossal",
-        "nombre": "⛏️ Brasa gigante",
-        "descripcion": "Vence al Coalossal gigante.",
-        "tipo": "switch",
-        "requisitoSwitch": 551,
         "imagen": null
       },
       {
@@ -2004,14 +1796,6 @@
         "imagen": null
       },
       {
-        "id": "opalo_unktena_ataque",
-        "nombre": "🌪️ Asalto final",
-        "descripcion": "Lanza el ataque final contra Unktena.",
-        "tipo": "switch",
-        "requisitoSwitch": 860,
-        "imagen": null
-      },
-      {
         "id": "opalo_unktena_capturado",
         "nombre": "🔮 Bestia contenida",
         "descripcion": "Captura a Unktena.",
@@ -2084,62 +1868,6 @@
         "imagen": null
       },
       {
-        "id": "opalo_monolito_kanto_johto",
-        "nombre": "🔴 Monolito de Kanto y Johto",
-        "descripcion": "Completa el monolito de Kanto y Johto.",
-        "tipo": "switch",
-        "requisitoSwitch": 817,
-        "imagen": null
-      },
-      {
-        "id": "opalo_monolito_hoenn",
-        "nombre": "🌊 Monolito de Hoenn",
-        "descripcion": "Completa el monolito de Hoenn.",
-        "tipo": "switch",
-        "requisitoSwitch": 824,
-        "imagen": null
-      },
-      {
-        "id": "opalo_monolito_sinnoh",
-        "nombre": "❄️ Monolito de Sinnoh",
-        "descripcion": "Completa el monolito de Sinnoh.",
-        "tipo": "switch",
-        "requisitoSwitch": 825,
-        "imagen": null
-      },
-      {
-        "id": "opalo_monolito_teselia",
-        "nombre": "🏙️ Monolito de Teselia",
-        "descripcion": "Completa el monolito de Teselia.",
-        "tipo": "switch",
-        "requisitoSwitch": 826,
-        "imagen": null
-      },
-      {
-        "id": "opalo_monolito_kalos",
-        "nombre": "🌹 Monolito de Kalos",
-        "descripcion": "Completa el monolito de Kalos.",
-        "tipo": "switch",
-        "requisitoSwitch": 827,
-        "imagen": null
-      },
-      {
-        "id": "opalo_monolito_alola",
-        "nombre": "🌺 Monolito de Alola",
-        "descripcion": "Completa el monolito de Alola.",
-        "tipo": "switch",
-        "requisitoSwitch": 828,
-        "imagen": null
-      },
-      {
-        "id": "opalo_monolito_galar",
-        "nombre": "🏰 Monolito de Galar",
-        "descripcion": "Completa el monolito de Galar.",
-        "tipo": "switch",
-        "requisitoSwitch": 829,
-        "imagen": null
-      },
-      {
         "id": "opalo_todos_monolitos",
         "nombre": "🌍 Memoria del mundo",
         "descripcion": "Completa los monolitos de las 7 regiones.",
@@ -2164,14 +1892,6 @@
         "imagen": null
       },
       {
-        "id": "opalo_dex_150",
-        "nombre": "🗺️ Cartógrafo de especies",
-        "descripcion": "Registra 150 especies en tu Pokédex.",
-        "tipo": "pokedexOwned",
-        "requisito": 150,
-        "imagen": null
-      },
-      {
         "id": "opalo_dex_300",
         "nombre": "📚 Archivista de Céfira",
         "descripcion": "Registra 300 especies en tu Pokédex.",
@@ -2180,48 +1900,11 @@
         "imagen": null
       },
       {
-        "id": "opalo_mewtwo",
-        "nombre": "🧪 Obra prohibida",
-        "descripcion": "Consigue a Mewtwo.",
-        "tipo": "pokedexEspecie",
-        "especie": "150",
-        "especieNombre": "MEWTWO",
-        "imagen": null
-      },
-      {
-        "id": "opalo_mew",
-        "nombre": "🌸 Susurro ancestral",
-        "descripcion": "Consigue a Mew.",
-        "tipo": "pokedexEspecie",
-        "especie": "151",
-        "especieNombre": "MEW",
-        "imagen": null
-      },
-      {
-        "id": "opalo_eevee",
-        "nombre": "🦊 Ocho caminos",
-        "descripcion": "Consigue las 8 evoluciones de Eevee.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "134",
-          "135",
-          "136",
-          "196",
-          "197",
-          "470",
-          "471",
-          "700"
-        ],
-        "especiesNombres": [
-          "VAPOREON",
-          "JOLTEON",
-          "FLAREON",
-          "ESPEON",
-          "UMBREON",
-          "LEAFEON",
-          "GLACEON",
-          "SYLVEON"
-        ],
+        "id": "opalo_dex_completa",
+        "nombre": "🏺 Enciclopedia viviente",
+        "descripcion": "Completa la Pokédex de Pokémon Ópalo.",
+        "tipo": "pokedexOwned",
+        "requisito": 928,
         "imagen": null
       },
       {
@@ -2230,15 +1913,6 @@
         "descripcion": "Lleva a un Pokémon al nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
-        "imagen": null
-      },
-      {
-        "id": "opalo_equipo_100",
-        "nombre": "🛡️ Escuadra impecable",
-        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
-        "tipo": "equipoNivelMinimo",
-        "requisitoNivel": 100,
-        "requisitoCantidad": 6,
         "imagen": null
       },
       {
