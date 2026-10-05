@@ -1309,7 +1309,962 @@
     "tiempoEstimado": "40+ horas",
     "desarrollador": "EricLostie",
     "lanzamiento": "2022",
-    "logros": []
+    "logros": [
+      {
+        "id": "opalo_primer_companero",
+        "nombre": "🤠 Compañero de ruta",
+        "descripcion": "Recibe a tu primer Pokémon.",
+        "tipo": "primerPokemonReal",
+        "imagen": null
+      },
+      {
+        "id": "opalo_primera_victoria",
+        "nombre": "🐺 Bautismo de polvo",
+        "descripcion": "Derrota al primer Pokémon salvaje que se cruce en tu camino.",
+        "tipo": "switch",
+        "requisitoSwitch": 67,
+        "imagen": null
+      },
+      {
+        "id": "opalo_primera_captura",
+        "nombre": "🪢 Lazo y cuerda",
+        "descripcion": "Captura tu primer Pokémon salvaje.",
+        "tipo": "capturasReales",
+        "requisito": 2,
+        "imagen": null
+      },
+      {
+        "id": "opalo_gatling_primera",
+        "nombre": "🔫 Humo de Gatling",
+        "descripcion": "Enfréntate por primera vez a Team Gatling.",
+        "tipo": "switch",
+        "requisitoSwitch": 75,
+        "imagen": null
+      },
+      {
+        "id": "opalo_gala_primera",
+        "nombre": "⚡ Chispas con Gala",
+        "descripcion": "Cruza tu primer combate con Gala.",
+        "tipo": "switch",
+        "requisitoSwitch": 80,
+        "imagen": null
+      },
+      {
+        "id": "opalo_gatling_estepa",
+        "nombre": "🏜️ Limpieza en la Estepa",
+        "descripcion": "Vence a Team Gatling en la Estepa Polvorienta.",
+        "tipo": "switch",
+        "requisitoSwitch": 110,
+        "imagen": null
+      },
+      {
+        "id": "opalo_artificiero",
+        "nombre": "💣 Mecha corta",
+        "descripcion": "Vence al primer artificiero de Team Gatling.",
+        "tipo": "switch",
+        "requisitoSwitch": 335,
+        "imagen": null
+      },
+      {
+        "id": "opalo_motin",
+        "nombre": "🚨 Motín en Calígine",
+        "descripcion": "Vive el motín de la prisión de Calígine.",
+        "tipo": "switch",
+        "requisitoSwitch": 225,
+        "imagen": null
+      },
+      {
+        "id": "opalo_prision",
+        "nombre": "⛓️ Barrotes rotos",
+        "descripcion": "Cierra el episodio de la prisión de Calígine.",
+        "tipo": "switch",
+        "requisitoSwitch": 232,
+        "imagen": null
+      },
+      {
+        "id": "opalo_puerta_gatling",
+        "nombre": "🚪 Puerta de la guarida",
+        "descripcion": "Llega a la Base Gatling.",
+        "tipo": "switch",
+        "requisitoSwitch": 330,
+        "imagen": null
+      },
+      {
+        "id": "opalo_caja_fuerte",
+        "nombre": "🔐 Secretos bajo llave",
+        "descripcion": "Abre la caja fuerte de la Base Gatling.",
+        "tipo": "switch",
+        "requisitoSwitch": 341,
+        "imagen": null
+      },
+      {
+        "id": "opalo_rescate_gatling",
+        "nombre": "🆘 Rescate a contrarreloj",
+        "descripcion": "Completa el rescate en la Base Gatling.",
+        "tipo": "switch",
+        "requisitoSwitch": 626,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_1",
+        "nombre": "🥇 Primera medalla",
+        "descripcion": "Consigue la primera medalla de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 0,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_2",
+        "nombre": "🥈 Segunda medalla",
+        "descripcion": "Consigue la medalla nº 2 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 1,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_3",
+        "nombre": "🥉 Tercera medalla",
+        "descripcion": "Consigue la medalla nº 3 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 2,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_4",
+        "nombre": "🏅 Cuarta medalla",
+        "descripcion": "Consigue la medalla nº 4 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 3,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_5",
+        "nombre": "🎖️ Quinta medalla",
+        "descripcion": "Consigue la medalla nº 5 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 4,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_6",
+        "nombre": "🏵️ Sexta medalla",
+        "descripcion": "Consigue la medalla nº 6 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 5,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_7",
+        "nombre": "🌟 Séptima medalla",
+        "descripcion": "Consigue la medalla nº 7 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 6,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_8",
+        "nombre": "💫 Octava medalla",
+        "descripcion": "Consigue la medalla nº 8 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 7,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_9",
+        "nombre": "🔰 Novena medalla",
+        "descripcion": "Consigue la medalla nº 9 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 8,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_10",
+        "nombre": "⚜️ Décima medalla",
+        "descripcion": "Consigue la medalla nº 10 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 9,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_11",
+        "nombre": "🛡️ Undécima medalla",
+        "descripcion": "Consigue la medalla nº 11 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 10,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_12",
+        "nombre": "👑 Duodécima medalla",
+        "descripcion": "Consigue la medalla nº 12 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 11,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_13",
+        "nombre": "💎 Decimotercera medalla",
+        "descripcion": "Consigue la medalla nº 13 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 12,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_14",
+        "nombre": "🔱 Decimocuarta medalla",
+        "descripcion": "Consigue la medalla nº 14 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 13,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_15",
+        "nombre": "☄️ Decimoquinta medalla",
+        "descripcion": "Consigue la medalla nº 15 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 14,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_16",
+        "nombre": "🌠 Decimosexta medalla",
+        "descripcion": "Consigue la medalla nº 16 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 15,
+        "imagen": null
+      },
+      {
+        "id": "opalo_ocho_medallas",
+        "nombre": "🏇 Media Liga",
+        "descripcion": "Reúne 8 medallas.",
+        "tipo": "medallasCantidad",
+        "requisito": 8,
+        "imagen": null
+      },
+      {
+        "id": "opalo_dieciseis_medallas",
+        "nombre": "🏛️ Colección completa",
+        "descripcion": "Reúne las 16 medallas.",
+        "tipo": "medallasCantidad",
+        "requisito": 16,
+        "imagen": null
+      },
+      {
+        "id": "opalo_liga_fase2",
+        "nombre": "🎯 Segunda fase",
+        "descripcion": "Supera la segunda fase de la Liga.",
+        "tipo": "switch",
+        "requisitoSwitch": 452,
+        "imagen": null
+      },
+      {
+        "id": "opalo_liga_aspirantes",
+        "nombre": "🥊 Ocho aspirantes",
+        "descripcion": "Vence a todos los aspirantes de la segunda fase de la Liga.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          435,
+          436,
+          445,
+          447,
+          448,
+          449,
+          450,
+          451
+        ],
+        "imagen": null
+      },
+      {
+        "id": "opalo_liga_ebano",
+        "nombre": "🏆 Campeón de Kanto",
+        "descripcion": "Vence a Ébano en la final de la Liga.",
+        "tipo": "switch",
+        "requisitoSwitch": 461,
+        "imagen": null
+      },
+      {
+        "id": "opalo_boda",
+        "nombre": "💍 Día de gala",
+        "descripcion": "Asiste a la boda de Vera y Apolo.",
+        "tipo": "switch",
+        "requisitoSwitch": 453,
+        "imagen": null
+      },
+      {
+        "id": "opalo_segunda_region",
+        "nombre": "🧭 Más allá de la frontera",
+        "descripcion": "Viaja a la segunda región.",
+        "tipo": "switch",
+        "requisitoSwitch": 462,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_comisaria",
+        "nombre": "🕵️ Placa honoraria",
+        "descripcion": "Completa los encargos de la comisaría.",
+        "tipo": "switch",
+        "requisitoSwitch": 276,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_salud",
+        "nombre": "🩺 Vocación sanitaria",
+        "descripcion": "Completa los encargos del centro de salud.",
+        "tipo": "switch",
+        "requisitoSwitch": 190,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_nativos",
+        "nombre": "🪶 Palabra de los nativos",
+        "descripcion": "Completa los encargos de los nativos.",
+        "tipo": "switch",
+        "requisitoSwitch": 197,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_silene",
+        "nombre": "📜 Encargo de Silene",
+        "descripcion": "Cumple el encargo de Silene.",
+        "tipo": "switch",
+        "requisitoSwitch": 222,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_bosque",
+        "nombre": "🌲 Guardián del bosque",
+        "descripcion": "Completa la misión del bosque.",
+        "tipo": "switch",
+        "requisitoSwitch": 261,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_monos",
+        "nombre": "🐒 Tres monos sabios",
+        "descripcion": "Completa la misión de los monos.",
+        "tipo": "switch",
+        "requisitoSwitch": 271,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_pesca",
+        "nombre": "🎣 Pesca milagrosa",
+        "descripcion": "Completa la misión de las llaves de pesca.",
+        "tipo": "switch",
+        "requisitoSwitch": 299,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_masterball",
+        "nombre": "🔴 Bola maestra",
+        "descripcion": "Completa la misión de la Master Ball.",
+        "tipo": "switch",
+        "requisitoSwitch": 302,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_mich",
+        "nombre": "📬 Recado de Mich",
+        "descripcion": "Completa el encargo de Mich.",
+        "tipo": "switch",
+        "requisitoSwitch": 278,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_bora",
+        "nombre": "🏘️ Pueblo Bora a salvo",
+        "descripcion": "Completa la misión de Pueblo Bora.",
+        "tipo": "switch",
+        "requisitoSwitch": 294,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_boreal",
+        "nombre": "❄️ Cartas de Boreal",
+        "descripcion": "Completa las misiones de Ciudad Boreal.",
+        "tipo": "switch",
+        "requisitoSwitch": 473,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_biel",
+        "nombre": "🧣 Favor a Biel",
+        "descripcion": "Completa la misión de Biel.",
+        "tipo": "switch",
+        "requisitoSwitch": 466,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_bouffalant",
+        "nombre": "🐂 Cuernos al viento",
+        "descripcion": "Completa la misión de los Bouffalant.",
+        "tipo": "switch",
+        "requisitoSwitch": 468,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_pasado",
+        "nombre": "⏳ Ecos del pasado",
+        "descripcion": "Completa la misión del pasado.",
+        "tipo": "switch",
+        "requisitoSwitch": 587,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_platero",
+        "nombre": "🥈 Plata fina",
+        "descripcion": "Completa la misión de Platero.",
+        "tipo": "switch",
+        "requisitoSwitch": 702,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_megas",
+        "nombre": "🧬 Era de las Megas",
+        "descripcion": "Completa la misión de las Megaevoluciones.",
+        "tipo": "switch",
+        "requisitoSwitch": 705,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mision_remington",
+        "nombre": "🧳 Mensajero de Remington",
+        "descripcion": "Completa los encargos de Remington.",
+        "tipo": "switch",
+        "requisitoSwitch": 909,
+        "imagen": null
+      },
+      {
+        "id": "opalo_huevo_delibird",
+        "nombre": "🥚 Huevo de Delibird",
+        "descripcion": "Consigue el huevo de Delibird.",
+        "tipo": "switch",
+        "requisitoSwitch": 337,
+        "imagen": null
+      },
+      {
+        "id": "opalo_celebi",
+        "nombre": "🍃 Visita del tiempo",
+        "descripcion": "Vive el encuentro especial con Celebi.",
+        "tipo": "switch",
+        "requisitoSwitch": 374,
+        "imagen": null
+      },
+      {
+        "id": "opalo_snorlax",
+        "nombre": "😴 Siesta interrumpida",
+        "descripcion": "Despierta al Snorlax.",
+        "tipo": "switch",
+        "requisitoSwitch": 517,
+        "imagen": null
+      },
+      {
+        "id": "opalo_wailord",
+        "nombre": "🐋 Gigante blanco",
+        "descripcion": "Encuentra al Wailord albino.",
+        "tipo": "switch",
+        "requisitoSwitch": 482,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mew_camion",
+        "nombre": "🚚 Bajo la lona",
+        "descripcion": "Encuentra a Mew en el camión.",
+        "tipo": "switch",
+        "requisitoSwitch": 834,
+        "imagen": null
+      },
+      {
+        "id": "opalo_hierbas",
+        "nombre": "🌿 Botica del camino",
+        "descripcion": "Reúne las hierbas curativas.",
+        "tipo": "switch",
+        "requisitoSwitch": 511,
+        "imagen": null
+      },
+      {
+        "id": "opalo_ermitano",
+        "nombre": "🧙 Sabiduría del ermitaño",
+        "descripcion": "Completa el recorrido del ermitaño.",
+        "tipo": "switch",
+        "requisitoSwitch": 581,
+        "imagen": null
+      },
+      {
+        "id": "opalo_galar_fosiles",
+        "nombre": "🦴 Fósiles de Galar",
+        "descripcion": "Recibe los cuatro Pokémon fósil de Galar.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          745,
+          746,
+          747,
+          748
+        ],
+        "imagen": null
+      },
+      {
+        "id": "opalo_alonzo",
+        "nombre": "🧔 Cuentas con Alonzo",
+        "descripcion": "Vence a Alonzo.",
+        "tipo": "switch",
+        "requisitoSwitch": 375,
+        "imagen": null
+      },
+      {
+        "id": "opalo_derringer",
+        "nombre": "🔪 Cierra la tapa",
+        "descripcion": "Vence a Derringer.",
+        "tipo": "switch",
+        "requisitoSwitch": 378,
+        "imagen": null
+      },
+      {
+        "id": "opalo_coalossal",
+        "nombre": "⛏️ Brasa gigante",
+        "descripcion": "Vence al Coalossal gigante.",
+        "tipo": "switch",
+        "requisitoSwitch": 551,
+        "imagen": null
+      },
+      {
+        "id": "opalo_maple",
+        "nombre": "🍁 Dama de la mansión",
+        "descripcion": "Derrota a Maple.",
+        "tipo": "switch",
+        "requisitoSwitch": 552,
+        "imagen": null
+      },
+      {
+        "id": "opalo_verbena",
+        "nombre": "🕯️ Hechizo roto",
+        "descripcion": "Derrota a Verbena.",
+        "tipo": "switch",
+        "requisitoSwitch": 531,
+        "imagen": null
+      },
+      {
+        "id": "opalo_bruja",
+        "nombre": "🧹 Cuentas con la bruja",
+        "descripcion": "Derrota a la bruja del bosque.",
+        "tipo": "switch",
+        "requisitoSwitch": 570,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mosh",
+        "nombre": "🎸 Ruido de fondo",
+        "descripcion": "Vence a Mosh.",
+        "tipo": "switch",
+        "requisitoSwitch": 597,
+        "imagen": null
+      },
+      {
+        "id": "opalo_papaloto",
+        "nombre": "💀 Bendición y maldición",
+        "descripcion": "Vence a Papa Loto.",
+        "tipo": "switch",
+        "requisitoSwitch": 781,
+        "imagen": null
+      },
+      {
+        "id": "opalo_saloon",
+        "nombre": "🍺 Pelea de saloon",
+        "descripcion": "Supera el combate del saloon.",
+        "tipo": "switch",
+        "requisitoSwitch": 662,
+        "imagen": null
+      },
+      {
+        "id": "opalo_taller",
+        "nombre": "🔧 Taller clausurado",
+        "descripcion": "Supera el taller siseante.",
+        "tipo": "switch",
+        "requisitoSwitch": 658,
+        "imagen": null
+      },
+      {
+        "id": "opalo_miedos",
+        "nombre": "👻 Cara a cara con el miedo",
+        "descripcion": "Vence a tus miedos.",
+        "tipo": "switch",
+        "requisitoSwitch": 721,
+        "imagen": null
+      },
+      {
+        "id": "opalo_cayena",
+        "nombre": "🔒 Último cerrojo",
+        "descripcion": "Derrota a Cayena.",
+        "tipo": "switch",
+        "requisitoSwitch": 731,
+        "imagen": null
+      },
+      {
+        "id": "opalo_zalea",
+        "nombre": "🌹 Duelo con Zalea",
+        "descripcion": "Disputa el combate contra Zalea.",
+        "tipo": "switch",
+        "requisitoSwitch": 742,
+        "imagen": null
+      },
+      {
+        "id": "opalo_amaranta",
+        "nombre": "🌵 Cara a cara con Amaranta",
+        "descripcion": "Vence a Amaranta.",
+        "tipo": "switch",
+        "requisitoSwitch": 776,
+        "imagen": null
+      },
+      {
+        "id": "opalo_adian",
+        "nombre": "🗡️ Último aliento",
+        "descripcion": "Vence a Adian en el final.",
+        "tipo": "switch",
+        "requisitoSwitch": 758,
+        "imagen": null
+      },
+      {
+        "id": "opalo_rojo",
+        "nombre": "🧢 Una leyenda en la Estepa",
+        "descripcion": "Vence a Rojo en la Estepa.",
+        "tipo": "switch",
+        "requisitoSwitch": 844,
+        "imagen": null
+      },
+      {
+        "id": "opalo_gran_espiritu",
+        "nombre": "🌀 Ira del Gran Espíritu",
+        "descripcion": "Vence al Gran Espíritu.",
+        "tipo": "switch",
+        "requisitoSwitch": 787,
+        "imagen": null
+      },
+      {
+        "id": "opalo_espiritu_destruido",
+        "nombre": "☄️ Fin de una era",
+        "descripcion": "Presencia la destrucción del Gran Espíritu.",
+        "tipo": "switch",
+        "requisitoSwitch": 789,
+        "imagen": null
+      },
+      {
+        "id": "opalo_area151",
+        "nombre": "🚧 Zona prohibida",
+        "descripcion": "Entra en el Área 151.",
+        "tipo": "switch",
+        "requisitoSwitch": 795,
+        "imagen": null
+      },
+      {
+        "id": "opalo_monolitos",
+        "nombre": "🗿 Chispa en los monolitos",
+        "descripcion": "Activa los monolitos del Área 151.",
+        "tipo": "switch",
+        "requisitoSwitch": 814,
+        "imagen": null
+      },
+      {
+        "id": "opalo_vinculo",
+        "nombre": "🔗 Vínculo supremo",
+        "descripcion": "Consigue el Vínculo Supremo.",
+        "tipo": "switch",
+        "requisitoSwitch": 831,
+        "imagen": null
+      },
+      {
+        "id": "opalo_arceus",
+        "nombre": "🔱 Voz del origen",
+        "descripcion": "Presencia la escena de Arceus.",
+        "tipo": "switch",
+        "requisitoSwitch": 836,
+        "imagen": null
+      },
+      {
+        "id": "opalo_atolon",
+        "nombre": "🏝️ Tierra olvidada",
+        "descripcion": "Llega al Atolón Olvidado.",
+        "tipo": "switch",
+        "requisitoSwitch": 837,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mega_astrem",
+        "nombre": "🔥 Más allá de la evolución",
+        "descripcion": "Megaevoluciona a Astrem.",
+        "tipo": "switch",
+        "requisitoSwitch": 849,
+        "imagen": null
+      },
+      {
+        "id": "opalo_apolo",
+        "nombre": "🥋 Hermano de armas",
+        "descripcion": "Vence a Apolo.",
+        "tipo": "switch",
+        "requisitoSwitch": 847,
+        "imagen": null
+      },
+      {
+        "id": "opalo_unktena_ataque",
+        "nombre": "🌪️ Asalto final",
+        "descripcion": "Lanza el ataque final contra Unktena.",
+        "tipo": "switch",
+        "requisitoSwitch": 860,
+        "imagen": null
+      },
+      {
+        "id": "opalo_unktena_capturado",
+        "nombre": "🔮 Bestia contenida",
+        "descripcion": "Captura a Unktena.",
+        "tipo": "switch",
+        "requisitoSwitch": 862,
+        "imagen": null
+      },
+      {
+        "id": "opalo_unktena_vencido",
+        "nombre": "🐍 El último rugido",
+        "descripcion": "Termina tu combate contra Unktena.",
+        "tipo": "switch",
+        "requisitoSwitch": 863,
+        "imagen": null
+      },
+      {
+        "id": "opalo_final_apolo",
+        "nombre": "🌅 El destino de Apolo",
+        "descripcion": "Vive el final de Apolo.",
+        "tipo": "switch",
+        "requisitoSwitch": 864,
+        "imagen": null
+      },
+      {
+        "id": "opalo_final_gala",
+        "nombre": "🌄 El destino de Gala",
+        "descripcion": "Vive el final de Gala.",
+        "tipo": "switch",
+        "requisitoSwitch": 865,
+        "imagen": null
+      },
+      {
+        "id": "opalo_memorial",
+        "nombre": "🪦 Piedras del memorial",
+        "descripcion": "Visita las piedras del memorial.",
+        "tipo": "switch",
+        "requisitoSwitch": 867,
+        "imagen": null
+      },
+      {
+        "id": "opalo_juego_completado",
+        "nombre": "🎬 Cae el telón",
+        "descripcion": "Completa la aventura de Pokémon Ópalo.",
+        "tipo": "switch",
+        "requisitoSwitch": 869,
+        "imagen": null
+      },
+      {
+        "id": "opalo_revancha_mundanez",
+        "nombre": "🤺 Revancha pendiente",
+        "descripcion": "Cumple la revancha contra Mundánez.",
+        "tipo": "switch",
+        "requisitoSwitch": 870,
+        "imagen": null
+      },
+      {
+        "id": "opalo_revancha_gala",
+        "nombre": "⚔️ Segunda ronda",
+        "descripcion": "Disputa la revancha con Gala.",
+        "tipo": "switch",
+        "requisitoSwitch": 876,
+        "imagen": null
+      },
+      {
+        "id": "opalo_emblema",
+        "nombre": "🏟️ Emblema del Coliseo",
+        "descripcion": "Recibe el emblema del Coliseo Astral.",
+        "tipo": "switch",
+        "requisitoSwitch": 874,
+        "imagen": null
+      },
+      {
+        "id": "opalo_monolito_kanto_johto",
+        "nombre": "🔴 Monolito de Kanto y Johto",
+        "descripcion": "Completa el monolito de Kanto y Johto.",
+        "tipo": "switch",
+        "requisitoSwitch": 817,
+        "imagen": null
+      },
+      {
+        "id": "opalo_monolito_hoenn",
+        "nombre": "🌊 Monolito de Hoenn",
+        "descripcion": "Completa el monolito de Hoenn.",
+        "tipo": "switch",
+        "requisitoSwitch": 824,
+        "imagen": null
+      },
+      {
+        "id": "opalo_monolito_sinnoh",
+        "nombre": "❄️ Monolito de Sinnoh",
+        "descripcion": "Completa el monolito de Sinnoh.",
+        "tipo": "switch",
+        "requisitoSwitch": 825,
+        "imagen": null
+      },
+      {
+        "id": "opalo_monolito_teselia",
+        "nombre": "🏙️ Monolito de Teselia",
+        "descripcion": "Completa el monolito de Teselia.",
+        "tipo": "switch",
+        "requisitoSwitch": 826,
+        "imagen": null
+      },
+      {
+        "id": "opalo_monolito_kalos",
+        "nombre": "🌹 Monolito de Kalos",
+        "descripcion": "Completa el monolito de Kalos.",
+        "tipo": "switch",
+        "requisitoSwitch": 827,
+        "imagen": null
+      },
+      {
+        "id": "opalo_monolito_alola",
+        "nombre": "🌺 Monolito de Alola",
+        "descripcion": "Completa el monolito de Alola.",
+        "tipo": "switch",
+        "requisitoSwitch": 828,
+        "imagen": null
+      },
+      {
+        "id": "opalo_monolito_galar",
+        "nombre": "🏰 Monolito de Galar",
+        "descripcion": "Completa el monolito de Galar.",
+        "tipo": "switch",
+        "requisitoSwitch": 829,
+        "imagen": null
+      },
+      {
+        "id": "opalo_todos_monolitos",
+        "nombre": "🌍 Memoria del mundo",
+        "descripcion": "Completa los monolitos de las 7 regiones.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          817,
+          824,
+          825,
+          826,
+          827,
+          828,
+          829
+        ],
+        "imagen": null
+      },
+      {
+        "id": "opalo_dex_50",
+        "nombre": "📓 Cuaderno de campo",
+        "descripcion": "Registra 50 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 50,
+        "imagen": null
+      },
+      {
+        "id": "opalo_dex_150",
+        "nombre": "🗺️ Cartógrafo de especies",
+        "descripcion": "Registra 150 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 150,
+        "imagen": null
+      },
+      {
+        "id": "opalo_dex_300",
+        "nombre": "📚 Archivista de Céfira",
+        "descripcion": "Registra 300 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 300,
+        "imagen": null
+      },
+      {
+        "id": "opalo_mewtwo",
+        "nombre": "🧪 Obra prohibida",
+        "descripcion": "Consigue a Mewtwo.",
+        "tipo": "pokedexEspecie",
+        "especie": "150",
+        "especieNombre": "MEWTWO",
+        "imagen": null
+      },
+      {
+        "id": "opalo_mew",
+        "nombre": "🌸 Susurro ancestral",
+        "descripcion": "Consigue a Mew.",
+        "tipo": "pokedexEspecie",
+        "especie": "151",
+        "especieNombre": "MEW",
+        "imagen": null
+      },
+      {
+        "id": "opalo_eevee",
+        "nombre": "🦊 Ocho caminos",
+        "descripcion": "Consigue las 8 evoluciones de Eevee.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "134",
+          "135",
+          "136",
+          "196",
+          "197",
+          "470",
+          "471",
+          "700"
+        ],
+        "especiesNombres": [
+          "VAPOREON",
+          "JOLTEON",
+          "FLAREON",
+          "ESPEON",
+          "UMBREON",
+          "LEAFEON",
+          "GLACEON",
+          "SYLVEON"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "opalo_nivel_100",
+        "nombre": "💯 Techo del mundo",
+        "descripcion": "Lleva a un Pokémon al nivel 100.",
+        "tipo": "nivelMaximo",
+        "requisitoNivel": 100,
+        "imagen": null
+      },
+      {
+        "id": "opalo_equipo_100",
+        "nombre": "🛡️ Escuadra impecable",
+        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
+        "tipo": "equipoNivelMinimo",
+        "requisitoNivel": 100,
+        "requisitoCantidad": 6,
+        "imagen": null
+      },
+      {
+        "id": "opalo_shiny",
+        "nombre": "✨ Destello raro",
+        "descripcion": "Consigue tu primer Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 1,
+        "imagen": null
+      },
+      {
+        "id": "opalo_dinero",
+        "nombre": "💰 Cofre del forajido",
+        "descripcion": "Reúne una gran fortuna durante tu viaje.",
+        "tipo": "dineroMinimo",
+        "requisito": 100000,
+        "imagen": null
+      },
+      {
+        "id": "opalo_leyenda",
+        "nombre": "🌵 LEYENDA DE CÉFIRA",
+        "descripcion": "Desbloquea todos los demás logros.",
+        "tipo": "todosLosDemas",
+        "imagen": null
+      }
+    ]
   },
   {
     "id": 7,
