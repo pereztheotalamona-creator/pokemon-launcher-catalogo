@@ -1398,6 +1398,22 @@
         "imagen": null
       },
       {
+        "id": "opalo_medalla_2",
+        "nombre": "🥈 Segunda medalla",
+        "descripcion": "Consigue la medalla nº 2 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 1,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_3",
+        "nombre": "🥉 Tercera medalla",
+        "descripcion": "Consigue la medalla nº 3 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 2,
+        "imagen": null
+      },
+      {
         "id": "opalo_medalla_4",
         "nombre": "🏅 Cuarta medalla",
         "descripcion": "Consigue la medalla nº 4 de Céfira.",
@@ -1406,11 +1422,99 @@
         "imagen": null
       },
       {
+        "id": "opalo_medalla_5",
+        "nombre": "🎖️ Quinta medalla",
+        "descripcion": "Consigue la medalla nº 5 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 4,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_6",
+        "nombre": "🏵️ Sexta medalla",
+        "descripcion": "Consigue la medalla nº 6 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 5,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_7",
+        "nombre": "🌟 Séptima medalla",
+        "descripcion": "Consigue la medalla nº 7 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 6,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_8",
+        "nombre": "💫 Octava medalla",
+        "descripcion": "Consigue la medalla nº 8 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 7,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_9",
+        "nombre": "🔰 Novena medalla",
+        "descripcion": "Consigue la medalla nº 9 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 8,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_10",
+        "nombre": "⚜️ Décima medalla",
+        "descripcion": "Consigue la medalla nº 10 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 9,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_11",
+        "nombre": "🛡️ Undécima medalla",
+        "descripcion": "Consigue la medalla nº 11 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 10,
+        "imagen": null
+      },
+      {
         "id": "opalo_medalla_12",
         "nombre": "👑 Duodécima medalla",
         "descripcion": "Consigue la medalla nº 12 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 11,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_13",
+        "nombre": "💎 Decimotercera medalla",
+        "descripcion": "Consigue la medalla nº 13 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 12,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_14",
+        "nombre": "🔱 Decimocuarta medalla",
+        "descripcion": "Consigue la medalla nº 14 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 13,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_15",
+        "nombre": "☄️ Decimoquinta medalla",
+        "descripcion": "Consigue la medalla nº 15 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 14,
+        "imagen": null
+      },
+      {
+        "id": "opalo_medalla_16",
+        "nombre": "🌠 Decimosexta medalla",
+        "descripcion": "Consigue la medalla nº 16 de Céfira.",
+        "tipo": "medalla",
+        "requisitoIndice": 15,
         "imagen": null
       },
       {
@@ -1884,6 +1988,104 @@
         "imagen": null
       },
       {
+        "id": "opalo_astrem",
+        "nombre": "🌠 Estrella caída",
+        "descripcion": "Consigue a Astrem.",
+        "tipo": "pokedexEspecie",
+        "especieNombre": "ASTREM",
+        "imagen": null
+      },
+      {
+        "id": "opalo_pajaros",
+        "nombre": "🦅 Cielos de Kanto",
+        "descripcion": "Consigue a Articuno, Zapdos y Moltres.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "144",
+          "145",
+          "146"
+        ],
+        "especiesNombres": [
+          "ARTICUNO",
+          "ZAPDOS",
+          "MOLTRES"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "opalo_bestias",
+        "nombre": "🐕 Bestias errantes",
+        "descripcion": "Consigue a Raikou, Entei y Suicune.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "243",
+          "244",
+          "245"
+        ],
+        "especiesNombres": [
+          "RAIKOU",
+          "ENTEI",
+          "SUICUNE"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "opalo_guardianes_mar_cielo",
+        "nombre": "🌈 Alas del arcoíris",
+        "descripcion": "Consigue a Lugia y a Ho-Oh.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "249",
+          "250"
+        ],
+        "especiesNombres": [
+          "LUGIA",
+          "HO-OH"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "opalo_rayquaza",
+        "nombre": "🐉 Señor del cielo",
+        "descripcion": "Consigue a Rayquaza.",
+        "tipo": "pokedexEspecie",
+        "especie": "384",
+        "especieNombre": "RAYQUAZA",
+        "imagen": null
+      },
+      {
+        "id": "opalo_creacion",
+        "nombre": "⏱️ Tiempo, espacio y caos",
+        "descripcion": "Consigue a Dialga, Palkia y Giratina.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "483",
+          "484",
+          "487"
+        ],
+        "especiesNombres": [
+          "DIALGA",
+          "PALKIA",
+          "GIRATINA"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "opalo_galar_legendarios",
+        "nombre": "🛡️ Espada y escudo",
+        "descripcion": "Consigue a Zacian y a Zamazenta.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "888",
+          "889"
+        ],
+        "especiesNombres": [
+          "ZACIAN",
+          "ZAMAZENTA"
+        ],
+        "imagen": null
+      },
+      {
         "id": "opalo_dex_50",
         "nombre": "📓 Cuaderno de campo",
         "descripcion": "Registra 50 especies en tu Pokédex.",
@@ -1904,7 +2106,7 @@
         "nombre": "🏺 Enciclopedia viviente",
         "descripcion": "Completa la Pokédex de Pokémon Ópalo.",
         "tipo": "pokedexOwned",
-        "requisito": 928,
+        "requisito": 898,
         "imagen": null
       },
       {
@@ -1921,14 +2123,6 @@
         "descripcion": "Consigue tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
-        "imagen": null
-      },
-      {
-        "id": "opalo_dinero",
-        "nombre": "💰 Cofre del forajido",
-        "descripcion": "Reúne una gran fortuna durante tu viaje.",
-        "tipo": "dineroMinimo",
-        "requisito": 100000,
         "imagen": null
       },
       {
