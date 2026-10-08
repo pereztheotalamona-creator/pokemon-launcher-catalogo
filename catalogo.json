@@ -2144,8 +2144,15 @@
   {
     "id": 9,
     "nombre": "Pokémon Titán",
-    "portada": "",
-    "capturas": [],
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-logo.jpg",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-preview-1.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-preview-2.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-preview-3.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-preview-4.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-preview-5.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-preview-6.jpg"
+    ],
     "banner": "",
     "idiomas": [
       "Español"
