@@ -2390,8 +2390,16 @@
   {
     "id": 11,
     "nombre": "Pokémon Shattered Dimensions",
-    "portada": "",
-    "capturas": [],
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-logo.png",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-preview-5.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-preview-6.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-preview-7.png"
+    ],
     "banner": "",
     "idiomas": [
       "Español",
