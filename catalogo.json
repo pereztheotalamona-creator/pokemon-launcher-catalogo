@@ -1315,7 +1315,7 @@
         "nombre": "🤠 Compañero de ruta",
         "descripcion": "Recibe a tu primer Pokémon.",
         "tipo": "primerPokemonReal",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/1.jpg"
       },
       {
         "id": "opalo_primera_victoria",
@@ -1323,7 +1323,7 @@
         "descripcion": "Derrota al primer Pokémon salvaje que se cruce en tu camino.",
         "tipo": "switch",
         "requisitoSwitch": 67,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/2.jpg"
       },
       {
         "id": "opalo_primera_captura",
@@ -1331,7 +1331,7 @@
         "descripcion": "Captura tu primer Pokémon salvaje.",
         "tipo": "capturasReales",
         "requisito": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/3.jpg"
       },
       {
         "id": "opalo_gatling_primera",
@@ -1339,7 +1339,7 @@
         "descripcion": "Enfréntate por primera vez a Team Gatling.",
         "tipo": "switch",
         "requisitoSwitch": 75,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/4.jpg"
       },
       {
         "id": "opalo_gala_primera",
@@ -1347,7 +1347,7 @@
         "descripcion": "Cruza tu primer combate con Gala.",
         "tipo": "switch",
         "requisitoSwitch": 80,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/5.jpg"
       },
       {
         "id": "opalo_motin",
@@ -1355,7 +1355,7 @@
         "descripcion": "Vive el motín de la prisión de Calígine.",
         "tipo": "switch",
         "requisitoSwitch": 225,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/6.jpg"
       },
       {
         "id": "opalo_prision",
@@ -1363,7 +1363,7 @@
         "descripcion": "Cierra el episodio de la prisión de Calígine.",
         "tipo": "switch",
         "requisitoSwitch": 232,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/7.jpg"
       },
       {
         "id": "opalo_puerta_gatling",
@@ -1371,7 +1371,7 @@
         "descripcion": "Llega a la Base Gatling.",
         "tipo": "switch",
         "requisitoSwitch": 330,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/8.jpg"
       },
       {
         "id": "opalo_caja_fuerte",
@@ -1379,7 +1379,7 @@
         "descripcion": "Abre la caja fuerte de la Base Gatling.",
         "tipo": "switch",
         "requisitoSwitch": 341,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/9.jpg"
       },
       {
         "id": "opalo_rescate_gatling",
@@ -1387,7 +1387,7 @@
         "descripcion": "Completa el rescate en la Base Gatling.",
         "tipo": "switch",
         "requisitoSwitch": 626,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/10.jpg"
       },
       {
         "id": "opalo_medalla_1",
@@ -1395,7 +1395,7 @@
         "descripcion": "Consigue la primera medalla de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 0,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/11.jpg"
       },
       {
         "id": "opalo_medalla_2",
@@ -1403,7 +1403,7 @@
         "descripcion": "Consigue la medalla nº 2 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/12.jpg"
       },
       {
         "id": "opalo_medalla_3",
@@ -1411,7 +1411,7 @@
         "descripcion": "Consigue la medalla nº 3 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/13.jpg"
       },
       {
         "id": "opalo_medalla_4",
@@ -1419,7 +1419,7 @@
         "descripcion": "Consigue la medalla nº 4 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 3,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/14.jpg"
       },
       {
         "id": "opalo_medalla_5",
@@ -1427,7 +1427,7 @@
         "descripcion": "Consigue la medalla nº 5 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/15.jpg"
       },
       {
         "id": "opalo_medalla_6",
@@ -1435,7 +1435,7 @@
         "descripcion": "Consigue la medalla nº 6 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 5,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/16.jpg"
       },
       {
         "id": "opalo_medalla_7",
@@ -1443,7 +1443,7 @@
         "descripcion": "Consigue la medalla nº 7 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 6,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/17.jpg"
       },
       {
         "id": "opalo_medalla_8",
@@ -1451,7 +1451,7 @@
         "descripcion": "Consigue la medalla nº 8 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 7,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/18.jpg"
       },
       {
         "id": "opalo_medalla_9",
@@ -1459,7 +1459,7 @@
         "descripcion": "Consigue la medalla nº 9 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 8,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/19.jpg"
       },
       {
         "id": "opalo_medalla_10",
@@ -1467,7 +1467,7 @@
         "descripcion": "Consigue la medalla nº 10 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 9,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/20.jpg"
       },
       {
         "id": "opalo_medalla_11",
@@ -1475,7 +1475,7 @@
         "descripcion": "Consigue la medalla nº 11 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 10,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/21.jpg"
       },
       {
         "id": "opalo_medalla_12",
@@ -1483,7 +1483,7 @@
         "descripcion": "Consigue la medalla nº 12 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 11,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/22.jpg"
       },
       {
         "id": "opalo_medalla_13",
@@ -1491,7 +1491,7 @@
         "descripcion": "Consigue la medalla nº 13 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 12,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/23.jpg"
       },
       {
         "id": "opalo_medalla_14",
@@ -1499,7 +1499,7 @@
         "descripcion": "Consigue la medalla nº 14 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 13,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/24.jpg"
       },
       {
         "id": "opalo_medalla_15",
@@ -1507,7 +1507,7 @@
         "descripcion": "Consigue la medalla nº 15 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 14,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/25.jpg"
       },
       {
         "id": "opalo_medalla_16",
@@ -1515,7 +1515,7 @@
         "descripcion": "Consigue la medalla nº 16 de Céfira.",
         "tipo": "medalla",
         "requisitoIndice": 15,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/26.jpg"
       },
       {
         "id": "opalo_ocho_medallas",
@@ -1523,7 +1523,7 @@
         "descripcion": "Reúne 8 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 8,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/27.jpg"
       },
       {
         "id": "opalo_dieciseis_medallas",
@@ -1531,7 +1531,7 @@
         "descripcion": "Reúne las 16 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 16,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/28.jpg"
       },
       {
         "id": "opalo_liga_fase2",
@@ -1539,7 +1539,7 @@
         "descripcion": "Supera la segunda fase de la Liga.",
         "tipo": "switch",
         "requisitoSwitch": 452,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/29.jpg"
       },
       {
         "id": "opalo_liga_aspirantes",
@@ -1556,7 +1556,7 @@
           450,
           451
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/30.jpg"
       },
       {
         "id": "opalo_liga_ebano",
@@ -1564,7 +1564,7 @@
         "descripcion": "Vence a Ébano en la final de la Liga.",
         "tipo": "switch",
         "requisitoSwitch": 461,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/31.jpg"
       },
       {
         "id": "opalo_boda",
@@ -1572,7 +1572,7 @@
         "descripcion": "Asiste a la boda de Vera y Apolo.",
         "tipo": "switch",
         "requisitoSwitch": 453,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/32.jpg"
       },
       {
         "id": "opalo_segunda_region",
@@ -1580,7 +1580,7 @@
         "descripcion": "Viaja a la segunda región.",
         "tipo": "switch",
         "requisitoSwitch": 462,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/33.jpg"
       },
       {
         "id": "opalo_mision_comisaria",
@@ -1588,7 +1588,7 @@
         "descripcion": "Completa los encargos de la comisaría.",
         "tipo": "switch",
         "requisitoSwitch": 276,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/34.jpg"
       },
       {
         "id": "opalo_mision_salud",
@@ -1596,7 +1596,7 @@
         "descripcion": "Completa los encargos del centro de salud.",
         "tipo": "switch",
         "requisitoSwitch": 190,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/35.jpg"
       },
       {
         "id": "opalo_mision_nativos",
@@ -1604,7 +1604,7 @@
         "descripcion": "Completa los encargos de los nativos.",
         "tipo": "switch",
         "requisitoSwitch": 197,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/36.jpg"
       },
       {
         "id": "opalo_mision_bosque",
@@ -1612,7 +1612,7 @@
         "descripcion": "Completa la misión del bosque.",
         "tipo": "switch",
         "requisitoSwitch": 261,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/37.jpg"
       },
       {
         "id": "opalo_mision_masterball",
@@ -1620,7 +1620,7 @@
         "descripcion": "Completa la misión de la Master Ball.",
         "tipo": "switch",
         "requisitoSwitch": 302,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/38.jpg"
       },
       {
         "id": "opalo_mision_boreal",
@@ -1628,7 +1628,7 @@
         "descripcion": "Completa las misiones de Ciudad Boreal.",
         "tipo": "switch",
         "requisitoSwitch": 473,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/39.jpg"
       },
       {
         "id": "opalo_mision_pasado",
@@ -1636,7 +1636,7 @@
         "descripcion": "Completa la misión del pasado.",
         "tipo": "switch",
         "requisitoSwitch": 587,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/40.jpg"
       },
       {
         "id": "opalo_mision_megas",
@@ -1644,7 +1644,7 @@
         "descripcion": "Completa la misión de las Megaevoluciones.",
         "tipo": "switch",
         "requisitoSwitch": 705,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/41.jpg"
       },
       {
         "id": "opalo_mision_remington",
@@ -1652,7 +1652,7 @@
         "descripcion": "Completa los encargos de Remington.",
         "tipo": "switch",
         "requisitoSwitch": 909,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/42.jpg"
       },
       {
         "id": "opalo_huevo_delibird",
@@ -1660,7 +1660,7 @@
         "descripcion": "Consigue el huevo de Delibird.",
         "tipo": "switch",
         "requisitoSwitch": 337,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/43.jpg"
       },
       {
         "id": "opalo_celebi",
@@ -1668,7 +1668,7 @@
         "descripcion": "Vive el encuentro especial con Celebi.",
         "tipo": "switch",
         "requisitoSwitch": 374,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/44.jpg"
       },
       {
         "id": "opalo_snorlax",
@@ -1676,7 +1676,7 @@
         "descripcion": "Despierta al Snorlax.",
         "tipo": "switch",
         "requisitoSwitch": 517,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/45.jpg"
       },
       {
         "id": "opalo_wailord",
@@ -1684,7 +1684,7 @@
         "descripcion": "Encuentra al Wailord albino.",
         "tipo": "switch",
         "requisitoSwitch": 482,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/46.jpg"
       },
       {
         "id": "opalo_mew_camion",
@@ -1692,7 +1692,7 @@
         "descripcion": "Encuentra a Mew en el camión.",
         "tipo": "switch",
         "requisitoSwitch": 834,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/47.jpg"
       },
       {
         "id": "opalo_ermitano",
@@ -1700,7 +1700,7 @@
         "descripcion": "Completa el recorrido del ermitaño.",
         "tipo": "switch",
         "requisitoSwitch": 581,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/48.jpg"
       },
       {
         "id": "opalo_galar_fosiles",
@@ -1713,7 +1713,7 @@
           747,
           748
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/49.jpg"
       },
       {
         "id": "opalo_alonzo",
@@ -1721,7 +1721,7 @@
         "descripcion": "Vence a Alonzo.",
         "tipo": "switch",
         "requisitoSwitch": 375,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/50.jpg"
       },
       {
         "id": "opalo_maple",
@@ -1729,7 +1729,7 @@
         "descripcion": "Derrota a Maple.",
         "tipo": "switch",
         "requisitoSwitch": 552,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/51.jpg"
       },
       {
         "id": "opalo_verbena",
@@ -1737,7 +1737,7 @@
         "descripcion": "Derrota a Verbena.",
         "tipo": "switch",
         "requisitoSwitch": 531,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/52.jpg"
       },
       {
         "id": "opalo_bruja",
@@ -1745,7 +1745,7 @@
         "descripcion": "Derrota a la bruja del bosque.",
         "tipo": "switch",
         "requisitoSwitch": 570,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/53.jpg"
       },
       {
         "id": "opalo_mosh",
@@ -1753,7 +1753,7 @@
         "descripcion": "Vence a Mosh.",
         "tipo": "switch",
         "requisitoSwitch": 597,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/54.jpg"
       },
       {
         "id": "opalo_papaloto",
@@ -1761,7 +1761,7 @@
         "descripcion": "Vence a Papa Loto.",
         "tipo": "switch",
         "requisitoSwitch": 781,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/55.jpg"
       },
       {
         "id": "opalo_saloon",
@@ -1769,7 +1769,7 @@
         "descripcion": "Supera el combate del saloon.",
         "tipo": "switch",
         "requisitoSwitch": 662,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/56.jpg"
       },
       {
         "id": "opalo_taller",
@@ -1777,7 +1777,7 @@
         "descripcion": "Supera el taller siseante.",
         "tipo": "switch",
         "requisitoSwitch": 658,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/57.jpg"
       },
       {
         "id": "opalo_miedos",
@@ -1785,7 +1785,7 @@
         "descripcion": "Vence a tus miedos.",
         "tipo": "switch",
         "requisitoSwitch": 721,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/58.jpg"
       },
       {
         "id": "opalo_cayena",
@@ -1793,7 +1793,7 @@
         "descripcion": "Derrota a Cayena.",
         "tipo": "switch",
         "requisitoSwitch": 731,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/59.jpg"
       },
       {
         "id": "opalo_zalea",
@@ -1801,7 +1801,7 @@
         "descripcion": "Disputa el combate contra Zalea.",
         "tipo": "switch",
         "requisitoSwitch": 742,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/60.jpg"
       },
       {
         "id": "opalo_amaranta",
@@ -1809,7 +1809,7 @@
         "descripcion": "Vence a Amaranta.",
         "tipo": "switch",
         "requisitoSwitch": 776,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/61.jpg"
       },
       {
         "id": "opalo_adian",
@@ -1817,7 +1817,7 @@
         "descripcion": "Vence a Adian en el final.",
         "tipo": "switch",
         "requisitoSwitch": 758,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/62.jpg"
       },
       {
         "id": "opalo_rojo",
@@ -1825,7 +1825,7 @@
         "descripcion": "Vence a Rojo en la Estepa.",
         "tipo": "switch",
         "requisitoSwitch": 844,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/63.jpg"
       },
       {
         "id": "opalo_gran_espiritu",
@@ -1833,7 +1833,7 @@
         "descripcion": "Vence al Gran Espíritu.",
         "tipo": "switch",
         "requisitoSwitch": 787,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/64.jpg"
       },
       {
         "id": "opalo_espiritu_destruido",
@@ -1841,7 +1841,7 @@
         "descripcion": "Presencia la destrucción del Gran Espíritu.",
         "tipo": "switch",
         "requisitoSwitch": 789,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/65.jpg"
       },
       {
         "id": "opalo_area151",
@@ -1849,7 +1849,7 @@
         "descripcion": "Entra en el Área 151.",
         "tipo": "switch",
         "requisitoSwitch": 795,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/66.jpg"
       },
       {
         "id": "opalo_monolitos",
@@ -1857,7 +1857,7 @@
         "descripcion": "Activa los monolitos del Área 151.",
         "tipo": "switch",
         "requisitoSwitch": 814,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/67.jpg"
       },
       {
         "id": "opalo_vinculo",
@@ -1865,7 +1865,7 @@
         "descripcion": "Consigue el Vínculo Supremo.",
         "tipo": "switch",
         "requisitoSwitch": 831,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/68.jpg"
       },
       {
         "id": "opalo_arceus",
@@ -1873,7 +1873,7 @@
         "descripcion": "Presencia la escena de Arceus.",
         "tipo": "switch",
         "requisitoSwitch": 836,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/69.jpg"
       },
       {
         "id": "opalo_atolon",
@@ -1881,7 +1881,7 @@
         "descripcion": "Llega al Atolón Olvidado.",
         "tipo": "switch",
         "requisitoSwitch": 837,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/70.jpg"
       },
       {
         "id": "opalo_mega_astrem",
@@ -1889,7 +1889,7 @@
         "descripcion": "Megaevoluciona a Astrem.",
         "tipo": "switch",
         "requisitoSwitch": 849,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/71.jpg"
       },
       {
         "id": "opalo_apolo",
@@ -1897,7 +1897,7 @@
         "descripcion": "Vence a Apolo.",
         "tipo": "switch",
         "requisitoSwitch": 847,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/72.jpg"
       },
       {
         "id": "opalo_unktena_capturado",
@@ -1905,7 +1905,7 @@
         "descripcion": "Captura a Unktena.",
         "tipo": "switch",
         "requisitoSwitch": 862,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/73.jpg"
       },
       {
         "id": "opalo_unktena_vencido",
@@ -1913,7 +1913,7 @@
         "descripcion": "Termina tu combate contra Unktena.",
         "tipo": "switch",
         "requisitoSwitch": 863,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/74.jpg"
       },
       {
         "id": "opalo_final_apolo",
@@ -1921,7 +1921,7 @@
         "descripcion": "Vive el final de Apolo.",
         "tipo": "switch",
         "requisitoSwitch": 864,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/75.jpg"
       },
       {
         "id": "opalo_final_gala",
@@ -1929,7 +1929,7 @@
         "descripcion": "Vive el final de Gala.",
         "tipo": "switch",
         "requisitoSwitch": 865,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/76.jpg"
       },
       {
         "id": "opalo_memorial",
@@ -1937,7 +1937,7 @@
         "descripcion": "Visita las piedras del memorial.",
         "tipo": "switch",
         "requisitoSwitch": 867,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/77.jpg"
       },
       {
         "id": "opalo_juego_completado",
@@ -1945,7 +1945,7 @@
         "descripcion": "Completa la aventura de Pokémon Ópalo.",
         "tipo": "switch",
         "requisitoSwitch": 869,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/78.jpg"
       },
       {
         "id": "opalo_revancha_mundanez",
@@ -1953,7 +1953,7 @@
         "descripcion": "Cumple la revancha contra Mundánez.",
         "tipo": "switch",
         "requisitoSwitch": 870,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/79.jpg"
       },
       {
         "id": "opalo_revancha_gala",
@@ -1961,7 +1961,7 @@
         "descripcion": "Disputa la revancha con Gala.",
         "tipo": "switch",
         "requisitoSwitch": 876,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/80.jpg"
       },
       {
         "id": "opalo_emblema",
@@ -1969,7 +1969,7 @@
         "descripcion": "Recibe el emblema del Coliseo Astral.",
         "tipo": "switch",
         "requisitoSwitch": 874,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/81.jpg"
       },
       {
         "id": "opalo_todos_monolitos",
@@ -1985,7 +1985,7 @@
           828,
           829
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/82.jpg"
       },
       {
         "id": "opalo_astrem",
@@ -1993,7 +1993,7 @@
         "descripcion": "Consigue a Astrem.",
         "tipo": "pokedexEspecie",
         "especieNombre": "ASTREM",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/83.jpg"
       },
       {
         "id": "opalo_pajaros",
@@ -2010,7 +2010,7 @@
           "ZAPDOS",
           "MOLTRES"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/84.jpg"
       },
       {
         "id": "opalo_bestias",
@@ -2027,7 +2027,7 @@
           "ENTEI",
           "SUICUNE"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/85.jpg"
       },
       {
         "id": "opalo_guardianes_mar_cielo",
@@ -2042,7 +2042,7 @@
           "LUGIA",
           "HO-OH"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/86.jpg"
       },
       {
         "id": "opalo_rayquaza",
@@ -2051,7 +2051,7 @@
         "tipo": "pokedexEspecie",
         "especie": "384",
         "especieNombre": "RAYQUAZA",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/87.jpg"
       },
       {
         "id": "opalo_creacion",
@@ -2068,7 +2068,7 @@
           "PALKIA",
           "GIRATINA"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/88.jpg"
       },
       {
         "id": "opalo_galar_legendarios",
@@ -2083,7 +2083,7 @@
           "ZACIAN",
           "ZAMAZENTA"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/89.jpg"
       },
       {
         "id": "opalo_dex_50",
@@ -2091,7 +2091,7 @@
         "descripcion": "Registra 50 especies en tu Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 50,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/90.jpg"
       },
       {
         "id": "opalo_dex_300",
@@ -2099,7 +2099,7 @@
         "descripcion": "Registra 300 especies en tu Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 300,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/91.jpg"
       },
       {
         "id": "opalo_dex_completa",
@@ -2107,7 +2107,7 @@
         "descripcion": "Completa la Pokédex de Pokémon Ópalo.",
         "tipo": "pokedexOwned",
         "requisito": 898,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/92.jpg"
       },
       {
         "id": "opalo_nivel_100",
@@ -2115,7 +2115,7 @@
         "descripcion": "Lleva a un Pokémon al nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/93.jpg"
       },
       {
         "id": "opalo_shiny",
@@ -2123,7 +2123,7 @@
         "descripcion": "Consigue tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/logros/94.jpg"
       },
       {
         "id": "opalo_leyenda",
