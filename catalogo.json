@@ -434,163 +434,6 @@
     "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/banner%20pokemon%20a%C3%B1il.jpg"
   },
   {
-    "id": 1,
-    "nombre": "Pokémon Rejuvenation",
-    "portada": "https://placehold.co/600x300/1a3450/93a9c2?text=Rejuvenation",
-    "capturas": [
-      "https://placehold.co/200x130/142b44/93a9c2?text=1",
-      "https://placehold.co/200x130/142b44/93a9c2?text=2",
-      "https://placehold.co/200x130/142b44/93a9c2?text=3",
-      "https://placehold.co/200x130/142b44/93a9c2?text=4"
-    ],
-    "descripcion": "Un fangame oscuro y complejo con una historia madura y un sistema de dificultad Intense.",
-    "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
-    "categorias": [
-      "RPG",
-      "Aventura",
-      "Fan Game"
-    ],
-    "tiempoEstimado": "30 - 50 horas",
-    "desarrollador": "Rejuvenation Team",
-    "lanzamiento": "2023",
-    "logros": [
-      {
-        "id": "primeros_pasos",
-        "nombre": "Primeros pasos",
-        "descripcion": "Jugá al menos 1 minuto",
-        "requisitoMinutos": 1
-      },
-      {
-        "id": "entrenador_camino",
-        "nombre": "Entrenador en camino",
-        "descripcion": "Acumulá 5 minutos jugados",
-        "requisitoMinutos": 5
-      },
-      {
-        "id": "explorador",
-        "nombre": "Explorador",
-        "descripcion": "Acumulá 15 minutos jugados",
-        "requisitoMinutos": 15
-      },
-      {
-        "id": "coleccionista",
-        "nombre": "Coleccionista",
-        "descripcion": "Acumulá 30 minutos jugados",
-        "requisitoMinutos": 30
-      },
-      {
-        "id": "veterano",
-        "nombre": "Veterano",
-        "descripcion": "Acumulá 60 minutos jugados",
-        "requisitoMinutos": 60
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "nombre": "Pokémon Insurgence",
-    "portada": "https://placehold.co/600x300/1a3450/93a9c2?text=Insurgence",
-    "capturas": [
-      "https://placehold.co/200x130/142b44/93a9c2?text=1",
-      "https://placehold.co/200x130/142b44/93a9c2?text=2",
-      "https://placehold.co/200x130/142b44/93a9c2?text=3",
-      "https://placehold.co/200x130/142b44/93a9c2?text=4"
-    ],
-    "descripcion": "Introduce las Pokémon Delta, versiones alternativas de especies existentes, y una historia centrada en cultos.",
-    "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
-    "categorias": [
-      "RPG",
-      "Aventura"
-    ],
-    "tiempoEstimado": "25 - 40 horas",
-    "desarrollador": "Insurgence Team",
-    "lanzamiento": "2015",
-    "logros": [
-      {
-        "id": "primeros_pasos",
-        "nombre": "Primeros pasos",
-        "descripcion": "Jugá al menos 1 minuto",
-        "requisitoMinutos": 1
-      },
-      {
-        "id": "entrenador_camino",
-        "nombre": "Entrenador en camino",
-        "descripcion": "Acumulá 5 minutos jugados",
-        "requisitoMinutos": 5
-      },
-      {
-        "id": "explorador",
-        "nombre": "Explorador",
-        "descripcion": "Acumulá 15 minutos jugados",
-        "requisitoMinutos": 15
-      },
-      {
-        "id": "coleccionista",
-        "nombre": "Coleccionista",
-        "descripcion": "Acumulá 30 minutos jugados",
-        "requisitoMinutos": 30
-      },
-      {
-        "id": "veterano",
-        "nombre": "Veterano",
-        "descripcion": "Acumulá 60 minutos jugados",
-        "requisitoMinutos": 60
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "nombre": "Pokémon Uranium",
-    "portada": "https://placehold.co/600x300/1a3450/93a9c2?text=Uranium",
-    "capturas": [
-      "https://placehold.co/200x130/142b44/93a9c2?text=1",
-      "https://placehold.co/200x130/142b44/93a9c2?text=2",
-      "https://placehold.co/200x130/142b44/93a9c2?text=3",
-      "https://placehold.co/200x130/142b44/93a9c2?text=4"
-    ],
-    "descripcion": "Un fangame con más de 190 Pokémon fanmade y un nuevo tipo: Nuclear.",
-    "urlDescarga": "https://github.com/octocat/Hello-World/archive/refs/heads/master.zip",
-    "categorias": [
-      "RPG",
-      "Fan Game"
-    ],
-    "tiempoEstimado": "20 - 30 horas",
-    "desarrollador": "Uranium Team",
-    "lanzamiento": "2016",
-    "logros": [
-      {
-        "id": "primeros_pasos",
-        "nombre": "Primeros pasos",
-        "descripcion": "Jugá al menos 1 minuto",
-        "requisitoMinutos": 1
-      },
-      {
-        "id": "entrenador_camino",
-        "nombre": "Entrenador en camino",
-        "descripcion": "Acumulá 5 minutos jugados",
-        "requisitoMinutos": 5
-      },
-      {
-        "id": "explorador",
-        "nombre": "Explorador",
-        "descripcion": "Acumulá 15 minutos jugados",
-        "requisitoMinutos": 15
-      },
-      {
-        "id": "coleccionista",
-        "nombre": "Coleccionista",
-        "descripcion": "Acumulá 30 minutos jugados",
-        "requisitoMinutos": 30
-      },
-      {
-        "id": "veterano",
-        "nombre": "Veterano",
-        "descripcion": "Acumulá 60 minutos jugados",
-        "requisitoMinutos": 60
-      }
-    ]
-  },
-  {
     "id": 5,
     "nombre": "Pokémon Z",
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-logo.png",
@@ -2167,37 +2010,469 @@
     }
   },
   {
-    "id": 7,
-    "nombre": "Pokémon Infinite Fusion",
+    "id": 8,
+    "nombre": "Pokémon Iberia",
     "portada": "",
     "capturas": [],
+    "banner": "",
     "idiomas": [
-      "Inglés"
+      "Español"
     ],
-    "resumen": "Fusioná dos Pokémon cualesquiera en uno nuevo: más de 220.000 combinaciones con sprites hechos por la comunidad.",
-    "descripcion": "Pokémon Infinite Fusion es un fan game donde podés fusionar dos Pokémon distintos y obtener un híbrido con el aspecto, los tipos y las habilidades de ambos, y el orden de cabeza y cuerpo cambia el resultado.\n\nRecorrés una aventura al estilo clásico, con exploración, combates y armado de equipo, pero con una variedad de fusiones enorme y un montón de sprites creados por la comunidad. Está hecho con RPG Maker XP y Pokémon Essentials, y es uno de los fan games más rejugables.",
+    "version": "2.10",
+    "resumen": "Una parodia hilarante de España: recorré la península de Albacete a las islas, con referencias a la cultura popular en cada esquina.",
+    "descripcion": "Pokémon Iberia es un fangame en español de EricLostie, el mismo creador de Pokémon Titán, Ópalo, Añil y Z. Toda la aventura transcurre en España y otros rincones de la Península Ibérica, con un tono humorístico y muchísimas referencias a su historia y cultura popular.\n\nArrancás en Albacete como un joven que lleva años estancado en un curso de jardinería, y salís a recorrer la región como entrenador. Incluye Pokémon con formas Iberia, personajes y equipos propios, y una dificultad más alta que los juegos oficiales. Hecho con RPG Maker XP y Pokémon Essentials.",
     "caracteristicas": [
-      "Más de 220.000 combinaciones posibles de fusión",
-      "El orden de la fusión (cabeza y cuerpo) cambia el resultado",
-      "Sprites de fusiones hechos por la comunidad",
-      "Personalización de personaje y nuevos Pokémon",
-      "Alto valor de rejugabilidad"
+      "Ambientado en España y la Península Ibérica, con humor y parodia",
+      "Pokémon con formas Iberia hasta la 8.ª generación",
+      "8 gimnasios y Liga Pokémon",
+      "Historia principal de unas 30 horas con dificultad elevada",
+      "Personajes, equipos y referencias propias"
     ],
     "importante": [
-      "Es un juego gratuito: si alguien lo vende, no está autorizado.",
-      "Está pensado para PC (Windows); en otros sistemas hay que usar adaptaciones.",
-      "Por defecto puede descargar sprites de fusión de internet; existe una versión con sprites precargados para jugar sin conexión.",
-      "El juego está en inglés."
+      "Es un juego gratuito y sin fines de lucro: si alguien lo vende, no está autorizado.",
+      "Funciona en PC (Windows) sin emulador.",
+      "Del mismo creador que Pokémon Titán, Ópalo, Añil y Z.",
+      "Es una parodia satírica con humor ácido y referencias polémicas; no es apto para todos los gustos."
     ],
-    "urlDescarga": "",
+    "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/iberia-v2.10/IBERIA.V2.10.zip",
+    "categorias": [
+      "Fan Game",
+      "RPG",
+      "Aventura",
+      "Humor"
+    ],
+    "tiempoEstimado": "27 - 30 horas",
+    "desarrollador": "EricLostie",
+    "lanzamiento": "2020",
+    "logros": [
+      {
+        "id": "aventura_comienza",
+        "nombre": "🌱 Comienza la aventura",
+        "descripcion": "Recibe tu primer Pokémon.",
+        "tipo": "primerPokemonReal",
+        "imagen": null
+      },
+      {
+        "id": "hazte_con_todos",
+        "nombre": "🎒 Primera captura",
+        "descripcion": "Captura tu primer Pokémon salvaje.",
+        "tipo": "capturasReales",
+        "requisito": 2,
+        "imagen": null
+      },
+      {
+        "id": "mitad_medallas",
+        "nombre": "🏅 A medio camino",
+        "descripcion": "Reúne 4 medallas.",
+        "tipo": "medallasCantidad",
+        "requisito": 4,
+        "imagen": null
+      },
+      {
+        "id": "todas_medallas",
+        "nombre": "🏛️ Colección completa",
+        "descripcion": "Reúne las 8 medallas.",
+        "tipo": "medallasCantidad",
+        "requisito": 8,
+        "imagen": null
+      },
+      {
+        "id": "dex_100",
+        "nombre": "📓 Cuaderno de campo",
+        "descripcion": "Registra 100 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 100,
+        "imagen": null
+      },
+      {
+        "id": "entrenador_veterano",
+        "nombre": "💯 Nivel cumbre",
+        "descripcion": "Lleva a un Pokémon al nivel 100.",
+        "tipo": "nivelMaximo",
+        "requisitoNivel": 100,
+        "imagen": null
+      },
+      {
+        "id": "equipo_perfecto",
+        "nombre": "🛡️ Equipo impecable",
+        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
+        "tipo": "equipoNivelMinimo",
+        "requisitoNivel": 100,
+        "requisitoCantidad": 6,
+        "imagen": null
+      },
+      {
+        "id": "es_diferente",
+        "nombre": "✨ Destello raro",
+        "descripcion": "Consigue tu primer Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 1,
+        "imagen": null
+      },
+      {
+        "id": "cazador_cromatico",
+        "nombre": "🌠 Cazador de destellos",
+        "descripcion": "Reúne 10 Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 10,
+        "imagen": null
+      },
+      {
+        "id": "magnate",
+        "nombre": "🪙 Gran fortuna",
+        "descripcion": "Reúne una gran cantidad de dinero durante tu viaje.",
+        "tipo": "dineroMinimo",
+        "requisito": 100000,
+        "imagen": null
+      },
+      {
+        "id": "leyenda",
+        "nombre": "🌟 LEYENDA",
+        "descripcion": "Desbloquea los otros 10 logros.",
+        "tipo": "todosLosDemas",
+        "imagen": null
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Pokémon Titán",
+    "portada": "",
+    "capturas": [],
+    "banner": "",
+    "idiomas": [
+      "Español"
+    ],
+    "version": "2.10",
+    "resumen": "Dos regiones originales, 16 gimnasios, todos los Pokémon de 7 generaciones y la amenaza del Team Zenit.",
+    "descripcion": "Pokémon Titán es uno de los fangames más importantes de la escena en español, creado por EricLostie. La aventura se sitúa en Aleteia, una de las dos regiones originales del juego (junto a Arjes), en un mundo donde la sociedad teme el aumento de la población Pokémon.\n\nUn grupo de científicos y pensadores, el Team Zenit, aprovecha la situación para ejecutar un plan que romperá la relación entre humanos y Pokémon. Con 16 gimnasios, múltiples misiones secundarias y una dificultad bien calibrada, es una aventura larga y muy completa. Hecho con RPG Maker XP y Pokémon Essentials.",
+    "caracteristicas": [
+      "Regiones originales: Aleteia y Arjes",
+      "16 gimnasios y numerosas misiones secundarias",
+      "Todos los Pokémon de las 7 primeras generaciones",
+      "Tus Pokémon te siguen por el mapa",
+      "Opción de randomizar iniciales y shinylock al empezar"
+    ],
+    "importante": [
+      "Es un juego gratuito y sin fines de lucro: si alguien lo vende, no está autorizado.",
+      "Funciona en PC (Windows) sin emulador.",
+      "Del mismo creador que Pokémon Iberia, Ópalo, Añil y Z."
+    ],
+    "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/titan-v2.10/TITAN.V2.10.zip",
+    "categorias": [
+      "Fan Game",
+      "RPG",
+      "Aventura"
+    ],
+    "tiempoEstimado": "40+ horas (estimado)",
+    "desarrollador": "EricLostie",
+    "lanzamiento": "2019",
+    "logros": [
+      {
+        "id": "aventura_comienza",
+        "nombre": "🌱 Comienza la aventura",
+        "descripcion": "Recibe tu primer Pokémon.",
+        "tipo": "primerPokemonReal",
+        "imagen": null
+      },
+      {
+        "id": "hazte_con_todos",
+        "nombre": "🎒 Primera captura",
+        "descripcion": "Captura tu primer Pokémon salvaje.",
+        "tipo": "capturasReales",
+        "requisito": 2,
+        "imagen": null
+      },
+      {
+        "id": "mitad_medallas",
+        "nombre": "🏅 A medio camino",
+        "descripcion": "Reúne 8 medallas.",
+        "tipo": "medallasCantidad",
+        "requisito": 8,
+        "imagen": null
+      },
+      {
+        "id": "todas_medallas",
+        "nombre": "🏛️ Colección completa",
+        "descripcion": "Reúne las 16 medallas.",
+        "tipo": "medallasCantidad",
+        "requisito": 16,
+        "imagen": null
+      },
+      {
+        "id": "dex_100",
+        "nombre": "📓 Cuaderno de campo",
+        "descripcion": "Registra 100 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 100,
+        "imagen": null
+      },
+      {
+        "id": "entrenador_veterano",
+        "nombre": "💯 Nivel cumbre",
+        "descripcion": "Lleva a un Pokémon al nivel 100.",
+        "tipo": "nivelMaximo",
+        "requisitoNivel": 100,
+        "imagen": null
+      },
+      {
+        "id": "equipo_perfecto",
+        "nombre": "🛡️ Equipo impecable",
+        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
+        "tipo": "equipoNivelMinimo",
+        "requisitoNivel": 100,
+        "requisitoCantidad": 6,
+        "imagen": null
+      },
+      {
+        "id": "es_diferente",
+        "nombre": "✨ Destello raro",
+        "descripcion": "Consigue tu primer Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 1,
+        "imagen": null
+      },
+      {
+        "id": "cazador_cromatico",
+        "nombre": "🌠 Cazador de destellos",
+        "descripcion": "Reúne 10 Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 10,
+        "imagen": null
+      },
+      {
+        "id": "magnate",
+        "nombre": "🪙 Gran fortuna",
+        "descripcion": "Reúne una gran cantidad de dinero durante tu viaje.",
+        "tipo": "dineroMinimo",
+        "requisito": 100000,
+        "imagen": null
+      },
+      {
+        "id": "leyenda",
+        "nombre": "🌟 LEYENDA",
+        "descripcion": "Desbloquea los otros 10 logros.",
+        "tipo": "todosLosDemas",
+        "imagen": null
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "Pokémon Africanvs",
+    "portada": "",
+    "capturas": [],
+    "banner": "",
+    "idiomas": [
+      "Español",
+      "Inglés"
+    ],
+    "version": "Definitive Edition",
+    "resumen": "Viví la Segunda Guerra Púnica en el año 219 a. C.: un cadete de Sagunto contra Aníbal, con figuras históricas como aliadas.",
+    "descripcion": "Pokémon Africanvs es un fangame de EL_GAMID ambientado en la antigua Europa, en el año 219 a. C., durante la Segunda Guerra Púnica. Sos un cadete de Sagunto despertado por el centurión Cepressus mientras Cartago asedia la ciudad.\n\nTras escapar, emprendés un viaje para derrotar líderes de gimnasio, fortalecerte y enfrentarte finalmente a Aníbal, el líder cartaginés. En el camino conocés e interactuás con personajes históricos y forjás alianzas. La Definitive Edition mejora edificios (centros Pokémon, tiendas y gimnasios) y renueva los diálogos con el Pokémon que te sigue. Hecho con RPG Maker XP y Pokémon Essentials.",
+    "caracteristicas": [
+      "Ambientación histórica: Segunda Guerra Púnica (219 a. C.)",
+      "Pokémon de la 1.ª a la 9.ª generación",
+      "Nuevos iniciales Fakemon y formas regionales propias",
+      "Eventos históricos y personajes reales",
+      "Definitive Edition con edificios y diálogos renovados"
+    ],
+    "importante": [
+      "Es un juego gratuito y sin fines de lucro: si alguien lo vende, no está autorizado.",
+      "Funciona en PC (Windows) sin emulador.",
+      "Disponible en español e inglés.",
+      "El archivo de descarga es .rar: hace falta WinRAR o 7-Zip para extraerlo."
+    ],
+    "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/africanvs-definitive/Pokemon.Africanvs.Definitive.Edition.rar",
     "categorias": [
       "Fan Game",
       "RPG",
       "Aventura"
     ],
     "tiempoEstimado": "20 - 30 horas (estimado)",
-    "desarrollador": "Chardub y comunidad",
-    "lanzamiento": "2015",
-    "logros": []
+    "desarrollador": "EL_GAMID",
+    "lanzamiento": "2024",
+    "logros": [
+      {
+        "id": "aventura_comienza",
+        "nombre": "🌱 Comienza la aventura",
+        "descripcion": "Recibe tu primer Pokémon.",
+        "tipo": "primerPokemonReal",
+        "imagen": null
+      },
+      {
+        "id": "hazte_con_todos",
+        "nombre": "🎒 Primera captura",
+        "descripcion": "Captura tu primer Pokémon salvaje.",
+        "tipo": "capturasReales",
+        "requisito": 2,
+        "imagen": null
+      },
+      {
+        "id": "dex_100",
+        "nombre": "📓 Cuaderno de campo",
+        "descripcion": "Registra 100 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 100,
+        "imagen": null
+      },
+      {
+        "id": "entrenador_veterano",
+        "nombre": "💯 Nivel cumbre",
+        "descripcion": "Lleva a un Pokémon al nivel 100.",
+        "tipo": "nivelMaximo",
+        "requisitoNivel": 100,
+        "imagen": null
+      },
+      {
+        "id": "equipo_perfecto",
+        "nombre": "🛡️ Equipo impecable",
+        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
+        "tipo": "equipoNivelMinimo",
+        "requisitoNivel": 100,
+        "requisitoCantidad": 6,
+        "imagen": null
+      },
+      {
+        "id": "es_diferente",
+        "nombre": "✨ Destello raro",
+        "descripcion": "Consigue tu primer Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 1,
+        "imagen": null
+      },
+      {
+        "id": "cazador_cromatico",
+        "nombre": "🌠 Cazador de destellos",
+        "descripcion": "Reúne 10 Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 10,
+        "imagen": null
+      },
+      {
+        "id": "magnate",
+        "nombre": "🪙 Gran fortuna",
+        "descripcion": "Reúne una gran cantidad de dinero durante tu viaje.",
+        "tipo": "dineroMinimo",
+        "requisito": 100000,
+        "imagen": null
+      },
+      {
+        "id": "leyenda",
+        "nombre": "🌟 LEYENDA",
+        "descripcion": "Desbloquea los otros 8 logros.",
+        "tipo": "todosLosDemas",
+        "imagen": null
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Pokémon Shattered Dimensions",
+    "portada": "",
+    "capturas": [],
+    "banner": "",
+    "idiomas": [
+      "Español",
+      "Inglés"
+    ],
+    "version": "1.2.0",
+    "resumen": "Viajes entre dimensiones, dos regiones por explorar y gráficos fieles a la tercera generación.",
+    "descripcion": "Pokémon Shattered Dimensions es un fangame de Seeth con una historia nueva sobre viajes entre dimensiones. Una familia se muda a un lugar nuevo y dos hermanos inician un desafío: reunir 9 pases entregados en pequeños torneos de las ciudades para participar en un gran festival.\n\nIncluye dos regiones para explorar y una selva gigante desconocida, gráficos adaptados al estilo de Game Boy Advance, habilidades ocultas, megaevoluciones y archivos escritos por personas que estuvieron allí antes, que revelan lo que está pasando. Hecho con RPG Maker XP y Pokémon Essentials.",
+    "caracteristicas": [
+      "Historia nueva con viajes entre dimensiones",
+      "Dos regiones y una selva desconocida",
+      "Gráficos inspirados en la 3.ª generación (GBA)",
+      "Megaevoluciones y Pokémon hasta la 8.ª generación",
+      "Archivos escritos que van revelando la trama"
+    ],
+    "importante": [
+      "Es un juego gratuito y sin fines de lucro: si alguien lo vende, no está autorizado.",
+      "Funciona en PC (Windows) sin emulador.",
+      "Disponible en español e inglés.",
+      "El archivo de descarga es .rar: hace falta WinRAR o 7-Zip para extraerlo."
+    ],
+    "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/shattereddim-v1.2.0/Pokemon.Shattered.Dimensions.1.2.0.rar",
+    "categorias": [
+      "Fan Game",
+      "RPG",
+      "Aventura"
+    ],
+    "tiempoEstimado": "20 - 30 horas (estimado)",
+    "desarrollador": "Seeth",
+    "lanzamiento": "2022",
+    "logros": [
+      {
+        "id": "aventura_comienza",
+        "nombre": "🌱 Comienza la aventura",
+        "descripcion": "Recibe tu primer Pokémon.",
+        "tipo": "primerPokemonReal",
+        "imagen": null
+      },
+      {
+        "id": "hazte_con_todos",
+        "nombre": "🎒 Primera captura",
+        "descripcion": "Captura tu primer Pokémon salvaje.",
+        "tipo": "capturasReales",
+        "requisito": 2,
+        "imagen": null
+      },
+      {
+        "id": "dex_100",
+        "nombre": "📓 Cuaderno de campo",
+        "descripcion": "Registra 100 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 100,
+        "imagen": null
+      },
+      {
+        "id": "entrenador_veterano",
+        "nombre": "💯 Nivel cumbre",
+        "descripcion": "Lleva a un Pokémon al nivel 100.",
+        "tipo": "nivelMaximo",
+        "requisitoNivel": 100,
+        "imagen": null
+      },
+      {
+        "id": "equipo_perfecto",
+        "nombre": "🛡️ Equipo impecable",
+        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
+        "tipo": "equipoNivelMinimo",
+        "requisitoNivel": 100,
+        "requisitoCantidad": 6,
+        "imagen": null
+      },
+      {
+        "id": "es_diferente",
+        "nombre": "✨ Destello raro",
+        "descripcion": "Consigue tu primer Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 1,
+        "imagen": null
+      },
+      {
+        "id": "cazador_cromatico",
+        "nombre": "🌠 Cazador de destellos",
+        "descripcion": "Reúne 10 Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 10,
+        "imagen": null
+      },
+      {
+        "id": "magnate",
+        "nombre": "🪙 Gran fortuna",
+        "descripcion": "Reúne una gran cantidad de dinero durante tu viaje.",
+        "tipo": "dineroMinimo",
+        "requisito": 100000,
+        "imagen": null
+      },
+      {
+        "id": "leyenda",
+        "nombre": "🌟 LEYENDA",
+        "descripcion": "Desbloquea los otros 8 logros.",
+        "tipo": "todosLosDemas",
+        "imagen": null
+      }
+    ]
   }
 ]
