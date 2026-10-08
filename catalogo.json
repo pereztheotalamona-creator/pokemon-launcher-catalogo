@@ -2274,8 +2274,15 @@
   {
     "id": 10,
     "nombre": "Pokémon Africanvs",
-    "portada": "",
-    "capturas": [],
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/africanvs-logo.jpg",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/africanvs-preview-1.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/africanvs-preview-2.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/africanvs-preview-3.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/africanvs-preview-4.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/africanvs-preview-5.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/africanvs-preview-6.jpg"
+    ],
     "banner": "",
     "idiomas": [
       "Español",
