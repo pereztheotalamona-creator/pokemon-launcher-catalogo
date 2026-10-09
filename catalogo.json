@@ -3644,6 +3644,150 @@
         "imagen": null
       },
       {
+        "id": "afr_emporiae",
+        "nombre": "🏖️ Turismo de guerra: Emporiae",
+        "descripcion": "Llega a Emporiae.",
+        "tipo": "switch",
+        "requisitoSwitch": 61,
+        "imagen": null
+      },
+      {
+        "id": "afr_campamento_galo",
+        "nombre": "🏕️ Mala acampada en tierra gala",
+        "descripcion": "Sal del campamento galo.",
+        "tipo": "switch",
+        "requisitoSwitch": 66,
+        "imagen": null
+      },
+      {
+        "id": "afr_alpes",
+        "nombre": "🏔️ Los Alpes: el atajo que nadie pidió",
+        "descripcion": "Atraviesa la cueva de los Alpes.",
+        "tipo": "switch",
+        "requisitoSwitch": 78,
+        "imagen": null
+      },
+      {
+        "id": "afr_disfraz",
+        "nombre": "🎭 Operación Disfraz: cartaginés de incógnito",
+        "descripcion": "Ponte la armadura cartaginesa en Pisae.",
+        "tipo": "switch",
+        "requisitoSwitch": 96,
+        "imagen": null
+      },
+      {
+        "id": "afr_senado_roma",
+        "nombre": "🏛️ Primera sesión del Senado (aguanta el discurso)",
+        "descripcion": "Asiste a la reunión del Senado de Roma.",
+        "tipo": "switch",
+        "requisitoSwitch": 81,
+        "imagen": null
+      },
+      {
+        "id": "afr_hispania",
+        "nombre": "🗺️ Hispania: se acabó el turismo",
+        "descripcion": "Declara el comienzo de la conquista de Hispania desde Tarraco.",
+        "tipo": "switch",
+        "requisitoSwitch": 128,
+        "imagen": null
+      },
+      {
+        "id": "afr_cantera",
+        "nombre": "🐌 Cultista contra Slowpokes: gana el que no tiene prisa",
+        "descripcion": "Derrota al cultista de la Cantera de Slowpokes.",
+        "tipo": "switch",
+        "requisitoSwitch": 157,
+        "imagen": null
+      },
+      {
+        "id": "afr_cultista_etna",
+        "nombre": "🌋 Cultista con mal humor volcánico",
+        "descripcion": "Derrota al cultista del Etna.",
+        "tipo": "switch",
+        "requisitoSwitch": 214,
+        "imagen": null
+      },
+      {
+        "id": "afr_cultista_unown",
+        "nombre": "🔤 Los Unown no dan pistas",
+        "descripcion": "Derrota al cultista de la Guarida Unown.",
+        "tipo": "switch",
+        "requisitoSwitch": 310,
+        "imagen": null
+      },
+      {
+        "id": "afr_cambalache",
+        "nombre": "🔁 Cambalache a la romana",
+        "descripcion": "Haz el intercambio de Pokémon en Roma.",
+        "tipo": "switch",
+        "requisitoSwitch": 158,
+        "imagen": null
+      },
+      {
+        "id": "afr_fabio",
+        "nombre": "🐢 Fabio el Contemporizador (paciencia, legionarios)",
+        "descripcion": "Únete al ejército de Fabio en la Ruta VIII.",
+        "tipo": "switch",
+        "requisitoSwitch": 198,
+        "imagen": null
+      },
+      {
+        "id": "afr_tarento",
+        "nombre": "🏰 Tarento: ábranos la puerta, por favor",
+        "descripcion": "Ayuda a tomar Tarento.",
+        "tipo": "switch",
+        "requisitoSwitch": 202,
+        "imagen": null
+      },
+      {
+        "id": "afr_desembarco",
+        "nombre": "🚢 Desembarco en África (mareo incluido)",
+        "descripcion": "Zarpa con la flota hacia África.",
+        "tipo": "switch",
+        "requisitoSwitch": 225,
+        "imagen": null
+      },
+      {
+        "id": "afr_culto_iol",
+        "nombre": "🕯️ Algo huele raro en Iol",
+        "descripcion": "Investiga el culto de Iol.",
+        "tipo": "switch",
+        "requisitoSwitch": 241,
+        "imagen": null
+      },
+      {
+        "id": "afr_triunfo",
+        "nombre": "🎉 Triunfo romano (laureles incluidos)",
+        "descripcion": "Celebra tu triunfo en Roma tras Zama.",
+        "tipo": "switch",
+        "requisitoSwitch": 246,
+        "imagen": null
+      },
+      {
+        "id": "afr_revuelta_cartago",
+        "nombre": "🔥 Senado de Cartago: modo caos",
+        "descripcion": "Presencia la revuelta en el Senado de Cartago.",
+        "tipo": "switch",
+        "requisitoSwitch": 280,
+        "imagen": null
+      },
+      {
+        "id": "afr_inframundo",
+        "nombre": "💀 Visita guiada al Inframundo (sin cámaras)",
+        "descripcion": "Enfréntate a tus errores en el Inframundo.",
+        "tipo": "switch",
+        "requisitoSwitch": 285,
+        "imagen": null
+      },
+      {
+        "id": "afr_amat",
+        "nombre": "☠️ Amat, el jefe del club, despedido",
+        "descripcion": "Derrota a Amat en la Cima de Útica.",
+        "tipo": "switch",
+        "requisitoSwitch": 366,
+        "imagen": null
+      },
+      {
         "id": "leyenda",
         "nombre": "🌟 LEYENDA (con estatua y todo)",
         "descripcion": "Desbloquea todos los demás logros.",
