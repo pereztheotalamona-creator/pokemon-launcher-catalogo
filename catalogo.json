@@ -3253,72 +3253,400 @@
     "logros": [
       {
         "id": "aventura_comienza",
-        "nombre": "🌱 Comienza la aventura",
+        "nombre": "🌱 Reclutado por la legión (sin preguntar)",
         "descripcion": "Recibe tu primer Pokémon.",
         "tipo": "primerPokemonReal",
         "imagen": null
       },
       {
         "id": "hazte_con_todos",
-        "nombre": "🎒 Primera captura",
+        "nombre": "🎒 Pokéball en una mano, gladio en la otra",
         "descripcion": "Captura tu primer Pokémon salvaje.",
         "tipo": "capturasReales",
         "requisito": 2,
         "imagen": null
       },
       {
+        "id": "afr_sagunto_anibal",
+        "nombre": "🔥 Sagunto: lección de historia con fuego",
+        "descripcion": "Sobrevive al asalto de Aníbal en Sagunto.",
+        "tipo": "switch",
+        "requisitoSwitch": 60,
+        "imagen": null
+      },
+      {
+        "id": "afr_barco",
+        "nombre": "⛵ Todos a Hispania (el mareo va aparte)",
+        "descripcion": "Zarpa hacia Hispania desde el Puerto de Roma.",
+        "tipo": "switch",
+        "requisitoSwitch": 85,
+        "imagen": null
+      },
+      {
+        "id": "afr_cannae",
+        "nombre": "🐘 Cannae: te rodean y no es una fiesta",
+        "descripcion": "Sobrevive a la batalla de Cannae.",
+        "tipo": "switch",
+        "requisitoSwitch": 42,
+        "imagen": null
+      },
+      {
+        "id": "afr_publio",
+        "nombre": "⚔️ Publio quiere ver tu 'evolución'",
+        "descripcion": "Combate contra Publio en Cartago Nova.",
+        "tipo": "switch",
+        "requisitoSwitch": 132,
+        "imagen": null
+      },
+      {
+        "id": "afr_cartago_nova",
+        "nombre": "🏛️ Cartago Nova: ahora con nuevo casero",
+        "descripcion": "Toma Cartago Nova.",
+        "tipo": "switch",
+        "requisitoSwitch": 142,
+        "imagen": null
+      },
+      {
+        "id": "afr_baecula",
+        "nombre": "🏹 Baecula: ganar con ventaja de colina",
+        "descripcion": "Gana la batalla de Baecula.",
+        "tipo": "switch",
+        "requisitoSwitch": 155,
+        "imagen": null
+      },
+      {
+        "id": "afr_sagunto_obras",
+        "nombre": "🧱 Reconstruyendo Sagunto (sin licencia de obras)",
+        "descripcion": "Reconstruye Sagunto.",
+        "tipo": "switch",
+        "requisitoSwitch": 117,
+        "imagen": null
+      },
+      {
+        "id": "afr_trama_sagunto",
+        "nombre": "📜 Sagunto: capítulo cerrado",
+        "descripcion": "Cierra la trama de Sagunto.",
+        "tipo": "switch",
+        "requisitoSwitch": 284,
+        "imagen": null
+      },
+      {
+        "id": "afr_punteria",
+        "nombre": "🎯 Puntería de legionario",
+        "descripcion": "Supera el entrenamiento de puntería.",
+        "tipo": "switch",
+        "requisitoSwitch": 189,
+        "imagen": null
+      },
+      {
+        "id": "afr_molino",
+        "nombre": "🌬️ Quijote versión romana: molinos contra todo",
+        "descripcion": "Resuelve el problema del Molino.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          199,
+          200,
+          201
+        ],
+        "imagen": null
+      },
+      {
+        "id": "afr_cuadrigas",
+        "nombre": "🏎️ Fast & Furious: edición cuádriga",
+        "descripcion": "Termina la carrera de cuádrigas.",
+        "tipo": "switch",
+        "requisitoSwitch": 218,
+        "imagen": null
+      },
+      {
+        "id": "afr_blitzle",
+        "nombre": "🦓 Pedido especial: una cebrita",
+        "descripcion": "Cumple el encargo del Blitzle.",
+        "tipo": "switch",
+        "requisitoSwitch": 253,
+        "imagen": null
+      },
+      {
+        "id": "afr_fardo",
+        "nombre": "📦 Mensajero del Imperio (sin Amazon)",
+        "descripcion": "Completa la misión del fardo.",
+        "tipo": "switch",
+        "requisitoSwitch": 170,
+        "imagen": null
+      },
+      {
+        "id": "afr_guarderia",
+        "nombre": "🍼 Niñera de Pokémon bebés",
+        "descripcion": "Encuentra a los tres Pokémon bebés de la guardería.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          273,
+          274,
+          275
+        ],
+        "imagen": null
+      },
+      {
+        "id": "afr_toros",
+        "nombre": "🐂 Torero sin traje de luces",
+        "descripcion": "Amansa a los toros locos.",
+        "tipo": "switch",
+        "requisitoSwitch": 286,
+        "imagen": null
+      },
+      {
+        "id": "afr_cultistas",
+        "nombre": "🕯️ Club de fans de Amat: expulsados",
+        "descripcion": "Derrota a los cultistas de Tarraco, Carales y Pisae.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          334,
+          335,
+          336
+        ],
+        "imagen": null
+      },
+      {
+        "id": "afr_catafractos",
+        "nombre": "🐴 Catafractos: caballos blindados con mal humor",
+        "descripcion": "Derrota a los cuatro catafractos de Constantinopla.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          318,
+          319,
+          320,
+          321
+        ],
+        "imagen": null
+      },
+      {
+        "id": "afr_panteon",
+        "nombre": "🏺 Decorador del Panteón",
+        "descripcion": "Coloca todas las reliquias en los altares del Panteón.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          255,
+          256,
+          257,
+          258,
+          259
+        ],
+        "imagen": null
+      },
+      {
+        "id": "afr_troya",
+        "nombre": "🐴 Eneas y su equipo de refuerzo",
+        "descripcion": "Reúne el equipo de Eneas en Troya.",
+        "tipo": "switch",
+        "requisitoSwitch": 263,
+        "imagen": null
+      },
+      {
+        "id": "afr_zama",
+        "nombre": "🌟 ¡Scipio Africanvs! (al fin con su nombre)",
+        "descripcion": "Gana la batalla de Zama.",
+        "tipo": "switch",
+        "requisitoSwitch": 261,
+        "imagen": null
+      },
+      {
+        "id": "afr_olympeus",
+        "nombre": "⚡ Olympeus liberado (nadie lo echaba de menos)",
+        "descripcion": "Libera a Olympeus en Útica.",
+        "tipo": "switch",
+        "requisitoSwitch": 278,
+        "imagen": null
+      },
+      {
+        "id": "afr_atlantida",
+        "nombre": "🌊 Vacaciones en la Atlántida",
+        "descripcion": "Llega a la Atlántida.",
+        "tipo": "switch",
+        "requisitoSwitch": 372,
+        "imagen": null
+      },
+      {
+        "id": "afr_jupiter",
+        "nombre": "👑 Júpiter, en persona (y sin rayos)",
+        "descripcion": "Derrota a Júpiter en el Olimpo.",
+        "tipo": "switch",
+        "requisitoSwitch": 373,
+        "imagen": null
+      },
+      {
+        "id": "afr_arceus",
+        "nombre": "🔱 El que da permisos en el Olimpo",
+        "descripcion": "Consigue a Arceus.",
+        "tipo": "switch",
+        "requisitoSwitch": 997,
+        "imagen": null
+      },
+      {
+        "id": "afr_fiesta",
+        "nombre": "🍷 Fiesta en Liternum (los cuñados invitan)",
+        "descripcion": "Invita a todos tus aliados a la fiesta de Liternum.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332,
+          333
+        ],
+        "imagen": null
+      },
+      {
+        "id": "afr_alto_mando",
+        "nombre": "⚔️ Cuatro generales y una resaca",
+        "descripcion": "Vence al Alto Mando.",
+        "tipo": "switch",
+        "requisitoSwitch": 337,
+        "imagen": null
+      },
+      {
+        "id": "afr_campeon",
+        "nombre": "🏆 Campeón (hasta nueva orden del Senado)",
+        "descripcion": "Vence el combate final del Gran Coliseo.",
+        "tipo": "switch",
+        "requisitoSwitch": 363,
+        "imagen": null
+      },
+      {
+        "id": "afr_cima",
+        "nombre": "🏔️ Aníbal, el último capítulo",
+        "descripcion": "Termina la cima del puerto con Aníbal Barca.",
+        "tipo": "switch",
+        "requisitoSwitch": 299,
+        "imagen": null
+      },
+      {
+        "id": "afr_fin",
+        "nombre": "🎬 Fin de la historia (ave, Cartago)",
+        "descripcion": "Termina la historia de Pokémon Africanvs.",
+        "tipo": "switch",
+        "requisitoSwitch": 300,
+        "imagen": null
+      },
+      {
+        "id": "afr_medalla_1",
+        "nombre": "🥇 ¡Una chapa! ¿Se come?",
+        "descripcion": "Consigue la medalla nº 1.",
+        "tipo": "medalla",
+        "requisitoIndice": 0,
+        "imagen": null
+      },
+      {
+        "id": "afr_medalla_2",
+        "nombre": "🥈 Segunda: ya empiezas a notarlo",
+        "descripcion": "Consigue la medalla nº 2.",
+        "tipo": "medalla",
+        "requisitoIndice": 1,
+        "imagen": null
+      },
+      {
+        "id": "afr_medalla_3",
+        "nombre": "🥉 Tres de ocho: el Senado toma nota",
+        "descripcion": "Consigue la medalla nº 3.",
+        "tipo": "medalla",
+        "requisitoIndice": 2,
+        "imagen": null
+      },
+      {
+        "id": "afr_medalla_4",
+        "nombre": "🏅 Cuarta: el cuñado ya habla de ti",
+        "descripcion": "Consigue la medalla nº 4.",
+        "tipo": "medalla",
+        "requisitoIndice": 3,
+        "imagen": null
+      },
+      {
+        "id": "afr_medalla_5",
+        "nombre": "🎖️ Quinta: ya eres un poco leyenda",
+        "descripcion": "Consigue la medalla nº 5.",
+        "tipo": "medalla",
+        "requisitoIndice": 4,
+        "imagen": null
+      },
+      {
+        "id": "afr_medalla_6",
+        "nombre": "🏵️ Sexta: ni los dioses te paran",
+        "descripcion": "Consigue la medalla nº 6.",
+        "tipo": "medalla",
+        "requisitoIndice": 5,
+        "imagen": null
+      },
+      {
+        "id": "afr_medalla_7",
+        "nombre": "🌟 Séptima: ya huele a final",
+        "descripcion": "Consigue la medalla nº 7.",
+        "tipo": "medalla",
+        "requisitoIndice": 6,
+        "imagen": null
+      },
+      {
+        "id": "afr_medalla_8",
+        "nombre": "💫 Octava: toda la colección",
+        "descripcion": "Consigue la medalla nº 8.",
+        "tipo": "medalla",
+        "requisitoIndice": 7,
+        "imagen": null
+      },
+      {
+        "id": "mitad_medallas",
+        "nombre": "🏅 Mitad de camino (y de ejército)",
+        "descripcion": "Reúne 4 medallas.",
+        "tipo": "medallasCantidad",
+        "requisito": 4,
+        "imagen": null
+      },
+      {
+        "id": "todas_medallas",
+        "nombre": "🏛️ Más chapas que un centurión",
+        "descripcion": "Reúne las 8 medallas.",
+        "tipo": "medallasCantidad",
+        "requisito": 8,
+        "imagen": null
+      },
+      {
         "id": "dex_100",
-        "nombre": "📓 Cuaderno de campo",
-        "descripcion": "Registra 100 especies en tu Pokédex.",
+        "nombre": "📓 Cien amigos y ninguna cita",
+        "descripcion": "Consigue 100 Pokémon.",
         "tipo": "pokedexOwned",
         "requisito": 100,
         "imagen": null
       },
       {
+        "id": "afr_celebi",
+        "nombre": "🌿 Celebi: viajero del tiempo, mal turista",
+        "descripcion": "Consigue a Celebi.",
+        "tipo": "pokedexEspecie",
+        "especie": "251",
+        "especieNombre": "CELEBI",
+        "imagen": null
+      },
+      {
         "id": "entrenador_veterano",
-        "nombre": "💯 Nivel cumbre",
+        "nombre": "💯 Nivel cumbre (y ni un laurel)",
         "descripcion": "Lleva a un Pokémon al nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
         "imagen": null
       },
       {
-        "id": "equipo_perfecto",
-        "nombre": "🛡️ Equipo impecable",
-        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
-        "tipo": "equipoNivelMinimo",
-        "requisitoNivel": 100,
-        "requisitoCantidad": 6,
-        "imagen": null
-      },
-      {
         "id": "es_diferente",
-        "nombre": "✨ Destello raro",
+        "nombre": "✨ Brilla más que el casco de Escipión",
         "descripcion": "Consigue tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
         "imagen": null
       },
       {
-        "id": "cazador_cromatico",
-        "nombre": "🌠 Cazador de destellos",
-        "descripcion": "Reúne 10 Pokémon variocolor.",
-        "tipo": "shinyActual",
-        "requisito": 10,
-        "imagen": null
-      },
-      {
-        "id": "magnate",
-        "nombre": "🪙 Gran fortuna",
-        "descripcion": "Reúne una gran cantidad de dinero durante tu viaje.",
-        "tipo": "dineroMinimo",
-        "requisito": 100000,
-        "imagen": null
-      },
-      {
         "id": "leyenda",
-        "nombre": "🌟 LEYENDA",
-        "descripcion": "Desbloquea los otros 8 logros.",
+        "nombre": "🌟 LEYENDA (con estatua y todo)",
+        "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
         "imagen": null
       }
