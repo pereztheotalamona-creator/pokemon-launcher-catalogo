@@ -2054,14 +2054,14 @@
     "logros": [
       {
         "id": "aventura_comienza",
-        "nombre": "🌱 Comienza la aventura",
+        "nombre": "🌱 Nace una estrella (de la siesta)",
         "descripcion": "Recibe tu primer Pokémon.",
         "tipo": "primerPokemonReal",
         "imagen": null
       },
       {
         "id": "hazte_con_todos",
-        "nombre": "🎒 Primera captura",
+        "nombre": "🎒 Primer secuestro legal",
         "descripcion": "Captura tu primer Pokémon salvaje.",
         "tipo": "capturasReales",
         "requisito": 2,
@@ -2069,7 +2069,7 @@
       },
       {
         "id": "iberia_huerto",
-        "nombre": "🥕 Huerto a salvo",
+        "nombre": "🥕 Defensor de lechugas",
         "descripcion": "Ayuda a defender el huerto de la Ruta Murciana.",
         "tipo": "switch",
         "requisitoSwitch": 23,
@@ -2077,7 +2077,7 @@
       },
       {
         "id": "iberia_politoeds",
-        "nombre": "🐸 Lluvia de Politoed",
+        "nombre": "🐸 Croac, croac, gracias",
         "descripcion": "Salva a los Politoed del Cañón de Almadenes.",
         "tipo": "switch",
         "requisitoSwitch": 30,
@@ -2085,7 +2085,7 @@
       },
       {
         "id": "iberia_smeargle",
-        "nombre": "🎨 Artista calmado",
+        "nombre": "🎨 Picasso con hambre",
         "descripcion": "Calma al Smeargle del Desierto de Tabernas con comida Pokémon.",
         "tipo": "switch",
         "requisitoSwitch": 45,
@@ -2093,7 +2093,7 @@
       },
       {
         "id": "iberia_medalla_1",
-        "nombre": "🥇 Catarsis murciana",
+        "nombre": "🥇 Catarsis murciana (con pimentón)",
         "descripcion": "Derrota a Reverte en Murcia y consigue la 1.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 0,
@@ -2101,7 +2101,7 @@
       },
       {
         "id": "iberia_medalla_2",
-        "nombre": "🥈 Duende sevillano",
+        "nombre": "🥈 Duende sevillano con rebujito",
         "descripcion": "Derrota a Bécquer en Sevilla y consigue la 2.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 1,
@@ -2109,7 +2109,7 @@
       },
       {
         "id": "iberia_medalla_3",
-        "nombre": "🥉 Honor del Cid",
+        "nombre": "🥉 El Cid, pero de oferta",
         "descripcion": "Derrota al Cid en Valencia y consigue la 3.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 2,
@@ -2117,7 +2117,7 @@
       },
       {
         "id": "iberia_medalla_4",
-        "nombre": "🏅 Retorno al origen",
+        "nombre": "🏅 Gaudí no terminó esto tampoco",
         "descripcion": "Derrota a Gaudí en Barcelona y consigue la 4.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 3,
@@ -2125,7 +2125,7 @@
       },
       {
         "id": "iberia_medalla_5",
-        "nombre": "🎖️ Digno de heráldica",
+        "nombre": "🎖️ Reyes Católicos, deudas no tanto",
         "descripcion": "Derrota a los Reyes Católicos en Valladolid y consigue la 5.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 4,
@@ -2133,7 +2133,7 @@
       },
       {
         "id": "iberia_medalla_6",
-        "nombre": "🏵️ Bombazo informativo",
+        "nombre": "🏵️ Última hora: te ganaron en Gijón",
         "descripcion": "Derrota a Mariví en Gijón y consigue la 6.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 5,
@@ -2141,7 +2141,7 @@
       },
       {
         "id": "iberia_medalla_7",
-        "nombre": "🌟 Más alto, más hondo",
+        "nombre": "🌟 Rosalía, motomami de Compostela",
         "descripcion": "Derrota a Rosalía en Santiago de Compostela y consigue la 7.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 6,
@@ -2149,7 +2149,7 @@
       },
       {
         "id": "iberia_medalla_8",
-        "nombre": "💫 Nace una leyenda",
+        "nombre": "💫 Godoy, el que lo tenía todo (menos cerebro)",
         "descripcion": "Derrota a Godoy en Mérida y consigue la 8.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 7,
@@ -2157,7 +2157,7 @@
       },
       {
         "id": "mitad_medallas",
-        "nombre": "🏅 A medio camino",
+        "nombre": "🏅 Ni fu ni fa, pero va",
         "descripcion": "Reúne 4 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 4,
@@ -2165,7 +2165,7 @@
       },
       {
         "id": "todas_medallas",
-        "nombre": "🏛️ Colección completa",
+        "nombre": "🏛️ Coleccionista de chapas",
         "descripcion": "Reúne las 8 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 8,
@@ -2173,7 +2173,7 @@
       },
       {
         "id": "iberia_gonzalez",
-        "nombre": "🕵️ Talante a raya",
+        "nombre": "🕵️ Talante a rayas",
         "descripcion": "Derrota a González, líder del Equipo Talante, en la Alhambra.",
         "tipo": "switch",
         "requisitoSwitch": 60,
@@ -2181,7 +2181,7 @@
       },
       {
         "id": "iberia_rita",
-        "nombre": "🐬 Marea alta",
+        "nombre": "🐬 Rita, la del acuario",
         "descripcion": "Derrota a Rita en el Oceanogràfic y consigue la llave del Museo Príncipe Felipe.",
         "tipo": "switch",
         "requisitoSwitch": 97,
@@ -2189,7 +2189,7 @@
       },
       {
         "id": "iberia_kyogre",
-        "nombre": "🌊 Rey de los mares",
+        "nombre": "🌊 Pesca de altura en Ibiza",
         "descripcion": "Ayuda a capturar a Kyogre en Ibiza.",
         "tipo": "switch",
         "requisitoSwitch": 114,
@@ -2197,7 +2197,7 @@
       },
       {
         "id": "iberia_groudon",
-        "nombre": "🌋 Bajo tierra",
+        "nombre": "🌋 Obras en Barcelona (otra vez)",
         "descripcion": "Ayuda a capturar a Groudon en el subsuelo de Barcelona.",
         "tipo": "switch",
         "requisitoSwitch": 167,
@@ -2205,7 +2205,7 @@
       },
       {
         "id": "iberia_gasol",
-        "nombre": "🏀 Hermanos Gasol",
+        "nombre": "🏀 Dos metros de problemas",
         "descripcion": "Vence a Pau y Marc Gasol en Barcelona.",
         "tipo": "switch",
         "requisitoSwitch": 395,
@@ -2213,7 +2213,7 @@
       },
       {
         "id": "iberia_iker",
-        "nombre": "👽 Fenómenos paranormales",
+        "nombre": "👽 Íker Jiménez te vigila",
         "descripcion": "Vence a Íker en la Torre de Control.",
         "tipo": "switch",
         "requisitoSwitch": 190,
@@ -2221,7 +2221,7 @@
       },
       {
         "id": "iberia_manolo",
-        "nombre": "🥔 Patatas bravas",
+        "nombre": "🥔 Operación Rescate Manolo",
         "descripcion": "Rescata a Manolo de la Torre de Control.",
         "tipo": "switch",
         "requisitoSwitch": 192,
@@ -2229,7 +2229,7 @@
       },
       {
         "id": "iberia_aizkolaris",
-        "nombre": "🪓 Vasco de espíritu",
+        "nombre": "🪓 Leñadores con muy mala leche",
         "descripcion": "Vence a los aizkolaris de la Herriko-Taberna.",
         "tipo": "switch",
         "requisitoSwitch": 203,
@@ -2237,7 +2237,7 @@
       },
       {
         "id": "iberia_urobos",
-        "nombre": "🐍 Furia de Urobos",
+        "nombre": "🐍 La serpiente de Altamira",
         "descripcion": "Captura a Urobos en la Cueva de Altamira.",
         "tipo": "switch",
         "requisitoSwitch": 207,
@@ -2245,7 +2245,7 @@
       },
       {
         "id": "iberia_laboratorio",
-        "nombre": "🧪 Secreto de Bilbao",
+        "nombre": "🧪 Hilario y sus experimentos",
         "descripcion": "Supera el laboratorio secreto de Hilario.",
         "tipo": "switch",
         "requisitoSwitch": 224,
@@ -2253,7 +2253,7 @@
       },
       {
         "id": "iberia_felipe",
-        "nombre": "👑 Salvar al Rey",
+        "nombre": "👑 Guardaespaldas del Rey",
         "descripcion": "Salva a Felipe VI en Gijón.",
         "tipo": "switch",
         "requisitoSwitch": 236,
@@ -2261,7 +2261,7 @@
       },
       {
         "id": "iberia_torre_hercules",
-        "nombre": "🗼 Faro del fin del mundo",
+        "nombre": "🗼 Leg day en la Torre de Hércules",
         "descripcion": "Asciende los cinco pisos de la Torre de Hércules.",
         "tipo": "switchTodos",
         "requisitoSwitches": [
@@ -2275,7 +2275,7 @@
       },
       {
         "id": "iberia_quijote",
-        "nombre": "🛡️ Molinos de viento",
+        "nombre": "🛡️ Contra los molinos (y contra Quijote)",
         "descripcion": "Derrota a Don Quijote en la Ruta Manchega.",
         "tipo": "switch",
         "requisitoSwitch": 293,
@@ -2283,7 +2283,7 @@
       },
       {
         "id": "iberia_ronaldo",
-        "nombre": "⚽ Balón de oro",
+        "nombre": "⚽ Siuuuuu",
         "descripcion": "Derrota a Ronaldo en el gimnasio de Lisboa.",
         "tipo": "switch",
         "requisitoSwitch": 291,
@@ -2291,7 +2291,7 @@
       },
       {
         "id": "iberia_intercambio",
-        "nombre": "🔁 Intercambio exótico",
+        "nombre": "🔁 Cambio, cambio, trueque raro",
         "descripcion": "Cierra un intercambio en la Sagrada Familia.",
         "tipo": "switch",
         "requisitoSwitch": 182,
@@ -2299,7 +2299,7 @@
       },
       {
         "id": "iberia_nosepass",
-        "nombre": "🧲 Brújula humana",
+        "nombre": "🧲 Norte, sur... ¿dónde estoy?",
         "descripcion": "Entrega un Nosepass a su cuidador y recibe tu piedra evolutiva.",
         "tipo": "switch",
         "requisitoSwitch": 118,
@@ -2307,7 +2307,7 @@
       },
       {
         "id": "iberia_cuadro_1",
-        "nombre": "🖼️ Primer cuadro",
+        "nombre": "🖼️ Primer cuadro, mil por venir",
         "descripcion": "Entrega a la Academia el primer cuadro recuperado.",
         "tipo": "switch",
         "requisitoSwitch": 180,
@@ -2315,7 +2315,7 @@
       },
       {
         "id": "iberia_cuadros",
-        "nombre": "🏛️ Restaurador de arte",
+        "nombre": "🏛️ Ladrón de guante blanco... al revés",
         "descripcion": "Entrega los 5 cuadros robados a la Academia.",
         "tipo": "switchTodos",
         "requisitoSwitches": [
@@ -2329,7 +2329,7 @@
       },
       {
         "id": "iberia_ventas",
-        "nombre": "🐂 Tarde en Las Ventas",
+        "nombre": "🐂 Olé tus huevos Pokémon",
         "descripcion": "Vence a los perroflautas y a los toreros de Las Ventas.",
         "tipo": "switchTodos",
         "requisitoSwitches": [
@@ -2340,7 +2340,7 @@
       },
       {
         "id": "iberia_politicos",
-        "nombre": "🏛️ Palacio de las Cortes",
+        "nombre": "🏛️ Promesas electorales (Ni una cumplida)",
         "descripcion": "Derrota a los políticos que custodian el Palacio de las Cortes.",
         "tipo": "switch",
         "requisitoSwitch": 341,
@@ -2348,7 +2348,7 @@
       },
       {
         "id": "iberia_caja",
-        "nombre": "📦 Equipo Caja",
+        "nombre": "📦 Equipo Caja, siempre en cajas",
         "descripcion": "Derrota al Equipo Caja en el Peñón de Gibraltar.",
         "tipo": "switch",
         "requisitoSwitch": 337,
@@ -2356,7 +2356,7 @@
       },
       {
         "id": "iberia_rival_pinares",
-        "nombre": "🌲 Duelo en los pinares",
+        "nombre": "🌲 Sofía, la rival pesada",
         "descripcion": "Vence a Sofía en los Pinares de Rodeno.",
         "tipo": "switch",
         "requisitoSwitch": 144,
@@ -2364,7 +2364,7 @@
       },
       {
         "id": "iberia_alto_mando",
-        "nombre": "⚔️ Cuatro pilares de la Liga",
+        "nombre": "⚔️ Cuatro pilares y una resaca",
         "descripcion": "Vence a Cervantes, Agustina, Lezo y Pineda en el Valle de los Caídos.",
         "tipo": "switchTodos",
         "requisitoSwitches": [
@@ -2377,7 +2377,7 @@
       },
       {
         "id": "iberia_liga",
-        "nombre": "🏆 Campeón de Iberia",
+        "nombre": "🏆 Campeón de Iberia (sin subvención)",
         "descripcion": "Supera la Liga Pokémon de Iberia.",
         "tipo": "switch",
         "requisitoSwitch": 375,
@@ -2385,7 +2385,7 @@
       },
       {
         "id": "iberia_fernando",
-        "nombre": "🔥 Fin del Valle Cinéreo",
+        "nombre": "🔥 Adiós, Fernando (el menos deseado)",
         "descripcion": "Pon fin a la amenaza de Fernando VII en el Valle Cinéreo.",
         "tipo": "switch",
         "requisitoSwitch": 382,
@@ -2401,7 +2401,7 @@
       },
       {
         "id": "iberia_mew",
-        "nombre": "🧬 Reliquia rosa",
+        "nombre": "🧬 Gatito rosa sospechoso",
         "descripcion": "Consigue a Mew.",
         "tipo": "pokedexEspecie",
         "especie": "151",
@@ -2410,7 +2410,7 @@
       },
       {
         "id": "iberia_celebi",
-        "nombre": "🌿 Viajero del tiempo",
+        "nombre": "🌿 Back to the Palmeral",
         "descripcion": "Consigue a Celebi en la Cueva del Palmeral.",
         "tipo": "pokedexEspecie",
         "especie": "251",
@@ -2419,7 +2419,7 @@
       },
       {
         "id": "iberia_bestias",
-        "nombre": "🐾 Bestias huidizas",
+        "nombre": "🐾 Dos de tres no está mal",
         "descripcion": "Consigue a Raikou y a Suicune.",
         "tipo": "pokedexEspecies",
         "especies": [
@@ -2434,7 +2434,7 @@
       },
       {
         "id": "iberia_regis",
-        "nombre": "🗿 Guardianes del Peñón",
+        "nombre": "🗿 Los Reg-ulares del Peñón",
         "descripcion": "Consigue a Regirock, Regice, Registeel y Regigigas.",
         "tipo": "pokedexEspecies",
         "especies": [
@@ -2452,73 +2452,47 @@
         "imagen": null
       },
       {
-        "id": "iberia_dex_50",
-        "nombre": "📘 Primeras páginas",
-        "descripcion": "Registra 50 especies en tu Pokédex.",
-        "tipo": "pokedexOwned",
-        "requisito": 50,
-        "imagen": null
-      },
-      {
         "id": "dex_100",
-        "nombre": "📓 Cuaderno de campo",
-        "descripcion": "Registra 100 especies en tu Pokédex.",
+        "nombre": "📓 Cien amigos y ninguna cita",
+        "descripcion": "Consigue 100 Pokémon.",
         "tipo": "pokedexOwned",
         "requisito": 100,
         "imagen": null
       },
       {
-        "id": "iberia_dex_200",
-        "nombre": "📚 Enciclopedia ibérica",
-        "descripcion": "Registra 200 especies en tu Pokédex.",
+        "id": "iberia_dex_completa",
+        "nombre": "📚 Ratón de Pokédex",
+        "descripcion": "Completa la Pokédex.",
         "tipo": "pokedexOwned",
-        "requisito": 200,
+        "requisito": 999,
+        "imagen": null
+      },
+      {
+        "id": "iberia_don_prodigio",
+        "nombre": "🧙 Don Prodigio y su trueque sospechoso",
+        "descripcion": "Intercambia un Pokémon con Don Prodigio.",
+        "tipo": "tradeProdigio",
         "imagen": null
       },
       {
         "id": "entrenador_veterano",
-        "nombre": "💯 Nivel cumbre",
+        "nombre": "💯 Techo de cristal roto",
         "descripcion": "Lleva a un Pokémon al nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
         "imagen": null
       },
       {
-        "id": "equipo_perfecto",
-        "nombre": "🛡️ Equipo impecable",
-        "descripcion": "Ten 6 Pokémon al nivel 100 en tu equipo.",
-        "tipo": "equipoNivelMinimo",
-        "requisitoNivel": 100,
-        "requisitoCantidad": 6,
-        "imagen": null
-      },
-      {
         "id": "es_diferente",
-        "nombre": "✨ Destello raro",
+        "nombre": "✨ Brilla más que mi futuro",
         "descripcion": "Consigue tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
         "imagen": null
       },
       {
-        "id": "cazador_cromatico",
-        "nombre": "🌠 Cazador de destellos",
-        "descripcion": "Consigue 10 Pokémon variocolor.",
-        "tipo": "shinyActual",
-        "requisito": 10,
-        "imagen": null
-      },
-      {
-        "id": "magnate",
-        "nombre": "🪙 Gran fortuna",
-        "descripcion": "Reúne 100.000 en dinero.",
-        "tipo": "dineroMinimo",
-        "requisito": 100000,
-        "imagen": null
-      },
-      {
         "id": "leyenda",
-        "nombre": "🌟 LEYENDA",
+        "nombre": "🌟 LEYENDA (sin vida social)",
         "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
         "imagen": null
