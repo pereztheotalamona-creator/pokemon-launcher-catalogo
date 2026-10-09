@@ -2186,7 +2186,7 @@
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-preview-5.jpg",
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-preview-6.jpg"
     ],
-    "banner": "",
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-banner.jpg",
     "idiomas": [
       "Español"
     ],
@@ -2302,7 +2302,36 @@
         "tipo": "todosLosDemas",
         "imagen": null
       }
-    ]
+    ],
+    "maestria": {
+      "recompensa": {
+        "id": "maestro-titan",
+        "nombre": "Maestro Pokémon Titán",
+        "descripcion": "Completar las tres maestrías de Pokémon Titán: misiones secundarias, Nuzlocke sin bajas y Randomlocke sin bajas",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/maestria/medallon-maestria.png",
+        "tema": "amatista"
+      },
+      "items": [
+        {
+          "id": "misiones-secundarias",
+          "icono": "star",
+          "titulo": "Nivel 1 · Misiones secundarias",
+          "descripcion": "Completar todas las misiones secundarias"
+        },
+        {
+          "id": "nuzlocke-sin-bajas",
+          "icono": "heart",
+          "titulo": "Nivel 2 · Nuzlocke sin bajas",
+          "descripcion": "Completar el juego en modo Nuzlocke sin que ningún Pokémon caiga debilitado"
+        },
+        {
+          "id": "randomlocke-sin-bajas",
+          "icono": "crown",
+          "titulo": "Nivel 3 · Randomlocke sin bajas",
+          "descripcion": "Completar el juego en modo Randomlocke sin que ningún Pokémon caiga debilitado"
+        }
+      ]
+    }
   },
   {
     "id": 10,
