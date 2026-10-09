@@ -2068,6 +2068,94 @@
         "imagen": null
       },
       {
+        "id": "iberia_huerto",
+        "nombre": "🥕 Huerto a salvo",
+        "descripcion": "Ayuda a defender el huerto de la Ruta Murciana.",
+        "tipo": "switch",
+        "requisitoSwitch": 23,
+        "imagen": null
+      },
+      {
+        "id": "iberia_politoeds",
+        "nombre": "🐸 Lluvia de Politoed",
+        "descripcion": "Salva a los Politoed del Cañón de Almadenes.",
+        "tipo": "switch",
+        "requisitoSwitch": 30,
+        "imagen": null
+      },
+      {
+        "id": "iberia_smeargle",
+        "nombre": "🎨 Artista calmado",
+        "descripcion": "Calma al Smeargle del Desierto de Tabernas con comida Pokémon.",
+        "tipo": "switch",
+        "requisitoSwitch": 45,
+        "imagen": null
+      },
+      {
+        "id": "iberia_medalla_1",
+        "nombre": "🥇 Catarsis murciana",
+        "descripcion": "Derrota a Reverte en Murcia y consigue la 1.ª medalla.",
+        "tipo": "medalla",
+        "requisitoIndice": 0,
+        "imagen": null
+      },
+      {
+        "id": "iberia_medalla_2",
+        "nombre": "🥈 Duende sevillano",
+        "descripcion": "Derrota a Bécquer en Sevilla y consigue la 2.ª medalla.",
+        "tipo": "medalla",
+        "requisitoIndice": 1,
+        "imagen": null
+      },
+      {
+        "id": "iberia_medalla_3",
+        "nombre": "🥉 Honor del Cid",
+        "descripcion": "Derrota al Cid en Valencia y consigue la 3.ª medalla.",
+        "tipo": "medalla",
+        "requisitoIndice": 2,
+        "imagen": null
+      },
+      {
+        "id": "iberia_medalla_4",
+        "nombre": "🏅 Retorno al origen",
+        "descripcion": "Derrota a Gaudí en Barcelona y consigue la 4.ª medalla.",
+        "tipo": "medalla",
+        "requisitoIndice": 3,
+        "imagen": null
+      },
+      {
+        "id": "iberia_medalla_5",
+        "nombre": "🎖️ Digno de heráldica",
+        "descripcion": "Derrota a los Reyes Católicos en Valladolid y consigue la 5.ª medalla.",
+        "tipo": "medalla",
+        "requisitoIndice": 4,
+        "imagen": null
+      },
+      {
+        "id": "iberia_medalla_6",
+        "nombre": "🏵️ Bombazo informativo",
+        "descripcion": "Derrota a Mariví en Gijón y consigue la 6.ª medalla.",
+        "tipo": "medalla",
+        "requisitoIndice": 5,
+        "imagen": null
+      },
+      {
+        "id": "iberia_medalla_7",
+        "nombre": "🌟 Más alto, más hondo",
+        "descripcion": "Derrota a Rosalía en Santiago de Compostela y consigue la 7.ª medalla.",
+        "tipo": "medalla",
+        "requisitoIndice": 6,
+        "imagen": null
+      },
+      {
+        "id": "iberia_medalla_8",
+        "nombre": "💫 Nace una leyenda",
+        "descripcion": "Derrota a Godoy en Mérida y consigue la 8.ª medalla.",
+        "tipo": "medalla",
+        "requisitoIndice": 7,
+        "imagen": null
+      },
+      {
         "id": "mitad_medallas",
         "nombre": "🏅 A medio camino",
         "descripcion": "Reúne 4 medallas.",
@@ -2084,11 +2172,307 @@
         "imagen": null
       },
       {
+        "id": "iberia_gonzalez",
+        "nombre": "🕵️ Talante a raya",
+        "descripcion": "Derrota a González, líder del Equipo Talante, en la Alhambra.",
+        "tipo": "switch",
+        "requisitoSwitch": 60,
+        "imagen": null
+      },
+      {
+        "id": "iberia_rita",
+        "nombre": "🐬 Marea alta",
+        "descripcion": "Derrota a Rita en el Oceanogràfic y consigue la llave del Museo Príncipe Felipe.",
+        "tipo": "switch",
+        "requisitoSwitch": 97,
+        "imagen": null
+      },
+      {
+        "id": "iberia_kyogre",
+        "nombre": "🌊 Rey de los mares",
+        "descripcion": "Ayuda a capturar a Kyogre en Ibiza.",
+        "tipo": "switch",
+        "requisitoSwitch": 114,
+        "imagen": null
+      },
+      {
+        "id": "iberia_groudon",
+        "nombre": "🌋 Bajo tierra",
+        "descripcion": "Ayuda a capturar a Groudon en el subsuelo de Barcelona.",
+        "tipo": "switch",
+        "requisitoSwitch": 167,
+        "imagen": null
+      },
+      {
+        "id": "iberia_gasol",
+        "nombre": "🏀 Hermanos Gasol",
+        "descripcion": "Vence a Pau y Marc Gasol en Barcelona.",
+        "tipo": "switch",
+        "requisitoSwitch": 395,
+        "imagen": null
+      },
+      {
+        "id": "iberia_iker",
+        "nombre": "👽 Fenómenos paranormales",
+        "descripcion": "Vence a Íker en la Torre de Control.",
+        "tipo": "switch",
+        "requisitoSwitch": 190,
+        "imagen": null
+      },
+      {
+        "id": "iberia_manolo",
+        "nombre": "🥔 Patatas bravas",
+        "descripcion": "Rescata a Manolo de la Torre de Control.",
+        "tipo": "switch",
+        "requisitoSwitch": 192,
+        "imagen": null
+      },
+      {
+        "id": "iberia_aizkolaris",
+        "nombre": "🪓 Vasco de espíritu",
+        "descripcion": "Vence a los aizkolaris de la Herriko-Taberna.",
+        "tipo": "switch",
+        "requisitoSwitch": 203,
+        "imagen": null
+      },
+      {
+        "id": "iberia_urobos",
+        "nombre": "🐍 Furia de Urobos",
+        "descripcion": "Captura a Urobos en la Cueva de Altamira.",
+        "tipo": "switch",
+        "requisitoSwitch": 207,
+        "imagen": null
+      },
+      {
+        "id": "iberia_laboratorio",
+        "nombre": "🧪 Secreto de Bilbao",
+        "descripcion": "Supera el laboratorio secreto de Hilario.",
+        "tipo": "switch",
+        "requisitoSwitch": 224,
+        "imagen": null
+      },
+      {
+        "id": "iberia_felipe",
+        "nombre": "👑 Salvar al Rey",
+        "descripcion": "Salva a Felipe VI en Gijón.",
+        "tipo": "switch",
+        "requisitoSwitch": 236,
+        "imagen": null
+      },
+      {
+        "id": "iberia_torre_hercules",
+        "nombre": "🗼 Faro del fin del mundo",
+        "descripcion": "Asciende los cinco pisos de la Torre de Hércules.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          250,
+          252,
+          253,
+          255,
+          256
+        ],
+        "imagen": null
+      },
+      {
+        "id": "iberia_quijote",
+        "nombre": "🛡️ Molinos de viento",
+        "descripcion": "Derrota a Don Quijote en la Ruta Manchega.",
+        "tipo": "switch",
+        "requisitoSwitch": 293,
+        "imagen": null
+      },
+      {
+        "id": "iberia_ronaldo",
+        "nombre": "⚽ Balón de oro",
+        "descripcion": "Derrota a Ronaldo en el gimnasio de Lisboa.",
+        "tipo": "switch",
+        "requisitoSwitch": 291,
+        "imagen": null
+      },
+      {
+        "id": "iberia_intercambio",
+        "nombre": "🔁 Intercambio exótico",
+        "descripcion": "Cierra un intercambio en la Sagrada Familia.",
+        "tipo": "switch",
+        "requisitoSwitch": 182,
+        "imagen": null
+      },
+      {
+        "id": "iberia_nosepass",
+        "nombre": "🧲 Brújula humana",
+        "descripcion": "Entrega un Nosepass a su cuidador y recibe tu piedra evolutiva.",
+        "tipo": "switch",
+        "requisitoSwitch": 118,
+        "imagen": null
+      },
+      {
+        "id": "iberia_cuadro_1",
+        "nombre": "🖼️ Primer cuadro",
+        "descripcion": "Entrega a la Academia el primer cuadro recuperado.",
+        "tipo": "switch",
+        "requisitoSwitch": 180,
+        "imagen": null
+      },
+      {
+        "id": "iberia_cuadros",
+        "nombre": "🏛️ Restaurador de arte",
+        "descripcion": "Entrega los 5 cuadros robados a la Academia.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          180,
+          181,
+          184,
+          264,
+          310
+        ],
+        "imagen": null
+      },
+      {
+        "id": "iberia_ventas",
+        "nombre": "🐂 Tarde en Las Ventas",
+        "descripcion": "Vence a los perroflautas y a los toreros de Las Ventas.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          325,
+          326
+        ],
+        "imagen": null
+      },
+      {
+        "id": "iberia_politicos",
+        "nombre": "🏛️ Palacio de las Cortes",
+        "descripcion": "Derrota a los políticos que custodian el Palacio de las Cortes.",
+        "tipo": "switch",
+        "requisitoSwitch": 341,
+        "imagen": null
+      },
+      {
+        "id": "iberia_caja",
+        "nombre": "📦 Equipo Caja",
+        "descripcion": "Derrota al Equipo Caja en el Peñón de Gibraltar.",
+        "tipo": "switch",
+        "requisitoSwitch": 337,
+        "imagen": null
+      },
+      {
+        "id": "iberia_rival_pinares",
+        "nombre": "🌲 Duelo en los pinares",
+        "descripcion": "Vence a Sofía en los Pinares de Rodeno.",
+        "tipo": "switch",
+        "requisitoSwitch": 144,
+        "imagen": null
+      },
+      {
+        "id": "iberia_alto_mando",
+        "nombre": "⚔️ Cuatro pilares de la Liga",
+        "descripcion": "Vence a Cervantes, Agustina, Lezo y Pineda en el Valle de los Caídos.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          364,
+          365,
+          366,
+          367
+        ],
+        "imagen": null
+      },
+      {
+        "id": "iberia_liga",
+        "nombre": "🏆 Campeón de Iberia",
+        "descripcion": "Supera la Liga Pokémon de Iberia.",
+        "tipo": "switch",
+        "requisitoSwitch": 375,
+        "imagen": null
+      },
+      {
+        "id": "iberia_fernando",
+        "nombre": "🔥 Fin del Valle Cinéreo",
+        "descripcion": "Pon fin a la amenaza de Fernando VII en el Valle Cinéreo.",
+        "tipo": "switch",
+        "requisitoSwitch": 382,
+        "imagen": null
+      },
+      {
+        "id": "iberia_titan",
+        "nombre": "🗿 Titán",
+        "descripcion": "Vence a Titán en los Pirineos.",
+        "tipo": "switch",
+        "requisitoSwitch": 394,
+        "imagen": null
+      },
+      {
+        "id": "iberia_mew",
+        "nombre": "🧬 Reliquia rosa",
+        "descripcion": "Consigue a Mew.",
+        "tipo": "pokedexEspecie",
+        "especie": "151",
+        "especieNombre": "MEW",
+        "imagen": null
+      },
+      {
+        "id": "iberia_celebi",
+        "nombre": "🌿 Viajero del tiempo",
+        "descripcion": "Consigue a Celebi en la Cueva del Palmeral.",
+        "tipo": "pokedexEspecie",
+        "especie": "251",
+        "especieNombre": "CELEBI",
+        "imagen": null
+      },
+      {
+        "id": "iberia_bestias",
+        "nombre": "🐾 Bestias huidizas",
+        "descripcion": "Consigue a Raikou y a Suicune.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "243",
+          "245"
+        ],
+        "especiesNombres": [
+          "RAIKOU",
+          "SUICUNE"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "iberia_regis",
+        "nombre": "🗿 Guardianes del Peñón",
+        "descripcion": "Consigue a Regirock, Regice, Registeel y Regigigas.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "377",
+          "378",
+          "379",
+          "486"
+        ],
+        "especiesNombres": [
+          "REGIROCK",
+          "REGICE",
+          "REGISTEEL",
+          "REGIGIGAS"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "iberia_dex_50",
+        "nombre": "📘 Primeras páginas",
+        "descripcion": "Registra 50 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 50,
+        "imagen": null
+      },
+      {
         "id": "dex_100",
         "nombre": "📓 Cuaderno de campo",
         "descripcion": "Registra 100 especies en tu Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 100,
+        "imagen": null
+      },
+      {
+        "id": "iberia_dex_200",
+        "nombre": "📚 Enciclopedia ibérica",
+        "descripcion": "Registra 200 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 200,
         "imagen": null
       },
       {
@@ -2102,7 +2486,7 @@
       {
         "id": "equipo_perfecto",
         "nombre": "🛡️ Equipo impecable",
-        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
+        "descripcion": "Ten 6 Pokémon al nivel 100 en tu equipo.",
         "tipo": "equipoNivelMinimo",
         "requisitoNivel": 100,
         "requisitoCantidad": 6,
@@ -2119,7 +2503,7 @@
       {
         "id": "cazador_cromatico",
         "nombre": "🌠 Cazador de destellos",
-        "descripcion": "Reúne 10 Pokémon variocolor.",
+        "descripcion": "Consigue 10 Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 10,
         "imagen": null
@@ -2127,7 +2511,7 @@
       {
         "id": "magnate",
         "nombre": "🪙 Gran fortuna",
-        "descripcion": "Reúne una gran cantidad de dinero durante tu viaje.",
+        "descripcion": "Reúne 100.000 en dinero.",
         "tipo": "dineroMinimo",
         "requisito": 100000,
         "imagen": null
@@ -2135,7 +2519,7 @@
       {
         "id": "leyenda",
         "nombre": "🌟 LEYENDA",
-        "descripcion": "Desbloquea los otros 10 logros.",
+        "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
         "imagen": null
       }
@@ -2231,6 +2615,134 @@
         "imagen": null
       },
       {
+        "id": "titan_medalla_1",
+        "nombre": "🥇 Primera medalla",
+        "descripcion": "Consigue la medalla nº 1 (Aleteia).",
+        "tipo": "medalla",
+        "requisitoIndice": 0,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_2",
+        "nombre": "🥈 Segunda medalla",
+        "descripcion": "Consigue la medalla nº 2 (Aleteia).",
+        "tipo": "medalla",
+        "requisitoIndice": 1,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_3",
+        "nombre": "🥉 Tercera medalla",
+        "descripcion": "Consigue la medalla nº 3 (Aleteia).",
+        "tipo": "medalla",
+        "requisitoIndice": 2,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_4",
+        "nombre": "🏅 Cuarta medalla",
+        "descripcion": "Consigue la medalla nº 4 (Aleteia).",
+        "tipo": "medalla",
+        "requisitoIndice": 3,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_5",
+        "nombre": "🎖️ Quinta medalla",
+        "descripcion": "Consigue la medalla nº 5 (Aleteia).",
+        "tipo": "medalla",
+        "requisitoIndice": 4,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_6",
+        "nombre": "🏵️ Sexta medalla",
+        "descripcion": "Consigue la medalla nº 6 (Aleteia).",
+        "tipo": "medalla",
+        "requisitoIndice": 5,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_7",
+        "nombre": "🌟 Séptima medalla",
+        "descripcion": "Consigue la medalla nº 7 (Aleteia).",
+        "tipo": "medalla",
+        "requisitoIndice": 6,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_8",
+        "nombre": "💫 Octava medalla",
+        "descripcion": "Consigue la medalla nº 8 (Aleteia).",
+        "tipo": "medalla",
+        "requisitoIndice": 7,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_9",
+        "nombre": "🔰 Novena medalla",
+        "descripcion": "Consigue la medalla nº 9 (Arjes).",
+        "tipo": "medalla",
+        "requisitoIndice": 8,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_10",
+        "nombre": "⚜️ Décima medalla",
+        "descripcion": "Consigue la medalla nº 10 (Arjes).",
+        "tipo": "medalla",
+        "requisitoIndice": 9,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_11",
+        "nombre": "🛡️ Undécima medalla",
+        "descripcion": "Consigue la medalla nº 11 (Arjes).",
+        "tipo": "medalla",
+        "requisitoIndice": 10,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_12",
+        "nombre": "👑 Duodécima medalla",
+        "descripcion": "Consigue la medalla nº 12 (Arjes).",
+        "tipo": "medalla",
+        "requisitoIndice": 11,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_13",
+        "nombre": "💎 Decimotercera medalla",
+        "descripcion": "Consigue la medalla nº 13 (Arjes).",
+        "tipo": "medalla",
+        "requisitoIndice": 12,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_14",
+        "nombre": "🔱 Decimocuarta medalla",
+        "descripcion": "Consigue la medalla nº 14 (Arjes).",
+        "tipo": "medalla",
+        "requisitoIndice": 13,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_15",
+        "nombre": "☄️ Decimoquinta medalla",
+        "descripcion": "Consigue la medalla nº 15 (Arjes).",
+        "tipo": "medalla",
+        "requisitoIndice": 14,
+        "imagen": null
+      },
+      {
+        "id": "titan_medalla_16",
+        "nombre": "🌠 Decimosexta medalla",
+        "descripcion": "Consigue la medalla nº 16 (Arjes).",
+        "tipo": "medalla",
+        "requisitoIndice": 15,
+        "imagen": null
+      },
+      {
         "id": "mitad_medallas",
         "nombre": "🏅 A medio camino",
         "descripcion": "Reúne 8 medallas.",
@@ -2247,11 +2759,27 @@
         "imagen": null
       },
       {
+        "id": "titan_dex_50",
+        "nombre": "📘 Primeras páginas",
+        "descripcion": "Registra 50 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 50,
+        "imagen": null
+      },
+      {
         "id": "dex_100",
         "nombre": "📓 Cuaderno de campo",
         "descripcion": "Registra 100 especies en tu Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 100,
+        "imagen": null
+      },
+      {
+        "id": "titan_dex_200",
+        "nombre": "📚 Enciclopedia titánica",
+        "descripcion": "Registra 200 especies en tu Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 200,
         "imagen": null
       },
       {
@@ -2265,7 +2793,7 @@
       {
         "id": "equipo_perfecto",
         "nombre": "🛡️ Equipo impecable",
-        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
+        "descripcion": "Ten 6 Pokémon al nivel 100 en tu equipo.",
         "tipo": "equipoNivelMinimo",
         "requisitoNivel": 100,
         "requisitoCantidad": 6,
@@ -2282,7 +2810,7 @@
       {
         "id": "cazador_cromatico",
         "nombre": "🌠 Cazador de destellos",
-        "descripcion": "Reúne 10 Pokémon variocolor.",
+        "descripcion": "Consigue 10 Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 10,
         "imagen": null
@@ -2290,7 +2818,7 @@
       {
         "id": "magnate",
         "nombre": "🪙 Gran fortuna",
-        "descripcion": "Reúne una gran cantidad de dinero durante tu viaje.",
+        "descripcion": "Reúne 100.000 en dinero.",
         "tipo": "dineroMinimo",
         "requisito": 100000,
         "imagen": null
@@ -2298,7 +2826,7 @@
       {
         "id": "leyenda",
         "nombre": "🌟 LEYENDA",
-        "descripcion": "Desbloquea los otros 10 logros.",
+        "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
         "imagen": null
       }
