@@ -3179,28 +3179,31 @@
       "recompensa": {
         "id": "maestro-titan",
         "nombre": "Maestro Pokémon Titán",
-        "descripcion": "Completar las tres maestrías de Pokémon Titán: misiones secundarias, Nuzlocke sin bajas y Randomlocke sin bajas",
+        "descripcion": "Completar las tres maestrías de Pokémon Titán: intercambiar con todos los Don Prodigio, Starterlocke completo y modo Desafío",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/maestria/medallon-maestria.png",
         "tema": "amatista"
       },
       "items": [
         {
-          "id": "misiones-secundarias",
+          "id": "intercambio-don-prodigio",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/maestria/1.png",
           "icono": "star",
-          "titulo": "Nivel 1 · Misiones secundarias",
-          "descripcion": "Completar todas las misiones secundarias"
+          "titulo": "Nivel 1 · Intercambio con todos los Don Prodigio",
+          "descripcion": "Intercambiar con todos los Don Prodigio"
         },
         {
-          "id": "nuzlocke-sin-bajas",
+          "id": "starterlocke-completo",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/maestria/2.png",
           "icono": "heart",
-          "titulo": "Nivel 2 · Nuzlocke sin bajas",
-          "descripcion": "Completar el juego en modo Nuzlocke sin que ningún Pokémon caiga debilitado"
+          "titulo": "Nivel 2 · Starterlocke completo",
+          "descripcion": "Completar el juego en modo Starterlocke completo (solo starters)"
         },
         {
-          "id": "randomlocke-sin-bajas",
+          "id": "modo-desafio",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/maestria/3.png",
           "icono": "crown",
-          "titulo": "Nivel 3 · Randomlocke sin bajas",
-          "descripcion": "Completar el juego en modo Randomlocke sin que ningún Pokémon caiga debilitado"
+          "titulo": "Nivel 3 · Modo Desafío",
+          "descripcion": "Completar el juego en modo Desafío"
         }
       ]
     }
