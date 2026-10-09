@@ -2057,7 +2057,7 @@
         "nombre": "🌱 Nace una estrella (de la siesta)",
         "descripcion": "Recibe tu primer Pokémon.",
         "tipo": "primerPokemonReal",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/1.jpg"
       },
       {
         "id": "hazte_con_todos",
@@ -2065,7 +2065,7 @@
         "descripcion": "Captura tu primer Pokémon salvaje.",
         "tipo": "capturasReales",
         "requisito": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/2.jpg"
       },
       {
         "id": "iberia_huerto",
@@ -2073,7 +2073,7 @@
         "descripcion": "Ayuda a defender el huerto de la Ruta Murciana.",
         "tipo": "switch",
         "requisitoSwitch": 23,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/3.jpg"
       },
       {
         "id": "iberia_politoeds",
@@ -2081,7 +2081,7 @@
         "descripcion": "Salva a los Politoed del Cañón de Almadenes.",
         "tipo": "switch",
         "requisitoSwitch": 30,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/4.jpg"
       },
       {
         "id": "iberia_smeargle",
@@ -2089,7 +2089,7 @@
         "descripcion": "Calma al Smeargle del Desierto de Tabernas con comida Pokémon.",
         "tipo": "switch",
         "requisitoSwitch": 45,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/5.jpg"
       },
       {
         "id": "iberia_medalla_1",
@@ -2097,7 +2097,7 @@
         "descripcion": "Derrota a Reverte en Murcia y consigue la 1.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 0,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/6.jpg"
       },
       {
         "id": "iberia_medalla_2",
@@ -2105,7 +2105,7 @@
         "descripcion": "Derrota a Bécquer en Sevilla y consigue la 2.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/7.jpg"
       },
       {
         "id": "iberia_medalla_3",
@@ -2113,7 +2113,7 @@
         "descripcion": "Derrota al Cid en Valencia y consigue la 3.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/8.jpg"
       },
       {
         "id": "iberia_medalla_4",
@@ -2121,7 +2121,7 @@
         "descripcion": "Derrota a Gaudí en Barcelona y consigue la 4.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 3,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/9.jpg"
       },
       {
         "id": "iberia_medalla_5",
@@ -2129,7 +2129,7 @@
         "descripcion": "Derrota a los Reyes Católicos en Valladolid y consigue la 5.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/10.jpg"
       },
       {
         "id": "iberia_medalla_6",
@@ -2137,7 +2137,7 @@
         "descripcion": "Derrota a Mariví en Gijón y consigue la 6.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 5,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/11.jpg"
       },
       {
         "id": "iberia_medalla_7",
@@ -2145,7 +2145,7 @@
         "descripcion": "Derrota a Rosalía en Santiago de Compostela y consigue la 7.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 6,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/12.jpg"
       },
       {
         "id": "iberia_medalla_8",
@@ -2153,7 +2153,7 @@
         "descripcion": "Derrota a Godoy en Mérida y consigue la 8.ª medalla.",
         "tipo": "medalla",
         "requisitoIndice": 7,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/13.jpg"
       },
       {
         "id": "mitad_medallas",
@@ -2161,7 +2161,7 @@
         "descripcion": "Reúne 4 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/14.jpg"
       },
       {
         "id": "todas_medallas",
@@ -2169,7 +2169,7 @@
         "descripcion": "Reúne las 8 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 8,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/15.jpg"
       },
       {
         "id": "iberia_gonzalez",
@@ -2177,7 +2177,7 @@
         "descripcion": "Derrota a González, líder del Equipo Talante, en la Alhambra.",
         "tipo": "switch",
         "requisitoSwitch": 60,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/16.jpg"
       },
       {
         "id": "iberia_rita",
@@ -2185,7 +2185,7 @@
         "descripcion": "Derrota a Rita en el Oceanogràfic y consigue la llave del Museo Príncipe Felipe.",
         "tipo": "switch",
         "requisitoSwitch": 97,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/17.jpg"
       },
       {
         "id": "iberia_kyogre",
@@ -2193,7 +2193,7 @@
         "descripcion": "Ayuda a capturar a Kyogre en Ibiza.",
         "tipo": "switch",
         "requisitoSwitch": 114,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/18.jpg"
       },
       {
         "id": "iberia_groudon",
@@ -2201,7 +2201,7 @@
         "descripcion": "Ayuda a capturar a Groudon en el subsuelo de Barcelona.",
         "tipo": "switch",
         "requisitoSwitch": 167,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/19.jpg"
       },
       {
         "id": "iberia_gasol",
@@ -2209,7 +2209,7 @@
         "descripcion": "Vence a Pau y Marc Gasol en Barcelona.",
         "tipo": "switch",
         "requisitoSwitch": 395,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/20.jpg"
       },
       {
         "id": "iberia_iker",
@@ -2217,7 +2217,7 @@
         "descripcion": "Vence a Íker en la Torre de Control.",
         "tipo": "switch",
         "requisitoSwitch": 190,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/21.jpg"
       },
       {
         "id": "iberia_manolo",
@@ -2225,7 +2225,7 @@
         "descripcion": "Rescata a Manolo de la Torre de Control.",
         "tipo": "switch",
         "requisitoSwitch": 192,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/22.jpg"
       },
       {
         "id": "iberia_aizkolaris",
@@ -2233,7 +2233,7 @@
         "descripcion": "Vence a los aizkolaris de la Herriko-Taberna.",
         "tipo": "switch",
         "requisitoSwitch": 203,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/23.jpg"
       },
       {
         "id": "iberia_urobos",
@@ -2241,7 +2241,7 @@
         "descripcion": "Captura a Urobos en la Cueva de Altamira.",
         "tipo": "switch",
         "requisitoSwitch": 207,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/24.jpg"
       },
       {
         "id": "iberia_laboratorio",
@@ -2249,7 +2249,7 @@
         "descripcion": "Supera el laboratorio secreto de Hilario.",
         "tipo": "switch",
         "requisitoSwitch": 224,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/25.jpg"
       },
       {
         "id": "iberia_felipe",
@@ -2257,7 +2257,7 @@
         "descripcion": "Salva a Felipe VI en Gijón.",
         "tipo": "switch",
         "requisitoSwitch": 236,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/26.jpg"
       },
       {
         "id": "iberia_torre_hercules",
@@ -2271,7 +2271,7 @@
           255,
           256
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/27.jpg"
       },
       {
         "id": "iberia_quijote",
@@ -2279,7 +2279,7 @@
         "descripcion": "Derrota a Don Quijote en la Ruta Manchega.",
         "tipo": "switch",
         "requisitoSwitch": 293,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/28.jpg"
       },
       {
         "id": "iberia_ronaldo",
@@ -2287,7 +2287,7 @@
         "descripcion": "Derrota a Ronaldo en el gimnasio de Lisboa.",
         "tipo": "switch",
         "requisitoSwitch": 291,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/29.jpg"
       },
       {
         "id": "iberia_intercambio",
@@ -2295,7 +2295,7 @@
         "descripcion": "Cierra un intercambio en la Sagrada Familia.",
         "tipo": "switch",
         "requisitoSwitch": 182,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/30.jpg"
       },
       {
         "id": "iberia_nosepass",
@@ -2303,7 +2303,7 @@
         "descripcion": "Entrega un Nosepass a su cuidador y recibe tu piedra evolutiva.",
         "tipo": "switch",
         "requisitoSwitch": 118,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/31.jpg"
       },
       {
         "id": "iberia_cuadro_1",
@@ -2311,7 +2311,7 @@
         "descripcion": "Entrega a la Academia el primer cuadro recuperado.",
         "tipo": "switch",
         "requisitoSwitch": 180,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/32.jpg"
       },
       {
         "id": "iberia_cuadros",
@@ -2325,7 +2325,7 @@
           264,
           310
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/33.jpg"
       },
       {
         "id": "iberia_ventas",
@@ -2336,7 +2336,7 @@
           325,
           326
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/34.jpg"
       },
       {
         "id": "iberia_politicos",
@@ -2344,7 +2344,7 @@
         "descripcion": "Derrota a los políticos que custodian el Palacio de las Cortes.",
         "tipo": "switch",
         "requisitoSwitch": 341,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/35.jpg"
       },
       {
         "id": "iberia_caja",
@@ -2352,7 +2352,7 @@
         "descripcion": "Derrota al Equipo Caja en el Peñón de Gibraltar.",
         "tipo": "switch",
         "requisitoSwitch": 337,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/36.jpg"
       },
       {
         "id": "iberia_rival_pinares",
@@ -2360,7 +2360,7 @@
         "descripcion": "Vence a Sofía en los Pinares de Rodeno.",
         "tipo": "switch",
         "requisitoSwitch": 144,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/37.jpg"
       },
       {
         "id": "iberia_alto_mando",
@@ -2373,7 +2373,7 @@
           366,
           367
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/38.jpg"
       },
       {
         "id": "iberia_liga",
@@ -2381,7 +2381,7 @@
         "descripcion": "Supera la Liga Pokémon de Iberia.",
         "tipo": "switch",
         "requisitoSwitch": 375,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/39.jpg"
       },
       {
         "id": "iberia_fernando",
@@ -2389,7 +2389,7 @@
         "descripcion": "Pon fin a la amenaza de Fernando VII en el Valle Cinéreo.",
         "tipo": "switch",
         "requisitoSwitch": 382,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/40.jpg"
       },
       {
         "id": "iberia_titan",
@@ -2397,7 +2397,7 @@
         "descripcion": "Vence a Titán en los Pirineos.",
         "tipo": "switch",
         "requisitoSwitch": 394,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/41.jpg"
       },
       {
         "id": "iberia_mew",
@@ -2406,7 +2406,7 @@
         "tipo": "pokedexEspecie",
         "especie": "151",
         "especieNombre": "MEW",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/42.jpg"
       },
       {
         "id": "iberia_celebi",
@@ -2415,7 +2415,7 @@
         "tipo": "pokedexEspecie",
         "especie": "251",
         "especieNombre": "CELEBI",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/43.jpg"
       },
       {
         "id": "iberia_bestias",
@@ -2430,7 +2430,7 @@
           "RAIKOU",
           "SUICUNE"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/44.jpg"
       },
       {
         "id": "iberia_regis",
@@ -2449,7 +2449,7 @@
           "REGISTEEL",
           "REGIGIGAS"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/45.jpg"
       },
       {
         "id": "dex_100",
@@ -2457,7 +2457,7 @@
         "descripcion": "Consigue 100 Pokémon.",
         "tipo": "pokedexOwned",
         "requisito": 100,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/46.jpg"
       },
       {
         "id": "iberia_dex_completa",
@@ -2465,14 +2465,14 @@
         "descripcion": "Completa la Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 999,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/47.jpg"
       },
       {
         "id": "iberia_don_prodigio",
         "nombre": "🧙 Don Prodigio y su trueque sospechoso",
         "descripcion": "Intercambia un Pokémon con Don Prodigio.",
         "tipo": "tradeProdigio",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/48.jpg"
       },
       {
         "id": "entrenador_veterano",
@@ -2480,7 +2480,7 @@
         "descripcion": "Lleva a un Pokémon al nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/49.jpg"
       },
       {
         "id": "es_diferente",
@@ -2488,14 +2488,14 @@
         "descripcion": "Consigue tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/50.jpg"
       },
       {
         "id": "leyenda",
         "nombre": "🌟 LEYENDA (sin vida social)",
         "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/logros/51.jpg"
       }
     ],
     "maestria": {
@@ -2578,7 +2578,7 @@
         "nombre": "🌱 Elegido por el abuelo (y por el guion)",
         "descripcion": "Recibe tu primer Pokémon.",
         "tipo": "primerPokemonReal",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/1.jpg"
       },
       {
         "id": "hazte_con_todos",
@@ -2586,7 +2586,7 @@
         "descripcion": "Captura tu primer Pokémon salvaje.",
         "tipo": "capturasReales",
         "requisito": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/2.jpg"
       },
       {
         "id": "titan_tangela",
@@ -2594,7 +2594,7 @@
         "descripcion": "Resuelve el problema del Tangela en el Lago Brillante.",
         "tipo": "switch",
         "requisitoSwitch": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/3.jpg"
       },
       {
         "id": "titan_guardia",
@@ -2602,7 +2602,7 @@
         "descripcion": "Derrota al guardia de la Ruta 2.",
         "tipo": "switch",
         "requisitoSwitch": 15,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/4.jpg"
       },
       {
         "id": "titan_heracross",
@@ -2610,7 +2610,7 @@
         "descripcion": "Cura a los Heracross del Bosque Místico.",
         "tipo": "switch",
         "requisitoSwitch": 20,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/5.jpg"
       },
       {
         "id": "titan_casino",
@@ -2618,7 +2618,7 @@
         "descripcion": "Gana la Partida Decisiva del Casino.",
         "tipo": "switch",
         "requisitoSwitch": 30,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/6.jpg"
       },
       {
         "id": "titan_rokso",
@@ -2626,7 +2626,7 @@
         "descripcion": "Derrota a Rokso en las Montañas Rock.",
         "tipo": "switch",
         "requisitoSwitch": 50,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/7.jpg"
       },
       {
         "id": "titan_atlas",
@@ -2634,7 +2634,7 @@
         "descripcion": "Derrota a Atlas.",
         "tipo": "switch",
         "requisitoSwitch": 97,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/8.jpg"
       },
       {
         "id": "titan_torneo",
@@ -2642,7 +2642,7 @@
         "descripcion": "Termina el torneo del Santuario del Río.",
         "tipo": "switch",
         "requisitoSwitch": 125,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/9.jpg"
       },
       {
         "id": "titan_froslass",
@@ -2650,7 +2650,7 @@
         "descripcion": "Derrota a Froslass en el Bosque Frío.",
         "tipo": "switch",
         "requisitoSwitch": 169,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/10.jpg"
       },
       {
         "id": "titan_pokeflauta",
@@ -2658,7 +2658,7 @@
         "descripcion": "Consigue la Poké Flauta.",
         "tipo": "switch",
         "requisitoSwitch": 141,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/11.jpg"
       },
       {
         "id": "titan_megapiedra",
@@ -2666,7 +2666,7 @@
         "descripcion": "Consigue tu primera megapiedra.",
         "tipo": "switch",
         "requisitoSwitch": 227,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/12.jpg"
       },
       {
         "id": "titan_moto",
@@ -2674,7 +2674,7 @@
         "descripcion": "Consigue la moto.",
         "tipo": "switch",
         "requisitoSwitch": 234,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/13.jpg"
       },
       {
         "id": "titan_faraon",
@@ -2682,7 +2682,7 @@
         "descripcion": "Derrota al faraón en las Cámaras Mortuorias.",
         "tipo": "switch",
         "requisitoSwitch": 296,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/14.jpg"
       },
       {
         "id": "titan_bomba",
@@ -2690,7 +2690,7 @@
         "descripcion": "Desactiva la bomba del barco.",
         "tipo": "switch",
         "requisitoSwitch": 422,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/15.jpg"
       },
       {
         "id": "titan_barco",
@@ -2698,7 +2698,7 @@
         "descripcion": "Salva el barco.",
         "tipo": "switch",
         "requisitoSwitch": 474,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/16.jpg"
       },
       {
         "id": "titan_central",
@@ -2706,7 +2706,7 @@
         "descripcion": "Deja inoperativa la central eléctrica.",
         "tipo": "switch",
         "requisitoSwitch": 431,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/17.jpg"
       },
       {
         "id": "titan_jeyel",
@@ -2714,7 +2714,7 @@
         "descripcion": "Detén a Jeyel en Ciudad Gótica.",
         "tipo": "switch",
         "requisitoSwitch": 462,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/18.jpg"
       },
       {
         "id": "titan_sudowoodo",
@@ -2722,7 +2722,7 @@
         "descripcion": "Derrota al Sudowoodo de la Arboleda Sombría.",
         "tipo": "switch",
         "requisitoSwitch": 484,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/19.jpg"
       },
       {
         "id": "titan_clefable",
@@ -2730,7 +2730,7 @@
         "descripcion": "Captura al Clefable variocolor de la Cueva Unión Oeste.",
         "tipo": "switch",
         "requisitoSwitch": 458,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/20.jpg"
       },
       {
         "id": "titan_carnet",
@@ -2738,7 +2738,7 @@
         "descripcion": "Consigue el Carnet Ciudadano en Ciudad Renacentista.",
         "tipo": "switch",
         "requisitoSwitch": 536,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/21.jpg"
       },
       {
         "id": "titan_esclavos",
@@ -2750,7 +2750,7 @@
           812,
           814
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/22.jpg"
       },
       {
         "id": "titan_setucho",
@@ -2758,7 +2758,7 @@
         "descripcion": "Derrota al Coronel Setucho.",
         "tipo": "switch",
         "requisitoSwitch": 815,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/23.jpg"
       },
       {
         "id": "titan_mina",
@@ -2766,7 +2766,7 @@
         "descripcion": "Desmantela la mina de Tartarita.",
         "tipo": "switch",
         "requisitoSwitch": 826,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/24.jpg"
       },
       {
         "id": "titan_rojo_azul",
@@ -2774,7 +2774,7 @@
         "descripcion": "Vence a Rojo y a Azul en el Tártaro.",
         "tipo": "switch",
         "requisitoSwitch": 834,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/25.jpg"
       },
       {
         "id": "titan_oak",
@@ -2782,7 +2782,7 @@
         "descripcion": "Rescata al profesor Oak.",
         "tipo": "switch",
         "requisitoSwitch": 828,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/26.jpg"
       },
       {
         "id": "titan_guardia_real",
@@ -2790,7 +2790,7 @@
         "descripcion": "Vence a la guardia real del Castillo Titánico.",
         "tipo": "switch",
         "requisitoSwitch": 842,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/27.jpg"
       },
       {
         "id": "titan_durant",
@@ -2798,7 +2798,7 @@
         "descripcion": "Vence a los Durant del Centro Meteorológico.",
         "tipo": "switch",
         "requisitoSwitch": 761,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/28.jpg"
       },
       {
         "id": "titan_lance",
@@ -2806,7 +2806,7 @@
         "descripcion": "Derrota a Lance en la Cima Dragón.",
         "tipo": "switch",
         "requisitoSwitch": 319,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/29.jpg"
       },
       {
         "id": "titan_helio",
@@ -2814,7 +2814,7 @@
         "descripcion": "Derrota a Helio.",
         "tipo": "switch",
         "requisitoSwitch": 403,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/30.jpg"
       },
       {
         "id": "titan_hades",
@@ -2822,7 +2822,7 @@
         "descripcion": "Derrota a Hades en el Mundo Distorsión.",
         "tipo": "switch",
         "requisitoSwitch": 625,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/31.jpg"
       },
       {
         "id": "titan_zeus",
@@ -2830,7 +2830,7 @@
         "descripcion": "Derrota a Zeus en la Catedral Alfa.",
         "tipo": "switch",
         "requisitoSwitch": 717,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/32.jpg"
       },
       {
         "id": "titan_hestia",
@@ -2838,14 +2838,14 @@
         "descripcion": "Derrota a Hestia en la Sala de Mando.",
         "tipo": "switch",
         "requisitoSwitch": 718,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/33.jpg"
       },
       {
         "id": "titan_liga_titanica",
         "nombre": "🏛️ Liga Titánica: ya eres de la casa",
         "descripcion": "Supera las cuatro pruebas del Torreón Titánico.",
         "tipo": "switchTodos",
-        "imagen": null,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/34.jpg",
         "requisitoSwitches": [
           848,
           849,
@@ -2859,7 +2859,7 @@
         "descripcion": "Derrota a Necrozma.",
         "tipo": "switch",
         "requisitoSwitch": 889,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/35.jpg"
       },
       {
         "id": "titan_liga",
@@ -2867,7 +2867,7 @@
         "descripcion": "Supera la Liga Pokémon.",
         "tipo": "switch",
         "requisitoSwitch": 365,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/36.jpg"
       },
       {
         "id": "titan_alto_mando",
@@ -2880,7 +2880,7 @@
           360,
           361
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/37.jpg"
       },
       {
         "id": "titan_revancha_liga",
@@ -2893,7 +2893,7 @@
           904,
           905
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/38.jpg"
       },
       {
         "id": "titan_revancha_gym",
@@ -2901,7 +2901,7 @@
         "descripcion": "Gana la revancha contra Ingrid y Katrina.",
         "tipo": "switch",
         "requisitoSwitch": 906,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/39.jpg"
       },
       {
         "id": "titan_juego_pasado",
@@ -2909,7 +2909,7 @@
         "descripcion": "Termina la historia principal de Pokémon Titán.",
         "tipo": "switch",
         "requisitoSwitch": 885,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/40.jpg"
       },
       {
         "id": "titan_medalla_1",
@@ -2917,7 +2917,7 @@
         "descripcion": "Consigue la medalla nº 1.",
         "tipo": "medalla",
         "requisitoIndice": 0,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/41.jpg"
       },
       {
         "id": "titan_medalla_2",
@@ -2925,7 +2925,7 @@
         "descripcion": "Consigue la medalla nº 2.",
         "tipo": "medalla",
         "requisitoIndice": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/42.jpg"
       },
       {
         "id": "titan_medalla_3",
@@ -2933,7 +2933,7 @@
         "descripcion": "Consigue la medalla nº 3.",
         "tipo": "medalla",
         "requisitoIndice": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/43.jpg"
       },
       {
         "id": "titan_medalla_4",
@@ -2941,7 +2941,7 @@
         "descripcion": "Consigue la medalla nº 4.",
         "tipo": "medalla",
         "requisitoIndice": 3,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/44.jpg"
       },
       {
         "id": "titan_medalla_5",
@@ -2949,7 +2949,7 @@
         "descripcion": "Consigue la medalla nº 5.",
         "tipo": "medalla",
         "requisitoIndice": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/45.jpg"
       },
       {
         "id": "titan_medalla_6",
@@ -2957,7 +2957,7 @@
         "descripcion": "Consigue la medalla nº 6.",
         "tipo": "medalla",
         "requisitoIndice": 5,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/46.jpg"
       },
       {
         "id": "titan_medalla_7",
@@ -2965,7 +2965,7 @@
         "descripcion": "Consigue la medalla nº 7.",
         "tipo": "medalla",
         "requisitoIndice": 6,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/47.jpg"
       },
       {
         "id": "titan_medalla_8",
@@ -2973,7 +2973,7 @@
         "descripcion": "Consigue la medalla nº 8.",
         "tipo": "medalla",
         "requisitoIndice": 7,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/48.jpg"
       },
       {
         "id": "titan_medalla_9",
@@ -2981,7 +2981,7 @@
         "descripcion": "Consigue la medalla nº 9.",
         "tipo": "medalla",
         "requisitoIndice": 8,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/49.jpg"
       },
       {
         "id": "titan_medalla_10",
@@ -2989,7 +2989,7 @@
         "descripcion": "Consigue la medalla nº 10.",
         "tipo": "medalla",
         "requisitoIndice": 9,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/50.jpg"
       },
       {
         "id": "titan_medalla_11",
@@ -2997,7 +2997,7 @@
         "descripcion": "Consigue la medalla nº 11.",
         "tipo": "medalla",
         "requisitoIndice": 10,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/51.jpg"
       },
       {
         "id": "titan_medalla_12",
@@ -3005,7 +3005,7 @@
         "descripcion": "Consigue la medalla nº 12.",
         "tipo": "medalla",
         "requisitoIndice": 11,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/52.jpg"
       },
       {
         "id": "titan_medalla_13",
@@ -3013,7 +3013,7 @@
         "descripcion": "Consigue la medalla nº 13.",
         "tipo": "medalla",
         "requisitoIndice": 12,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/53.jpg"
       },
       {
         "id": "titan_medalla_14",
@@ -3021,7 +3021,7 @@
         "descripcion": "Consigue la medalla nº 14.",
         "tipo": "medalla",
         "requisitoIndice": 13,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/54.jpg"
       },
       {
         "id": "titan_medalla_15",
@@ -3029,7 +3029,7 @@
         "descripcion": "Consigue la medalla nº 15.",
         "tipo": "medalla",
         "requisitoIndice": 14,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/55.jpg"
       },
       {
         "id": "titan_medalla_16",
@@ -3037,7 +3037,7 @@
         "descripcion": "Consigue la medalla nº 16.",
         "tipo": "medalla",
         "requisitoIndice": 15,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/56.jpg"
       },
       {
         "id": "mitad_medallas",
@@ -3045,7 +3045,7 @@
         "descripcion": "Reúne 8 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 8,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/57.jpg"
       },
       {
         "id": "todas_medallas",
@@ -3053,7 +3053,7 @@
         "descripcion": "Reúne las 16 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 16,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/58.jpg"
       },
       {
         "id": "dex_100",
@@ -3061,7 +3061,7 @@
         "descripcion": "Consigue 100 Pokémon.",
         "tipo": "pokedexOwned",
         "requisito": 100,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/59.jpg"
       },
       {
         "id": "titan_dex_completa",
@@ -3069,7 +3069,7 @@
         "descripcion": "Completa la Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 806,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/60.jpg"
       },
       {
         "id": "titan_mewtwo",
@@ -3078,7 +3078,7 @@
         "tipo": "pokedexEspecie",
         "especie": "150",
         "especieNombre": "MEWTWO",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/61.jpg"
       },
       {
         "id": "titan_mew",
@@ -3087,7 +3087,7 @@
         "tipo": "pokedexEspecie",
         "especie": "151",
         "especieNombre": "MEW",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/62.jpg"
       },
       {
         "id": "titan_giratina",
@@ -3096,7 +3096,7 @@
         "tipo": "pokedexEspecie",
         "especie": "487",
         "especieNombre": "GIRATINA",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/63.jpg"
       },
       {
         "id": "titan_arceus",
@@ -3105,7 +3105,7 @@
         "tipo": "pokedexEspecie",
         "especie": "493",
         "especieNombre": "ARCEUS",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/64.jpg"
       },
       {
         "id": "titan_lugia",
@@ -3114,7 +3114,7 @@
         "tipo": "pokedexEspecie",
         "especie": "249",
         "especieNombre": "LUGIA",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/65.jpg"
       },
       {
         "id": "titan_hooh",
@@ -3123,7 +3123,7 @@
         "tipo": "pokedexEspecie",
         "especie": "250",
         "especieNombre": "HOOH",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/66.jpg"
       },
       {
         "id": "titan_suicune",
@@ -3132,7 +3132,7 @@
         "tipo": "pokedexEspecie",
         "especie": "245",
         "especieNombre": "SUICUNE",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/67.jpg"
       },
       {
         "id": "titan_regis",
@@ -3149,7 +3149,7 @@
           "REGICE",
           "REGISTEEL"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/68.jpg"
       },
       {
         "id": "entrenador_veterano",
@@ -3157,7 +3157,7 @@
         "descripcion": "Lleva a un Pokémon al nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/69.jpg"
       },
       {
         "id": "es_diferente",
@@ -3165,14 +3165,14 @@
         "descripcion": "Consigue tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/70.jpg"
       },
       {
         "id": "leyenda",
         "nombre": "🌟 LEYENDA (sin vida social)",
         "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/logros/71.jpg"
       }
     ],
     "maestria": {
