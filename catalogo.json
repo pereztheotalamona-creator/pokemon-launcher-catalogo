@@ -2575,150 +2575,473 @@
     "logros": [
       {
         "id": "aventura_comienza",
-        "nombre": "🌱 Comienza la aventura",
+        "nombre": "🌱 Elegido por el abuelo (y por el guion)",
         "descripcion": "Recibe tu primer Pokémon.",
         "tipo": "primerPokemonReal",
         "imagen": null
       },
       {
         "id": "hazte_con_todos",
-        "nombre": "🎒 Primera captura",
+        "nombre": "🎒 Secuestro con Poké Ball",
         "descripcion": "Captura tu primer Pokémon salvaje.",
         "tipo": "capturasReales",
         "requisito": 2,
         "imagen": null
       },
       {
+        "id": "titan_tangela",
+        "nombre": "🌿 Tangela no era el jefe final",
+        "descripcion": "Resuelve el problema del Tangela en el Lago Brillante.",
+        "tipo": "switch",
+        "requisitoSwitch": 4,
+        "imagen": null
+      },
+      {
+        "id": "titan_guardia",
+        "nombre": "🛑 Por aquí no se pasa (spoiler: sí)",
+        "descripcion": "Derrota al guardia de la Ruta 2.",
+        "tipo": "switch",
+        "requisitoSwitch": 15,
+        "imagen": null
+      },
+      {
+        "id": "titan_heracross",
+        "nombre": "🪲 Doctor Heracross, a su servicio",
+        "descripcion": "Cura a los Heracross del Bosque Místico.",
+        "tipo": "switch",
+        "requisitoSwitch": 20,
+        "imagen": null
+      },
+      {
+        "id": "titan_casino",
+        "nombre": "🎰 La banca siempre gana (menos hoy)",
+        "descripcion": "Gana la Partida Decisiva del Casino.",
+        "tipo": "switch",
+        "requisitoSwitch": 30,
+        "imagen": null
+      },
+      {
+        "id": "titan_rokso",
+        "nombre": "⛏️ Rokso, el de las rocas (qué original)",
+        "descripcion": "Derrota a Rokso en las Montañas Rock.",
+        "tipo": "switch",
+        "requisitoSwitch": 50,
+        "imagen": null
+      },
+      {
+        "id": "titan_atlas",
+        "nombre": "🏢 Atlas ya no puede con el mundo",
+        "descripcion": "Derrota a Atlas.",
+        "tipo": "switch",
+        "requisitoSwitch": 97,
+        "imagen": null
+      },
+      {
+        "id": "titan_torneo",
+        "nombre": "🏟️ Campeón del torneo del barrio",
+        "descripcion": "Termina el torneo del Santuario del Río.",
+        "tipo": "switch",
+        "requisitoSwitch": 125,
+        "imagen": null
+      },
+      {
+        "id": "titan_froslass",
+        "nombre": "👻 Froslass, ponte un abrigo",
+        "descripcion": "Derrota a Froslass en el Bosque Frío.",
+        "tipo": "switch",
+        "requisitoSwitch": 169,
+        "imagen": null
+      },
+      {
+        "id": "titan_pokeflauta",
+        "nombre": "🎶 Sopla y Snorlax despierta",
+        "descripcion": "Consigue la Poké Flauta.",
+        "tipo": "switch",
+        "requisitoSwitch": 141,
+        "imagen": null
+      },
+      {
+        "id": "titan_megapiedra",
+        "nombre": "💎 Piedra con complejo de superioridad",
+        "descripcion": "Consigue tu primera megapiedra.",
+        "tipo": "switch",
+        "requisitoSwitch": 227,
+        "imagen": null
+      },
+      {
+        "id": "titan_moto",
+        "nombre": "🏍️ Easy Rider (sin casco)",
+        "descripcion": "Consigue la moto.",
+        "tipo": "switch",
+        "requisitoSwitch": 234,
+        "imagen": null
+      },
+      {
+        "id": "titan_faraon",
+        "nombre": "🏺 La maldición del faraón (no incluye reembolso)",
+        "descripcion": "Derrota al faraón en las Cámaras Mortuorias.",
+        "tipo": "switch",
+        "requisitoSwitch": 296,
+        "imagen": null
+      },
+      {
+        "id": "titan_bomba",
+        "nombre": "💣 ¿Cable rojo o azul? Sí.",
+        "descripcion": "Desactiva la bomba del barco.",
+        "tipo": "switch",
+        "requisitoSwitch": 422,
+        "imagen": null
+      },
+      {
+        "id": "titan_barco",
+        "nombre": "🚢 Un Titanic con final feliz",
+        "descripcion": "Salva el barco.",
+        "tipo": "switch",
+        "requisitoSwitch": 474,
+        "imagen": null
+      },
+      {
+        "id": "titan_central",
+        "nombre": "⚡ Apagón (culpa tuya, vecino)",
+        "descripcion": "Deja inoperativa la central eléctrica.",
+        "tipo": "switch",
+        "requisitoSwitch": 431,
+        "imagen": null
+      },
+      {
+        "id": "titan_jeyel",
+        "nombre": "🔬 Jeyel y sus malas ideas",
+        "descripcion": "Detén a Jeyel en Ciudad Gótica.",
+        "tipo": "switch",
+        "requisitoSwitch": 462,
+        "imagen": null
+      },
+      {
+        "id": "titan_sudowoodo",
+        "nombre": "🌳 Parecía un árbol",
+        "descripcion": "Derrota al Sudowoodo de la Arboleda Sombría.",
+        "tipo": "switch",
+        "requisitoSwitch": 484,
+        "imagen": null
+      },
+      {
+        "id": "titan_clefable",
+        "nombre": "✨ Clefable, edición brillante",
+        "descripcion": "Captura al Clefable variocolor de la Cueva Unión Oeste.",
+        "tipo": "switch",
+        "requisitoSwitch": 458,
+        "imagen": null
+      },
+      {
+        "id": "titan_carnet",
+        "nombre": "🪪 Burocracia nivel experto",
+        "descripcion": "Consigue el Carnet Ciudadano en Ciudad Renacentista.",
+        "tipo": "switch",
+        "requisitoSwitch": 536,
+        "imagen": null
+      },
+      {
+        "id": "titan_esclavos",
+        "nombre": "⛓️ Recursos humanos, pero al revés",
+        "descripcion": "Salva a los tres grupos de esclavos de los Campos de Cultivo.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          810,
+          812,
+          814
+        ],
+        "imagen": null
+      },
+      {
+        "id": "titan_setucho",
+        "nombre": "🎖️ Coronel Setucho, ascendido a derrota",
+        "descripcion": "Derrota al Coronel Setucho.",
+        "tipo": "switch",
+        "requisitoSwitch": 815,
+        "imagen": null
+      },
+      {
+        "id": "titan_mina",
+        "nombre": "⛏️ Sindicato minero: 0 – Tú: 1",
+        "descripcion": "Desmantela la mina de Tartarita.",
+        "tipo": "switch",
+        "requisitoSwitch": 826,
+        "imagen": null
+      },
+      {
+        "id": "titan_rojo_azul",
+        "nombre": "🧢 Rojo y Azul con mal día",
+        "descripcion": "Vence a Rojo y a Azul en el Tártaro.",
+        "tipo": "switch",
+        "requisitoSwitch": 834,
+        "imagen": null
+      },
+      {
+        "id": "titan_oak",
+        "nombre": "📚 Operación Rescate: Profesor Oak",
+        "descripcion": "Rescata al profesor Oak.",
+        "tipo": "switch",
+        "requisitoSwitch": 828,
+        "imagen": null
+      },
+      {
+        "id": "titan_guardia_real",
+        "nombre": "🛡️ Guardia real con sueldo de becario",
+        "descripcion": "Vence a la guardia real del Castillo Titánico.",
+        "tipo": "switch",
+        "requisitoSwitch": 842,
+        "imagen": null
+      },
+      {
+        "id": "titan_durant",
+        "nombre": "🐜 Hormigas con muy mala leche",
+        "descripcion": "Vence a los Durant del Centro Meteorológico.",
+        "tipo": "switch",
+        "requisitoSwitch": 761,
+        "imagen": null
+      },
+      {
+        "id": "titan_lance",
+        "nombre": "🐉 Lance, el dragón de cabecera",
+        "descripcion": "Derrota a Lance en la Cima Dragón.",
+        "tipo": "switch",
+        "requisitoSwitch": 319,
+        "imagen": null
+      },
+      {
+        "id": "titan_helio",
+        "nombre": "☀️ Helio, el de la Cámara Gaia",
+        "descripcion": "Derrota a Helio.",
+        "tipo": "switch",
+        "requisitoSwitch": 403,
+        "imagen": null
+      },
+      {
+        "id": "titan_hades",
+        "nombre": "🌀 Hades: descuento en el inframundo",
+        "descripcion": "Derrota a Hades en el Mundo Distorsión.",
+        "tipo": "switch",
+        "requisitoSwitch": 625,
+        "imagen": null
+      },
+      {
+        "id": "titan_zeus",
+        "nombre": "⚡ Zeus se quedó sin rayos",
+        "descripcion": "Derrota a Zeus en la Catedral Alfa.",
+        "tipo": "switch",
+        "requisitoSwitch": 717,
+        "imagen": null
+      },
+      {
+        "id": "titan_hestia",
+        "nombre": "🔥 Hestia, se acabó la fiesta",
+        "descripcion": "Derrota a Hestia en la Sala de Mando.",
+        "tipo": "switch",
+        "requisitoSwitch": 718,
+        "imagen": null
+      },
+      {
+        "id": "titan_liga_titanica",
+        "nombre": "🏛️ Liga Titánica: ya eres de la casa",
+        "descripcion": "Supera las cuatro pruebas del Torreón Titánico.",
+        "tipo": "switchTodos",
+        "imagen": null,
+        "requisitoSwitches": [
+          848,
+          849,
+          850,
+          851
+        ]
+      },
+      {
+        "id": "titan_necrozma",
+        "nombre": "🌌 Necrozma, apaga y vámonos",
+        "descripcion": "Derrota a Necrozma.",
+        "tipo": "switch",
+        "requisitoSwitch": 889,
+        "imagen": null
+      },
+      {
+        "id": "titan_liga",
+        "nombre": "🏆 Campeón (hasta nueva orden)",
+        "descripcion": "Supera la Liga Pokémon.",
+        "tipo": "switch",
+        "requisitoSwitch": 365,
+        "imagen": null
+      },
+      {
+        "id": "titan_alto_mando",
+        "nombre": "🥊 Cuatro del Coliseo, cero excusas",
+        "descripcion": "Vence a los cuatro rivales del Coliseo de la Liga.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          358,
+          359,
+          360,
+          361
+        ],
+        "imagen": null
+      },
+      {
+        "id": "titan_revancha_liga",
+        "nombre": "🔁 Revancha: ellos también quieren el desquite",
+        "descripcion": "Vuelve a vencer a los rivales del Coliseo.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          902,
+          903,
+          904,
+          905
+        ],
+        "imagen": null
+      },
+      {
+        "id": "titan_revancha_gym",
+        "nombre": "💥 Ingrid & Katrina, ronda dos",
+        "descripcion": "Gana la revancha contra Ingrid y Katrina.",
+        "tipo": "switch",
+        "requisitoSwitch": 906,
+        "imagen": null
+      },
+      {
+        "id": "titan_juego_pasado",
+        "nombre": "🎬 Fin de la historia principal (hay más)",
+        "descripcion": "Termina la historia principal de Pokémon Titán.",
+        "tipo": "switch",
+        "requisitoSwitch": 885,
+        "imagen": null
+      },
+      {
         "id": "titan_medalla_1",
-        "nombre": "🥇 Primera medalla",
-        "descripcion": "Consigue la medalla nº 1 (Aleteia).",
+        "nombre": "🥇 ¡Hola, chapa!",
+        "descripcion": "Consigue la medalla nº 1.",
         "tipo": "medalla",
         "requisitoIndice": 0,
         "imagen": null
       },
       {
         "id": "titan_medalla_2",
-        "nombre": "🥈 Segunda medalla",
-        "descripcion": "Consigue la medalla nº 2 (Aleteia).",
+        "nombre": "🥈 Dos de dos... digo, de dieciséis",
+        "descripcion": "Consigue la medalla nº 2.",
         "tipo": "medalla",
         "requisitoIndice": 1,
         "imagen": null
       },
       {
         "id": "titan_medalla_3",
-        "nombre": "🥉 Tercera medalla",
-        "descripcion": "Consigue la medalla nº 3 (Aleteia).",
+        "nombre": "🥉 Ya empieza a pesar el abrigo",
+        "descripcion": "Consigue la medalla nº 3.",
         "tipo": "medalla",
         "requisitoIndice": 2,
         "imagen": null
       },
       {
         "id": "titan_medalla_4",
-        "nombre": "🏅 Cuarta medalla",
-        "descripcion": "Consigue la medalla nº 4 (Aleteia).",
+        "nombre": "🏅 Cuarta chapa, cuarta paliza",
+        "descripcion": "Consigue la medalla nº 4.",
         "tipo": "medalla",
         "requisitoIndice": 3,
         "imagen": null
       },
       {
         "id": "titan_medalla_5",
-        "nombre": "🎖️ Quinta medalla",
-        "descripcion": "Consigue la medalla nº 5 (Aleteia).",
+        "nombre": "🎖️ Quinta: te estás poniendo pesado",
+        "descripcion": "Consigue la medalla nº 5.",
         "tipo": "medalla",
         "requisitoIndice": 4,
         "imagen": null
       },
       {
         "id": "titan_medalla_6",
-        "nombre": "🏵️ Sexta medalla",
-        "descripcion": "Consigue la medalla nº 6 (Aleteia).",
+        "nombre": "🏵️ Sexta medalla, séptimo café",
+        "descripcion": "Consigue la medalla nº 6.",
         "tipo": "medalla",
         "requisitoIndice": 5,
         "imagen": null
       },
       {
         "id": "titan_medalla_7",
-        "nombre": "🌟 Séptima medalla",
-        "descripcion": "Consigue la medalla nº 7 (Aleteia).",
+        "nombre": "🌟 Siete: número de la suerte (o del cansancio)",
+        "descripcion": "Consigue la medalla nº 7.",
         "tipo": "medalla",
         "requisitoIndice": 6,
         "imagen": null
       },
       {
         "id": "titan_medalla_8",
-        "nombre": "💫 Octava medalla",
-        "descripcion": "Consigue la medalla nº 8 (Aleteia).",
+        "nombre": "💫 Ocho: la mitad del camino",
+        "descripcion": "Consigue la medalla nº 8.",
         "tipo": "medalla",
         "requisitoIndice": 7,
         "imagen": null
       },
       {
         "id": "titan_medalla_9",
-        "nombre": "🔰 Novena medalla",
-        "descripcion": "Consigue la medalla nº 9 (Arjes).",
+        "nombre": "🔰 Nueve: ahora sí que no hay marcha atrás",
+        "descripcion": "Consigue la medalla nº 9.",
         "tipo": "medalla",
         "requisitoIndice": 8,
         "imagen": null
       },
       {
         "id": "titan_medalla_10",
-        "nombre": "⚜️ Décima medalla",
-        "descripcion": "Consigue la medalla nº 10 (Arjes).",
+        "nombre": "⚜️ Diez: dedos de las manos agotados",
+        "descripcion": "Consigue la medalla nº 10.",
         "tipo": "medalla",
         "requisitoIndice": 9,
         "imagen": null
       },
       {
         "id": "titan_medalla_11",
-        "nombre": "🛡️ Undécima medalla",
-        "descripcion": "Consigue la medalla nº 11 (Arjes).",
+        "nombre": "🛡️ Once: casi un equipo de fútbol",
+        "descripcion": "Consigue la medalla nº 11.",
         "tipo": "medalla",
         "requisitoIndice": 10,
         "imagen": null
       },
       {
         "id": "titan_medalla_12",
-        "nombre": "👑 Duodécima medalla",
-        "descripcion": "Consigue la medalla nº 12 (Arjes).",
+        "nombre": "👑 Doce: la docena barata",
+        "descripcion": "Consigue la medalla nº 12.",
         "tipo": "medalla",
         "requisitoIndice": 11,
         "imagen": null
       },
       {
         "id": "titan_medalla_13",
-        "nombre": "💎 Decimotercera medalla",
-        "descripcion": "Consigue la medalla nº 13 (Arjes).",
+        "nombre": "💎 Trece: mala suerte para ellos",
+        "descripcion": "Consigue la medalla nº 13.",
         "tipo": "medalla",
         "requisitoIndice": 12,
         "imagen": null
       },
       {
         "id": "titan_medalla_14",
-        "nombre": "🔱 Decimocuarta medalla",
-        "descripcion": "Consigue la medalla nº 14 (Arjes).",
+        "nombre": "🔱 Catorce: se acaba el espacio en la mochila",
+        "descripcion": "Consigue la medalla nº 14.",
         "tipo": "medalla",
         "requisitoIndice": 13,
         "imagen": null
       },
       {
         "id": "titan_medalla_15",
-        "nombre": "☄️ Decimoquinta medalla",
-        "descripcion": "Consigue la medalla nº 15 (Arjes).",
+        "nombre": "☄️ Quince: aquí huele a final",
+        "descripcion": "Consigue la medalla nº 15.",
         "tipo": "medalla",
         "requisitoIndice": 14,
         "imagen": null
       },
       {
         "id": "titan_medalla_16",
-        "nombre": "🌠 Decimosexta medalla",
-        "descripcion": "Consigue la medalla nº 16 (Arjes).",
+        "nombre": "🌠 Dieciséis: coleccionista oficial",
+        "descripcion": "Consigue la medalla nº 16.",
         "tipo": "medalla",
         "requisitoIndice": 15,
         "imagen": null
       },
       {
         "id": "mitad_medallas",
-        "nombre": "🏅 A medio camino",
+        "nombre": "🏅 Medio camino y ya con agujetas",
         "descripcion": "Reúne 8 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 8,
@@ -2726,80 +3049,127 @@
       },
       {
         "id": "todas_medallas",
-        "nombre": "🏛️ Colección completa",
+        "nombre": "🏛️ Tienes más chapas que un camionero",
         "descripcion": "Reúne las 16 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 16,
         "imagen": null
       },
       {
-        "id": "titan_dex_50",
-        "nombre": "📘 Primeras páginas",
-        "descripcion": "Registra 50 especies en tu Pokédex.",
-        "tipo": "pokedexOwned",
-        "requisito": 50,
-        "imagen": null
-      },
-      {
         "id": "dex_100",
-        "nombre": "📓 Cuaderno de campo",
-        "descripcion": "Registra 100 especies en tu Pokédex.",
+        "nombre": "📓 Cien amigos y ninguna cita",
+        "descripcion": "Consigue 100 Pokémon.",
         "tipo": "pokedexOwned",
         "requisito": 100,
         "imagen": null
       },
       {
-        "id": "titan_dex_200",
-        "nombre": "📚 Enciclopedia titánica",
-        "descripcion": "Registra 200 especies en tu Pokédex.",
+        "id": "titan_dex_completa",
+        "nombre": "📚 Ratón de Pokédex, versión Titán",
+        "descripcion": "Completa la Pokédex.",
         "tipo": "pokedexOwned",
-        "requisito": 200,
+        "requisito": 806,
+        "imagen": null
+      },
+      {
+        "id": "titan_mewtwo",
+        "nombre": "🧬 El que no pidió nacer",
+        "descripcion": "Consigue a Mewtwo.",
+        "tipo": "pokedexEspecie",
+        "especie": "150",
+        "especieNombre": "MEWTWO",
+        "imagen": null
+      },
+      {
+        "id": "titan_mew",
+        "nombre": "🌸 Gatito rosa sospechoso",
+        "descripcion": "Consigue a Mew.",
+        "tipo": "pokedexEspecie",
+        "especie": "151",
+        "especieNombre": "MEW",
+        "imagen": null
+      },
+      {
+        "id": "titan_giratina",
+        "nombre": "👻 Giratina, la del mal humor",
+        "descripcion": "Consigue a Giratina.",
+        "tipo": "pokedexEspecie",
+        "especie": "487",
+        "especieNombre": "GIRATINA",
+        "imagen": null
+      },
+      {
+        "id": "titan_arceus",
+        "nombre": "🔱 Mucho ruido y un solo Arceus",
+        "descripcion": "Consigue a Arceus.",
+        "tipo": "pokedexEspecie",
+        "especie": "493",
+        "especieNombre": "ARCEUS",
+        "imagen": null
+      },
+      {
+        "id": "titan_lugia",
+        "nombre": "🌊 Lugia, el gigante dormilón",
+        "descripcion": "Consigue a Lugia.",
+        "tipo": "pokedexEspecie",
+        "especie": "249",
+        "especieNombre": "LUGIA",
+        "imagen": null
+      },
+      {
+        "id": "titan_hooh",
+        "nombre": "🔥 Ho-Oh resurge (como mi sueldo)",
+        "descripcion": "Consigue a Ho-Oh.",
+        "tipo": "pokedexEspecie",
+        "especie": "250",
+        "especieNombre": "HOOH",
+        "imagen": null
+      },
+      {
+        "id": "titan_suicune",
+        "nombre": "💧 Suicune, el escurridizo",
+        "descripcion": "Consigue a Suicune.",
+        "tipo": "pokedexEspecie",
+        "especie": "245",
+        "especieNombre": "SUICUNE",
+        "imagen": null
+      },
+      {
+        "id": "titan_regis",
+        "nombre": "🗿 Los Regis: tres piedras en el zapato",
+        "descripcion": "Consigue a Regirock, Regice y Registeel.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "377",
+          "378",
+          "379"
+        ],
+        "especiesNombres": [
+          "REGIROCK",
+          "REGICE",
+          "REGISTEEL"
+        ],
         "imagen": null
       },
       {
         "id": "entrenador_veterano",
-        "nombre": "💯 Nivel cumbre",
+        "nombre": "💯 Techo de cristal roto",
         "descripcion": "Lleva a un Pokémon al nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
         "imagen": null
       },
       {
-        "id": "equipo_perfecto",
-        "nombre": "🛡️ Equipo impecable",
-        "descripcion": "Ten 6 Pokémon al nivel 100 en tu equipo.",
-        "tipo": "equipoNivelMinimo",
-        "requisitoNivel": 100,
-        "requisitoCantidad": 6,
-        "imagen": null
-      },
-      {
         "id": "es_diferente",
-        "nombre": "✨ Destello raro",
+        "nombre": "✨ Brilla más que mi futuro",
         "descripcion": "Consigue tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
         "imagen": null
       },
       {
-        "id": "cazador_cromatico",
-        "nombre": "🌠 Cazador de destellos",
-        "descripcion": "Consigue 10 Pokémon variocolor.",
-        "tipo": "shinyActual",
-        "requisito": 10,
-        "imagen": null
-      },
-      {
-        "id": "magnate",
-        "nombre": "🪙 Gran fortuna",
-        "descripcion": "Reúne 100.000 en dinero.",
-        "tipo": "dineroMinimo",
-        "requisito": 100000,
-        "imagen": null
-      },
-      {
         "id": "leyenda",
-        "nombre": "🌟 LEYENDA",
+        "nombre": "🌟 LEYENDA (sin vida social)",
         "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
         "imagen": null
