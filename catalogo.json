@@ -2502,32 +2502,32 @@
       "recompensa": {
         "id": "maestro-iberia",
         "nombre": "Maestro Pokémon Iberia",
-        "descripcion": "Completar las tres maestrías de Pokémon Iberia: misiones secundarias, Randomlocke y Randomlocke sin bajas",
+        "descripcion": "Completar las tres maestrías de Pokémon Iberia: intercambiar con todos los cuñados prodigiosos, misiones secundarias y Randomlocke sin perder una vida",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/maestria/medallon-maestria.png",
         "tema": "rubi",
         "estiloId": "iberia-rojigualda"
       },
       "items": [
         {
-          "id": "misiones-secundarias",
-          "imagen": null,
+          "id": "intercambio-cunados-prodigiosos",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/maestria/1.jpg",
           "icono": "star",
-          "titulo": "Nivel 1 · Misiones secundarias",
+          "titulo": "Nivel 1 · Intercambio con todos los cuñados prodigiosos",
+          "descripcion": "Intercambiar con todos los cuñados prodigiosos"
+        },
+        {
+          "id": "misiones-secundarias",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/maestria/2.jpg",
+          "icono": "heart",
+          "titulo": "Nivel 2 · Misiones secundarias",
           "descripcion": "Completar todas las misiones secundarias"
         },
         {
-          "id": "randomlocke",
-          "imagen": null,
-          "icono": "heart",
-          "titulo": "Nivel 2 · Randomlocke",
-          "descripcion": "Completar el juego en modo Randomlocke"
-        },
-        {
-          "id": "randomlocke-sin-bajas",
-          "imagen": null,
+          "id": "randomlocke-sin-perder-una-vida",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/maestria/3.jpg",
           "icono": "crown",
-          "titulo": "Nivel 3 · Randomlocke sin bajas",
-          "descripcion": "Completar el juego en modo Randomlocke sin que ningún Pokémon caiga debilitado"
+          "titulo": "Nivel 3 · Randomlocke sin perder una vida",
+          "descripcion": "Terminar el juego en modo Randomlocke sin perder una vida"
         }
       ]
     }
