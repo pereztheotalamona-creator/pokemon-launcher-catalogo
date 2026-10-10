@@ -3802,7 +3802,35 @@
         "tipo": "todosLosDemas",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/65.jpg"
       }
-    ]
+    ],
+    "maestria": {
+      "recompensa": {
+        "id": "maestro-africanvs",
+        "nombre": "Maestro Pokémon Africanvs",
+        "descripcion": "Completar las tres maestrías de Pokémon Africanvs: todas las carreras de cuadrigas, modo Radical y modo Radical Randomlocke",
+        "tema": "rubi"
+      },
+      "items": [
+        {
+          "id": "todas-las-carreras-de-cuadrigas",
+          "icono": "star",
+          "titulo": "Nivel 1 · Todas las carreras de cuadrigas",
+          "descripcion": "Completar todas las carreras de cuadrigas"
+        },
+        {
+          "id": "modo-radical",
+          "icono": "heart",
+          "titulo": "Nivel 2 · Modo Radical",
+          "descripcion": "Completar el juego en modo Radical"
+        },
+        {
+          "id": "modo-radical-randomlocke",
+          "icono": "crown",
+          "titulo": "Nivel 3 · Modo Radical Randomlocke",
+          "descripcion": "Completar el juego en modo Radical Randomlocke"
+        }
+      ]
+    }
   },
   {
     "id": 11,
