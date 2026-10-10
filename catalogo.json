@@ -3241,7 +3241,7 @@
       "Disponible en español e inglés.",
       "El archivo de descarga es .rar: hace falta WinRAR o 7-Zip para extraerlo."
     ],
-    "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/africanvs-definitive/Pokemon.Africanvs.Definitive.Edition.rar",
+    "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/africanvs-definitive/Pokemon.Africanvs.Definitive.Edition.zip",
     "categorias": [
       "Fan Game",
       "RPG",
@@ -3808,7 +3808,8 @@
         "id": "maestro-africanvs",
         "nombre": "Maestro Pokémon Africanvs",
         "descripcion": "Completar las tres maestrías de Pokémon Africanvs: todas las carreras de cuadrigas, modo Radical y modo Radical Randomlocke",
-        "tema": "rubi"
+        "tema": "rubi",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/maestria/medallon-maestria.png"
       },
       "items": [
         {
