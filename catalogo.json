@@ -3788,6 +3788,14 @@
         "imagen": null
       },
       {
+        "id": "afr_dex_completa",
+        "nombre": "📚 Biblioteca de Alejandría, versión Pokédex",
+        "descripcion": "Completa la Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 831,
+        "imagen": null
+      },
+      {
         "id": "leyenda",
         "nombre": "🌟 LEYENDA (con estatua y todo)",
         "descripcion": "Desbloquea todos los demás logros.",
