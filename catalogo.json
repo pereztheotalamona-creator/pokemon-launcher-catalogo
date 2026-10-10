@@ -3814,18 +3814,21 @@
       "items": [
         {
           "id": "todas-las-carreras-de-cuadrigas",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/maestria/1.jpg",
           "icono": "star",
           "titulo": "Nivel 1 · Todas las carreras de cuadrigas",
           "descripcion": "Completar todas las carreras de cuadrigas"
         },
         {
           "id": "modo-radical",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/maestria/2.jpg",
           "icono": "heart",
           "titulo": "Nivel 2 · Modo Radical",
           "descripcion": "Completar el juego en modo Radical"
         },
         {
           "id": "modo-radical-randomlocke",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/maestria/3.jpg",
           "icono": "crown",
           "titulo": "Nivel 3 · Modo Radical Randomlocke",
           "descripcion": "Completar el juego en modo Radical Randomlocke"
