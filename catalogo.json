@@ -3256,7 +3256,7 @@
         "nombre": "🌱 Reclutado por la legión (sin preguntar)",
         "descripcion": "Recibe tu primer Pokémon.",
         "tipo": "primerPokemonReal",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/1.jpg"
       },
       {
         "id": "hazte_con_todos",
@@ -3264,7 +3264,7 @@
         "descripcion": "Captura tu primer Pokémon salvaje.",
         "tipo": "capturasReales",
         "requisito": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/2.jpg"
       },
       {
         "id": "afr_sagunto_anibal",
@@ -3272,7 +3272,7 @@
         "descripcion": "Sobrevive al asalto de Aníbal en Sagunto.",
         "tipo": "switch",
         "requisitoSwitch": 60,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/3.jpg"
       },
       {
         "id": "afr_barco",
@@ -3280,7 +3280,7 @@
         "descripcion": "Zarpa hacia Hispania desde el Puerto de Roma.",
         "tipo": "switch",
         "requisitoSwitch": 85,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/4.jpg"
       },
       {
         "id": "afr_cannae",
@@ -3288,7 +3288,7 @@
         "descripcion": "Sobrevive a la batalla de Cannae.",
         "tipo": "switch",
         "requisitoSwitch": 42,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/5.jpg"
       },
       {
         "id": "afr_publio",
@@ -3296,7 +3296,7 @@
         "descripcion": "Combate contra Publio en Cartago Nova.",
         "tipo": "switch",
         "requisitoSwitch": 132,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/6.jpg"
       },
       {
         "id": "afr_cartago_nova",
@@ -3304,7 +3304,7 @@
         "descripcion": "Toma Cartago Nova.",
         "tipo": "switch",
         "requisitoSwitch": 142,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/7.jpg"
       },
       {
         "id": "afr_baecula",
@@ -3312,7 +3312,7 @@
         "descripcion": "Gana la batalla de Baecula.",
         "tipo": "switch",
         "requisitoSwitch": 155,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/8.jpg"
       },
       {
         "id": "afr_sagunto_obras",
@@ -3320,7 +3320,7 @@
         "descripcion": "Reconstruye Sagunto.",
         "tipo": "switch",
         "requisitoSwitch": 117,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/9.jpg"
       },
       {
         "id": "afr_trama_sagunto",
@@ -3328,7 +3328,7 @@
         "descripcion": "Cierra la trama de Sagunto.",
         "tipo": "switch",
         "requisitoSwitch": 284,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/10.jpg"
       },
       {
         "id": "afr_punteria",
@@ -3336,7 +3336,7 @@
         "descripcion": "Supera el entrenamiento de puntería.",
         "tipo": "switch",
         "requisitoSwitch": 189,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/11.jpg"
       },
       {
         "id": "afr_molino",
@@ -3348,7 +3348,7 @@
           200,
           201
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/12.jpg"
       },
       {
         "id": "afr_cuadrigas",
@@ -3356,7 +3356,7 @@
         "descripcion": "Termina la carrera de cuádrigas.",
         "tipo": "switch",
         "requisitoSwitch": 218,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/13.jpg"
       },
       {
         "id": "afr_blitzle",
@@ -3364,7 +3364,7 @@
         "descripcion": "Cumple el encargo del Blitzle.",
         "tipo": "switch",
         "requisitoSwitch": 253,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/14.jpg"
       },
       {
         "id": "afr_fardo",
@@ -3372,7 +3372,7 @@
         "descripcion": "Completa la misión del fardo.",
         "tipo": "switch",
         "requisitoSwitch": 170,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/15.jpg"
       },
       {
         "id": "afr_guarderia",
@@ -3384,7 +3384,7 @@
           274,
           275
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/16.jpg"
       },
       {
         "id": "afr_toros",
@@ -3392,7 +3392,7 @@
         "descripcion": "Amansa a los toros locos.",
         "tipo": "switch",
         "requisitoSwitch": 286,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/17.jpg"
       },
       {
         "id": "afr_cultistas",
@@ -3404,7 +3404,7 @@
           335,
           336
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/18.jpg"
       },
       {
         "id": "afr_catafractos",
@@ -3417,7 +3417,7 @@
           320,
           321
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/19.jpg"
       },
       {
         "id": "afr_panteon",
@@ -3431,7 +3431,7 @@
           258,
           259
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/20.jpg"
       },
       {
         "id": "afr_troya",
@@ -3439,7 +3439,7 @@
         "descripcion": "Reúne el equipo de Eneas en Troya.",
         "tipo": "switch",
         "requisitoSwitch": 263,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/21.jpg"
       },
       {
         "id": "afr_zama",
@@ -3447,7 +3447,7 @@
         "descripcion": "Gana la batalla de Zama.",
         "tipo": "switch",
         "requisitoSwitch": 261,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/22.jpg"
       },
       {
         "id": "afr_olympeus",
@@ -3455,7 +3455,7 @@
         "descripcion": "Libera a Olympeus en Útica.",
         "tipo": "switch",
         "requisitoSwitch": 278,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/23.jpg"
       },
       {
         "id": "afr_atlantida",
@@ -3463,7 +3463,7 @@
         "descripcion": "Llega a la Atlántida.",
         "tipo": "switch",
         "requisitoSwitch": 372,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/24.jpg"
       },
       {
         "id": "afr_jupiter",
@@ -3471,7 +3471,7 @@
         "descripcion": "Derrota a Júpiter en el Olimpo.",
         "tipo": "switch",
         "requisitoSwitch": 373,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/25.jpg"
       },
       {
         "id": "afr_arceus",
@@ -3479,7 +3479,7 @@
         "descripcion": "Consigue a Arceus.",
         "tipo": "switch",
         "requisitoSwitch": 997,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/26.jpg"
       },
       {
         "id": "afr_fiesta",
@@ -3496,7 +3496,7 @@
           332,
           333
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/27.jpg"
       },
       {
         "id": "afr_alto_mando",
@@ -3504,7 +3504,7 @@
         "descripcion": "Vence al Alto Mando.",
         "tipo": "switch",
         "requisitoSwitch": 337,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/28.jpg"
       },
       {
         "id": "afr_campeon",
@@ -3512,7 +3512,7 @@
         "descripcion": "Vence el combate final del Gran Coliseo.",
         "tipo": "switch",
         "requisitoSwitch": 363,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/29.jpg"
       },
       {
         "id": "afr_cima",
@@ -3520,7 +3520,7 @@
         "descripcion": "Termina la cima del puerto con Aníbal Barca.",
         "tipo": "switch",
         "requisitoSwitch": 299,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/30.jpg"
       },
       {
         "id": "afr_fin",
@@ -3528,7 +3528,7 @@
         "descripcion": "Termina la historia de Pokémon Africanvs.",
         "tipo": "switch",
         "requisitoSwitch": 300,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/31.jpg"
       },
       {
         "id": "afr_medalla_1",
@@ -3536,7 +3536,7 @@
         "descripcion": "Consigue la medalla nº 1.",
         "tipo": "medalla",
         "requisitoIndice": 0,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/32.jpg"
       },
       {
         "id": "afr_medalla_2",
@@ -3544,7 +3544,7 @@
         "descripcion": "Consigue la medalla nº 2.",
         "tipo": "medalla",
         "requisitoIndice": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/33.jpg"
       },
       {
         "id": "afr_medalla_3",
@@ -3552,7 +3552,7 @@
         "descripcion": "Consigue la medalla nº 3.",
         "tipo": "medalla",
         "requisitoIndice": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/34.jpg"
       },
       {
         "id": "afr_medalla_4",
@@ -3560,7 +3560,7 @@
         "descripcion": "Consigue la medalla nº 4.",
         "tipo": "medalla",
         "requisitoIndice": 3,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/35.jpg"
       },
       {
         "id": "afr_medalla_5",
@@ -3568,7 +3568,7 @@
         "descripcion": "Consigue la medalla nº 5.",
         "tipo": "medalla",
         "requisitoIndice": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/36.jpg"
       },
       {
         "id": "afr_medalla_6",
@@ -3576,7 +3576,7 @@
         "descripcion": "Consigue la medalla nº 6.",
         "tipo": "medalla",
         "requisitoIndice": 5,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/37.jpg"
       },
       {
         "id": "afr_medalla_7",
@@ -3584,7 +3584,7 @@
         "descripcion": "Consigue la medalla nº 7.",
         "tipo": "medalla",
         "requisitoIndice": 6,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/38.jpg"
       },
       {
         "id": "afr_medalla_8",
@@ -3592,7 +3592,7 @@
         "descripcion": "Consigue la medalla nº 8.",
         "tipo": "medalla",
         "requisitoIndice": 7,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/39.jpg"
       },
       {
         "id": "mitad_medallas",
@@ -3600,7 +3600,7 @@
         "descripcion": "Reúne 4 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/40.jpg"
       },
       {
         "id": "todas_medallas",
@@ -3608,7 +3608,7 @@
         "descripcion": "Reúne las 8 medallas.",
         "tipo": "medallasCantidad",
         "requisito": 8,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/41.jpg"
       },
       {
         "id": "dex_100",
@@ -3616,7 +3616,7 @@
         "descripcion": "Consigue 100 Pokémon.",
         "tipo": "pokedexOwned",
         "requisito": 100,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/42.jpg"
       },
       {
         "id": "afr_celebi",
@@ -3625,7 +3625,7 @@
         "tipo": "pokedexEspecie",
         "especie": "251",
         "especieNombre": "CELEBI",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/43.jpg"
       },
       {
         "id": "entrenador_veterano",
@@ -3633,7 +3633,7 @@
         "descripcion": "Lleva a un Pokémon al nivel 100.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/44.jpg"
       },
       {
         "id": "es_diferente",
@@ -3641,7 +3641,7 @@
         "descripcion": "Consigue tu primer Pokémon variocolor.",
         "tipo": "shinyActual",
         "requisito": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/45.jpg"
       },
       {
         "id": "afr_emporiae",
@@ -3649,7 +3649,7 @@
         "descripcion": "Llega a Emporiae.",
         "tipo": "switch",
         "requisitoSwitch": 61,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/46.jpg"
       },
       {
         "id": "afr_campamento_galo",
@@ -3657,7 +3657,7 @@
         "descripcion": "Sal del campamento galo.",
         "tipo": "switch",
         "requisitoSwitch": 66,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/47.jpg"
       },
       {
         "id": "afr_alpes",
@@ -3665,7 +3665,7 @@
         "descripcion": "Atraviesa la cueva de los Alpes.",
         "tipo": "switch",
         "requisitoSwitch": 78,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/48.jpg"
       },
       {
         "id": "afr_disfraz",
@@ -3673,7 +3673,7 @@
         "descripcion": "Ponte la armadura cartaginesa en Pisae.",
         "tipo": "switch",
         "requisitoSwitch": 96,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/49.jpg"
       },
       {
         "id": "afr_senado_roma",
@@ -3681,7 +3681,7 @@
         "descripcion": "Asiste a la reunión del Senado de Roma.",
         "tipo": "switch",
         "requisitoSwitch": 81,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/50.jpg"
       },
       {
         "id": "afr_hispania",
@@ -3689,7 +3689,7 @@
         "descripcion": "Declara el comienzo de la conquista de Hispania desde Tarraco.",
         "tipo": "switch",
         "requisitoSwitch": 128,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/51.jpg"
       },
       {
         "id": "afr_cantera",
@@ -3697,7 +3697,7 @@
         "descripcion": "Derrota al cultista de la Cantera de Slowpokes.",
         "tipo": "switch",
         "requisitoSwitch": 157,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/52.jpg"
       },
       {
         "id": "afr_cultista_etna",
@@ -3705,7 +3705,7 @@
         "descripcion": "Derrota al cultista del Etna.",
         "tipo": "switch",
         "requisitoSwitch": 214,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/53.jpg"
       },
       {
         "id": "afr_cultista_unown",
@@ -3713,7 +3713,7 @@
         "descripcion": "Derrota al cultista de la Guarida Unown.",
         "tipo": "switch",
         "requisitoSwitch": 310,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/54.jpg"
       },
       {
         "id": "afr_cambalache",
@@ -3721,7 +3721,7 @@
         "descripcion": "Haz el intercambio de Pokémon en Roma.",
         "tipo": "switch",
         "requisitoSwitch": 158,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/55.jpg"
       },
       {
         "id": "afr_fabio",
@@ -3729,7 +3729,7 @@
         "descripcion": "Únete al ejército de Fabio en la Ruta VIII.",
         "tipo": "switch",
         "requisitoSwitch": 198,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/56.jpg"
       },
       {
         "id": "afr_tarento",
@@ -3737,7 +3737,7 @@
         "descripcion": "Ayuda a tomar Tarento.",
         "tipo": "switch",
         "requisitoSwitch": 202,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/57.jpg"
       },
       {
         "id": "afr_desembarco",
@@ -3745,7 +3745,7 @@
         "descripcion": "Zarpa con la flota hacia África.",
         "tipo": "switch",
         "requisitoSwitch": 225,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/58.jpg"
       },
       {
         "id": "afr_culto_iol",
@@ -3753,7 +3753,7 @@
         "descripcion": "Investiga el culto de Iol.",
         "tipo": "switch",
         "requisitoSwitch": 241,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/59.jpg"
       },
       {
         "id": "afr_triunfo",
@@ -3761,7 +3761,7 @@
         "descripcion": "Celebra tu triunfo en Roma tras Zama.",
         "tipo": "switch",
         "requisitoSwitch": 246,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/60.jpg"
       },
       {
         "id": "afr_revuelta_cartago",
@@ -3769,7 +3769,7 @@
         "descripcion": "Presencia la revuelta en el Senado de Cartago.",
         "tipo": "switch",
         "requisitoSwitch": 280,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/61.jpg"
       },
       {
         "id": "afr_inframundo",
@@ -3777,7 +3777,7 @@
         "descripcion": "Enfréntate a tus errores en el Inframundo.",
         "tipo": "switch",
         "requisitoSwitch": 285,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/62.jpg"
       },
       {
         "id": "afr_amat",
@@ -3785,7 +3785,7 @@
         "descripcion": "Derrota a Amat en la Cima de Útica.",
         "tipo": "switch",
         "requisitoSwitch": 366,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/63.jpg"
       },
       {
         "id": "afr_dex_completa",
@@ -3793,14 +3793,14 @@
         "descripcion": "Completa la Pokédex.",
         "tipo": "pokedexOwned",
         "requisito": 831,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/64.jpg"
       },
       {
         "id": "leyenda",
         "nombre": "🌟 LEYENDA (con estatua y todo)",
         "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/logros/65.jpg"
       }
     ]
   },
