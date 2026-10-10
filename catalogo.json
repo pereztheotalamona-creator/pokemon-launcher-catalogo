@@ -3869,9 +3869,9 @@
       "Es un juego gratuito y sin fines de lucro: si alguien lo vende, no está autorizado.",
       "Funciona en PC (Windows) sin emulador.",
       "Disponible en español e inglés.",
-      "El archivo de descarga es .rar: hace falta WinRAR o 7-Zip para extraerlo."
+      "El archivo de descarga es .zip: se puede extraer con el explorador de Windows, WinRAR o 7-Zip."
     ],
-    "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/shattereddim-v1.2.0/Pokemon.Shattered.Dimensions.1.2.0.rar",
+    "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/shattereddim-v1.2.0/Pokemon.Shattered.Dimensions.1.2.0.zip",
     "categorias": [
       "Fan Game",
       "RPG",
