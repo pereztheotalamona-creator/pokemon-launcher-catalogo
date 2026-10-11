@@ -4235,6 +4235,38 @@
         "tipo": "todosLosDemas",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/41.jpg"
       }
-    ]
+    ],
+    "maestria": {
+      "recompensa": {
+        "id": "maestro-shattereddim",
+        "nombre": "Maestro Pokémon Shattered Dimensions",
+        "descripcion": "Completar las tres maestrías de Pokémon Shattered Dimensions: Cazador de portales, Victoria Inmortal y Maestro Nuzlocke Absoluto",
+        "tema": "galaxia",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/maestria/medallon-maestria.png"
+      },
+      "items": [
+        {
+          "id": "cazador-de-portales",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/maestria/1.png",
+          "icono": "star",
+          "titulo": "Nivel 1 · Cazador de portales",
+          "descripcion": "Capturar legendarios frente al portal"
+        },
+        {
+          "id": "victoria-inmortal",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/maestria/2.png",
+          "icono": "heart",
+          "titulo": "Nivel 2 · Victoria Inmortal",
+          "descripcion": "Lograr el triunfo en el estadio sin debilitaciones"
+        },
+        {
+          "id": "maestro-nuzlocke-absoluto",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/maestria/3.png",
+          "icono": "crown",
+          "titulo": "Nivel 3 · Maestro Nuzlocke Absoluto",
+          "descripcion": "Alcanzar el honor máximo tras el desafío más exigente"
+        }
+      ]
+    }
   }
 ]
