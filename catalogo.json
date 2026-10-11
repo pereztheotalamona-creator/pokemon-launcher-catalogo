@@ -3887,7 +3887,7 @@
         "descripcion": "Recibe la Pokédex que te regala Jukain.",
         "tipo": "switch",
         "requisitoSwitch": 67,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/1.jpg"
       },
       {
         "id": "pase_jockey",
@@ -3895,7 +3895,7 @@
         "descripcion": "Gana el torneo de Ciudad Jockey y consigue tu primer pase.",
         "tipo": "medalla",
         "requisitoIndice": 0,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/2.jpg"
       },
       {
         "id": "pase_elevado",
@@ -3903,7 +3903,7 @@
         "descripcion": "Gana el torneo de Pueblo Elevado y consigue el Pase Elevado.",
         "tipo": "medalla",
         "requisitoIndice": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/3.jpg"
       },
       {
         "id": "pase_univer",
@@ -3911,7 +3911,7 @@
         "descripcion": "Gana el torneo de Ciudad Univer y consigue el Pase Univer Oeste.",
         "tipo": "medalla",
         "requisitoIndice": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/4.jpg"
       },
       {
         "id": "pase_univer_este",
@@ -3919,7 +3919,7 @@
         "descripcion": "Gana el torneo de Ciudad Univer Este y consigue el Pase Univer Este.",
         "tipo": "medalla",
         "requisitoIndice": 3,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/5.jpg"
       },
       {
         "id": "pase_univer_norte",
@@ -3927,7 +3927,7 @@
         "descripcion": "Gana el torneo de Ciudad Univer Norte y consigue el Pase Univer Norte.",
         "tipo": "medalla",
         "requisitoIndice": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/6.jpg"
       },
       {
         "id": "pase_sarmien",
@@ -3935,7 +3935,7 @@
         "descripcion": "Gana el torneo de Parque Sarmien y consigue el Pase Sarmien.",
         "tipo": "medalla",
         "requisitoIndice": 5,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/7.jpg"
       },
       {
         "id": "pase_shop",
@@ -3943,7 +3943,7 @@
         "descripcion": "Gana el torneo de Pueblo Shop y consigue el Pase Shop.",
         "tipo": "medalla",
         "requisitoIndice": 6,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/8.jpg"
       },
       {
         "id": "pase_cultu_sur",
@@ -3951,7 +3951,7 @@
         "descripcion": "Gana el torneo de Pueblo Cultu Sur y consigue el Pase Cultu.",
         "tipo": "medalla",
         "requisitoIndice": 7,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/9.jpg"
       },
       {
         "id": "todos_los_pases",
@@ -3968,7 +3968,7 @@
           10,
           11
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/10.jpg"
       },
       {
         "id": "casa_azeth",
@@ -3976,7 +3976,7 @@
         "descripcion": "Visita a Azeth para descubrir cómo funciona el aparato que abre portales.",
         "tipo": "switch",
         "requisitoSwitch": 61,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/11.jpg"
       },
       {
         "id": "pokedex_nacional",
@@ -3984,7 +3984,7 @@
         "descripcion": "Azeth actualiza tu Pokédex y se desbloquea la Pokédex Nacional.",
         "tipo": "switch",
         "requisitoSwitch": 29,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/12.jpg"
       },
       {
         "id": "mascaras_gas",
@@ -3992,7 +3992,7 @@
         "descripcion": "Encuentra las máscaras de gas en la Ciudad Destruida para cruzar la zona venenosa.",
         "tipo": "switch",
         "requisitoSwitch": 63,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/13.jpg"
       },
       {
         "id": "mitad_del_juego",
@@ -4000,7 +4000,7 @@
         "descripcion": "Llega a la mitad de la aventura.",
         "tipo": "switch",
         "requisitoSwitch": 68,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/14.jpg"
       },
       {
         "id": "giten_cueva_fungi",
@@ -4008,7 +4008,7 @@
         "descripcion": "Planta cara al Equipo Giten en la Cueva Fungi.",
         "tipo": "switch",
         "requisitoSwitch": 84,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/15.jpg"
       },
       {
         "id": "giten_ruta14",
@@ -4016,7 +4016,7 @@
         "descripcion": "Reencuéntrate con Jukain en la Ruta 14 después de que cruzara un portal que no se cerraba.",
         "tipo": "switch",
         "requisitoSwitch": 85,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/16.jpg"
       },
       {
         "id": "central_electrica",
@@ -4024,7 +4024,7 @@
         "descripcion": "Examina el interruptor extraño de la Central Eléctrica.",
         "tipo": "switch",
         "requisitoSwitch": 86,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/17.jpg"
       },
       {
         "id": "giten_portal",
@@ -4032,7 +4032,7 @@
         "descripcion": "Cierra el portal del Bosque Viña.",
         "tipo": "switch",
         "requisitoSwitch": 87,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/18.jpg"
       },
       {
         "id": "giten_final",
@@ -4040,7 +4040,7 @@
         "descripcion": "Vence a Edward y pon fin al Equipo Giten en su Escondite.",
         "tipo": "switch",
         "requisitoSwitch": 88,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/19.jpg"
       },
       {
         "id": "pueblo_ceprio",
@@ -4048,7 +4048,7 @@
         "descripcion": "Detén a quienes quieren despejar rutas para construir una nueva base cerca de Pueblo Ceprio.",
         "tipo": "switch",
         "requisitoSwitch": 92,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/20.jpg"
       },
       {
         "id": "campeon_coord",
@@ -4056,7 +4056,7 @@
         "descripcion": "Vence a Jukain y supera la Liga Pokémon de Coord.",
         "tipo": "switch",
         "requisitoSwitch": 12,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/21.jpg"
       },
       {
         "id": "kanto_misty",
@@ -4064,7 +4064,7 @@
         "descripcion": "Derrota a Misty en el Gimnasio Celeste y consigue la Medalla Cascada.",
         "tipo": "medalla",
         "requisitoIndice": 13,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/22.jpg"
       },
       {
         "id": "kanto_sabrina",
@@ -4072,7 +4072,7 @@
         "descripcion": "Derrota a Sabrina en el Gimnasio Azafrán y consigue la Medalla Mente.",
         "tipo": "medalla",
         "requisitoIndice": 14,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/23.jpg"
       },
       {
         "id": "kanto_surge",
@@ -4080,7 +4080,7 @@
         "descripcion": "Derrota a Lt. Surge en el Gimnasio Carmín y consigue la Medalla Eléctricidad.",
         "tipo": "medalla",
         "requisitoIndice": 15,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/24.jpg"
       },
       {
         "id": "kanto_erika",
@@ -4088,7 +4088,7 @@
         "descripcion": "Derrota a Erika en el Gimnasio Azulona y consigue la Medalla Arcoíris.",
         "tipo": "medalla",
         "requisitoIndice": 16,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/25.jpg"
       },
       {
         "id": "kanto_sachiko",
@@ -4096,7 +4096,7 @@
         "descripcion": "Derrota a Sachiko en el Gimnasio Fucsia y consigue la Medalla Alma.",
         "tipo": "medalla",
         "requisitoIndice": 17,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/26.jpg"
       },
       {
         "id": "kanto_blaine",
@@ -4104,7 +4104,7 @@
         "descripcion": "Derrota a Blaine en el Gimnasio Canela y consigue la Medalla Volcán.",
         "tipo": "medalla",
         "requisitoIndice": 18,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/27.jpg"
       },
       {
         "id": "kanto_brock",
@@ -4112,7 +4112,7 @@
         "descripcion": "Derrota a Brock en el Gimnasio Plateado y consigue la Medalla Roca.",
         "tipo": "medalla",
         "requisitoIndice": 19,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/28.jpg"
       },
       {
         "id": "kanto_green",
@@ -4120,7 +4120,7 @@
         "descripcion": "Derrota a Green en el Gimnasio Verde y consigue la Medalla Tierra.",
         "tipo": "medalla",
         "requisitoIndice": 20,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/29.jpg"
       },
       {
         "id": "medallas_kanto",
@@ -4137,7 +4137,7 @@
           82,
           83
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/30.jpg"
       },
       {
         "id": "campeon_kanto",
@@ -4145,7 +4145,7 @@
         "descripcion": "Supera al Alto Mando de Kanto y entra al Salón de la Fama.",
         "tipo": "switch",
         "requisitoSwitch": 90,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/31.jpg"
       },
       {
         "id": "vence_red",
@@ -4153,7 +4153,7 @@
         "descripcion": "Vence a Red.",
         "tipo": "switch",
         "requisitoSwitch": 94,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/32.jpg"
       },
       {
         "id": "jefes_rainbow",
@@ -4162,7 +4162,7 @@
         "tipo": "variable",
         "requisitoVariable": 32,
         "requisitoValor": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/33.jpg"
       },
       {
         "id": "team_rainbow_rocket",
@@ -4170,7 +4170,7 @@
         "descripcion": "Vence a Giovanni en el Cuarto de Reservación y pon fin al Team Rainbow Rocket.",
         "tipo": "switch",
         "requisitoSwitch": 93,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/34.jpg"
       },
       {
         "id": "historia_terminada",
@@ -4178,7 +4178,7 @@
         "descripcion": "Termina la historia principal.",
         "tipo": "switch",
         "requisitoSwitch": 66,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/35.jpg"
       },
       {
         "id": "tres_aves",
@@ -4190,7 +4190,7 @@
           "ZAPDOS",
           "MOLTRES"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/36.jpg"
       },
       {
         "id": "espacio_tiempo",
@@ -4202,7 +4202,7 @@
           "PALKIA",
           "GIRATINA"
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/37.jpg"
       },
       {
         "id": "pokemon_creado",
@@ -4210,7 +4210,7 @@
         "descripcion": "Captura a Mewtwo.",
         "tipo": "pokedexEspecie",
         "especie": "MEWTWO",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/38.jpg"
       },
       {
         "id": "dios_pokemon",
@@ -4218,7 +4218,7 @@
         "descripcion": "Captura a Arceus.",
         "tipo": "pokedexEspecie",
         "especie": "ARCEUS",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/39.jpg"
       },
       {
         "id": "pokedex_completa",
@@ -4226,14 +4226,14 @@
         "descripcion": "Completa la Pokédex: registra las 811 especies.",
         "tipo": "pokedexOwned",
         "requisito": 811,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/40.jpg"
       },
       {
         "id": "leyenda",
         "nombre": "🌟 Maestro de las dimensiones",
         "descripcion": "Desbloquea los otros 40 logros.",
         "tipo": "todosLosDemas",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/41.jpg"
       }
     ]
   }
