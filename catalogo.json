@@ -3882,73 +3882,464 @@
     "lanzamiento": "2022",
     "logros": [
       {
-        "id": "aventura_comienza",
-        "nombre": "🌱 Comienza la aventura",
-        "descripcion": "Recibe tu primer Pokémon.",
-        "tipo": "primerPokemonReal",
+        "id": "pokedex_entregada",
+        "nombre": "📕 Enciclopedia de bolsillo",
+        "descripcion": "Recibe la Pokédex que te regala Jukain.",
+        "tipo": "switch",
+        "requisitoSwitch": 67,
         "imagen": null
       },
       {
-        "id": "hazte_con_todos",
-        "nombre": "🎒 Primera captura",
-        "descripcion": "Captura tu primer Pokémon salvaje.",
-        "tipo": "capturasReales",
-        "requisito": 2,
+        "id": "pase_jockey",
+        "nombre": "🎟️ Boleto de salida",
+        "descripcion": "Gana el torneo de Ciudad Jockey y consigue tu primer pase.",
+        "tipo": "medalla",
+        "requisitoIndice": 0,
         "imagen": null
       },
       {
-        "id": "dex_100",
-        "nombre": "📓 Cuaderno de campo",
-        "descripcion": "Registra 100 especies en tu Pokédex.",
-        "tipo": "pokedexOwned",
-        "requisito": 100,
+        "id": "pase_elevado",
+        "nombre": "🌿 Cabeza en las nubes",
+        "descripcion": "Gana el torneo de Pueblo Elevado y consigue el Pase Elevado.",
+        "tipo": "medalla",
+        "requisitoIndice": 1,
         "imagen": null
       },
       {
-        "id": "entrenador_veterano",
-        "nombre": "💯 Nivel cumbre",
-        "descripcion": "Lleva a un Pokémon al nivel 100.",
-        "tipo": "nivelMaximo",
-        "requisitoNivel": 100,
+        "id": "pase_univer",
+        "nombre": "🎓 Matrícula de honor",
+        "descripcion": "Gana el torneo de Ciudad Univer y consigue el Pase Univer Oeste.",
+        "tipo": "medalla",
+        "requisitoIndice": 2,
         "imagen": null
       },
       {
-        "id": "equipo_perfecto",
-        "nombre": "🛡️ Equipo impecable",
-        "descripcion": "Forma un equipo de seis Pokémon de nivel 100.",
-        "tipo": "equipoNivelMinimo",
-        "requisitoNivel": 100,
-        "requisitoCantidad": 6,
+        "id": "pase_univer_este",
+        "nombre": "🧳 Turista con suerte",
+        "descripcion": "Gana el torneo de Ciudad Univer Este y consigue el Pase Univer Este.",
+        "tipo": "medalla",
+        "requisitoIndice": 3,
         "imagen": null
       },
       {
-        "id": "es_diferente",
-        "nombre": "✨ Destello raro",
-        "descripcion": "Consigue tu primer Pokémon variocolor.",
-        "tipo": "shinyActual",
-        "requisito": 1,
+        "id": "pase_univer_norte",
+        "nombre": "🌊 Marea alta",
+        "descripcion": "Gana el torneo de Ciudad Univer Norte y consigue el Pase Univer Norte.",
+        "tipo": "medalla",
+        "requisitoIndice": 4,
         "imagen": null
       },
       {
-        "id": "cazador_cromatico",
-        "nombre": "🌠 Cazador de destellos",
-        "descripcion": "Reúne 10 Pokémon variocolor.",
-        "tipo": "shinyActual",
-        "requisito": 10,
+        "id": "pase_sarmien",
+        "nombre": "🪂 Carrera antes del vuelo",
+        "descripcion": "Gana el torneo de Parque Sarmien y consigue el Pase Sarmien.",
+        "tipo": "medalla",
+        "requisitoIndice": 5,
         "imagen": null
       },
       {
-        "id": "magnate",
-        "nombre": "🪙 Gran fortuna",
-        "descripcion": "Reúne una gran cantidad de dinero durante tu viaje.",
-        "tipo": "dineroMinimo",
-        "requisito": 100000,
+        "id": "pase_shop",
+        "nombre": "🛍️ Plumas de oferta",
+        "descripcion": "Gana el torneo de Pueblo Shop y consigue el Pase Shop.",
+        "tipo": "medalla",
+        "requisitoIndice": 6,
+        "imagen": null
+      },
+      {
+        "id": "pase_cultu_sur",
+        "nombre": "🏁 Paciencia recompensada",
+        "descripcion": "Gana el torneo de Pueblo Cultu Sur y consigue el Pase Cultu.",
+        "tipo": "medalla",
+        "requisitoIndice": 7,
+        "imagen": null
+      },
+      {
+        "id": "todos_los_pases",
+        "nombre": "🎫 Billetera completa",
+        "descripcion": "Reúne todos los pases que pide la Liga Pokémon de Coord.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "imagen": null
+      },
+      {
+        "id": "casa_azeth",
+        "nombre": "🔧 Manos de relojero",
+        "descripcion": "Visita a Azeth para descubrir cómo funciona el aparato que abre portales.",
+        "tipo": "switch",
+        "requisitoSwitch": 61,
+        "imagen": null
+      },
+      {
+        "id": "pokedex_nacional",
+        "nombre": "📘 Mundo ampliado",
+        "descripcion": "Azeth actualiza tu Pokédex y se desbloquea la Pokédex Nacional.",
+        "tipo": "switch",
+        "requisitoSwitch": 29,
+        "imagen": null
+      },
+      {
+        "id": "mascaras_gas",
+        "nombre": "😷 Aire irrespirable",
+        "descripcion": "Encuentra las máscaras de gas en la Ciudad Destruida para cruzar la zona venenosa.",
+        "tipo": "switch",
+        "requisitoSwitch": 63,
+        "imagen": null
+      },
+      {
+        "id": "mitad_del_juego",
+        "nombre": "⛵ Cruzando el ecuador",
+        "descripcion": "Llega a la mitad de la aventura.",
+        "tipo": "switch",
+        "requisitoSwitch": 68,
+        "imagen": null
+      },
+      {
+        "id": "giten_cueva_fungi",
+        "nombre": "🍄 Moho sospechoso",
+        "descripcion": "Planta cara al Equipo Giten en la Cueva Fungi.",
+        "tipo": "switch",
+        "requisitoSwitch": 84,
+        "imagen": null
+      },
+      {
+        "id": "giten_ruta14",
+        "nombre": "🌌 Cruce sin permiso",
+        "descripcion": "Reencuéntrate con Jukain en la Ruta 14 después de que cruzara un portal que no se cerraba.",
+        "tipo": "switch",
+        "requisitoSwitch": 85,
+        "imagen": null
+      },
+      {
+        "id": "central_electrica",
+        "nombre": "🔌 Interruptor a la fuerza",
+        "descripcion": "Examina el interruptor extraño de la Central Eléctrica.",
+        "tipo": "switch",
+        "requisitoSwitch": 86,
+        "imagen": null
+      },
+      {
+        "id": "giten_portal",
+        "nombre": "🌀 Puerta cerrada con llave",
+        "descripcion": "Cierra el portal del Bosque Viña.",
+        "tipo": "switch",
+        "requisitoSwitch": 87,
+        "imagen": null
+      },
+      {
+        "id": "giten_final",
+        "nombre": "🕳️ Telón para el Equipo Giten",
+        "descripcion": "Pon fin al Equipo Giten en su Escondite.",
+        "tipo": "switch",
+        "requisitoSwitch": 88,
+        "imagen": null
+      },
+      {
+        "id": "pueblo_ceprio",
+        "nombre": "🏗️ Obras prohibidas",
+        "descripcion": "Detén a quienes quieren despejar rutas para construir una nueva base cerca de Pueblo Ceprio.",
+        "tipo": "switch",
+        "requisitoSwitch": 92,
+        "imagen": null
+      },
+      {
+        "id": "campeon_coord",
+        "nombre": "👑 La corona de Coord",
+        "descripcion": "Supera la Liga Pokémon de Coord.",
+        "tipo": "switch",
+        "requisitoSwitch": 12,
+        "imagen": null
+      },
+      {
+        "id": "kanto_misty",
+        "nombre": "💧 Aguas de Celeste",
+        "descripcion": "Derrota a Misty en el Gimnasio Celeste y consigue la Medalla Cascada.",
+        "tipo": "medalla",
+        "requisitoIndice": 13,
+        "imagen": null
+      },
+      {
+        "id": "kanto_sabrina",
+        "nombre": "🔮 Visión de Azafrán",
+        "descripcion": "Derrota a Sabrina en el Gimnasio Azafrán y consigue la Medalla Mente.",
+        "tipo": "medalla",
+        "requisitoIndice": 14,
+        "imagen": null
+      },
+      {
+        "id": "kanto_surge",
+        "nombre": "⚡ Chispa en Carmín",
+        "descripcion": "Derrota a Lt. Surge en el Gimnasio Carmín y consigue la Medalla Eléctricidad.",
+        "tipo": "medalla",
+        "requisitoIndice": 15,
+        "imagen": null
+      },
+      {
+        "id": "kanto_erika",
+        "nombre": "🌺 Jardín de Azulona",
+        "descripcion": "Derrota a Erika en el Gimnasio Azulona y consigue la Medalla Arcoíris.",
+        "tipo": "medalla",
+        "requisitoIndice": 16,
+        "imagen": null
+      },
+      {
+        "id": "kanto_sachiko",
+        "nombre": "☠️ Neblina en Fucsia",
+        "descripcion": "Derrota a Sachiko en el Gimnasio Fucsia y consigue la Medalla Alma.",
+        "tipo": "medalla",
+        "requisitoIndice": 17,
+        "imagen": null
+      },
+      {
+        "id": "kanto_blaine",
+        "nombre": "🔥 Brasas de Canela",
+        "descripcion": "Derrota a Blaine en el Gimnasio Canela y consigue la Medalla Volcán.",
+        "tipo": "medalla",
+        "requisitoIndice": 18,
+        "imagen": null
+      },
+      {
+        "id": "kanto_brock",
+        "nombre": "🪨 Roca de Plateado",
+        "descripcion": "Derrota a Brock en el Gimnasio Plateado y consigue la Medalla Roca.",
+        "tipo": "medalla",
+        "requisitoIndice": 19,
+        "imagen": null
+      },
+      {
+        "id": "kanto_green",
+        "nombre": "🌍 El último de Verde",
+        "descripcion": "Derrota a Green en el Gimnasio Verde y consigue la Medalla Tierra.",
+        "tipo": "medalla",
+        "requisitoIndice": 20,
+        "imagen": null
+      },
+      {
+        "id": "medallas_kanto",
+        "nombre": "🏆 Vitrina de Kanto",
+        "descripcion": "Reúne las 8 medallas de Kanto.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83
+        ],
+        "imagen": null
+      },
+      {
+        "id": "campeon_kanto",
+        "nombre": "🗻 Sobre la cima de Kanto",
+        "descripcion": "Supera al Alto Mando de Kanto y entra al Salón de la Fama.",
+        "tipo": "switch",
+        "requisitoSwitch": 90,
+        "imagen": null
+      },
+      {
+        "id": "team_rainbow_rocket",
+        "nombre": "🌈 Más allá de Kanto",
+        "descripcion": "Llega al Cuarto de Reservación y descubre el plan de Giovanni y el Team Rainbow Rocket.",
+        "tipo": "switch",
+        "requisitoSwitch": 93,
+        "imagen": null
+      },
+      {
+        "id": "historia_terminada",
+        "nombre": "🎬 Telón final",
+        "descripcion": "Termina la historia principal.",
+        "tipo": "switch",
+        "requisitoSwitch": 66,
+        "imagen": null
+      },
+      {
+        "id": "tres_aves",
+        "nombre": "🦅 Tres aves, un cielo",
+        "descripcion": "Captura a Articuno, Zapdos y Moltres.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "ARTICUNO",
+          "ZAPDOS",
+          "MOLTRES"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "tres_bestias",
+        "nombre": "🐾 Manada legendaria",
+        "descripcion": "Captura a Raikou, Entei y Suicune.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "RAIKOU",
+          "ENTEI",
+          "SUICUNE"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "trio_clima",
+        "nombre": "🌦️ Tormenta perfecta",
+        "descripcion": "Captura a Kyogre, Groudon y Rayquaza.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "KYOGRE",
+          "GROUDON",
+          "RAYQUAZA"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "espacio_tiempo",
+        "nombre": "⏳ Reloj roto",
+        "descripcion": "Captura a Dialga, Palkia y Giratina.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "DIALGA",
+          "PALKIA",
+          "GIRATINA"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "pokemon_creado",
+        "nombre": "🧬 Ciencia sin control",
+        "descripcion": "Captura a Mewtwo.",
+        "tipo": "pokedexEspecie",
+        "especie": "MEWTWO",
+        "imagen": null
+      },
+      {
+        "id": "dios_pokemon",
+        "nombre": "🌌 Antes del principio",
+        "descripcion": "Captura a Arceus.",
+        "tipo": "pokedexEspecie",
+        "especie": "ARCEUS",
+        "imagen": null
+      },
+      {
+        "id": "espadas_sin_dueno",
+        "nombre": "⚔️ Espadas sin dueño",
+        "descripcion": "Captura a Cobalion, Terrakion, Virizion y Keldeo.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "COBALION",
+          "TERRAKION",
+          "VIRIZION",
+          "KELDEO"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "eco_del_lago",
+        "nombre": "🔔 Eco del lago",
+        "descripcion": "Captura a Uxie, Mesprit y Azelf.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "UXIE",
+          "MESPRIT",
+          "AZELF"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "viento_otro_mundo",
+        "nombre": "🌪️ Viento de otro mundo",
+        "descripcion": "Captura a Tornadus, Thundurus y Landorus.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "TORNADUS",
+          "THUNDURUS",
+          "LANDORUS"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "piedra_hielo_acero",
+        "nombre": "🗿 Piedra, hielo y acero",
+        "descripcion": "Captura a Regirock, Regice, Registeel y Regigigas.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "REGIROCK",
+          "REGICE",
+          "REGISTEEL",
+          "REGIGIGAS"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "hermanos_del_cielo",
+        "nombre": "💠 Hermanos del cielo",
+        "descripcion": "Captura a Latias y Latios.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "LATIAS",
+          "LATIOS"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "isla_deseos",
+        "nombre": "🏝️ Isla de los deseos",
+        "descripcion": "Captura a Manaphy, Phione, Shaymin, Victini y Jirachi en Isla Juras.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "MANAPHY",
+          "PHIONE",
+          "SHAYMIN",
+          "VICTINI",
+          "JIRACHI"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "guardianes_mar_cielo",
+        "nombre": "🌊 Guardianes del mar y el cielo",
+        "descripcion": "Captura a Lugia y Ho-Oh en la Roca Ombligo.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "LUGIA",
+          "HOOH"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "dragones_equilibrio",
+        "nombre": "🐉 Dragones del equilibrio",
+        "descripcion": "Captura a Reshiram, Zekrom y Kyurem.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "RESHIRAM",
+          "ZEKROM",
+          "KYUREM"
+        ],
+        "imagen": null
+      },
+      {
+        "id": "suenos_pesadillas",
+        "nombre": "🌙 Entre sueños y pesadillas",
+        "descripcion": "Captura a Darkrai y Cresselia.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "DARKRAI",
+          "CRESSELIA"
+        ],
         "imagen": null
       },
       {
         "id": "leyenda",
-        "nombre": "🌟 LEYENDA",
-        "descripcion": "Desbloquea los otros 8 logros.",
+        "nombre": "🌟 Maestro de las dimensiones",
+        "descripcion": "Desbloquea los otros 48 logros.",
         "tipo": "todosLosDemas",
         "imagen": null
       }
