@@ -4037,7 +4037,7 @@
       {
         "id": "giten_final",
         "nombre": "🕳️ Telón para el Equipo Giten",
-        "descripcion": "Pon fin al Equipo Giten en su Escondite.",
+        "descripcion": "Vence a Edward y pon fin al Equipo Giten en su Escondite.",
         "tipo": "switch",
         "requisitoSwitch": 88,
         "imagen": null
@@ -4053,7 +4053,7 @@
       {
         "id": "campeon_coord",
         "nombre": "👑 La corona de Coord",
-        "descripcion": "Supera la Liga Pokémon de Coord.",
+        "descripcion": "Vence a Jukain y supera la Liga Pokémon de Coord.",
         "tipo": "switch",
         "requisitoSwitch": 12,
         "imagen": null
@@ -4148,9 +4148,26 @@
         "imagen": null
       },
       {
+        "id": "vence_red",
+        "nombre": "🏔️ El silencio de Red",
+        "descripcion": "Vence a Red.",
+        "tipo": "switch",
+        "requisitoSwitch": 94,
+        "imagen": null
+      },
+      {
+        "id": "jefes_rainbow",
+        "nombre": "🚪 Cuatro puertas, cuatro jefes",
+        "descripcion": "Vence a Magno, Aquiles, Helio y Ghechis en el Team Rainbow Rocket.",
+        "tipo": "variable",
+        "requisitoVariable": 32,
+        "requisitoValor": 4,
+        "imagen": null
+      },
+      {
         "id": "team_rainbow_rocket",
         "nombre": "🌈 Más allá de Kanto",
-        "descripcion": "Llega al Cuarto de Reservación y descubre el plan de Giovanni y el Team Rainbow Rocket.",
+        "descripcion": "Vence a Giovanni en el Cuarto de Reservación y pon fin al Team Rainbow Rocket.",
         "tipo": "switch",
         "requisitoSwitch": 93,
         "imagen": null
@@ -4172,30 +4189,6 @@
           "ARTICUNO",
           "ZAPDOS",
           "MOLTRES"
-        ],
-        "imagen": null
-      },
-      {
-        "id": "tres_bestias",
-        "nombre": "🐾 Manada legendaria",
-        "descripcion": "Captura a Raikou, Entei y Suicune.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "RAIKOU",
-          "ENTEI",
-          "SUICUNE"
-        ],
-        "imagen": null
-      },
-      {
-        "id": "trio_clima",
-        "nombre": "🌦️ Tormenta perfecta",
-        "descripcion": "Captura a Kyogre, Groudon y Rayquaza.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "KYOGRE",
-          "GROUDON",
-          "RAYQUAZA"
         ],
         "imagen": null
       },
@@ -4228,118 +4221,17 @@
         "imagen": null
       },
       {
-        "id": "espadas_sin_dueno",
-        "nombre": "⚔️ Espadas sin dueño",
-        "descripcion": "Captura a Cobalion, Terrakion, Virizion y Keldeo.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "COBALION",
-          "TERRAKION",
-          "VIRIZION",
-          "KELDEO"
-        ],
-        "imagen": null
-      },
-      {
-        "id": "eco_del_lago",
-        "nombre": "🔔 Eco del lago",
-        "descripcion": "Captura a Uxie, Mesprit y Azelf.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "UXIE",
-          "MESPRIT",
-          "AZELF"
-        ],
-        "imagen": null
-      },
-      {
-        "id": "viento_otro_mundo",
-        "nombre": "🌪️ Viento de otro mundo",
-        "descripcion": "Captura a Tornadus, Thundurus y Landorus.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "TORNADUS",
-          "THUNDURUS",
-          "LANDORUS"
-        ],
-        "imagen": null
-      },
-      {
-        "id": "piedra_hielo_acero",
-        "nombre": "🗿 Piedra, hielo y acero",
-        "descripcion": "Captura a Regirock, Regice, Registeel y Regigigas.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "REGIROCK",
-          "REGICE",
-          "REGISTEEL",
-          "REGIGIGAS"
-        ],
-        "imagen": null
-      },
-      {
-        "id": "hermanos_del_cielo",
-        "nombre": "💠 Hermanos del cielo",
-        "descripcion": "Captura a Latias y Latios.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "LATIAS",
-          "LATIOS"
-        ],
-        "imagen": null
-      },
-      {
-        "id": "isla_deseos",
-        "nombre": "🏝️ Isla de los deseos",
-        "descripcion": "Captura a Manaphy, Phione, Shaymin, Victini y Jirachi en Isla Juras.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "MANAPHY",
-          "PHIONE",
-          "SHAYMIN",
-          "VICTINI",
-          "JIRACHI"
-        ],
-        "imagen": null
-      },
-      {
-        "id": "guardianes_mar_cielo",
-        "nombre": "🌊 Guardianes del mar y el cielo",
-        "descripcion": "Captura a Lugia y Ho-Oh en la Roca Ombligo.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "LUGIA",
-          "HOOH"
-        ],
-        "imagen": null
-      },
-      {
-        "id": "dragones_equilibrio",
-        "nombre": "🐉 Dragones del equilibrio",
-        "descripcion": "Captura a Reshiram, Zekrom y Kyurem.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "RESHIRAM",
-          "ZEKROM",
-          "KYUREM"
-        ],
-        "imagen": null
-      },
-      {
-        "id": "suenos_pesadillas",
-        "nombre": "🌙 Entre sueños y pesadillas",
-        "descripcion": "Captura a Darkrai y Cresselia.",
-        "tipo": "pokedexEspecies",
-        "especies": [
-          "DARKRAI",
-          "CRESSELIA"
-        ],
+        "id": "pokedex_completa",
+        "nombre": "🧾 Hasta la última página",
+        "descripcion": "Completa la Pokédex: registra las 811 especies.",
+        "tipo": "pokedexOwned",
+        "requisito": 811,
         "imagen": null
       },
       {
         "id": "leyenda",
         "nombre": "🌟 Maestro de las dimensiones",
-        "descripcion": "Desbloquea los otros 48 logros.",
+        "descripcion": "Desbloquea los otros 40 logros.",
         "tipo": "todosLosDemas",
         "imagen": null
       }
