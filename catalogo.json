@@ -4285,6 +4285,592 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "logros": [
+      {
+        "id": "realidea_primer_paso_jaspe",
+        "nombre": "🏡 Primer paso fuera de Jaspe",
+        "descripcion": "Sal de Pueblo Jaspe por primera vez.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_apuntes_berilo",
+        "nombre": "🎓 Apuntes de Berilo",
+        "descripcion": "Llega a la Academia de Pueblo Berilo.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_codigo_sospechoso",
+        "nombre": "🔌 Código sospechoso",
+        "descripcion": "Escucha a Simon explicar lo que encontró en el Sistema Realidea de Metis Corp.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_dos_copias",
+        "nombre": "🪞 Dos copias, un secreto",
+        "descripcion": "Conoce a Teresa y descubre que ella también tiene una copia del Sistema Realidea.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_visita_sin_cita",
+        "nombre": "🏢 Visita sin cita previa",
+        "descripcion": "Entra en Metis Labs.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_oro_negro",
+        "nombre": "🛢️ Oro negro",
+        "descripcion": "Llega a la Plataforma Petrolífera.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_corte_suministro",
+        "nombre": "💡 Corte de suministro",
+        "descripcion": "Entra en la Central Eléctrica.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_zarpando",
+        "nombre": "🚢 Zarpando",
+        "descripcion": "Sube a bordo del barco.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_presion_oidos",
+        "nombre": "🫧 Presión en los oídos",
+        "descripcion": "Embarca en el submarino.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_naufragio",
+        "nombre": "⚓ Naufragio",
+        "descripcion": "Explora el Barco Hundido.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_luz_de_guia",
+        "nombre": "🏮 Luz de guía",
+        "descripcion": "Sube hasta el último piso del Faro.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_sala_final",
+        "nombre": "🧪 Sala final",
+        "descripcion": "Alcanza la Sala Final del laboratorio.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_fuera_de_lugar",
+        "nombre": "🌀 Fuera de lugar",
+        "descripcion": "Visita el Mundo Distorsión.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_recuerdo_ajeno",
+        "nombre": "🕰️ Recuerdo ajeno",
+        "descripcion": "Vive el flashback.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_ultimo_tramo",
+        "nombre": "🏛️ Último tramo",
+        "descripcion": "Cruza la entrada de la Liga Pokémon.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_fin_de_la_cuerda",
+        "nombre": "👑 Fin de la cuerda",
+        "descripcion": "Vence a la Liga Pokémon.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_gim_cornalina",
+        "nombre": "🐝 Dulce emboscada",
+        "descripcion": "Atraviesa la colmena del Gimnasio de Ciudad Cornalina y derrota a Abi.",
+        "tipo": "medalla",
+        "requisitoIndice": 0,
+        "imagen": null
+      },
+      {
+        "id": "realidea_gim_jade",
+        "nombre": "🎶 Compás de baldosas",
+        "descripcion": "Cruza las baldosas de colores del Gimnasio de Ciudad Jade y derrota a Aimi.",
+        "tipo": "medalla",
+        "requisitoIndice": 1,
+        "imagen": null
+      },
+      {
+        "id": "realidea_gim_cuarza",
+        "nombre": "🌊 Chorros a medida",
+        "descripcion": "Activa solo las palancas permitidas de la piscina de Ciudad Cuarza y derrota a Kenn.",
+        "tipo": "medalla",
+        "requisitoIndice": 2,
+        "imagen": null
+      },
+      {
+        "id": "realidea_gim_anatasa",
+        "nombre": "🧊 Deshielo",
+        "descripcion": "Haz que Douglas salga de su encierro en Ciudad Anatasa y derrótalo.",
+        "tipo": "medalla",
+        "requisitoIndice": 3,
+        "imagen": null
+      },
+      {
+        "id": "realidea_gim_agata",
+        "nombre": "♟️ Blanco sobre negro",
+        "descripcion": "Ennegrece las baldosas blancas del Gimnasio de Ciudad Ágata sin repetir paso y derrota a Ciara.",
+        "tipo": "medalla",
+        "requisitoIndice": 4,
+        "imagen": null
+      },
+      {
+        "id": "realidea_gim_amberino",
+        "nombre": "🏡 Pueblo chico, líder grande",
+        "descripcion": "Cruza la Ruta 12 hasta el Gimnasio de Pueblo Amberino y derrota a Dhara.",
+        "tipo": "medalla",
+        "requisitoIndice": 5,
+        "imagen": null
+      },
+      {
+        "id": "realidea_gim_amatista",
+        "nombre": "🤫 Silencio en la sala",
+        "descripcion": "Derrota a Lawrence en la biblioteca-gimnasio de Ciudad Amatista.",
+        "tipo": "medalla",
+        "requisitoIndice": 6,
+        "imagen": null
+      },
+      {
+        "id": "realidea_gim_rodocros",
+        "nombre": "🍨 Última cucharada",
+        "descripcion": "Derrota a Bay, el Líder de tipo Normal de Ciudad Rodocros, y consigue la octava medalla.",
+        "tipo": "medalla",
+        "requisitoIndice": 7,
+        "imagen": null
+      },
+      {
+        "id": "realidea_pecho_lleno",
+        "nombre": "🏅 Pecho lleno",
+        "descripcion": "Consigue las 8 medallas de Esoteria.",
+        "tipo": "todasMedallas",
+        "imagen": null
+      },
+      {
+        "id": "realidea_veta_adamantita",
+        "nombre": "⛏️ Veta de adamantita",
+        "descripcion": "Entra en la Mina de Adamantita.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_ojos_de_gema",
+        "nombre": "👁️ Ojos de gema",
+        "descripcion": "Adéntrate en la Guarida de Sableyes.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_boleto_de_ida",
+        "nombre": "🚇 Boleto de ida",
+        "descripcion": "Recorre el Metro.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_bajo_tus_pies",
+        "nombre": "🕳️ Bajo tus pies",
+        "descripcion": "Baja al Alcantarillado.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_pecera_gigante",
+        "nombre": "🐠 Pecera gigante",
+        "descripcion": "Visita el Acuario.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_no_tocar_vitrinas",
+        "nombre": "🏺 No tocar las vitrinas",
+        "descripcion": "Entra en el Museo de Ciencias y Arqueología.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_pronostico_reservado",
+        "nombre": "☁️ Pronóstico reservado",
+        "descripcion": "Visita el Instituto Meteorológico.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_se_alza_el_telon",
+        "nombre": "🎭 Se alza el telón",
+        "descripcion": "Entra en el Teatro Jade.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_receta_de_la_casa",
+        "nombre": "🍪 Receta de la casa",
+        "descripcion": "Pasa por la Tienda de Galletas.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_humo_y_engranajes",
+        "nombre": "🏭 Humo y engranajes",
+        "descripcion": "Entra en la Fábrica Rocket.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_ideas_congeladas",
+        "nombre": "🥶 Se me congelaron las ideas",
+        "descripcion": "Llega a la Gruta Helada.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_espejismo",
+        "nombre": "🏜️ Espejismo",
+        "descripcion": "Encuentra el Oasis.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_naufrago",
+        "nombre": "🏝️ Náufrago",
+        "descripcion": "Pisa la Isla Desierta.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_ceniza_en_las_suelas",
+        "nombre": "🌋 Ceniza en las suelas",
+        "descripcion": "Llega a la Cima del Volcán.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_pasillos_sin_salida",
+        "nombre": "🧱 Pasillos sin salida",
+        "descripcion": "Cruza el Laberinto.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_fuera_del_mapa",
+        "nombre": "🔍 Fuera del mapa",
+        "descripcion": "Descubre el Lugar secreto.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_ladron_de_pulseras",
+        "nombre": "🔗 Ladrón de pulseras",
+        "descripcion": "Atrapa al Purrloin y devuelve la pulsera a su dueña.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_globo_prestado",
+        "nombre": "🎈 Globo prestado",
+        "descripcion": "Recupera a Globito y devuélveselo a su dueño.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_castform_remodelado",
+        "nombre": "⛅ Castform remodelado",
+        "descripcion": "Entrega las rocas climáticas al investigador.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_susurros_en_el_aula",
+        "nombre": "🎵 Susurros en el aula",
+        "descripcion": "Derrota al Mankey del aula de música.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_infusion_abuelo",
+        "nombre": "🌿 Infusión para el abuelo",
+        "descripcion": "Consigue las hierbas y llévaselas al abuelo.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_caso_del_huerto",
+        "nombre": "🌾 Caso del huerto",
+        "descripcion": "Encuentra al culpable que arranca las hierbas de la granja.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_mala_hierba_banda",
+        "nombre": "🦉 Mala hierba de la banda",
+        "descripcion": "Derrota al líder de la banda Decidueye.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_plumas_prestadas",
+        "nombre": "🪶 Plumas prestadas",
+        "descripcion": "Hazte miembro de la banda Decidueye.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_agenda_al_dia",
+        "nombre": "📋 Agenda al día",
+        "descripcion": "Completa todas las misiones del juego.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_lazo_verdadero",
+        "nombre": "💞 Lazo verdadero",
+        "descripcion": "Lleva la amistad de un Pokémon al máximo.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_primera_funcion",
+        "nombre": "🧬 Primera función",
+        "descripcion": "Activa por primera vez una función del Sistema Realidea.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_sistema_desbloqueado",
+        "nombre": "🔓 Sistema desbloqueado",
+        "descripcion": "Activa todas las funciones del Sistema Realidea.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_evolucion_por_carino",
+        "nombre": "🌙 Evolución por cariño",
+        "descripcion": "Evoluciona un Pokémon por amistad.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_falso_lazo",
+        "nombre": "💔 Falso lazo",
+        "descripcion": "Derrota a un Pokémon controlado con la versión falsificada del Sistema.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_olvido_selectivo",
+        "nombre": "💭 Olvido selectivo",
+        "descripcion": "Captura a Uxie.",
+        "tipo": "pokedexEspecie",
+        "especie": "UXIE",
+        "imagen": null
+      },
+      {
+        "id": "realidea_reliquia_del_desierto",
+        "nombre": "💗 Reliquia del desierto",
+        "descripcion": "Encuentra a Mesprit.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_fuerza_de_voluntad",
+        "nombre": "⚡ Fuerza de voluntad",
+        "descripcion": "Captura a Azelf.",
+        "tipo": "pokedexEspecie",
+        "especie": "AZELF",
+        "imagen": null
+      },
+      {
+        "id": "realidea_trio_completo",
+        "nombre": "💎 Trío completo",
+        "descripcion": "Reúne las tres reliquias del lago.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_mana",
+        "nombre": "🌊 ¡Mana!",
+        "descripcion": "Encuentra a Manaphy.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_rumor_ruta_2",
+        "nombre": "📻 Rumor de la Ruta 2",
+        "descripcion": "Descubre qué legendario vive en la Ruta 2.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_villancico_fuera_de_temporada",
+        "nombre": "🎄 Villancico fuera de temporada",
+        "descripcion": "Encuentra al Pokémon raro del árbol navideño.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_duelo_en_alta_mar",
+        "nombre": "⚔️ Duelo en alta mar",
+        "descripcion": "Derrota a Edward en el Mar Abierto.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_compania_ilustre",
+        "nombre": "🦸 Compañía ilustre",
+        "descripcion": "Viaja junto a Lionel, el Campeón de Galar.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_album_de_elliot",
+        "nombre": "📷 Álbum de Elliot",
+        "descripcion": "Acompaña a Elliot en su sesión de fotos.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_huevo_sorpresa",
+        "nombre": "🥚 Huevo sorpresa",
+        "descripcion": "Recibe un huevo en la Guardería.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_mesa_para_uno",
+        "nombre": "🍽️ Mesa para uno",
+        "descripcion": "Cena en el Restaurante.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_ronda_nocturna",
+        "nombre": "🌙 Ronda nocturna",
+        "descripcion": "Recorre la Academia de noche.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_ofertas_hasta_el_techo",
+        "nombre": "🛍️ Ofertas hasta el techo",
+        "descripcion": "Sube a la última planta del Centro Comercial.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_marco_y_lienzo",
+        "nombre": "🎨 Marco y lienzo",
+        "descripcion": "Visita la Galería de Arte.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_vista_despejada",
+        "nombre": "🔭 Vista despejada",
+        "descripcion": "Sube al Mirador.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_susurro_del_bosque",
+        "nombre": "🍃 Susurro del bosque",
+        "descripcion": "Baja a las Profundidades del Bosque Lucerna.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_aire_fino",
+        "nombre": "⛰️ Aire fino",
+        "descripcion": "Llega al Monte Kiritsu.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_chispa_de_rubi",
+        "nombre": "⚡ Chispa de rubí",
+        "descripcion": "Entra en la Cueva Electrubí.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_hasta_el_ultimo_cuadro",
+        "nombre": "🎞️ Hasta el último cuadro",
+        "descripcion": "Presencia las 10 escenas finales.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_bata_blanca",
+        "nombre": "🥼 Bata blanca",
+        "descripcion": "Visita el Laboratorio de la profesora Haya.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_lobo_de_mar",
+        "nombre": "🧭 Lobo de mar",
+        "descripcion": "Visita la Casa de Roger.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_caos_controlado",
+        "nombre": "🎲 Caos controlado",
+        "descripcion": "Completa el juego en modo Randomlocke.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_un_solo_color",
+        "nombre": "🧿 Un solo color",
+        "descripcion": "Completa el juego en modo monotype.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_contrarreloj",
+        "nombre": "⏱️ Contrarreloj",
+        "descripcion": "Termina la historia en menos de 15 horas de juego.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_despues_del_telon",
+        "nombre": "🎬 Después del telón",
+        "descripcion": "Completa el contenido extra tras la Liga.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      },
+      {
+        "id": "realidea_esoteria_al_detalle",
+        "nombre": "🗺️ Esoteria al detalle",
+        "descripcion": "Completa la Pokédex regional.",
+        "tipo": "pendienteDiagnostico",
+        "imagen": null
+      }
     ]
   },
   {
