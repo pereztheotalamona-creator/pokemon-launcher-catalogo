@@ -1114,6 +1114,7 @@
   {
     "id": 6,
     "nombre": "Pokémon Ópalo",
+    "carpetaGuardadoJuegosGuardados": "Pokemon Opalo",
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-logo.png",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-preview-1.png",
