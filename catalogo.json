@@ -4273,6 +4273,15 @@
   {
     "id": 12,
     "nombre": "Pokémon Realidea System",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/realidea-logo.png",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/realidea-preview-1.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/realidea-preview-2.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/realidea-preview-3.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/realidea-preview-4.jpg",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/realidea-preview-5.png"
+    ],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/realidea-banner.jpg",
     "resumen": "Una aventura en la región de Esoteria donde los vínculos con tus Pokémon desbloquean nuevas funciones.",
     "descripcion": "Pokémon Realidea System es un fangame creado por Phion Games (Elena y Maxewenx) con RPG Maker XP y Pokémon Essentials. La historia transcurre en la región de Esoteria: reúnes las 8 medallas y desafías a la Liga Pokémon mientras investigas a un grupo que usa una extraña tecnología para forzar los vínculos entre humanos y Pokémon.\n\nIncluye el Sistema Realidea (funciones que dependen del nivel de amistad con tus Pokémon), iniciales Fakemon, un nuevo legendario, algunas formas regionales, sprites de combate animados, un sistema de misiones con contenido extra tras el final y modos como Randomlocke y restricciones monotype.",
     "desarrollador": "Elena y Maxewenx (Phion Games)",
