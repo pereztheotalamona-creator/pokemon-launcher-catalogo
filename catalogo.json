@@ -20,6 +20,15 @@
       "Aventura",
       "Fan Game"
     ],
+    "etiquetas": [
+      "Completo",
+      "Logros",
+      "Maestrías",
+      "Nuzlocke",
+      "Randomizer",
+      "Modos de dificultad",
+      "Postgame"
+    ],
     "tiempoEstimado": "25 - 40 horas (estimado, incluye postgame)",
     "desarrollador": "Eric Lostie (EricLostie)",
     "lanzamiento": "2023",
@@ -472,6 +481,14 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Completo",
+      "Logros",
+      "Maestrías",
+      "Nuzlocke",
+      "Randomizer",
+      "Postgame"
     ],
     "tiempoEstimado": "40+ horas (historia principal)",
     "desarrollador": "EricLostie",
@@ -1149,6 +1166,14 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Completo",
+      "Logros",
+      "Maestrías",
+      "Fakemon",
+      "Formas regionales",
+      "Randomizer"
     ],
     "tiempoEstimado": "40+ horas",
     "desarrollador": "EricLostie",
@@ -2049,6 +2074,13 @@
       "Aventura",
       "Humor"
     ],
+    "etiquetas": [
+      "Logros",
+      "Maestrías",
+      "Formas regionales",
+      "Alta dificultad",
+      "Randomizer"
+    ],
     "tiempoEstimado": "27 - 30 horas",
     "desarrollador": "EricLostie",
     "lanzamiento": "2020",
@@ -2569,6 +2601,11 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Logros",
+      "Maestrías",
+      "Modos de dificultad"
     ],
     "tiempoEstimado": "40+ horas (estimado)",
     "desarrollador": "EricLostie",
@@ -3248,6 +3285,14 @@
       "RPG",
       "Aventura"
     ],
+    "etiquetas": [
+      "Logros",
+      "Maestrías",
+      "Fakemon",
+      "Formas regionales",
+      "Modos de dificultad",
+      "Randomizer"
+    ],
     "tiempoEstimado": "20 - 30 horas (estimado)",
     "desarrollador": "EL_GAMID",
     "lanzamiento": "2024",
@@ -3878,6 +3923,12 @@
       "RPG",
       "Aventura"
     ],
+    "etiquetas": [
+      "Logros",
+      "Maestrías",
+      "Nuzlocke",
+      "Megaevoluciones"
+    ],
     "tiempoEstimado": "20 - 30 horas (estimado)",
     "desarrollador": "Seeth",
     "lanzamiento": "2022",
@@ -4295,6 +4346,15 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Logros",
+      "Maestrías",
+      "Fakemon",
+      "Formas regionales",
+      "Randomizer",
+      "Modos de dificultad",
+      "Postgame"
     ],
     "logros": [
       {
@@ -5321,6 +5381,10 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Completo",
+      "Fakemon"
     ]
   },
   {
@@ -5338,6 +5402,12 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Nuzlocke",
+      "Randomizer",
+      "Megaevoluciones",
+      "Modos de dificultad"
     ]
   },
   {
@@ -5355,6 +5425,12 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Nuzlocke",
+      "Randomizer",
+      "Megaevoluciones",
+      "Modos de dificultad"
     ]
   },
   {
@@ -5372,6 +5448,13 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Completo",
+      "Formas regionales",
+      "Megaevoluciones",
+      "Randomizer",
+      "Postgame"
     ]
   },
   {
@@ -5389,6 +5472,12 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Fakemon",
+      "Formas regionales",
+      "Modos de dificultad",
+      "Postgame"
     ]
   },
   {
@@ -5406,6 +5495,10 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Completo",
+      "Postgame"
     ]
   },
   {
@@ -5424,6 +5517,11 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Completo",
+      "Formas regionales",
+      "Postgame"
     ]
   },
   {
@@ -5442,6 +5540,10 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "En desarrollo",
+      "Postgame"
     ]
   },
   {
@@ -5459,6 +5561,11 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Megaevoluciones",
+      "Online",
+      "Modos de dificultad"
     ]
   },
   {
@@ -5476,6 +5583,10 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Completo",
+      "Alta dificultad"
     ]
   },
   {
@@ -5493,6 +5604,11 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Fakemon",
+      "Formas regionales",
+      "Postgame"
     ]
   },
   {
@@ -5510,6 +5626,12 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "Completo",
+      "Formas regionales",
+      "Modos de dificultad",
+      "Nuzlocke"
     ]
   },
   {
@@ -5528,6 +5650,10 @@
       "Fan Game",
       "RPG",
       "Aventura"
+    ],
+    "etiquetas": [
+      "En desarrollo",
+      "Formas regionales"
     ]
   }
 ]
