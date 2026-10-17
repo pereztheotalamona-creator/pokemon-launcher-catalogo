@@ -5278,7 +5278,8 @@
         "nombre": "Maestro Pokémon Realidea System",
         "descripcion": "Completar las tres maestrías de Pokémon Realidea System: Monotipo, Randomized y Sin bajas",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/maestria/medallon-maestria.png",
-        "tema": "diamante"
+        "tema": "realidea",
+        "estiloId": "realidea-system"
       },
       "items": [
         {
