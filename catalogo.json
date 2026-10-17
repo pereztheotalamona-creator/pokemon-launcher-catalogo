@@ -5676,16 +5676,6 @@
         "imagen": null
       },
       {
-        "id": "bizarre_no_hay_placer_mas_descansado",
-        "nombre": "⭐ No hay placer más descansado...",
-        "descripcion": "...Que el de después de haber meado.",
-        "tipo": "mapaVisitado",
-        "requisitoMapas": [
-          355
-        ],
-        "imagen": null
-      },
-      {
         "id": "bizarre_el_jincho_submarino",
         "nombre": "⭐ El jincho submarino",
         "descripcion": "Bucea y encuéntrate con el mejor rapero del lecho marino.",
@@ -5872,14 +5862,6 @@
         "imagen": null
       },
       {
-        "id": "bizarre_a_medio_camino",
-        "nombre": "🏅 A medio camino",
-        "descripcion": "Consigue 4 medallas de gimnasio.",
-        "tipo": "medallasCantidad",
-        "requisito": 4,
-        "imagen": null
-      },
-      {
         "id": "bizarre_coleccion_completa",
         "nombre": "🏅 Colección completa",
         "descripcion": "Consigue las 8 medallas de gimnasio.",
@@ -5904,23 +5886,6 @@
         "imagen": null
       },
       {
-        "id": "bizarre_segundas_partes_nunca_fueron_buenas",
-        "nombre": "🏛️ Segundas partes nunca fueron buenas",
-        "descripcion": "Gana una revancha a un líder de gimnasio.",
-        "tipo": "switchAlguno",
-        "requisitoSwitches": [
-          345,
-          346,
-          347,
-          348,
-          349,
-          350,
-          351,
-          352
-        ],
-        "imagen": null
-      },
-      {
         "id": "bizarre_venganza_consumada",
         "nombre": "🏛️ Venganza consumada",
         "descripcion": "Gana la revancha a los 8 líderes de gimnasio.",
@@ -5938,14 +5903,6 @@
         "imagen": null
       },
       {
-        "id": "bizarre_pokedex_en_marcha",
-        "nombre": "📚 Pokédex en marcha",
-        "descripcion": "Captura 25 Pokémon distintos.",
-        "tipo": "pokedexOwned",
-        "requisito": 25,
-        "imagen": null
-      },
-      {
         "id": "bizarre_rata_de_laboratorio",
         "nombre": "📚 Rata de laboratorio",
         "descripcion": "Captura 75 Pokémon distintos.",
@@ -5959,6 +5916,14 @@
         "descripcion": "Captura 150 Pokémon distintos.",
         "tipo": "pokedexOwned",
         "requisito": 150,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_pokedex_completa",
+        "nombre": "📕 Pokédex completa",
+        "descripcion": "Completa la Pokédex: registra 255 Pokémon.",
+        "tipo": "pokedexOwned",
+        "requisito": 255,
         "imagen": null
       },
       {
@@ -5986,47 +5951,6 @@
         "imagen": null
       },
       {
-        "id": "bizarre_contagio",
-        "nombre": "📚 Contagio",
-        "descripcion": "Descubre el Pokérus en un Centro Pokémon.",
-        "tipo": "switch",
-        "requisitoSwitch": 2,
-        "imagen": null
-      },
-      {
-        "id": "bizarre_capitalista",
-        "nombre": "💰 Capitalista",
-        "descripcion": "Acumula 100.000 de dinero.",
-        "tipo": "dineroMinimo",
-        "requisito": 100000,
-        "imagen": null
-      },
-      {
-        "id": "bizarre_setenta_flexiones",
-        "nombre": "💪 Setenta flexiones",
-        "descripcion": "Haz 70 flexiones en total.",
-        "tipo": "variable",
-        "requisitoVariable": 107,
-        "requisitoValor": 70,
-        "imagen": null
-      },
-      {
-        "id": "bizarre_brazos_de_mantequilla",
-        "nombre": "💪 Brazos de mantequilla",
-        "descripcion": "Pierde en el reto de las flexiones.",
-        "tipo": "switch",
-        "requisitoSwitch": 240,
-        "imagen": null
-      },
-      {
-        "id": "bizarre_aprendiz_de_brisca",
-        "nombre": "💪 Aprendiz de brisca",
-        "descripcion": "Aprende a jugar a la Pokebrisca.",
-        "tipo": "switch",
-        "requisitoSwitch": 231,
-        "imagen": null
-      },
-      {
         "id": "bizarre_yado_derrotado",
         "nombre": "💪 Yado, derrotado",
         "descripcion": "Gana a Yado a la Pokebrisca en La Colmena.",
@@ -6040,14 +5964,6 @@
         "descripcion": "Resuelve el asunto del lago en el Coto de pesca.",
         "tipo": "switch",
         "requisitoSwitch": 143,
-        "imagen": null
-      },
-      {
-        "id": "bizarre_encuentro_en_el_bosque",
-        "nombre": "📖 Encuentro en el bosque",
-        "descripcion": "Ten tu primer encuentro con Nook en el Bosque Seductor.",
-        "tipo": "switch",
-        "requisitoSwitch": 110,
         "imagen": null
       },
       {
@@ -6107,14 +6023,6 @@
         "imagen": null
       },
       {
-        "id": "bizarre_globo_sonda",
-        "nombre": "📖 Globo sonda",
-        "descripcion": "Termina el asunto del Drifblim de la Torre Opaca.",
-        "tipo": "switch",
-        "requisitoSwitch": 133,
-        "imagen": null
-      },
-      {
         "id": "bizarre_cristales_a_punto",
         "nombre": "📖 Cristales a punto",
         "descripcion": "Completa los cristales del Templo Karska.",
@@ -6155,22 +6063,6 @@
         "imagen": null
       },
       {
-        "id": "bizarre_recolector_de_setas",
-        "nombre": "📖 Recolector de setas",
-        "descripcion": "Recoge las setas de las Islas Yes.",
-        "tipo": "switch",
-        "requisitoSwitch": 277,
-        "imagen": null
-      },
-      {
-        "id": "bizarre_listo_para_bucear",
-        "nombre": "📖 Listo para bucear",
-        "descripcion": "Consigue el equipo de buceo en el Proyecto Pesca.",
-        "tipo": "switch",
-        "requisitoSwitch": 263,
-        "imagen": null
-      },
-      {
         "id": "bizarre_memorias_de_nook",
         "nombre": "📖 Memorias de Nook",
         "descripcion": "Revive los recuerdos de Nook.",
@@ -6203,14 +6095,6 @@
         "imagen": null
       },
       {
-        "id": "bizarre_consejito_de_oro",
-        "nombre": "📖 Consejito de oro",
-        "descripcion": "Termina con Mr. Consejitos en Pueblo Beatle.",
-        "tipo": "switch",
-        "requisitoSwitch": 353,
-        "imagen": null
-      },
-      {
         "id": "bizarre_compania_inesperada",
         "nombre": "📖 Compañía inesperada",
         "descripcion": "Cruza tu camino con Bartolomé, Malena, Pedritto y Paloma.",
@@ -6224,25 +6108,9 @@
         "imagen": null
       },
       {
-        "id": "bizarre_viaje_sospechoso",
-        "nombre": "📖 Viaje sospechoso",
-        "descripcion": "Vive un encuentro sospechoso en el Monetary Express.",
-        "tipo": "switch",
-        "requisitoSwitch": 273,
-        "imagen": null
-      },
-      {
-        "id": "bizarre_las_fuerzas_del_orden",
-        "nombre": "📖 Las fuerzas del orden",
-        "descripcion": "Cruza tu camino con la policía en el Desierto Brando.",
-        "tipo": "switch",
-        "requisitoSwitch": 246,
-        "imagen": null
-      },
-      {
         "id": "bizarre_leyenda_bizarra",
         "nombre": "🌟 LEYENDA BIZARRA",
-        "descripcion": "Desbloquea los otros 93 logros.",
+        "descripcion": "Desbloquea los otros 78 logros.",
         "tipo": "todosLosDemas",
         "imagen": null
       }
