@@ -4301,113 +4301,173 @@
         "id": "realidea_primer_paso_jaspe",
         "nombre": "🏡 Primer paso fuera de Jaspe",
         "descripcion": "Sal de Pueblo Jaspe por primera vez.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/1.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/1.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 78
       },
       {
         "id": "realidea_apuntes_berilo",
         "nombre": "🎓 Apuntes de Berilo",
         "descripcion": "Llega a la Academia de Pueblo Berilo.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/2.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/2.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          5,
+          23
+        ]
       },
       {
         "id": "realidea_codigo_sospechoso",
         "nombre": "🔌 Código sospechoso",
         "descripcion": "Escucha a Simon explicar lo que encontró en el Sistema Realidea de Metis Corp.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/3.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/3.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 378
       },
       {
         "id": "realidea_dos_copias",
         "nombre": "🪞 Dos copias, un secreto",
         "descripcion": "Conoce a Teresa y descubre que ella también tiene una copia del Sistema Realidea.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/4.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/4.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 90
       },
       {
         "id": "realidea_visita_sin_cita",
         "nombre": "🏢 Visita sin cita previa",
         "descripcion": "Entra en Metis Labs.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/5.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/5.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          18,
+          16,
+          56,
+          133
+        ]
       },
       {
         "id": "realidea_oro_negro",
         "nombre": "🛢️ Oro negro",
         "descripcion": "Llega a la Plataforma Petrolífera.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/6.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/6.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          17
+        ]
       },
       {
         "id": "realidea_corte_suministro",
         "nombre": "💡 Corte de suministro",
         "descripcion": "Entra en la Central Eléctrica.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/7.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/7.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          46
+        ]
       },
       {
         "id": "realidea_zarpando",
         "nombre": "🚢 Zarpando",
         "descripcion": "Sube a bordo del barco.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/8.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/8.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          143
+        ]
       },
       {
         "id": "realidea_presion_oidos",
         "nombre": "🫧 Presión en los oídos",
         "descripcion": "Embarca en el submarino.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/9.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/9.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          286
+        ]
       },
       {
         "id": "realidea_naufragio",
         "nombre": "⚓ Naufragio",
         "descripcion": "Explora el Barco Hundido.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/10.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/10.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284
+        ]
       },
       {
         "id": "realidea_luz_de_guia",
         "nombre": "🏮 Luz de guía",
         "descripcion": "Sube hasta el último piso del Faro.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/11.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/11.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          224
+        ]
       },
       {
         "id": "realidea_sala_final",
         "nombre": "🧪 Sala final",
         "descripcion": "Alcanza la Sala Final del laboratorio.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/12.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/12.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          156,
+          356
+        ]
       },
       {
         "id": "realidea_fuera_de_lugar",
         "nombre": "🌀 Fuera de lugar",
         "descripcion": "Visita el Mundo Distorsión.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/13.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/13.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          125,
+          203,
+          214
+        ]
       },
       {
         "id": "realidea_recuerdo_ajeno",
         "nombre": "🕰️ Recuerdo ajeno",
         "descripcion": "Vive el flashback.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/14.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/14.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          160,
+          161,
+          343,
+          363,
+          364,
+          365,
+          366
+        ]
       },
       {
         "id": "realidea_ultimo_tramo",
         "nombre": "🏛️ Último tramo",
         "descripcion": "Cruza la entrada de la Liga Pokémon.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/15.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/15.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          385
+        ]
       },
       {
         "id": "realidea_fin_de_la_cuerda",
         "nombre": "👑 Fin de la cuerda",
         "descripcion": "Vence a la Liga Pokémon.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/16.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/16.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 493
       },
       {
         "id": "realidea_gim_cornalina",
@@ -4484,388 +4544,732 @@
         "id": "realidea_veta_adamantita",
         "nombre": "⛏️ Veta de adamantita",
         "descripcion": "Entra en la Mina de Adamantita.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/26.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/26.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          34,
+          339
+        ]
       },
       {
         "id": "realidea_ojos_de_gema",
         "nombre": "👁️ Ojos de gema",
         "descripcion": "Adéntrate en la Guarida de Sableyes.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/27.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/27.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          35
+        ]
       },
       {
         "id": "realidea_boleto_de_ida",
         "nombre": "🚇 Boleto de ida",
         "descripcion": "Recorre el Metro.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/28.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/28.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 290
       },
       {
         "id": "realidea_bajo_tus_pies",
         "nombre": "🕳️ Bajo tus pies",
         "descripcion": "Baja al Alcantarillado.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/29.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/29.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          145,
+          157,
+          182,
+          187,
+          188,
+          189
+        ]
       },
       {
         "id": "realidea_pecera_gigante",
         "nombre": "🐠 Pecera gigante",
         "descripcion": "Visita el Acuario.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/30.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/30.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          103,
+          104
+        ]
       },
       {
         "id": "realidea_no_tocar_vitrinas",
         "nombre": "🏺 No tocar las vitrinas",
         "descripcion": "Entra en el Museo de Ciencias y Arqueología.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/31.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/31.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          132
+        ]
       },
       {
         "id": "realidea_pronostico_reservado",
         "nombre": "☁️ Pronóstico reservado",
         "descripcion": "Visita el Instituto Meteorológico.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/32.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/32.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          43
+        ]
       },
       {
         "id": "realidea_se_alza_el_telon",
         "nombre": "🎭 Se alza el telón",
         "descripcion": "Entra en el Teatro Jade.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/33.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/33.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          113
+        ]
       },
       {
         "id": "realidea_receta_de_la_casa",
         "nombre": "🍪 Receta de la casa",
         "descripcion": "Pasa por la Tienda de Galletas.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/34.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/34.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          326
+        ]
       },
       {
         "id": "realidea_humo_y_engranajes",
         "nombre": "🏭 Humo y engranajes",
         "descripcion": "Entra en la Fábrica Rocket.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/35.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/35.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          97,
+          98,
+          99
+        ]
       },
       {
         "id": "realidea_ideas_congeladas",
         "nombre": "🥶 Se me congelaron las ideas",
         "descripcion": "Llega a la Gruta Helada.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/36.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/36.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          147,
+          148
+        ]
       },
       {
         "id": "realidea_espejismo",
         "nombre": "🏜️ Espejismo",
         "descripcion": "Encuentra el Oasis.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/37.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/37.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          140
+        ]
       },
       {
         "id": "realidea_naufrago",
         "nombre": "🏝️ Náufrago",
         "descripcion": "Pisa la Isla Desierta.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/38.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/38.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          149
+        ]
       },
       {
         "id": "realidea_ceniza_en_las_suelas",
         "nombre": "🌋 Ceniza en las suelas",
         "descripcion": "Llega a la Cima del Volcán.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/39.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/39.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          301
+        ]
       },
       {
         "id": "realidea_pasillos_sin_salida",
         "nombre": "🧱 Pasillos sin salida",
         "descripcion": "Cruza el Laberinto.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/40.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/40.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
       },
       {
         "id": "realidea_fuera_del_mapa",
         "nombre": "🔍 Fuera del mapa",
         "descripcion": "Descubre el Lugar secreto.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/41.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/41.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          392
+        ]
       },
       {
         "id": "realidea_ladron_de_pulseras",
         "nombre": "🔗 Ladrón de pulseras",
         "descripcion": "Atrapa al Purrloin y devuelve la pulsera a su dueña.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/42.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/42.jpg",
+        "tipo": "misionCompletada",
+        "requisitoMision": 0
       },
       {
         "id": "realidea_globo_prestado",
         "nombre": "🎈 Globo prestado",
         "descripcion": "Recupera a Globito y devuélveselo a su dueño.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/43.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/43.jpg",
+        "tipo": "misionCompletada",
+        "requisitoMision": 1
       },
       {
         "id": "realidea_castform_remodelado",
         "nombre": "⛅ Castform remodelado",
         "descripcion": "Entrega las rocas climáticas al investigador.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/44.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/44.jpg",
+        "tipo": "misionCompletada",
+        "requisitoMision": 2
       },
       {
         "id": "realidea_susurros_en_el_aula",
         "nombre": "🎵 Susurros en el aula",
         "descripcion": "Derrota al Mankey del aula de música.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/45.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/45.jpg",
+        "tipo": "misionCompletada",
+        "requisitoMision": 3
       },
       {
         "id": "realidea_infusion_abuelo",
         "nombre": "🌿 Infusión para el abuelo",
         "descripcion": "Consigue las hierbas y llévaselas al abuelo.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/46.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/46.jpg",
+        "tipo": "misionCompletada",
+        "requisitoMision": 4
       },
       {
         "id": "realidea_caso_del_huerto",
         "nombre": "🌾 Caso del huerto",
         "descripcion": "Encuentra al culpable que arranca las hierbas de la granja.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/47.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/47.jpg",
+        "tipo": "misionCompletada",
+        "requisitoMision": 5
       },
       {
         "id": "realidea_mala_hierba_banda",
         "nombre": "🦉 Mala hierba de la banda",
         "descripcion": "Derrota al líder de la banda Decidueye.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/48.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/48.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 127
       },
       {
         "id": "realidea_plumas_prestadas",
         "nombre": "🪶 Plumas prestadas",
         "descripcion": "Hazte miembro de la banda Decidueye.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/49.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/49.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 140
       },
       {
         "id": "realidea_agenda_al_dia",
         "nombre": "📋 Agenda al día",
         "descripcion": "Completa todas las misiones del juego.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/50.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/50.jpg",
+        "tipo": "misionesTodas",
+        "requisitoMisiones": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
       },
       {
         "id": "realidea_lazo_verdadero",
         "nombre": "💞 Lazo verdadero",
         "descripcion": "Lleva la amistad de un Pokémon al máximo.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/51.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/51.jpg",
+        "tipo": "amistadMaxima",
+        "requisito": 255
       },
       {
         "id": "realidea_primera_funcion",
         "nombre": "🧬 Primera función",
         "descripcion": "Activa por primera vez una función del Sistema Realidea.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/52.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/52.jpg",
+        "tipo": "switchAlguno",
+        "requisitoSwitches": [
+          142,
+          143,
+          146,
+          153
+        ]
       },
       {
         "id": "realidea_sistema_desbloqueado",
         "nombre": "🔓 Sistema desbloqueado",
         "descripcion": "Activa todas las funciones del Sistema Realidea.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/53.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/53.jpg",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          142,
+          143,
+          146,
+          153
+        ]
       },
       {
         "id": "realidea_evolucion_por_carino",
         "nombre": "🌙 Evolución por cariño",
         "descripcion": "Evoluciona un Pokémon por amistad.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/54.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/54.jpg",
+        "tipo": "pokedexAlguna",
+        "especies": [
+          "169",
+          "242",
+          "196",
+          "197",
+          "448",
+          "773",
+          "814"
+        ],
+        "especiesNombres": [
+          "CROBAT",
+          "BLISSEY",
+          "ESPEON",
+          "UMBREON",
+          "LUCARIO",
+          "SILVALLY",
+          "APERSIAN"
+        ]
       },
       {
         "id": "realidea_falso_lazo",
         "nombre": "💔 Falso lazo",
         "descripcion": "Derrota a un Pokémon controlado con la versión falsificada del Sistema.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/55.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/55.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 212
       },
       {
         "id": "realidea_olvido_selectivo",
         "nombre": "💭 Olvido selectivo",
         "descripcion": "Captura a Uxie.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/56.jpg",
         "tipo": "pokedexEspecie",
-        "especie": "UXIE",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/56.jpg"
+        "especie": "480",
+        "especieNombre": "UXIE"
       },
       {
         "id": "realidea_reliquia_del_desierto",
         "nombre": "💗 Reliquia del desierto",
         "descripcion": "Encuentra a Mesprit.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/57.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/57.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 529
       },
       {
         "id": "realidea_fuerza_de_voluntad",
         "nombre": "⚡ Fuerza de voluntad",
         "descripcion": "Captura a Azelf.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/58.jpg",
         "tipo": "pokedexEspecie",
-        "especie": "AZELF",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/58.jpg"
+        "especie": "482",
+        "especieNombre": "AZELF"
       },
       {
         "id": "realidea_trio_completo",
         "nombre": "💎 Trío completo",
         "descripcion": "Reúne las tres reliquias del lago.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/59.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/59.jpg",
+        "tipo": "misionCompletada",
+        "requisitoMision": 20
       },
       {
         "id": "realidea_mana",
         "nombre": "🌊 ¡Mana!",
         "descripcion": "Encuentra a Manaphy.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/60.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/60.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 374
       },
       {
         "id": "realidea_rumor_ruta_2",
         "nombre": "📻 Rumor de la Ruta 2",
         "descripcion": "Descubre qué legendario vive en la Ruta 2.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/61.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/61.jpg",
+        "tipo": "pokedexVisto",
+        "especie": "243",
+        "especieNombre": "RAIKOU"
       },
       {
         "id": "realidea_villancico_fuera_de_temporada",
         "nombre": "🎄 Villancico fuera de temporada",
         "descripcion": "Encuentra al Pokémon raro del árbol navideño.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/62.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/62.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 344
       },
       {
         "id": "realidea_duelo_en_alta_mar",
         "nombre": "⚔️ Duelo en alta mar",
         "descripcion": "Derrota a Edward en el Mar Abierto.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/63.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/63.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 184
       },
       {
         "id": "realidea_compania_ilustre",
         "nombre": "🦸 Compañía ilustre",
         "descripcion": "Viaja junto a Lionel, el Campeón de Galar.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/64.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/64.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 503
       },
       {
         "id": "realidea_album_de_elliot",
         "nombre": "📷 Álbum de Elliot",
         "descripcion": "Acompaña a Elliot en su sesión de fotos.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/65.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/65.jpg",
+        "tipo": "switch",
+        "requisitoSwitch": 67
       },
       {
         "id": "realidea_huevo_sorpresa",
         "nombre": "🥚 Huevo sorpresa",
         "descripcion": "Recibe un huevo en la Guardería.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/66.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/66.jpg",
+        "tipo": "pokemonDeHuevo"
       },
       {
         "id": "realidea_mesa_para_uno",
         "nombre": "🍽️ Mesa para uno",
         "descripcion": "Cena en el Restaurante.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/67.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/67.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          128
+        ]
       },
       {
         "id": "realidea_ronda_nocturna",
         "nombre": "🌙 Ronda nocturna",
         "descripcion": "Recorre la Academia de noche.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/68.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/68.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          82,
+          83,
+          84,
+          85,
+          86,
+          87
+        ]
       },
       {
         "id": "realidea_ofertas_hasta_el_techo",
         "nombre": "🛍️ Ofertas hasta el techo",
         "descripcion": "Sube a la última planta del Centro Comercial.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/69.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/69.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          329
+        ]
       },
       {
         "id": "realidea_marco_y_lienzo",
         "nombre": "🎨 Marco y lienzo",
         "descripcion": "Visita la Galería de Arte.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/70.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/70.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          136
+        ]
       },
       {
         "id": "realidea_vista_despejada",
         "nombre": "🔭 Vista despejada",
         "descripcion": "Sube al Mirador.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/71.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/71.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          2
+        ]
       },
       {
         "id": "realidea_susurro_del_bosque",
         "nombre": "🍃 Susurro del bosque",
         "descripcion": "Baja a las Profundidades del Bosque Lucerna.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/72.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/72.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          12
+        ]
       },
       {
         "id": "realidea_aire_fino",
         "nombre": "⛰️ Aire fino",
         "descripcion": "Llega al Monte Kiritsu.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/73.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/73.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          81
+        ]
       },
       {
         "id": "realidea_chispa_de_rubi",
         "nombre": "⚡ Chispa de rubí",
         "descripcion": "Entra en la Cueva Electrubí.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/74.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/74.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          155
+        ]
       },
       {
         "id": "realidea_hasta_el_ultimo_cuadro",
         "nombre": "🎞️ Hasta el último cuadro",
         "descripcion": "Presencia las 10 escenas finales.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/75.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/75.jpg",
+        "tipo": "mapaVisitadoTodos",
+        "requisitoMapas": [
+          374,
+          375,
+          376,
+          377,
+          378,
+          379,
+          380,
+          381,
+          382,
+          383
+        ]
       },
       {
         "id": "realidea_bata_blanca",
         "nombre": "🥼 Bata blanca",
         "descripcion": "Visita el Laboratorio de la profesora Haya.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/76.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/76.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          9
+        ]
       },
       {
         "id": "realidea_lobo_de_mar",
         "nombre": "🧭 Lobo de mar",
         "descripcion": "Visita la Casa de Roger.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/77.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/77.jpg",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          142
+        ]
       },
       {
         "id": "realidea_liga_completada",
         "nombre": "🏆 Liga completada",
         "descripcion": "Completa la Liga Pokémon.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/78.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/78.jpg",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          489,
+          490,
+          491,
+          492,
+          493
+        ]
       },
       {
         "id": "realidea_despues_del_telon",
         "nombre": "🎬 Después del telón",
         "descripcion": "Completa el contenido extra tras la Liga.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/79.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/79.jpg",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          500
+        ]
       },
       {
         "id": "realidea_esoteria_al_detalle",
         "nombre": "🗺️ Esoteria al detalle",
         "descripcion": "Completa la Pokédex regional.",
-        "tipo": "pendienteDiagnostico",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/80.jpg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/logros/80.jpg",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68",
+          "69",
+          "70",
+          "71",
+          "72",
+          "73",
+          "74",
+          "75",
+          "76",
+          "77",
+          "78",
+          "79",
+          "80",
+          "81",
+          "82",
+          "83",
+          "84",
+          "85",
+          "86",
+          "87",
+          "88",
+          "89",
+          "90",
+          "91",
+          "92",
+          "93",
+          "94",
+          "95",
+          "96",
+          "97",
+          "98",
+          "99",
+          "100",
+          "101",
+          "102",
+          "103",
+          "104",
+          "105",
+          "106",
+          "107",
+          "108",
+          "109",
+          "110",
+          "111",
+          "112",
+          "113",
+          "114",
+          "115",
+          "116",
+          "117",
+          "118",
+          "119",
+          "120",
+          "121",
+          "122",
+          "123",
+          "124",
+          "125",
+          "126",
+          "127",
+          "128",
+          "129",
+          "130",
+          "131",
+          "132",
+          "133",
+          "134",
+          "135",
+          "136",
+          "137",
+          "138",
+          "139",
+          "140",
+          "141",
+          "142",
+          "143",
+          "144",
+          "145",
+          "146",
+          "147",
+          "148",
+          "149",
+          "150",
+          "151"
+        ]
       }
     ]
   },
