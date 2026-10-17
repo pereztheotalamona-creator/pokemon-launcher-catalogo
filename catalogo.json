@@ -5522,6 +5522,823 @@
       "Completo",
       "Formas regionales",
       "Postgame"
+    ],
+    "logros": [
+      {
+        "id": "bizarre_el_primer_paso",
+        "nombre": "⭐ El primer paso",
+        "descripcion": "¡Pon rumbo a la ruta 1!",
+        "tipo": "switch",
+        "requisitoSwitch": 67,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_misterio_del_tecno",
+        "nombre": "⭐ El misterio del Tecno",
+        "descripcion": "Descubre al hombre tocado.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          279
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_magia_a_punetazos",
+        "nombre": "⭐ Magia a puñetazos",
+        "descripcion": "Habla con Arisca y consigue el puño americano.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          392
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_por_la_ciencia",
+        "nombre": "⭐ ¡Por la ciencia!",
+        "descripcion": "Enfréntate a la A.C.P por primera  vez.",
+        "tipo": "switch",
+        "requisitoSwitch": 70,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_vigila_tus_bolsillos",
+        "nombre": "⭐ Vigila tus bolsillos...",
+        "descripcion": "Enfréntate por primera vez a Samira.",
+        "tipo": "switch",
+        "requisitoSwitch": 78,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_maestro_payo",
+        "nombre": "⭐ Maestro payo",
+        "descripcion": "Aprende el duro arte de la navaja.",
+        "tipo": "switch",
+        "requisitoSwitch": 259,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_camino_del_ludopata",
+        "nombre": "⭐ El camino del ludópata",
+        "descripcion": "Consigue acceso al gacha.",
+        "tipo": "switch",
+        "requisitoSwitch": 168,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_unico_alien_que_habita_el_planeta",
+        "nombre": "⭐ El único alien que habita el planeta",
+        "descripcion": "Sube al OVNI en el Campo de girasoles.",
+        "tipo": "switch",
+        "requisitoSwitch": 270,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_deja_vu",
+        "nombre": "⭐ ¡Deja Vu!",
+        "descripcion": "¡Consigue la moto!",
+        "tipo": "switch",
+        "requisitoSwitch": 87,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_llanero_solitario",
+        "nombre": "⭐ Llanero solitario",
+        "descripcion": "Ten tu primer encuentro con Andy.",
+        "tipo": "switch",
+        "requisitoSwitch": 172,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_better_call_avogadro",
+        "nombre": "⭐ Better Call Avogadro",
+        "descripcion": "¡Has salvado a Freestylers Studio de ser demandados!",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          136
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_contrasena",
+        "nombre": "⭐ ¡Contraseña!",
+        "descripcion": "Entra en el club privado de Ciudad Bangles.",
+        "tipo": "switch",
+        "requisitoSwitch": 130,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_aaaaaaargh_nanoooo",
+        "nombre": "⭐ ¡AAAAAAARGH NANOOOO!",
+        "descripcion": "Ayuda a Explosiv0 y ponte bien mazado.",
+        "tipo": "switch",
+        "requisitoSwitch": 221,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_fugado",
+        "nombre": "⭐ El fugado",
+        "descripcion": "Encuéntrate al hombre misterioso del ayuntamiento de Nirvana.",
+        "tipo": "switch",
+        "requisitoSwitch": 329,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_un_robot",
+        "nombre": "⭐ ¡UN ROBOT!",
+        "descripcion": "Derrota a Missile en la dimensión extraña.",
+        "tipo": "switch",
+        "requisitoSwitch": 148,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_este_es_el_fin_amigo_mio",
+        "nombre": "⭐ Este es el fin... Amigo mío",
+        "descripcion": "Gana a la ruleta rusa.",
+        "tipo": "switch",
+        "requisitoSwitch": 297,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_una_historia_extraordinaria",
+        "nombre": "⭐ Una historia extraordinaria",
+        "descripcion": "Sube al monte de la Ruta 9 y disfruta.",
+        "tipo": "switch",
+        "requisitoSwitch": 238,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_la_muerte_se_viste_de_rojo",
+        "nombre": "⭐ La muerte se viste de Rojo",
+        "descripcion": "Mata a Rojo en lo alto del Monte Plateado.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          276
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_misterio_de_la_mona_lisa",
+        "nombre": "⭐ El misterio de la Mona Lisa",
+        "descripcion": "Encuentra el casette extraño en una de las salas del museo.",
+        "tipo": "switch",
+        "requisitoSwitch": 177,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_rey_del_rio",
+        "nombre": "⭐ El rey del río",
+        "descripcion": "Reúnete con el rey del río en su charca.",
+        "tipo": "switch",
+        "requisitoSwitch": 241,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_dispendio_de_vilipendio",
+        "nombre": "⭐ Dispendio de vilipendio",
+        "descripcion": "Ayuda a Waluigi a cocinar el taco definitivo.",
+        "tipo": "switch",
+        "requisitoSwitch": 131,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_aquel_dia_fatidico",
+        "nombre": "⭐ Aquel día fatídico...",
+        "descripcion": "Escucha a Indiana en Ciudad Straits...",
+        "tipo": "switch",
+        "requisitoSwitch": 203,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_plip_plop",
+        "nombre": "⭐ Plip... Plop...",
+        "descripcion": "Descubre el misterio de La Isla de Mikolash",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          345
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_potencia_y_musculacion",
+        "nombre": "⭐ ¡Potencia y musculación!",
+        "descripcion": "¡Has presenciado la grandeza del nuevo Missile!",
+        "tipo": "switch",
+        "requisitoSwitch": 223,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_rompetobillos",
+        "nombre": "⭐ Rompetobillos",
+        "descripcion": "¡Has conseguido atravesar el Monte Blues!",
+        "tipo": "switch",
+        "requisitoSwitch": 330,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_los_follaosos",
+        "nombre": "⭐ Los Follaosos",
+        "descripcion": "Si tan solo ese ruso siguiese entre nosotros...",
+        "tipo": "switch",
+        "requisitoSwitch": 331,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_pues_tu_madre_mas",
+        "nombre": "⭐ ¡Pues tu madre más!",
+        "descripcion": "Enfréntate a Eminemcia en una batalla de gallos.",
+        "tipo": "switch",
+        "requisitoSwitch": 250,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_bien_acompanado",
+        "nombre": "⭐ Bien acompañado...",
+        "descripcion": "Súbete al teleférico.",
+        "tipo": "switch",
+        "requisitoSwitch": 305,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_stunfisk_voladoooor",
+        "nombre": "⭐ El Stunfisk voladoooor...",
+        "descripcion": "Consigue surfear sobre un Stunfisk.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          369
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_no_hay_placer_mas_descansado",
+        "nombre": "⭐ No hay placer más descansado...",
+        "descripcion": "...Que el de después de haber meado.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          355
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_jincho_submarino",
+        "nombre": "⭐ El jincho submarino",
+        "descripcion": "Bucea y encuéntrate con el mejor rapero del lecho marino.",
+        "tipo": "switch",
+        "requisitoSwitch": 288,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_no_entres_ahi",
+        "nombre": "⭐ No entres ahí...",
+        "descripcion": "Entra en el Club de los Tecnománticos.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          421
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_corazon_de_las_cartas",
+        "nombre": "⭐ El corazón de las cartas",
+        "descripcion": "Gana el torneo de la Pokebrisca.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          387
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_una_urgencia_muy_urgente",
+        "nombre": "⭐ Una urgencia muy urgente",
+        "descripcion": "Enfrentate a Freccia y Keroro en los baños del tren.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          400
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_te_de_campana",
+        "nombre": "⭐ Té de campana",
+        "descripcion": "Conoce a Snoopy en Pueblo Temptation.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          411
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_nuestra_vecina_catalina",
+        "nombre": "⭐ Nuestra vecina Catalina",
+        "descripcion": "Pon un pié en La Luna.",
+        "tipo": "switch",
+        "requisitoSwitch": 308,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_adieu",
+        "nombre": "⭐ Adieu",
+        "descripcion": "Desconecta a Missile.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          450
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_claro_bajo_la_tierra",
+        "nombre": "⭐ El claro bajo La Tierra",
+        "descripcion": "Derrota a Stain en la Base Lunar.",
+        "tipo": "switch",
+        "requisitoSwitch": 328,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_llama_a_la_puerta",
+        "nombre": "⭐ Llama a la puerta",
+        "descripcion": "Derrota a Eva en el Nexolimbo.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          460
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_retirada",
+        "nombre": "⭐ Retirada",
+        "descripcion": "Joshua ha tomado la mejor decisión...",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          471
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_escuela_de_rock",
+        "nombre": "⭐ ¡Escuela de Rock!",
+        "descripcion": "Ayuda a Baobab a montar su grupo de rock al completo.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          426
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_la_flecha_dorada",
+        "nombre": "⭐ La flecha dorada",
+        "descripcion": "Obtén la flecha dorada.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          467
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_el_ultimo_tren_a_casa",
+        "nombre": "⭐ El último tren a casa",
+        "descripcion": "Rechaza el puesto de campeón tras ganar la liga.",
+        "tipo": "switch",
+        "requisitoSwitch": 341,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_con_el_espiritu_en_alto",
+        "nombre": "🏅 Con el espíritu en alto",
+        "descripcion": "Consigue la Medalla Espíritu en Ciudad Zeppelin.",
+        "tipo": "medalla",
+        "requisitoIndice": 0,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_a_todo_motor",
+        "nombre": "🏅 A todo motor",
+        "descripcion": "Consigue la Medalla Motor en Pueblo Floyd.",
+        "tipo": "medalla",
+        "requisitoIndice": 1,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_al_ritmo_de_la_samba",
+        "nombre": "🏅 Al ritmo de la samba",
+        "descripcion": "Consigue la Medalla Samba en Ciudad Bangles.",
+        "tipo": "medalla",
+        "requisitoIndice": 2,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_con_garra",
+        "nombre": "🏅 Con garra",
+        "descripcion": "Consigue la Medalla Garra en Aldea Nirvana.",
+        "tipo": "medalla",
+        "requisitoIndice": 3,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_quitate_el_sombrero",
+        "nombre": "🏅 Quítate el sombrero",
+        "descripcion": "Consigue la Medalla Sombrero en Ciudad Straits.",
+        "tipo": "medalla",
+        "requisitoIndice": 4,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_dueto_perfecto",
+        "nombre": "🏅 Dueto perfecto",
+        "descripcion": "Consigue la Medalla Dueto en Pueblo Sugarhill.",
+        "tipo": "medalla",
+        "requisitoIndice": 5,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_corriente_alterna",
+        "nombre": "🏅 Corriente alterna",
+        "descripcion": "Derrota a Shoog y consigue la Medalla Corriente.",
+        "tipo": "medalla",
+        "requisitoIndice": 6,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_retroalimentacion",
+        "nombre": "🏅 Retroalimentación",
+        "descripcion": "Consigue la Medalla Retro en Pueblo Temptation.",
+        "tipo": "medalla",
+        "requisitoIndice": 7,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_a_medio_camino",
+        "nombre": "🏅 A medio camino",
+        "descripcion": "Consigue 4 medallas de gimnasio.",
+        "tipo": "medallasCantidad",
+        "requisito": 4,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_coleccion_completa",
+        "nombre": "🏅 Colección completa",
+        "descripcion": "Consigue las 8 medallas de gimnasio.",
+        "tipo": "medallasCantidad",
+        "requisito": 8,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_alto_mando_bajo_mando",
+        "nombre": "🏛️ Alto Mando, bajo mando",
+        "descripcion": "Derrota al Alto Mando.",
+        "tipo": "switch",
+        "requisitoSwitch": 12,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_salon_de_la_fama",
+        "nombre": "🏛️ Salón de la Fama",
+        "descripcion": "Entra en el Salón de la Fama.",
+        "tipo": "switch",
+        "requisitoSwitch": 342,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_segundas_partes_nunca_fueron_buenas",
+        "nombre": "🏛️ Segundas partes nunca fueron buenas",
+        "descripcion": "Gana una revancha a un líder de gimnasio.",
+        "tipo": "switchAlguno",
+        "requisitoSwitches": [
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_venganza_consumada",
+        "nombre": "🏛️ Venganza consumada",
+        "descripcion": "Gana la revancha a los 8 líderes de gimnasio.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_pokedex_en_marcha",
+        "nombre": "📚 Pokédex en marcha",
+        "descripcion": "Captura 25 Pokémon distintos.",
+        "tipo": "pokedexOwned",
+        "requisito": 25,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_rata_de_laboratorio",
+        "nombre": "📚 Rata de laboratorio",
+        "descripcion": "Captura 75 Pokémon distintos.",
+        "tipo": "pokedexOwned",
+        "requisito": 75,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_maestro_de_la_pokedex",
+        "nombre": "📚 Maestro de la Pokédex",
+        "descripcion": "Captura 150 Pokémon distintos.",
+        "tipo": "pokedexOwned",
+        "requisito": 150,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_enciclopedia_bizarra",
+        "nombre": "📚 Enciclopedia Bizarra",
+        "descripcion": "Consigue la Enciclopedia en Pueblo Beatle.",
+        "tipo": "switch",
+        "requisitoSwitch": 354,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_nivel_100",
+        "nombre": "💯 Nivel 100",
+        "descripcion": "Ten un Pokémon de nivel 100 en el equipo.",
+        "tipo": "nivelMaximo",
+        "requisitoNivel": 100,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_eso_brilla",
+        "nombre": "✨ ¿Eso brilla?",
+        "descripcion": "Ten un Pokémon variocolor (shiny).",
+        "tipo": "shinyActual",
+        "requisito": 1,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_contagio",
+        "nombre": "📚 Contagio",
+        "descripcion": "Descubre el Pokérus en un Centro Pokémon.",
+        "tipo": "switch",
+        "requisitoSwitch": 2,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_capitalista",
+        "nombre": "💰 Capitalista",
+        "descripcion": "Acumula 100.000 de dinero.",
+        "tipo": "dineroMinimo",
+        "requisito": 100000,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_setenta_flexiones",
+        "nombre": "💪 Setenta flexiones",
+        "descripcion": "Haz 70 flexiones en total.",
+        "tipo": "variable",
+        "requisitoVariable": 107,
+        "requisitoValor": 70,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_brazos_de_mantequilla",
+        "nombre": "💪 Brazos de mantequilla",
+        "descripcion": "Pierde en el reto de las flexiones.",
+        "tipo": "switch",
+        "requisitoSwitch": 240,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_aprendiz_de_brisca",
+        "nombre": "💪 Aprendiz de brisca",
+        "descripcion": "Aprende a jugar a la Pokebrisca.",
+        "tipo": "switch",
+        "requisitoSwitch": 231,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_yado_derrotado",
+        "nombre": "💪 Yado, derrotado",
+        "descripcion": "Gana a Yado a la Pokebrisca en La Colmena.",
+        "tipo": "switch",
+        "requisitoSwitch": 249,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_misterio_del_lago",
+        "nombre": "📖 Misterio del lago",
+        "descripcion": "Resuelve el asunto del lago en el Coto de pesca.",
+        "tipo": "switch",
+        "requisitoSwitch": 143,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_encuentro_en_el_bosque",
+        "nombre": "📖 Encuentro en el bosque",
+        "descripcion": "Ten tu primer encuentro con Nook en el Bosque Seductor.",
+        "tipo": "switch",
+        "requisitoSwitch": 110,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_amigo_de_kiri",
+        "nombre": "📖 Amigo de Kiri",
+        "descripcion": "Termina la historia de Kiri en la Cueva Cosmos.",
+        "tipo": "switch",
+        "requisitoSwitch": 153,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_rave_sospechosa",
+        "nombre": "📖 Rave sospechosa",
+        "descripcion": "Acaba la rave de la Casa Sospechosa.",
+        "tipo": "switch",
+        "requisitoSwitch": 187,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_la_casa_siempre_gana",
+        "nombre": "📖 La casa siempre gana",
+        "descripcion": "Termina el asunto del casino de Industrias Petrogas.",
+        "tipo": "switch",
+        "requisitoSwitch": 96,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_receta_secreta",
+        "nombre": "📖 Receta secreta",
+        "descripcion": "Consigue la receta en La Colmena.",
+        "tipo": "switch",
+        "requisitoSwitch": 191,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_veterinario_de_guardia",
+        "nombre": "📖 Veterinario de guardia",
+        "descripcion": "Cura al Murkrow del Pantano Calado.",
+        "tipo": "switch",
+        "requisitoSwitch": 192,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_se_descubre_el_pastel",
+        "nombre": "📖 Se descubre el pastel",
+        "descripcion": "Descubre el pastel durante la investigación de la iglesia.",
+        "tipo": "switch",
+        "requisitoSwitch": 209,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_grimorio_prohibido",
+        "nombre": "📖 Grimorio prohibido",
+        "descripcion": "Hazte con el grimorio de la Torre Opaca.",
+        "tipo": "switch",
+        "requisitoSwitch": 135,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_globo_sonda",
+        "nombre": "📖 Globo sonda",
+        "descripcion": "Termina el asunto del Drifblim de la Torre Opaca.",
+        "tipo": "switch",
+        "requisitoSwitch": 133,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_cristales_a_punto",
+        "nombre": "📖 Cristales a punto",
+        "descripcion": "Completa los cristales del Templo Karska.",
+        "tipo": "switch",
+        "requisitoSwitch": 213,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_tres_salas",
+        "nombre": "📖 Tres salas",
+        "descripcion": "Completa las tres salas del gimnasio de Nirvana.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          121,
+          122,
+          123
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_tres_puertas_tres_decisiones",
+        "nombre": "📖 Tres puertas, tres decisiones",
+        "descripcion": "Atraviesa las tres puertas del gimnasio de Bangles.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          155,
+          157,
+          159
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_luces_fuera",
+        "nombre": "📖 Luces fuera",
+        "descripcion": "Resuelve el puzle del gimnasio de Pueblo Temptation.",
+        "tipo": "switch",
+        "requisitoSwitch": 286,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_recolector_de_setas",
+        "nombre": "📖 Recolector de setas",
+        "descripcion": "Recoge las setas de las Islas Yes.",
+        "tipo": "switch",
+        "requisitoSwitch": 277,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_listo_para_bucear",
+        "nombre": "📖 Listo para bucear",
+        "descripcion": "Consigue el equipo de buceo en el Proyecto Pesca.",
+        "tipo": "switch",
+        "requisitoSwitch": 263,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_memorias_de_nook",
+        "nombre": "📖 Memorias de Nook",
+        "descripcion": "Revive los recuerdos de Nook.",
+        "tipo": "switch",
+        "requisitoSwitch": 327,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_la_historia_de_nook",
+        "nombre": "📖 La historia de Nook",
+        "descripcion": "Escucha la historia de Nook en las Islas Yes.",
+        "tipo": "switch",
+        "requisitoSwitch": 258,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_socio_de_la_a_c_p",
+        "nombre": "📖 Socio de la A.C.P.",
+        "descripcion": "Consigue la tarjeta de la A.C.P.",
+        "tipo": "switch",
+        "requisitoSwitch": 343,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_duelo_en_el_urriel",
+        "nombre": "📖 Duelo en el Urriel",
+        "descripcion": "Combate contra Paolo en el Monte Urriel.",
+        "tipo": "switch",
+        "requisitoSwitch": 344,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_consejito_de_oro",
+        "nombre": "📖 Consejito de oro",
+        "descripcion": "Termina con Mr. Consejitos en Pueblo Beatle.",
+        "tipo": "switch",
+        "requisitoSwitch": 353,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_compania_inesperada",
+        "nombre": "📖 Compañía inesperada",
+        "descripcion": "Cruza tu camino con Bartolomé, Malena, Pedritto y Paloma.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          333,
+          334,
+          335,
+          336
+        ],
+        "imagen": null
+      },
+      {
+        "id": "bizarre_viaje_sospechoso",
+        "nombre": "📖 Viaje sospechoso",
+        "descripcion": "Vive un encuentro sospechoso en el Monetary Express.",
+        "tipo": "switch",
+        "requisitoSwitch": 273,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_las_fuerzas_del_orden",
+        "nombre": "📖 Las fuerzas del orden",
+        "descripcion": "Cruza tu camino con la policía en el Desierto Brando.",
+        "tipo": "switch",
+        "requisitoSwitch": 246,
+        "imagen": null
+      },
+      {
+        "id": "bizarre_leyenda_bizarra",
+        "nombre": "🌟 LEYENDA BIZARRA",
+        "descripcion": "Desbloquea los otros 93 logros.",
+        "tipo": "todosLosDemas",
+        "imagen": null
+      }
     ]
   },
   {
