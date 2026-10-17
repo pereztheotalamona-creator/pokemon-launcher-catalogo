@@ -5271,7 +5271,39 @@
           "151"
         ]
       }
-    ]
+    ],
+    "maestria": {
+      "recompensa": {
+        "id": "maestro-realidea",
+        "nombre": "Maestro Pokémon Realidea System",
+        "descripcion": "Completar las tres maestrías de Pokémon Realidea System: Monotipo, Randomized y Sin bajas",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/maestria/medallon-maestria.png",
+        "tema": "diamante"
+      },
+      "items": [
+        {
+          "id": "realidea-monotipo",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/maestria/1.jpg",
+          "icono": "star",
+          "titulo": "Nivel 1 · Monotipo",
+          "descripcion": "Completar el juego con un equipo unificado bajo un mismo tipo"
+        },
+        {
+          "id": "realidea-randomized",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/maestria/2.jpg",
+          "icono": "crown",
+          "titulo": "Nivel 2 · Randomized",
+          "descripcion": "Completar el juego en modo Randomized, dominando el caos elemental"
+        },
+        {
+          "id": "realidea-sin-bajas",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/maestria/3.jpg",
+          "icono": "heart",
+          "titulo": "Nivel 3 · Sin bajas",
+          "descripcion": "Entrar al Hall de la Fama con el equipo invicto, sin que ningún Pokémon caiga debilitado"
+        }
+      ]
+    }
   },
   {
     "id": 13,
