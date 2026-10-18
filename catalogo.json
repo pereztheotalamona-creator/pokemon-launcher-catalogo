@@ -5437,7 +5437,7 @@
         "descripcion": "¡Pon rumbo a la ruta 1!",
         "tipo": "switch",
         "requisitoSwitch": 67,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/1.jpg"
       },
       {
         "id": "bizarre_el_misterio_del_tecno",
@@ -5447,7 +5447,7 @@
         "requisitoMapas": [
           279
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/2.jpg"
       },
       {
         "id": "bizarre_magia_a_punetazos",
@@ -5457,7 +5457,7 @@
         "requisitoMapas": [
           392
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/3.jpg"
       },
       {
         "id": "bizarre_por_la_ciencia",
@@ -5465,7 +5465,7 @@
         "descripcion": "Enfréntate a la A.C.P por primera  vez.",
         "tipo": "switch",
         "requisitoSwitch": 70,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/4.jpg"
       },
       {
         "id": "bizarre_vigila_tus_bolsillos",
@@ -5473,7 +5473,7 @@
         "descripcion": "Enfréntate por primera vez a Samira.",
         "tipo": "switch",
         "requisitoSwitch": 78,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/5.jpg"
       },
       {
         "id": "bizarre_maestro_payo",
@@ -5481,7 +5481,7 @@
         "descripcion": "Aprende el duro arte de la navaja.",
         "tipo": "switch",
         "requisitoSwitch": 259,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/6.jpg"
       },
       {
         "id": "bizarre_el_camino_del_ludopata",
@@ -5489,7 +5489,7 @@
         "descripcion": "Consigue acceso al gacha.",
         "tipo": "switch",
         "requisitoSwitch": 168,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/7.jpg"
       },
       {
         "id": "bizarre_el_unico_alien_que_habita_el_planeta",
@@ -5497,7 +5497,7 @@
         "descripcion": "Sube al OVNI en el Campo de girasoles.",
         "tipo": "switch",
         "requisitoSwitch": 270,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/8.jpg"
       },
       {
         "id": "bizarre_deja_vu",
@@ -5505,7 +5505,7 @@
         "descripcion": "¡Consigue la moto!",
         "tipo": "switch",
         "requisitoSwitch": 87,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/9.jpg"
       },
       {
         "id": "bizarre_llanero_solitario",
@@ -5513,7 +5513,7 @@
         "descripcion": "Ten tu primer encuentro con Andy.",
         "tipo": "switch",
         "requisitoSwitch": 172,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/10.jpg"
       },
       {
         "id": "bizarre_better_call_avogadro",
@@ -5523,7 +5523,7 @@
         "requisitoMapas": [
           136
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/11.jpg"
       },
       {
         "id": "bizarre_contrasena",
@@ -5531,7 +5531,7 @@
         "descripcion": "Entra en el club privado de Ciudad Bangles.",
         "tipo": "switch",
         "requisitoSwitch": 130,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/12.jpg"
       },
       {
         "id": "bizarre_aaaaaaargh_nanoooo",
@@ -5539,7 +5539,7 @@
         "descripcion": "Ayuda a Explosiv0 y ponte bien mazado.",
         "tipo": "switch",
         "requisitoSwitch": 221,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/13.jpg"
       },
       {
         "id": "bizarre_el_fugado",
@@ -5547,7 +5547,7 @@
         "descripcion": "Encuéntrate al hombre misterioso del ayuntamiento de Nirvana.",
         "tipo": "switch",
         "requisitoSwitch": 329,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/14.jpg"
       },
       {
         "id": "bizarre_un_robot",
@@ -5555,7 +5555,7 @@
         "descripcion": "Derrota a Missile en la dimensión extraña.",
         "tipo": "switch",
         "requisitoSwitch": 148,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/15.jpg"
       },
       {
         "id": "bizarre_este_es_el_fin_amigo_mio",
@@ -5563,7 +5563,7 @@
         "descripcion": "Gana a la ruleta rusa.",
         "tipo": "switch",
         "requisitoSwitch": 297,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/16.jpg"
       },
       {
         "id": "bizarre_una_historia_extraordinaria",
@@ -5571,7 +5571,7 @@
         "descripcion": "Sube al monte de la Ruta 9 y disfruta.",
         "tipo": "switch",
         "requisitoSwitch": 238,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/17.jpg"
       },
       {
         "id": "bizarre_la_muerte_se_viste_de_rojo",
@@ -5581,7 +5581,7 @@
         "requisitoMapas": [
           276
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/18.jpg"
       },
       {
         "id": "bizarre_el_misterio_de_la_mona_lisa",
@@ -5589,7 +5589,7 @@
         "descripcion": "Encuentra el casette extraño en una de las salas del museo.",
         "tipo": "switch",
         "requisitoSwitch": 177,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/19.jpg"
       },
       {
         "id": "bizarre_el_rey_del_rio",
@@ -5597,7 +5597,7 @@
         "descripcion": "Reúnete con el rey del río en su charca.",
         "tipo": "switch",
         "requisitoSwitch": 241,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/20.jpg"
       },
       {
         "id": "bizarre_dispendio_de_vilipendio",
@@ -5605,7 +5605,7 @@
         "descripcion": "Ayuda a Waluigi a cocinar el taco definitivo.",
         "tipo": "switch",
         "requisitoSwitch": 131,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/21.jpg"
       },
       {
         "id": "bizarre_aquel_dia_fatidico",
@@ -5613,7 +5613,7 @@
         "descripcion": "Escucha a Indiana en Ciudad Straits...",
         "tipo": "switch",
         "requisitoSwitch": 203,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/22.jpg"
       },
       {
         "id": "bizarre_plip_plop",
@@ -5623,7 +5623,7 @@
         "requisitoMapas": [
           345
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/23.jpg"
       },
       {
         "id": "bizarre_potencia_y_musculacion",
@@ -5631,7 +5631,7 @@
         "descripcion": "¡Has presenciado la grandeza del nuevo Missile!",
         "tipo": "switch",
         "requisitoSwitch": 223,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/24.jpg"
       },
       {
         "id": "bizarre_rompetobillos",
@@ -5639,7 +5639,7 @@
         "descripcion": "¡Has conseguido atravesar el Monte Blues!",
         "tipo": "switch",
         "requisitoSwitch": 330,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/25.jpg"
       },
       {
         "id": "bizarre_los_follaosos",
@@ -5647,7 +5647,7 @@
         "descripcion": "Si tan solo ese ruso siguiese entre nosotros...",
         "tipo": "switch",
         "requisitoSwitch": 331,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/26.jpg"
       },
       {
         "id": "bizarre_pues_tu_madre_mas",
@@ -5655,7 +5655,7 @@
         "descripcion": "Enfréntate a Eminemcia en una batalla de gallos.",
         "tipo": "switch",
         "requisitoSwitch": 250,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/27.jpg"
       },
       {
         "id": "bizarre_bien_acompanado",
@@ -5663,7 +5663,7 @@
         "descripcion": "Súbete al teleférico.",
         "tipo": "switch",
         "requisitoSwitch": 305,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/28.jpg"
       },
       {
         "id": "bizarre_el_stunfisk_voladoooor",
@@ -5673,7 +5673,7 @@
         "requisitoMapas": [
           369
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/29.jpg"
       },
       {
         "id": "bizarre_el_jincho_submarino",
@@ -5681,7 +5681,7 @@
         "descripcion": "Bucea y encuéntrate con el mejor rapero del lecho marino.",
         "tipo": "switch",
         "requisitoSwitch": 288,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/30.jpg"
       },
       {
         "id": "bizarre_no_entres_ahi",
@@ -5691,7 +5691,7 @@
         "requisitoMapas": [
           421
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/31.jpg"
       },
       {
         "id": "bizarre_el_corazon_de_las_cartas",
@@ -5701,7 +5701,7 @@
         "requisitoMapas": [
           387
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/32.jpg"
       },
       {
         "id": "bizarre_una_urgencia_muy_urgente",
@@ -5711,7 +5711,7 @@
         "requisitoMapas": [
           400
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/33.jpg"
       },
       {
         "id": "bizarre_te_de_campana",
@@ -5721,7 +5721,7 @@
         "requisitoMapas": [
           411
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/34.jpg"
       },
       {
         "id": "bizarre_nuestra_vecina_catalina",
@@ -5729,7 +5729,7 @@
         "descripcion": "Pon un pié en La Luna.",
         "tipo": "switch",
         "requisitoSwitch": 308,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/35.jpg"
       },
       {
         "id": "bizarre_adieu",
@@ -5739,7 +5739,7 @@
         "requisitoMapas": [
           450
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/36.jpg"
       },
       {
         "id": "bizarre_el_claro_bajo_la_tierra",
@@ -5747,7 +5747,7 @@
         "descripcion": "Derrota a Stain en la Base Lunar.",
         "tipo": "switch",
         "requisitoSwitch": 328,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/37.jpg"
       },
       {
         "id": "bizarre_llama_a_la_puerta",
@@ -5757,7 +5757,7 @@
         "requisitoMapas": [
           460
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/38.jpg"
       },
       {
         "id": "bizarre_retirada",
@@ -5767,7 +5767,7 @@
         "requisitoMapas": [
           471
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/39.jpg"
       },
       {
         "id": "bizarre_escuela_de_rock",
@@ -5777,7 +5777,7 @@
         "requisitoMapas": [
           426
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/40.jpg"
       },
       {
         "id": "bizarre_la_flecha_dorada",
@@ -5787,7 +5787,7 @@
         "requisitoMapas": [
           467
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/41.jpg"
       },
       {
         "id": "bizarre_el_ultimo_tren_a_casa",
@@ -5795,7 +5795,7 @@
         "descripcion": "Rechaza el puesto de campeón tras ganar la liga.",
         "tipo": "switch",
         "requisitoSwitch": 341,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/42.jpg"
       },
       {
         "id": "bizarre_con_el_espiritu_en_alto",
@@ -5803,7 +5803,7 @@
         "descripcion": "Consigue la Medalla Espíritu en Ciudad Zeppelin.",
         "tipo": "medalla",
         "requisitoIndice": 0,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/43.jpg"
       },
       {
         "id": "bizarre_a_todo_motor",
@@ -5811,7 +5811,7 @@
         "descripcion": "Consigue la Medalla Motor en Pueblo Floyd.",
         "tipo": "medalla",
         "requisitoIndice": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/44.jpg"
       },
       {
         "id": "bizarre_al_ritmo_de_la_samba",
@@ -5819,7 +5819,7 @@
         "descripcion": "Consigue la Medalla Samba en Ciudad Bangles.",
         "tipo": "medalla",
         "requisitoIndice": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/45.jpg"
       },
       {
         "id": "bizarre_con_garra",
@@ -5827,7 +5827,7 @@
         "descripcion": "Consigue la Medalla Garra en Aldea Nirvana.",
         "tipo": "medalla",
         "requisitoIndice": 3,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/46.jpg"
       },
       {
         "id": "bizarre_quitate_el_sombrero",
@@ -5835,7 +5835,7 @@
         "descripcion": "Consigue la Medalla Sombrero en Ciudad Straits.",
         "tipo": "medalla",
         "requisitoIndice": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/47.jpg"
       },
       {
         "id": "bizarre_dueto_perfecto",
@@ -5843,7 +5843,7 @@
         "descripcion": "Consigue la Medalla Dueto en Pueblo Sugarhill.",
         "tipo": "medalla",
         "requisitoIndice": 5,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/48.jpg"
       },
       {
         "id": "bizarre_corriente_alterna",
@@ -5851,7 +5851,7 @@
         "descripcion": "Derrota a Shoog y consigue la Medalla Corriente.",
         "tipo": "medalla",
         "requisitoIndice": 6,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/49.jpg"
       },
       {
         "id": "bizarre_retroalimentacion",
@@ -5859,7 +5859,7 @@
         "descripcion": "Consigue la Medalla Retro en Pueblo Temptation.",
         "tipo": "medalla",
         "requisitoIndice": 7,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/50.jpg"
       },
       {
         "id": "bizarre_coleccion_completa",
@@ -5867,7 +5867,7 @@
         "descripcion": "Consigue las 8 medallas de gimnasio.",
         "tipo": "medallasCantidad",
         "requisito": 8,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/51.jpg"
       },
       {
         "id": "bizarre_alto_mando_bajo_mando",
@@ -5875,7 +5875,7 @@
         "descripcion": "Derrota al Alto Mando.",
         "tipo": "switch",
         "requisitoSwitch": 12,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/52.jpg"
       },
       {
         "id": "bizarre_salon_de_la_fama",
@@ -5883,7 +5883,7 @@
         "descripcion": "Entra en el Salón de la Fama.",
         "tipo": "switch",
         "requisitoSwitch": 342,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/53.jpg"
       },
       {
         "id": "bizarre_venganza_consumada",
@@ -5900,7 +5900,7 @@
           351,
           352
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/54.jpg"
       },
       {
         "id": "bizarre_rata_de_laboratorio",
@@ -5908,7 +5908,7 @@
         "descripcion": "Captura 75 Pokémon distintos.",
         "tipo": "pokedexOwned",
         "requisito": 75,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/55.jpg"
       },
       {
         "id": "bizarre_maestro_de_la_pokedex",
@@ -5916,7 +5916,7 @@
         "descripcion": "Captura 150 Pokémon distintos.",
         "tipo": "pokedexOwned",
         "requisito": 150,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/56.jpg"
       },
       {
         "id": "bizarre_pokedex_completa",
@@ -5924,7 +5924,7 @@
         "descripcion": "Completa la Pokédex: registra 255 Pokémon.",
         "tipo": "pokedexOwned",
         "requisito": 255,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/57.jpg"
       },
       {
         "id": "bizarre_enciclopedia_bizarra",
@@ -5932,7 +5932,7 @@
         "descripcion": "Consigue la Enciclopedia en Pueblo Beatle.",
         "tipo": "switch",
         "requisitoSwitch": 354,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/58.jpg"
       },
       {
         "id": "bizarre_nivel_100",
@@ -5940,7 +5940,7 @@
         "descripcion": "Ten un Pokémon de nivel 100 en el equipo.",
         "tipo": "nivelMaximo",
         "requisitoNivel": 100,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/59.jpg"
       },
       {
         "id": "bizarre_eso_brilla",
@@ -5948,7 +5948,7 @@
         "descripcion": "Ten un Pokémon variocolor (shiny).",
         "tipo": "shinyActual",
         "requisito": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/60.jpg"
       },
       {
         "id": "bizarre_yado_derrotado",
@@ -5956,7 +5956,7 @@
         "descripcion": "Gana a Yado a la Pokebrisca en La Colmena.",
         "tipo": "switch",
         "requisitoSwitch": 249,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/61.jpg"
       },
       {
         "id": "bizarre_misterio_del_lago",
@@ -5964,7 +5964,7 @@
         "descripcion": "Resuelve el asunto del lago en el Coto de pesca.",
         "tipo": "switch",
         "requisitoSwitch": 143,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/62.jpg"
       },
       {
         "id": "bizarre_amigo_de_kiri",
@@ -5972,7 +5972,7 @@
         "descripcion": "Termina la historia de Kiri en la Cueva Cosmos.",
         "tipo": "switch",
         "requisitoSwitch": 153,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/63.jpg"
       },
       {
         "id": "bizarre_rave_sospechosa",
@@ -5980,7 +5980,7 @@
         "descripcion": "Acaba la rave de la Casa Sospechosa.",
         "tipo": "switch",
         "requisitoSwitch": 187,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/64.jpg"
       },
       {
         "id": "bizarre_la_casa_siempre_gana",
@@ -5988,7 +5988,7 @@
         "descripcion": "Termina el asunto del casino de Industrias Petrogas.",
         "tipo": "switch",
         "requisitoSwitch": 96,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/65.jpg"
       },
       {
         "id": "bizarre_receta_secreta",
@@ -5996,7 +5996,7 @@
         "descripcion": "Consigue la receta en La Colmena.",
         "tipo": "switch",
         "requisitoSwitch": 191,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/66.jpg"
       },
       {
         "id": "bizarre_veterinario_de_guardia",
@@ -6004,7 +6004,7 @@
         "descripcion": "Cura al Murkrow del Pantano Calado.",
         "tipo": "switch",
         "requisitoSwitch": 192,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/67.jpg"
       },
       {
         "id": "bizarre_se_descubre_el_pastel",
@@ -6012,7 +6012,7 @@
         "descripcion": "Descubre el pastel durante la investigación de la iglesia.",
         "tipo": "switch",
         "requisitoSwitch": 209,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/68.jpg"
       },
       {
         "id": "bizarre_grimorio_prohibido",
@@ -6020,7 +6020,7 @@
         "descripcion": "Hazte con el grimorio de la Torre Opaca.",
         "tipo": "switch",
         "requisitoSwitch": 135,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/69.jpg"
       },
       {
         "id": "bizarre_cristales_a_punto",
@@ -6028,7 +6028,7 @@
         "descripcion": "Completa los cristales del Templo Karska.",
         "tipo": "switch",
         "requisitoSwitch": 213,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/70.jpg"
       },
       {
         "id": "bizarre_tres_salas",
@@ -6040,7 +6040,7 @@
           122,
           123
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/71.jpg"
       },
       {
         "id": "bizarre_tres_puertas_tres_decisiones",
@@ -6052,7 +6052,7 @@
           157,
           159
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/72.jpg"
       },
       {
         "id": "bizarre_luces_fuera",
@@ -6060,7 +6060,7 @@
         "descripcion": "Resuelve el puzle del gimnasio de Pueblo Temptation.",
         "tipo": "switch",
         "requisitoSwitch": 286,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/73.jpg"
       },
       {
         "id": "bizarre_memorias_de_nook",
@@ -6068,7 +6068,7 @@
         "descripcion": "Revive los recuerdos de Nook.",
         "tipo": "switch",
         "requisitoSwitch": 327,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/74.jpg"
       },
       {
         "id": "bizarre_la_historia_de_nook",
@@ -6076,7 +6076,7 @@
         "descripcion": "Escucha la historia de Nook en las Islas Yes.",
         "tipo": "switch",
         "requisitoSwitch": 258,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/75.jpg"
       },
       {
         "id": "bizarre_socio_de_la_a_c_p",
@@ -6084,7 +6084,7 @@
         "descripcion": "Consigue la tarjeta de la A.C.P.",
         "tipo": "switch",
         "requisitoSwitch": 343,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/76.jpg"
       },
       {
         "id": "bizarre_duelo_en_el_urriel",
@@ -6092,7 +6092,7 @@
         "descripcion": "Combate contra Paolo en el Monte Urriel.",
         "tipo": "switch",
         "requisitoSwitch": 344,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/77.jpg"
       },
       {
         "id": "bizarre_compania_inesperada",
@@ -6105,14 +6105,14 @@
           335,
           336
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/78.jpg"
       },
       {
         "id": "bizarre_leyenda_bizarra",
         "nombre": "🌟 LEYENDA BIZARRA",
         "descripcion": "Desbloquea los otros 78 logros.",
         "tipo": "todosLosDemas",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/logros/79.jpg"
       }
     ],
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/bizarre-logo.jpg",
