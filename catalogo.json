@@ -6124,7 +6124,39 @@
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/bizarre-preview-5.png",
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/bizarre-preview-6.png"
     ],
-    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/bizarre-banner.jpg"
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/bizarre-banner.jpg",
+    "maestria": {
+      "recompensa": {
+        "id": "maestro-bizarre",
+        "nombre": "Maestro Pokémon Bizarre",
+        "descripcion": "Completar las tres maestrías de Pokémon Bizarre: revancha con todos los gimnasios, misiones secundarias y modo Nuzlocke",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/maestria/medallon-maestria.png",
+        "tema": "bizarre"
+      },
+      "items": [
+        {
+          "id": "revancha-todos-los-gimnasios",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/maestria/1.jpg",
+          "icono": "star",
+          "titulo": "Nivel 1 · Revancha con todos los gimnasios",
+          "descripcion": "Ganar la revancha contra los 8 líderes de gimnasio"
+        },
+        {
+          "id": "misiones-secundarias",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/maestria/2.jpg",
+          "icono": "heart",
+          "titulo": "Nivel 2 · Misiones secundarias",
+          "descripcion": "Completar todas las misiones secundarias"
+        },
+        {
+          "id": "nuzlocke-completo",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/bizarre/maestria/3.jpg",
+          "icono": "crown",
+          "titulo": "Nivel 3 · Modo Nuzlocke",
+          "descripcion": "Completar el juego en modo Nuzlocke"
+        }
+      ]
+    }
   },
   {
     "id": 20,
