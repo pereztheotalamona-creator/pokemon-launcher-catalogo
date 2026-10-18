@@ -5406,6 +5406,655 @@
     "etiquetas": [
       "Completo",
       "Postgame"
+    ],
+    "logros": [
+      {
+        "id": "hat_primer_pokemon",
+        "nombre": "🌱 ¡Que comience la aventura!",
+        "descripcion": "Recibe tu primer Pokémon.",
+        "tipo": "primerPokemonReal"
+      },
+      {
+        "id": "hat_primera_captura",
+        "nombre": "🎒 Primera captura",
+        "descripcion": "Captura tu primer Pokémon salvaje.",
+        "tipo": "capturasReales",
+        "requisito": 2
+      },
+      {
+        "id": "hat_rival_1",
+        "nombre": "⚔️ Tu primer duelo",
+        "descripcion": "Enfréntate a tu rival por primera vez, en la Ruta 01.",
+        "tipo": "variable",
+        "requisitoVariable": 30,
+        "requisitoValor": 1
+      },
+      {
+        "id": "hat_trevor_1",
+        "nombre": "🤝 Trevor en la Ruta 2",
+        "descripcion": "Enfréntate a Trevor camino a Ciudad Secon.",
+        "tipo": "variable",
+        "requisitoVariable": 33,
+        "requisitoValor": 1
+      },
+      {
+        "id": "hat_fosil",
+        "nombre": "🦴 Vuelta a la prehistoria",
+        "descripcion": "Entrega un fósil para que lo revivan.",
+        "tipo": "switch",
+        "requisitoSwitch": 13
+      },
+      {
+        "id": "hat_medalla_1",
+        "nombre": "🥇 Primera medalla",
+        "descripcion": "Vence al líder del gimnasio de Pueblo Prima.",
+        "tipo": "switch",
+        "requisitoSwitch": 4
+      },
+      {
+        "id": "hat_medalla_2",
+        "nombre": "🥈 Cambio de rumbo en Secon",
+        "descripcion": "Vence al líder del gimnasio de Ciudad Secon.",
+        "tipo": "switch",
+        "requisitoSwitch": 5
+      },
+      {
+        "id": "hat_rival_3",
+        "nombre": "🏃 El rival no se rinde",
+        "descripcion": "Enfréntate a tu rival en Pueblo Fort, tras la medalla de San City.",
+        "tipo": "variable",
+        "requisitoVariable": 52,
+        "requisitoValor": 1
+      },
+      {
+        "id": "hat_medalla_3",
+        "nombre": "⚡ Voltaje en San City",
+        "descripcion": "Vence a Leland en el gimnasio de San City.",
+        "tipo": "switch",
+        "requisitoSwitch": 6
+      },
+      {
+        "id": "hat_medalla_4",
+        "nombre": "⛏️ Roca firme",
+        "descripcion": "Vence a Clint en el gimnasio de Pueblo Fort.",
+        "tipo": "switch",
+        "requisitoSwitch": 7
+      },
+      {
+        "id": "hat_bosque_villano",
+        "nombre": "🌲 Pokevillano del bosque",
+        "descripcion": "Detén al pokevillano del Bosque Floral.",
+        "tipo": "switch",
+        "requisitoSwitch": 142
+      },
+      {
+        "id": "hat_pinonero",
+        "nombre": "🔬 Doctor Piñonero",
+        "descripcion": "Conoce al doctor Piñonero en su laboratorio de Ciudad Nona.",
+        "tipo": "switch",
+        "requisitoSwitch": 149
+      },
+      {
+        "id": "hat_ferdinand_gimnasio",
+        "nombre": "🎭 Kaiser Ferdinand al descubierto",
+        "descripcion": "Descubre que Ferdinand es el líder del gimnasio de Ciudad Nona.",
+        "tipo": "switch",
+        "requisitoSwitch": 79
+      },
+      {
+        "id": "hat_medalla_5",
+        "nombre": "⚓ Puerto seguro",
+        "descripcion": "Vence al líder del gimnasio de Ciudad Octi.",
+        "tipo": "switch",
+        "requisitoSwitch": 8
+      },
+      {
+        "id": "hat_medalla_6",
+        "nombre": "🩺 Remedio efectivo",
+        "descripcion": "Vence al líder del gimnasio de Pueblo Undeci.",
+        "tipo": "switch",
+        "requisitoSwitch": 9
+      },
+      {
+        "id": "hat_metacuatro",
+        "nombre": "🦅 Una cuarta ave",
+        "descripcion": "Presencia la creación de Metacuatro en la guarida del Team Kaiser.",
+        "tipo": "switch",
+        "requisitoSwitch": 83
+      },
+      {
+        "id": "hat_libera_aves",
+        "nombre": "🕊️ Aves libres",
+        "descripcion": "Libera a las aves legendarias de la guarida del Team Kaiser.",
+        "tipo": "switch",
+        "requisitoSwitch": 85
+      },
+      {
+        "id": "hat_ferdinand_huye",
+        "nombre": "🏃 Ferdinand escapa",
+        "descripcion": "Frustra los planes de Kaiser Ferdinand en su guarida.",
+        "tipo": "switch",
+        "requisitoSwitch": 89
+      },
+      {
+        "id": "hat_eruption_man",
+        "nombre": "🌋 Eruption Man",
+        "descripcion": "Presencia a Eruption Man despegar sobre Moltres en el Monte Ardiente.",
+        "tipo": "switch",
+        "requisitoSwitch": 74
+      },
+      {
+        "id": "hat_medalla_7",
+        "nombre": "🔔 Hasta el gong",
+        "descripcion": "Vence al líder del gimnasio de Ciudad Sexta.",
+        "tipo": "switch",
+        "requisitoSwitch": 10
+      },
+      {
+        "id": "hat_persecucion",
+        "nombre": "🌉 Persecución en el puente",
+        "descripcion": "Persigue al Team Kaiser hasta Monte Férreo.",
+        "tipo": "switch",
+        "requisitoSwitch": 96
+      },
+      {
+        "id": "hat_mecha_tyranitar",
+        "nombre": "🤖 Chatarra pesada",
+        "descripcion": "Derrota a Mecha Tyranitar en el callejón de Penta City.",
+        "tipo": "switch",
+        "requisitoSwitch": 91
+      },
+      {
+        "id": "hat_medalla_8",
+        "nombre": "🏙️ Octava medalla",
+        "descripcion": "Vence al líder del gimnasio de Penta City.",
+        "tipo": "switch",
+        "requisitoSwitch": 11
+      },
+      {
+        "id": "hat_morgana",
+        "nombre": "🧙 Morgana se retira",
+        "descripcion": "Obliga a Morgana a retirarse en Monte Férreo.",
+        "tipo": "switch",
+        "requisitoSwitch": 128
+      },
+      {
+        "id": "hat_ritual",
+        "nombre": "🔱 El ritual de Arceus",
+        "descripcion": "Interrumpe el ritual del Team Kaiser en Monte Férreo.",
+        "tipo": "switch",
+        "requisitoSwitch": 98
+      },
+      {
+        "id": "hat_arceus_guarida",
+        "nombre": "🌌 Cara a cara con el creador",
+        "descripcion": "Entra en la guarida de Arceus.",
+        "tipo": "switch",
+        "requisitoSwitch": 101
+      },
+      {
+        "id": "hat_arceus_captura",
+        "nombre": "🔮 Poder prestado",
+        "descripcion": "Consigue el poder de Arceus.",
+        "tipo": "switch",
+        "requisitoSwitch": 358
+      },
+      {
+        "id": "hat_ferdinand_derrota",
+        "nombre": "👑 Fin del Kaiser",
+        "descripcion": "Derrota a Kaiser Ferdinand ante Arceus.",
+        "tipo": "switch",
+        "requisitoSwitch": 102
+      },
+      {
+        "id": "hat_ocho_medallas",
+        "nombre": "🎖️ Pokehéroe con credenciales",
+        "descripcion": "Consigue las 8 medallas de gimnasio.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      {
+        "id": "hat_calle_victoria",
+        "nombre": "🛤️ Camino a la gloria",
+        "descripcion": "Cruza Calle Victoria.",
+        "tipo": "switch",
+        "requisitoSwitch": 122
+      },
+      {
+        "id": "hat_trevor_2",
+        "nombre": "⚔️ Revancha con Trevor",
+        "descripcion": "Vuelve a enfrentarte a Trevor en la Ruta 12.",
+        "tipo": "switch",
+        "requisitoSwitch": 458
+      },
+      {
+        "id": "hat_liga_marte",
+        "nombre": "👊 Sala de la fuerza",
+        "descripcion": "Vence a Marte en la Liga Pokémon.",
+        "tipo": "switch",
+        "requisitoSwitch": 110
+      },
+      {
+        "id": "hat_liga_tetsuna",
+        "nombre": "⚔️ Sala de la espada",
+        "descripcion": "Vence a Tetsuna en la Liga Pokémon.",
+        "tipo": "switch",
+        "requisitoSwitch": 111
+      },
+      {
+        "id": "hat_liga_longzu",
+        "nombre": "📜 Sala de la sabiduría",
+        "descripcion": "Vence a Long Zu en la Liga Pokémon.",
+        "tipo": "switch",
+        "requisitoSwitch": 112
+      },
+      {
+        "id": "hat_liga_diana",
+        "nombre": "🔮 Sala de la magia",
+        "descripcion": "Vence a Diana en la Liga Pokémon.",
+        "tipo": "switch",
+        "requisitoSwitch": 113
+      },
+      {
+        "id": "hat_alto_mando",
+        "nombre": "🏛️ Alto Mando completo",
+        "descripcion": "Vence a los cuatro miembros del Alto Mando.",
+        "tipo": "switch",
+        "requisitoSwitch": 12
+      },
+      {
+        "id": "hat_pokeman",
+        "nombre": "🏆 Campeón de Metropia",
+        "descripcion": "Vence a Pokeman en la Sala del Campeón.",
+        "tipo": "switch",
+        "requisitoSwitch": 118
+      },
+      {
+        "id": "hat_pokeman_cae",
+        "nombre": "💀 Adiós, Pokeman",
+        "descripcion": "Presencia el enfrentamiento entre Mr. Apocalipsis y Pokeman.",
+        "tipo": "switch",
+        "requisitoSwitch": 328
+      },
+      {
+        "id": "hat_banco_puno",
+        "nombre": "🔥 Puño Volcánico",
+        "descripcion": "Frena a Puño Volcánico en el Gran Banco de Metropia.",
+        "tipo": "switch",
+        "requisitoSwitch": 177
+      },
+      {
+        "id": "hat_darwin_redada",
+        "nombre": "🚨 Redada contra Darwin",
+        "descripcion": "Participa en la redada para encontrar a Darwin.",
+        "tipo": "switch",
+        "requisitoSwitch": 186
+      },
+      {
+        "id": "hat_trevor_equipo",
+        "nombre": "🤝 Un equipo con Trevor",
+        "descripcion": "Haz equipo con Trevor para rescatar a Darwin.",
+        "tipo": "switch",
+        "requisitoSwitch": 192
+      },
+      {
+        "id": "hat_puno_manta",
+        "nombre": "🐋 Black Mantine",
+        "descripcion": "Derrota a Black Mantine en la guarida de la Liga Catastrófica.",
+        "tipo": "switch",
+        "requisitoSwitch": 191
+      },
+      {
+        "id": "hat_liga_catastrofica_derrota",
+        "nombre": "💥 Fin de la Liga Catastrófica",
+        "descripcion": "Derrota a Darwin y arresta a la Liga Catastrófica.",
+        "tipo": "switch",
+        "requisitoSwitch": 201
+      },
+      {
+        "id": "hat_plusball",
+        "nombre": "🧪 Maxwell Scribble, pokevillano",
+        "descripcion": "Descubre que Maxwell Scribble es un pokevillano.",
+        "tipo": "switch",
+        "requisitoSwitch": 255
+      },
+      {
+        "id": "hat_maxwell_arrestado",
+        "nombre": "🕶️ Negocio sucio",
+        "descripcion": "Arresta a Maxwell Scribble en Garabato S.A.",
+        "tipo": "switch",
+        "requisitoSwitch": 289
+      },
+      {
+        "id": "hat_ataque_ovni",
+        "nombre": "🛸 Ataque extraterrestre",
+        "descripcion": "Sobrevive al ataque de la nave alienígena sobre San City.",
+        "tipo": "switch",
+        "requisitoSwitch": 304
+      },
+      {
+        "id": "hat_caballeria",
+        "nombre": "🐴 La caballería de Samuel",
+        "descripcion": "Recibe la ayuda de Samuel el Pensador en la nave alienígena.",
+        "tipo": "switch",
+        "requisitoSwitch": 313
+      },
+      {
+        "id": "hat_ovni_caida",
+        "nombre": "🛸 Contacto",
+        "descripcion": "Derriba la nave alienígena sobre San City.",
+        "tipo": "switch",
+        "requisitoSwitch": 306
+      },
+      {
+        "id": "hat_mithra_huye",
+        "nombre": "👽 Reina en retirada",
+        "descripcion": "Derrota a la reina alien Mithra.",
+        "tipo": "switch",
+        "requisitoSwitch": 316
+      },
+      {
+        "id": "hat_invasion",
+        "nombre": "🌍 Invasión detenida",
+        "descripcion": "Completa la misión OVNI y salva a San City.",
+        "tipo": "switch",
+        "requisitoSwitch": 463
+      },
+      {
+        "id": "hat_posidonia",
+        "nombre": "🌊 Voz del futuro",
+        "descripcion": "Derrota a Posidonia en el Bosque Oscuro.",
+        "tipo": "switch",
+        "requisitoSwitch": 301
+      },
+      {
+        "id": "hat_megacuerno",
+        "nombre": "🐺 Cazador cazado",
+        "descripcion": "Vence a Megacuerno en las alcantarillas de Penta City.",
+        "tipo": "switch",
+        "requisitoSwitch": 297
+      },
+      {
+        "id": "hat_prision",
+        "nombre": "⛓️ Visita a Poketraz",
+        "descripcion": "Visita a un prisionero en Poketraz.",
+        "tipo": "switch",
+        "requisitoSwitch": 323
+      },
+      {
+        "id": "hat_volcanion",
+        "nombre": "🌋 Prisionero de fuego",
+        "descripcion": "Captura a Volcanion en su celda de Poketraz.",
+        "tipo": "switch",
+        "requisitoSwitch": 326
+      },
+      {
+        "id": "hat_murphy",
+        "nombre": "🧥 Murphy te espera",
+        "descripcion": "Conoce a Murphy en Pueblo Trece.",
+        "tipo": "switch",
+        "requisitoSwitch": 156
+      },
+      {
+        "id": "hat_refrigerador",
+        "nombre": "🧊 El Refrigerador",
+        "descripcion": "Derrota al Refrigerador en la cima del Monte Helado.",
+        "tipo": "switch",
+        "requisitoSwitch": 233
+      },
+      {
+        "id": "hat_zero_derrota",
+        "nombre": "❄️ Cero absoluto",
+        "descripcion": "Derrota a Zero en el Monte Helado.",
+        "tipo": "switch",
+        "requisitoSwitch": 238
+      },
+      {
+        "id": "hat_zero_arrestado",
+        "nombre": "🚔 Zero bajo custodia",
+        "descripcion": "Consigue que Zero sea arrestado.",
+        "tipo": "switch",
+        "requisitoSwitch": 378
+      },
+      {
+        "id": "hat_team_crisis",
+        "nombre": "📺 Ha vuelto el Team Crisis",
+        "descripcion": "Presencia la emisión del Team Crisis.",
+        "tipo": "switch",
+        "requisitoSwitch": 331
+      },
+      {
+        "id": "hat_team_crisis_ataque",
+        "nombre": "📺 Mensaje del Team Crisis",
+        "descripcion": "Presencia la declaración de guerra de Avatar Rotom y el Team Crisis.",
+        "tipo": "switch",
+        "requisitoSwitch": 332
+      },
+      {
+        "id": "hat_frente_llegada",
+        "nombre": "🏟️ Llegada al Frente Batalla",
+        "descripcion": "Llega al Frente Batalla controlado por el Team Crisis.",
+        "tipo": "switch",
+        "requisitoSwitch": 389
+      },
+      {
+        "id": "hat_arcade",
+        "nombre": "🕹️ Arcade liberado",
+        "descripcion": "Libera el Arcade Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 423
+      },
+      {
+        "id": "hat_arcade_maxwell",
+        "nombre": "🕹️ Fin de la partida",
+        "descripcion": "Derrota a Maxwell Scribble en el Arcade Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 413
+      },
+      {
+        "id": "hat_coliseo",
+        "nombre": "🏛️ Coliseo liberado",
+        "descripcion": "Libera el Coliseo Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 384
+      },
+      {
+        "id": "hat_sierpe",
+        "nombre": "🐍 Sierpe liberada",
+        "descripcion": "Libera la Sierpe Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 385
+      },
+      {
+        "id": "hat_fabrica",
+        "nombre": "🏭 Fábrica liberada",
+        "descripcion": "Libera la Fábrica Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 387
+      },
+      {
+        "id": "hat_monte",
+        "nombre": "🌋 Monte liberado",
+        "descripcion": "Libera el Monte Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 386
+      },
+      {
+        "id": "hat_castillo",
+        "nombre": "🏰 Castillo liberado",
+        "descripcion": "Libera el Castillo Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 383
+      },
+      {
+        "id": "hat_torre",
+        "nombre": "🗼 Torre liberada",
+        "descripcion": "Libera la Torre Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 388
+      },
+      {
+        "id": "hat_torre_darwin",
+        "nombre": "🗼 Darwin en la Torre",
+        "descripcion": "Derrota a Darwin en la Torre Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 419
+      },
+      {
+        "id": "hat_torre_ferdinand",
+        "nombre": "🗼 Ferdinand en la Torre",
+        "descripcion": "Derrota a Ferdinand en la Torre Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 420
+      },
+      {
+        "id": "hat_torre_lily",
+        "nombre": "🗼 Lily en la Torre",
+        "descripcion": "Derrota a Lily en la Torre Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 421
+      },
+      {
+        "id": "hat_rotom",
+        "nombre": "📡 Avatar Rotom borrado",
+        "descripcion": "Hackea el sistema y derrota a Avatar Rotom.",
+        "tipo": "switch",
+        "requisitoSwitch": 428
+      },
+      {
+        "id": "hat_rescate_lideres",
+        "nombre": "🆘 Líderes a salvo",
+        "descripcion": "Rescata a Marte, Tetsuna, Diana, Long Zu y Wilbur.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          431,
+          436,
+          438,
+          440,
+          446
+        ]
+      },
+      {
+        "id": "hat_frente_completo",
+        "nombre": "🎪 Frente Batalla reconquistado",
+        "descripcion": "Libera los siete edificios del Frente Batalla.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          423,
+          384,
+          385,
+          387,
+          386,
+          383,
+          388
+        ]
+      },
+      {
+        "id": "hat_rayquaza",
+        "nombre": "🐉 Duelo en la azotea",
+        "descripcion": "Derrota a Rayquaza en la azotea de la Torre Batalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 445
+      },
+      {
+        "id": "hat_apocalipsis",
+        "nombre": "😈 Mr. Apocalipsis",
+        "descripcion": "Enfréntate a Mr. Apocalipsis.",
+        "tipo": "switch",
+        "requisitoSwitch": 443
+      },
+      {
+        "id": "hat_doble_campeon",
+        "nombre": "🥇🥇 Dos veces campeón",
+        "descripcion": "Entra dos veces al Hall de la Fama.",
+        "tipo": "variable",
+        "requisitoVariable": 13,
+        "requisitoValor": 2
+      },
+      {
+        "id": "hat_campeon_lucha",
+        "nombre": "🥊 Campeón del Club",
+        "descripcion": "Conviértete en campeón del Club de la Lucha.",
+        "tipo": "switch",
+        "requisitoSwitch": 239
+      },
+      {
+        "id": "hat_aves",
+        "nombre": "🦅 Las tres aves",
+        "descripcion": "Captura a Articuno, Zapdos y Moltres.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "ARTICUNO",
+          "ZAPDOS",
+          "MOLTRES"
+        ]
+      },
+      {
+        "id": "hat_regis",
+        "nombre": "🗿 Los Regis",
+        "descripcion": "Captura a Regirock, Regice y Registeel.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "REGIROCK",
+          "REGICE",
+          "REGISTEEL"
+        ]
+      },
+      {
+        "id": "hat_bestias",
+        "nombre": "🐾 Bestias legendarias",
+        "descripcion": "Captura a Raikou, Entei y Suicune.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "RAIKOU",
+          "ENTEI",
+          "SUICUNE"
+        ]
+      },
+      {
+        "id": "hat_pokedex_completa",
+        "nombre": "📕 Pokédex completa",
+        "descripcion": "Registra los 610 Pokémon de la Pokédex de Metropia.",
+        "tipo": "pokedexOwned",
+        "requisito": 610
+      },
+      {
+        "id": "hat_nivel_100",
+        "nombre": "💯 Entrenador veterano",
+        "descripcion": "Lleva un Pokémon al nivel 100.",
+        "tipo": "nivelMaximo",
+        "requisitoNivel": 100
+      },
+      {
+        "id": "hat_equipo_100",
+        "nombre": "💎 Equipo perfecto",
+        "descripcion": "Forma un equipo de seis Pokémon al nivel 100.",
+        "tipo": "equipoNivelMinimo",
+        "requisitoNivel": 100,
+        "requisitoCantidad": 6
+      },
+      {
+        "id": "hat_shiny",
+        "nombre": "✨ ¡Es diferente!",
+        "descripcion": "Captura tu primer Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 1
+      },
+      {
+        "id": "hat_platino",
+        "nombre": "💎 SUPERHÉROE DE METROPIA",
+        "descripcion": "Desbloquea todos los demás logros.",
+        "tipo": "todosLosDemas"
+      }
     ]
   },
   {
