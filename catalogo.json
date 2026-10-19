@@ -6888,6 +6888,18 @@
   {
     "id": 23,
     "nombre": "Pokémon Gadir Deluxe",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-logo.png",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-preview-5.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-preview-6.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-preview-7.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-preview-8.png"
+    ],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-banner.jpg",
     "resumen": "La reinvención de Pokémon Gadir: una región inspirada en Cádiz con 1078 Pokémon y mecánicas de novena generación.",
     "descripcion": "Pokémon Gadir Deluxe es un fangame en español creado por PKMarioG y AlekZ_YT, la reinvención de Pokémon Gadir (2019) con nueva historia, nuevos gráficos y todas las mecánicas actualizadas a la novena generación. Transcurre en la región de Gadir, inspirada en la provincia de Cádiz, durante el Gran Día del Recorrido de los Entrenadores, mientras detienes al Team Tectonic y consigues las 8 medallas y el título de Campeón.\n\nIncluye 1078 Pokémon con nuevos Fakemon y formas regionales, monturas, la Vinculación (un fenómeno que potencia a un Pokémon en combate), expediciones, un modo Roguelike secundario llamado el Hoyo, revanchas, legendarios y un postgame con una isla explorable y un capítulo extra de historia.",
     "desarrollador": "PKMarioG y AlekZ_YT",
