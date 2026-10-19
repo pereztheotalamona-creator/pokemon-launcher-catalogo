@@ -5390,6 +5390,18 @@
   {
     "id": 18,
     "nombre": "Pokémon Heads and Tails",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-logo.jpg",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-preview-5.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-preview-6.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-preview-7.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-preview-8.png"
+    ],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-banner.jpg",
     "resumen": "Un fangame de superhéroes en la región de Metropia, con Pokehéroes, Pokevillanos y más de 30 legendarios ocultos.",
     "descripcion": "Pokémon Heads and Tails es un fangame en español creado por Lgarabato con Pokémon Essentials. Han pasado cinco años desde que la región de Metropia fue liberada de la tiranía del villano Mr. Apocalipsis por el campeón Pokeman. Ahora los Pokehéroes protegen a los ciudadanos, pero los Pokevillanos, entre ellos el Team Kaiser, esperan su momento para tomar de nuevo la región.\n\nIncluye una temática de superhéroes con un postgame extenso, 610 especies hasta la séptima generación, más de 30 Pokémon legendarios escondidos por la región, un Frente Batalla con mecánicas nuevas, un club de lucha donde se combate contra artistas marciales, Pokémon que evolucionan por intercambio mediante un objeto especial y una dificultad algo mayor que la de los juegos oficiales.",
     "desarrollador": "Lgarabato",
