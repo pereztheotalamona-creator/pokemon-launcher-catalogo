@@ -6894,6 +6894,17 @@
   {
     "id": 22,
     "nombre": "Pokémon Reborn",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/reborn-logo.png",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/reborn-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/reborn-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/reborn-preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/reborn-preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/reborn-preview-5.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/reborn-preview-6.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/reborn-preview-7.png"
+    ],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/reborn-banner.jpg",
     "resumen": "Una historia oscura y un desafío exigente en Reborn City, con los 807 Pokémon hasta la séptima generación.",
     "descripcion": "Pokémon Reborn es un fangame creado por Amethyst (Ame) Liddell con RPG Maker XP y Pokémon Essentials, nacido a partir de una liga online entre usuarios. Se ambienta en la región de Reborn, con una trama más madura que la de los juegos oficiales, y es conocido por su dificultad y por sus topes de nivel ligados a las medallas.\n\nTodos los 807 Pokémon hasta la séptima generación se pueden encontrar sin intercambiar, muchos mediante encuentros especiales en lugares secretos, rescates o regalos, y los shinies tienen diseños propios y son más fáciles de conseguir. Incluye contenido sensible que puede resultar perturbador para algunos jugadores. La versión actual es el Episodio 19, la entrega final.",
     "desarrollador": "Amethyst (Ame) Liddell",
