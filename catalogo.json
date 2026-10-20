@@ -6823,6 +6823,15 @@
   {
     "id": 20,
     "nombre": "Pokémon Infinite Fusion",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/infinitefusion/infinitefusion-logo.jpg",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/infinitefusion/infinitefusion-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/infinitefusion/infinitefusion-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/infinitefusion/infinitefusion-preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/infinitefusion/infinitefusion-preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/infinitefusion/infinitefusion-preview-5.png"
+    ],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/infinitefusion/infinitefusion-banner.jpg",
     "resumen": "Fusiona cualquier Pokémon con otro y crea más de 250.000 combinaciones recorriendo Kanto y Johto.",
     "descripcion": "Pokémon Infinite Fusion es un fangame basado en el generador de fusiones de Japeal, creado por Chardub con RPG Maker XP y Pokémon Essentials. Con los Splicers de ADN puedes combinar dos Pokémon cualesquiera en una especie nueva: existen 251.001 combinaciones y la comunidad ha dibujado más de 150.000 sprites a mano.\n\nRecorre Kanto con gráficos inspirados en las generaciones 4 y 5, consigue 16 medallas entre Kanto y Johto y explora un postgame con las Islas Sevii y la región de Johto. Incluye 25 Pokémon legendarios, más de 40 misiones secundarias, rematches con NPC, personalización del personaje y, desde la versión 6.7, el modo Legendario y una traducción al francés.",
     "desarrollador": "Chardub",
