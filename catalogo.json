@@ -5369,6 +5369,15 @@
   {
     "id": 13,
     "nombre": "Pokémon El Eslabón Perdido",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/eslabonperdido-logo.jpg",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/eslabonperdido-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/eslabonperdido-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/eslabonperdido-preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/eslabonperdido-preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/eslabonperdido-preview-5.png"
+    ],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/eslabonperdido-banner.jpg",
     "resumen": "El Profesor Oak como protagonista en la región de Keito, donde los legendarios son venerados como dioses.",
     "descripcion": "Pokémon El Eslabón Perdido es un fangame completo en español creado por Gonfoz con RPG Maker XP y Pokémon Essentials. El protagonista es el Profesor Oak: tras recibir una Pokédex completa descubre una posible relación entre la evolución de los humanos y la de los Mankey, y su investigación lo lleva a Keito, una región donde los Pokémon legendarios son venerados como dioses.\n\nIncluye Pokémon hasta la quinta generación, tipo Hada, iniciales Fakemon, un estilo gráfico de combate propio, una pestaña nueva con IV y EV en la ficha de cada Pokémon, nuevas medallas y retos, y unas 30 horas de juego.",
     "desarrollador": "Gonfoz (GonfozPokemon)",
