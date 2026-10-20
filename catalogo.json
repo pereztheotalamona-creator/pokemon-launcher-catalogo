@@ -6956,5 +6956,166 @@
       "Formas regionales",
       "Postgame"
     ]
+  },
+  {
+    "id": 24,
+    "nombre": "Pokémon Armonía",
+    "beta": true,
+    "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
+    "descripcion": "Pokémon Armonía es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
+    "desarrollador": "Por confirmar",
+    "lanzamiento": "En desarrollo",
+    "version": "Beta",
+    "tiempoEstimado": "Por definir",
+    "categorias": [
+      "Fan Game",
+      "Beta"
+    ],
+    "etiquetas": [
+      "Beta",
+      "En desarrollo"
+    ],
+    "importante": [
+      "Es una versión beta: puede tener errores o contenido incompleto.",
+      "Funciona en PC (Windows) sin emulador."
+    ]
+  },
+  {
+    "id": 25,
+    "nombre": "Pokémon Shinobi",
+    "beta": true,
+    "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
+    "descripcion": "Pokémon Shinobi es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
+    "desarrollador": "Por confirmar",
+    "lanzamiento": "En desarrollo",
+    "version": "Beta",
+    "tiempoEstimado": "Por definir",
+    "categorias": [
+      "Fan Game",
+      "Beta"
+    ],
+    "etiquetas": [
+      "Beta",
+      "En desarrollo"
+    ],
+    "importante": [
+      "Es una versión beta: puede tener errores o contenido incompleto.",
+      "Funciona en PC (Windows) sin emulador."
+    ]
+  },
+  {
+    "id": 26,
+    "nombre": "Pokémon Compact",
+    "beta": true,
+    "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
+    "descripcion": "Pokémon Compact es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
+    "desarrollador": "Por confirmar",
+    "lanzamiento": "En desarrollo",
+    "version": "Beta",
+    "tiempoEstimado": "Por definir",
+    "categorias": [
+      "Fan Game",
+      "Beta"
+    ],
+    "etiquetas": [
+      "Beta",
+      "En desarrollo"
+    ],
+    "importante": [
+      "Es una versión beta: puede tener errores o contenido incompleto.",
+      "Funciona en PC (Windows) sin emulador."
+    ]
+  },
+  {
+    "id": 27,
+    "nombre": "Pokémon Royal",
+    "beta": true,
+    "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
+    "descripcion": "Pokémon Royal es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
+    "desarrollador": "Por confirmar",
+    "lanzamiento": "En desarrollo",
+    "version": "Beta",
+    "tiempoEstimado": "Por definir",
+    "categorias": [
+      "Fan Game",
+      "Beta"
+    ],
+    "etiquetas": [
+      "Beta",
+      "En desarrollo"
+    ],
+    "importante": [
+      "Es una versión beta: puede tener errores o contenido incompleto.",
+      "Funciona en PC (Windows) sin emulador."
+    ]
+  },
+  {
+    "id": 28,
+    "nombre": "Pokémon Resplandor",
+    "beta": true,
+    "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
+    "descripcion": "Pokémon Resplandor es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
+    "desarrollador": "Por confirmar",
+    "lanzamiento": "En desarrollo",
+    "version": "Beta",
+    "tiempoEstimado": "Por definir",
+    "categorias": [
+      "Fan Game",
+      "Beta"
+    ],
+    "etiquetas": [
+      "Beta",
+      "En desarrollo"
+    ],
+    "importante": [
+      "Es una versión beta: puede tener errores o contenido incompleto.",
+      "Funciona en PC (Windows) sin emulador."
+    ]
+  },
+  {
+    "id": 29,
+    "nombre": "Pokémon GS Vitro",
+    "beta": true,
+    "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
+    "descripcion": "Pokémon GS Vitro es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
+    "desarrollador": "Por confirmar",
+    "lanzamiento": "En desarrollo",
+    "version": "Beta",
+    "tiempoEstimado": "Por definir",
+    "categorias": [
+      "Fan Game",
+      "Beta"
+    ],
+    "etiquetas": [
+      "Beta",
+      "En desarrollo"
+    ],
+    "importante": [
+      "Es una versión beta: puede tener errores o contenido incompleto.",
+      "Funciona en PC (Windows) sin emulador."
+    ]
+  },
+  {
+    "id": 30,
+    "nombre": "Pokémon Ocre",
+    "beta": true,
+    "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
+    "descripcion": "Pokémon Ocre es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
+    "desarrollador": "Por confirmar",
+    "lanzamiento": "En desarrollo",
+    "version": "Beta",
+    "tiempoEstimado": "Por definir",
+    "categorias": [
+      "Fan Game",
+      "Beta"
+    ],
+    "etiquetas": [
+      "Beta",
+      "En desarrollo"
+    ],
+    "importante": [
+      "Es una versión beta: puede tener errores o contenido incompleto.",
+      "Funciona en PC (Windows) sin emulador."
+    ]
   }
 ]
