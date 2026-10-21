@@ -7154,6 +7154,9 @@
   {
     "id": 30,
     "nombre": "Pokémon Ocre",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/ocre/ocre-logo.png",
+    "capturas": [],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/ocre/ocre-banner.jpg",
     "beta": true,
     "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
     "descripcion": "Pokémon Ocre es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
