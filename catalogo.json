@@ -7090,6 +7090,13 @@
   {
     "id": 28,
     "nombre": "Pokémon Resplandor",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/resplandor/resplandor-logo.png",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/resplandor/resplandor-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/resplandor/resplandor-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/resplandor/resplandor-preview-3.png"
+    ],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/resplandor/resplandor-banner.png",
     "beta": true,
     "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
     "descripcion": "Pokémon Resplandor es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
