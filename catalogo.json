@@ -7027,6 +7027,15 @@
   {
     "id": 26,
     "nombre": "Pokémon Compact",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/compact/compact-logo.png",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/compact/compact-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/compact/compact-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/compact/compact-preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/compact/compact-preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/compact/compact-preview-5.png"
+    ],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/compact/compact-banner.png",
     "beta": true,
     "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
     "descripcion": "Pokémon Compact es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
