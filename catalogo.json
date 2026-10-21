@@ -7120,6 +7120,17 @@
   {
     "id": 29,
     "nombre": "Pokémon GS Vitro",
+    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gsvitro/gsvitro-logo.png",
+    "capturas": [
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gsvitro/gsvitro-preview-1.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gsvitro/gsvitro-preview-2.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gsvitro/gsvitro-preview-3.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gsvitro/gsvitro-preview-4.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gsvitro/gsvitro-preview-5.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gsvitro/gsvitro-preview-6.png",
+      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gsvitro/gsvitro-preview-7.png"
+    ],
+    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gsvitro/gsvitro-banner.png",
     "beta": true,
     "resumen": "Versión beta para probar. Todavía está en desarrollo, por eso no tiene logros ni maestrías.",
     "descripcion": "Pokémon GS Vitro es un fan game que ya se puede probar en su versión beta. Todavía está en desarrollo, así que puede tener errores o contenido sin terminar.\nPor ahora no tiene logros ni maestrías: se van a agregar cuando el juego esté completo.",
