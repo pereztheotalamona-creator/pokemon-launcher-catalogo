@@ -7584,7 +7584,610 @@
     "etiquetas": [
       "Fakemon",
       "Formas regionales",
-      "Postgame"
+      "Postgame",
+      "Logros"
+    ],
+    "logros": [
+      {
+        "id": "gadir_primer_pokemon",
+        "nombre": "🎁 Compañero de bolsillo",
+        "descripcion": "Recibe tu primer Pokémon.",
+        "tipo": "primerPokemonReal",
+        "imagen": null
+      },
+      {
+        "id": "gadir_primera_captura",
+        "nombre": "🪤 Primera presa",
+        "descripcion": "Captura tu primer Pokémon salvaje.",
+        "tipo": "capturasReales",
+        "requisito": 2,
+        "imagen": null
+      },
+      {
+        "id": "gadir_gim_terry",
+        "nombre": "⛏️ Picando piedra",
+        "descripcion": "Derrota a Terry en el Gimnasio Excavación.",
+        "tipo": "switch",
+        "requisitoSwitch": 110,
+        "imagen": null
+      },
+      {
+        "id": "gadir_gim_fina",
+        "nombre": "🌠 Bajo las estrellas",
+        "descripcion": "Derrota a Fina en el Gimnasio Astral.",
+        "tipo": "switch",
+        "requisitoSwitch": 181,
+        "imagen": null
+      },
+      {
+        "id": "gadir_gim_deif",
+        "nombre": "🪽 Vuelo rasante",
+        "descripcion": "Derrota a Deif en el Gimnasio Wingull.",
+        "tipo": "switch",
+        "requisitoSwitch": 218,
+        "imagen": null
+      },
+      {
+        "id": "gadir_gim_sacarina",
+        "nombre": "🕯️ Luces apagadas",
+        "descripcion": "Derrota a Sacarina en el Gimnasio Lúgubre.",
+        "tipo": "switch",
+        "requisitoSwitch": 292,
+        "imagen": null
+      },
+      {
+        "id": "gadir_gim_alek",
+        "nombre": "🔩 Tuercas y tornillos",
+        "descripcion": "Derrota a Alek en el Gimnasio Tuerca.",
+        "tipo": "switch",
+        "requisitoSwitch": 358,
+        "imagen": null
+      },
+      {
+        "id": "gadir_gim_dux",
+        "nombre": "🖼️ Obra maestra",
+        "descripcion": "Derrota a Dux en el Gimnasio Mural.",
+        "tipo": "switch",
+        "requisitoSwitch": 461,
+        "imagen": null
+      },
+      {
+        "id": "gadir_gim_mark",
+        "nombre": "🌊 Corriente a favor",
+        "descripcion": "Derrota a Mark en el Gimnasio Riajo.",
+        "tipo": "switch",
+        "requisitoSwitch": 655,
+        "imagen": null
+      },
+      {
+        "id": "gadir_gim_lien",
+        "nombre": "🥊 Campana y cuerda",
+        "descripcion": "Derrota a Lien en el Gimnasio Ring.",
+        "tipo": "switch",
+        "requisitoSwitch": 732,
+        "imagen": null
+      },
+      {
+        "id": "gadir_cuatro_medallas",
+        "nombre": "🎽 Mitad del camino",
+        "descripcion": "Reúne 4 medallas de Gadir.",
+        "tipo": "medallasCantidad",
+        "requisito": 4,
+        "imagen": null
+      },
+      {
+        "id": "gadir_ocho_medallas",
+        "nombre": "🏅 Pechera de Gadir",
+        "descripcion": "Consigue las 8 medallas de Gadir.",
+        "tipo": "todasMedallas",
+        "imagen": null
+      },
+      {
+        "id": "gadir_orange_ruta1",
+        "nombre": "🍊 Zumo de rival",
+        "descripcion": "Gana tu primer combate contra Orange en la Ruta 1.",
+        "tipo": "switch",
+        "requisitoSwitch": 107,
+        "imagen": null
+      },
+      {
+        "id": "gadir_tanya_teatro",
+        "nombre": "🎭 Función con sorpresa",
+        "descripcion": "Vence a Tanya en el Teatro de Bolona.",
+        "tipo": "switch",
+        "requisitoSwitch": 169,
+        "imagen": null
+      },
+      {
+        "id": "gadir_roud_ruta8",
+        "nombre": "🎒 Sin rencores, Roud",
+        "descripcion": "Vence a Roud en la Ruta 8.",
+        "tipo": "switch",
+        "requisitoSwitch": 327,
+        "imagen": null
+      },
+      {
+        "id": "gadir_raulett_algesia",
+        "nombre": "🏙️ Duelo urbano",
+        "descripcion": "Vence a Raulett en Ciudad Algesia.",
+        "tipo": "switch",
+        "requisitoSwitch": 401,
+        "imagen": null
+      },
+      {
+        "id": "gadir_tanya_frente",
+        "nombre": "🎪 Cuentas pendientes",
+        "descripcion": "Vence a Tanya en el Frente Batalla Gadir.",
+        "tipo": "switch",
+        "requisitoSwitch": 1103,
+        "imagen": null
+      },
+      {
+        "id": "gadir_tres_rivales",
+        "nombre": "🤝 Tres rivales, un ganador",
+        "descripcion": "Vence a Tanya, Orange y Roud en la Fortaleza Onírica.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          1049,
+          1051,
+          1053
+        ],
+        "imagen": null
+      },
+      {
+        "id": "gadir_campeon",
+        "nombre": "👑 Rey de la cima",
+        "descripcion": "Vence a la Liga Pokémon de Gadir y entra en el Hall de la Fama.",
+        "tipo": "switch",
+        "requisitoSwitch": 12,
+        "imagen": null
+      },
+      {
+        "id": "gadir_revancha_liga",
+        "nombre": "🔁 Vuelta al trono",
+        "descripcion": "Vuelve a vencer a la Liga Pokémon en su revancha.",
+        "tipo": "switch",
+        "requisitoSwitch": 1094,
+        "imagen": null
+      },
+      {
+        "id": "gadir_ecuador",
+        "nombre": "🧭 Ecuador de la aventura",
+        "descripcion": "Llega a la mitad de la historia, de camino a Pueblo Portllano.",
+        "tipo": "switch",
+        "requisitoSwitch": 315,
+        "imagen": null
+      },
+      {
+        "id": "gadir_historia_completa",
+        "nombre": "📖 Punto final",
+        "descripcion": "Completa la historia principal al 100 %.",
+        "tipo": "switch",
+        "requisitoSwitch": 1079,
+        "imagen": null
+      },
+      {
+        "id": "gadir_hans",
+        "nombre": "🛑 Adiós a la Gran Expansión",
+        "descripcion": "Derrota a Hans y frena los planes del Team Tectonic.",
+        "tipo": "switch",
+        "requisitoSwitch": 426,
+        "imagen": null
+      },
+      {
+        "id": "gadir_novena_medalla",
+        "nombre": "🔥 Una más para el bolsillo",
+        "descripcion": "Vence a Irinna en el Gimnasio Brasa y consigue la novena medalla.",
+        "tipo": "switch",
+        "requisitoSwitch": 1041,
+        "imagen": null
+      },
+      {
+        "id": "gadir_director_juego",
+        "nombre": "🎬 Corten, se acabó el juego",
+        "descripcion": "Vence al Director de Juego en el Edificio Gadir.",
+        "tipo": "switch",
+        "requisitoSwitch": 379,
+        "imagen": null
+      },
+      {
+        "id": "gadir_final_secreto",
+        "nombre": "🌙 Billete a la Luna",
+        "descripcion": "Desbloquea el Final Secreto de Pokémon Gadir Deluxe.",
+        "tipo": "switch",
+        "requisitoSwitch": 72,
+        "imagen": null
+      },
+      {
+        "id": "gadir_fortaleza",
+        "nombre": "🏰 Dueño de la Fortaleza",
+        "descripcion": "Vence al jefe secreto de la Fortaleza Onírica.",
+        "tipo": "switch",
+        "requisitoSwitch": 1085,
+        "imagen": null
+      },
+      {
+        "id": "gadir_panteon",
+        "nombre": "⚱️ Último sueño",
+        "descripcion": "Completa el Panteón Onírico.",
+        "tipo": "switch",
+        "requisitoSwitch": 1115,
+        "imagen": null
+      },
+      {
+        "id": "gadir_frente_batalla",
+        "nombre": "🥋 Tres frentes, tres coronas",
+        "descripcion": "Gana el Frente Batalla en sus tres modalidades: Gadir 3c3, 3c3 y Dobles.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          1101,
+          1102,
+          1107
+        ],
+        "imagen": null
+      },
+      {
+        "id": "gadir_regis",
+        "nombre": "🗿 Gigantes de piedra, hielo y acero",
+        "descripcion": "Encuentra a Regirock, Regice y Registeel.",
+        "tipo": "switch",
+        "requisitoSwitch": 856,
+        "imagen": null
+      },
+      {
+        "id": "gadir_espadachines",
+        "nombre": "⚔️ Cuatro filos de la justicia",
+        "descripcion": "Encuentra a todos los Espadachines de la Justicia.",
+        "tipo": "switch",
+        "requisitoSwitch": 858,
+        "imagen": null
+      },
+      {
+        "id": "gadir_unown",
+        "nombre": "🔤 Abecedario perdido",
+        "descripcion": "Resuelve el enigma de los Unown.",
+        "tipo": "switch",
+        "requisitoSwitch": 944,
+        "imagen": null
+      },
+      {
+        "id": "gadir_jefes",
+        "nombre": "🎖️ Cazador de jefes",
+        "descripcion": "Derrota a 60 jefes a lo largo de tu aventura.",
+        "tipo": "variable",
+        "requisitoVariable": 20,
+        "requisitoValor": 60,
+        "imagen": null
+      },
+      {
+        "id": "gadir_revanchas",
+        "nombre": "⚔️ Ronda de desquites",
+        "descripcion": "Gana todas las revanchas contra los líderes de gimnasio.",
+        "tipo": "variable",
+        "requisitoVariable": 184,
+        "requisitoValor": 8,
+        "imagen": null
+      },
+      {
+        "id": "gadir_misiones",
+        "nombre": "📋 Manitas de la región",
+        "descripcion": "Completa 30 misiones secundarias aceptadas.",
+        "tipo": "variable",
+        "requisitoVariable": 24,
+        "requisitoValor": 30,
+        "imagen": null
+      },
+      {
+        "id": "gadir_museo",
+        "nombre": "🏺 Vitrina de honor",
+        "descripcion": "Aporta 75 especies distintas al Museo Regional.",
+        "tipo": "variable",
+        "requisitoVariable": 64,
+        "requisitoValor": 75,
+        "imagen": null
+      },
+      {
+        "id": "gadir_meowth",
+        "nombre": "😺 Gatos de todos los colores",
+        "descripcion": "Completa la colección de colores de Meowth en el Museo Regional.",
+        "tipo": "variable",
+        "requisitoVariable": 65,
+        "requisitoValor": 24,
+        "imagen": null
+      },
+      {
+        "id": "gadir_monturas",
+        "nombre": "🐴 Cuadra completa",
+        "descripcion": "Consigue 6 o más Poké Monturas.",
+        "tipo": "variable",
+        "requisitoVariable": 60,
+        "requisitoValor": 6,
+        "imagen": null
+      },
+      {
+        "id": "gadir_durant_rocas",
+        "nombre": "🧱 Tetris de piedra",
+        "descripcion": "Encaja rocas con la Poké Montura de Durant hasta dominar el truco.",
+        "tipo": "variable",
+        "requisitoVariable": 134,
+        "requisitoValor": 10,
+        "imagen": null
+      },
+      {
+        "id": "gadir_oficinas",
+        "nombre": "🏢 Agenda de contactos",
+        "descripcion": "Encuentra a todos los miembros de las oficinas Gadir.",
+        "tipo": "variable",
+        "requisitoVariable": 111,
+        "requisitoValor": 8,
+        "imagen": null
+      },
+      {
+        "id": "gadir_carteles",
+        "nombre": "🪧 Lector de carteles",
+        "descripcion": "Lee los consejos de los carteles de las rutas.",
+        "tipo": "variable",
+        "requisitoVariable": 115,
+        "requisitoValor": 5,
+        "imagen": null
+      },
+      {
+        "id": "gadir_macetas",
+        "nombre": "🪴 Mano verde obsesiva",
+        "descripcion": "Cuida las macetas con muchísimo esmero.",
+        "tipo": "variable",
+        "requisitoVariable": 116,
+        "requisitoValor": 10,
+        "imagen": null
+      },
+      {
+        "id": "gadir_radares",
+        "nombre": "📡 Antena siempre encendida",
+        "descripcion": "Activa muchas veces los radares de Pokémon salvajes.",
+        "tipo": "variable",
+        "requisitoVariable": 117,
+        "requisitoValor": 10,
+        "imagen": null
+      },
+      {
+        "id": "gadir_rutas",
+        "nombre": "🥾 Suela gastada",
+        "descripcion": "Pisa todas las rutas de la región de Gadir.",
+        "tipo": "variable",
+        "requisitoVariable": 154,
+        "requisitoValor": 2,
+        "imagen": null
+      },
+      {
+        "id": "gadir_localidades",
+        "nombre": "🗺️ Guía de postal",
+        "descripcion": "Visita todas las localidades de Gadir.",
+        "tipo": "variable",
+        "requisitoVariable": 156,
+        "requisitoValor": 2,
+        "imagen": null
+      },
+      {
+        "id": "gadir_ruinas",
+        "nombre": "🔦 Arqueología de campo",
+        "descripcion": "Explora las ruinas de Gadir y entrega las pistas en el Archivo.",
+        "tipo": "variable",
+        "requisitoVariable": 138,
+        "requisitoValor": 6,
+        "imagen": null
+      },
+      {
+        "id": "gadir_legendarios",
+        "nombre": "🌟 Zoo de leyendas",
+        "descripcion": "Encuentra a 15 Legendarios en el campamento.",
+        "tipo": "variable",
+        "requisitoVariable": 157,
+        "requisitoValor": 15,
+        "imagen": null
+      },
+      {
+        "id": "gadir_singulares",
+        "nombre": "🦄 Rarezas de colección",
+        "descripcion": "Encuentra a 8 Singulares en el campamento.",
+        "tipo": "variable",
+        "requisitoVariable": 164,
+        "requisitoValor": 8,
+        "imagen": null
+      },
+      {
+        "id": "gadir_don_torchic",
+        "nombre": "🐔 Trueque de chiringuito",
+        "descripcion": "Haz un intercambio con Don Torchic.",
+        "tipo": "variable",
+        "requisitoVariable": 73,
+        "requisitoValor": 1,
+        "imagen": null
+      },
+      {
+        "id": "gadir_piano",
+        "nombre": "🎹 Concierto privado",
+        "descripcion": "Escucha tocar al pianista del Teatro de Bolona.",
+        "tipo": "switch",
+        "requisitoSwitch": 141,
+        "imagen": null
+      },
+      {
+        "id": "gadir_mision_1",
+        "nombre": "✍️ Primer favor",
+        "descripcion": "Completa tu primera misión secundaria.",
+        "tipo": "variable",
+        "requisitoVariable": 24,
+        "requisitoValor": 1,
+        "imagen": null
+      },
+      {
+        "id": "gadir_mision_5",
+        "nombre": "🤝 Vecino servicial",
+        "descripcion": "Completa 5 misiones secundarias.",
+        "tipo": "variable",
+        "requisitoVariable": 24,
+        "requisitoValor": 5,
+        "imagen": null
+      },
+      {
+        "id": "gadir_mision_15",
+        "nombre": "🧰 Chico para todo",
+        "descripcion": "Completa 15 misiones secundarias.",
+        "tipo": "variable",
+        "requisitoVariable": 24,
+        "requisitoValor": 15,
+        "imagen": null
+      },
+      {
+        "id": "gadir_m_wattle",
+        "nombre": "🔌 Chispa de ayuda",
+        "descripcion": "Completa el encargo del Wattle en la Central Eléctrica.",
+        "tipo": "switch",
+        "requisitoSwitch": 816,
+        "imagen": null
+      },
+      {
+        "id": "gadir_m_lilligant",
+        "nombre": "🌿 Ola de calor",
+        "descripcion": "Completa el encargo del Lilligant.",
+        "tipo": "switch",
+        "requisitoSwitch": 818,
+        "imagen": null
+      },
+      {
+        "id": "gadir_m_enfermero",
+        "nombre": "🍋 Limonada para el turno",
+        "descripcion": "Atiende el pedido del enfermero que necesita una limonada fresquita.",
+        "tipo": "switch",
+        "requisitoSwitch": 821,
+        "imagen": null
+      },
+      {
+        "id": "gadir_m_skitty",
+        "nombre": "🐱 Gatita extraviada",
+        "descripcion": "Ayuda a Nina a recuperar a su Skitty perdido.",
+        "tipo": "switch",
+        "requisitoSwitch": 823,
+        "imagen": null
+      },
+      {
+        "id": "gadir_m_xatara",
+        "nombre": "🧩 Acertijo guadalsiano",
+        "descripcion": "Ayuda a Xatara a resolver el acertijo de las Ruinas Guadalsianas.",
+        "tipo": "switch",
+        "requisitoSwitch": 357,
+        "imagen": null
+      },
+      {
+        "id": "gadir_m_onikit",
+        "nombre": "💤 Siesta compartida",
+        "descripcion": "Completa la historia de Onikit en el Mundo Onírico.",
+        "tipo": "switch",
+        "requisitoSwitch": 874,
+        "imagen": null
+      },
+      {
+        "id": "gadir_huevo",
+        "nombre": "🥚 Cascarón en camino",
+        "descripcion": "Recibe un huevo en la Guardería.",
+        "tipo": "pokemonDeHuevo",
+        "imagen": null
+      },
+      {
+        "id": "gadir_visita_onirico",
+        "nombre": "🌌 Buenas noches, mundo",
+        "descripcion": "Entra por primera vez en el Mundo Onírico.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          224,
+          225,
+          226
+        ],
+        "imagen": null
+      },
+      {
+        "id": "gadir_visita_kubo",
+        "nombre": "🎰 Noche en KUBO",
+        "descripcion": "Entra en el casino KUBO.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          305,
+          306,
+          307
+        ],
+        "imagen": null
+      },
+      {
+        "id": "gadir_visita_museo",
+        "nombre": "🏛️ Entrada libre",
+        "descripcion": "Visita el Museo Regional.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          360
+        ],
+        "imagen": null
+      },
+      {
+        "id": "gadir_visita_fates_cima",
+        "nombre": "⛰️ Techo de Gadir",
+        "descripcion": "Llega a la cima del Monte Fates.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          443
+        ],
+        "imagen": null
+      },
+      {
+        "id": "gadir_visita_pico",
+        "nombre": "🚠 Aire de campeón",
+        "descripcion": "Llega al Pico del Campeón.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          499
+        ],
+        "imagen": null
+      },
+      {
+        "id": "gadir_visita_carcel",
+        "nombre": "⛓️ Visita a la sombra",
+        "descripcion": "Entra en la Cárcel Gadir.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          535,
+          565,
+          566,
+          567
+        ],
+        "imagen": null
+      },
+      {
+        "id": "gadir_visita_luna",
+        "nombre": "🌕 Un pequeño paso",
+        "descripcion": "Pisa la Luna.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          656,
+          657,
+          660
+        ],
+        "imagen": null
+      },
+      {
+        "id": "gadir_arceus",
+        "nombre": "🌀 Dios de las placas",
+        "descripcion": "Consigue a Arceus.",
+        "tipo": "pokedexEspecie",
+        "especie": "493",
+        "especieNombre": "ARCEUS",
+        "imagen": null
+      },
+      {
+        "id": "gadir_leyenda",
+        "nombre": "🏆 LEYENDA DE GADIR",
+        "descripcion": "Desbloquea todos los demás logros.",
+        "tipo": "todosLosDemas",
+        "imagen": null
+      }
     ]
   },
   {
