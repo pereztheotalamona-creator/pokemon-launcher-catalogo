@@ -5394,6 +5394,486 @@
     "etiquetas": [
       "Completo",
       "Fakemon"
+    ],
+    "logros": [
+      {
+        "id": "elp_despertar",
+        "nombre": "⛓️ ¿Dónde estoy?",
+        "descripcion": "Despierta en una celda de la Prisión Gunes.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          43
+        ]
+      },
+      {
+        "id": "elp_primer_pokemon",
+        "nombre": "🐾 Compañero tras las rejas",
+        "descripcion": "Recibe tu primer Pokémon.",
+        "tipo": "primerPokemonReal"
+      },
+      {
+        "id": "elp_amak",
+        "nombre": "🔓 ¡Que comience el motín!",
+        "descripcion": "Escapa de la Prisión Gunes y llega a Pueblo Amak.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          78
+        ]
+      },
+      {
+        "id": "elp_primera_captura",
+        "nombre": "🎒 Primera captura",
+        "descripcion": "Captura tu primer Pokémon salvaje.",
+        "tipo": "capturasReales",
+        "requisito": 2
+      },
+      {
+        "id": "elp_anillo",
+        "nombre": "💍 Amor recuperado",
+        "descripcion": "Recupera el anillo de compromiso robado y devuélvelo a su dueña.",
+        "tipo": "switch",
+        "requisitoSwitch": 84
+      },
+      {
+        "id": "elp_granja",
+        "nombre": "🥛 Leche fresca tras la batalla",
+        "descripcion": "Derrota a Connor en la Granja Sherlock.",
+        "tipo": "switch",
+        "requisitoSwitch": 81
+      },
+      {
+        "id": "elp_santuario",
+        "nombre": "🏯 Paz espiritual, ¿para quién?",
+        "descripcion": "Supera el Santuario y a sus monjes combatientes.",
+        "tipo": "switch",
+        "requisitoSwitch": 86
+      },
+      {
+        "id": "elp_fosil",
+        "nombre": "🦴 Vuelta a la prehistoria",
+        "descripcion": "Entrega un fósil para que lo revivan.",
+        "tipo": "switch",
+        "requisitoSwitch": 13
+      },
+      {
+        "id": "elp_pesticidas",
+        "nombre": "🧪 Operación pesticida",
+        "descripcion": "Encuentra los pesticidas para despejar el puente del Camino Pantanoso.",
+        "tipo": "switch",
+        "requisitoSwitch": 64
+      },
+      {
+        "id": "elp_brumas",
+        "nombre": "🌫️ Entre la bruma",
+        "descripcion": "Completa las Montañas Bruma.",
+        "tipo": "switch",
+        "requisitoSwitch": 68
+      },
+      {
+        "id": "elp_insignia_roja",
+        "nombre": "🔴 Insignia Roja",
+        "descripcion": "Consigue la Insignia Roja en el Monte Rojo.",
+        "tipo": "medalla",
+        "requisitoIndice": 0
+      },
+      {
+        "id": "elp_vuelos",
+        "nombre": "🕊️ Primeras alas",
+        "descripcion": "Desbloquea los vuelos entre los pueblos de la primera región.",
+        "tipo": "switch",
+        "requisitoSwitch": 70
+      },
+      {
+        "id": "elp_torneo_r1",
+        "nombre": "🌊 Calentando motores",
+        "descripcion": "Supera la primera ronda del Torneo Kyogre.",
+        "tipo": "switch",
+        "requisitoSwitch": 93
+      },
+      {
+        "id": "elp_torneo_final",
+        "nombre": "🏆 Campeón del Torneo Kyogre",
+        "descripcion": "Gana la final del Torneo Kyogre.",
+        "tipo": "switch",
+        "requisitoSwitch": 96
+      },
+      {
+        "id": "elp_seels",
+        "nombre": "🦭 Cena para los Seel",
+        "descripcion": "Alimenta a los Seel hambrientos de Pueblo Rivak.",
+        "tipo": "switch",
+        "requisitoSwitch": 103
+      },
+      {
+        "id": "elp_aves_libres",
+        "nombre": "🦅 Aves libres",
+        "descripcion": "Libera a las aves de la Cueva Mante.",
+        "tipo": "switch",
+        "requisitoSwitch": 104
+      },
+      {
+        "id": "elp_reliquias",
+        "nombre": "🏺 Rompecabezas de reliquias",
+        "descripcion": "Resuelve el puzle de reliquias de la Cueva Mante.",
+        "tipo": "switch",
+        "requisitoSwitch": 105
+      },
+      {
+        "id": "elp_kyogre",
+        "nombre": "🌀 El despertar de Kyogre",
+        "descripcion": "Presencia el desenlace de la Facción Kyogre en la Cueva Mante.",
+        "tipo": "switch",
+        "requisitoSwitch": 106
+      },
+      {
+        "id": "elp_pokeflauta",
+        "nombre": "🎵 Melodía de aventuras",
+        "descripcion": "Consigue la Pokéflauta.",
+        "tipo": "switch",
+        "requisitoSwitch": 107
+      },
+      {
+        "id": "elp_cueva_oscura",
+        "nombre": "🕳️ Luz al final del túnel",
+        "descripcion": "Atraviesa la Cueva Oscura.",
+        "tipo": "switch",
+        "requisitoSwitch": 125
+      },
+      {
+        "id": "elp_megabrazalete",
+        "nombre": "💎 Megabrazalete",
+        "descripcion": "Consigue el Megabrazalete en Pueblo Giko.",
+        "tipo": "switch",
+        "requisitoSwitch": 130
+      },
+      {
+        "id": "elp_megas",
+        "nombre": "🌀 Secreto de la Megaevolución",
+        "descripcion": "Descubre cómo activar la Megaevolución en la Cueva Espíritu.",
+        "tipo": "switch",
+        "requisitoSwitch": 143
+      },
+      {
+        "id": "elp_skarmory",
+        "nombre": "📜 Pergamino Skarmory",
+        "descripcion": "Entra en la Torre Skarmory con el pergamino de la guardiana.",
+        "tipo": "switch",
+        "requisitoSwitch": 139
+      },
+      {
+        "id": "elp_samurai",
+        "nombre": "🥷 Samurái por un día",
+        "descripcion": "Disfrázate de samurái en Pueblo Giko.",
+        "tipo": "switch",
+        "requisitoSwitch": 141
+      },
+      {
+        "id": "elp_buzo",
+        "nombre": "🤿 Traje de buzo",
+        "descripcion": "Consigue el traje de buzo.",
+        "tipo": "switch",
+        "requisitoSwitch": 163
+      },
+      {
+        "id": "elp_recluta",
+        "nombre": "🪖 Infiltrado",
+        "descripcion": "Hazte pasar por un recluta de Ruta 18.",
+        "tipo": "switch",
+        "requisitoSwitch": 165
+      },
+      {
+        "id": "elp_faro",
+        "nombre": "💡 Luz para el faro",
+        "descripcion": "Ayuda al farero del Faro de Pueblo Mirtan.",
+        "tipo": "switch",
+        "requisitoSwitch": 148
+      },
+      {
+        "id": "elp_piratas",
+        "nombre": "🏴‍☠️ ¡Piratas a bordo!",
+        "descripcion": "Descubre a los piratas del S. S. Hoshi.",
+        "tipo": "switch",
+        "requisitoSwitch": 149
+      },
+      {
+        "id": "elp_maquinas",
+        "nombre": "⚙️ Sala de máquinas",
+        "descripcion": "Detén a los piratas en la sala de máquinas del S. S. Hoshi.",
+        "tipo": "switch",
+        "requisitoSwitch": 153
+      },
+      {
+        "id": "elp_barco",
+        "nombre": "🚢 Buen viaje",
+        "descripcion": "Completa la travesía del S. S. Hoshi.",
+        "tipo": "switch",
+        "requisitoSwitch": 154
+      },
+      {
+        "id": "elp_bici",
+        "nombre": "🚲 Sobre ruedas",
+        "descripcion": "Consigue la Bicicleta.",
+        "tipo": "switch",
+        "requisitoSwitch": 158
+      },
+      {
+        "id": "elp_mantrez",
+        "nombre": "🏛️ Plaza de Mantrez",
+        "descripcion": "Resuelve lo ocurrido en la plaza de Ciudad Mantrez.",
+        "tipo": "switch",
+        "requisitoSwitch": 157
+      },
+      {
+        "id": "elp_meseta",
+        "nombre": "🌬️ Contra el viento",
+        "descripcion": "Atraviesa la Meseta del Viento.",
+        "tipo": "switch",
+        "requisitoSwitch": 161
+      },
+      {
+        "id": "elp_insignia_cielo",
+        "nombre": "🟢 Tercera Insignia de Keito",
+        "descripcion": "Consigue la Insignia de la Facción Rayquaza en la Zona Prohibida.",
+        "tipo": "medalla",
+        "requisitoIndice": 2
+      },
+      {
+        "id": "elp_incendio",
+        "nombre": "🔥 ¡Todos al cubo!",
+        "descripcion": "Ayuda a apagar el incendio de Pueblo Kopa.",
+        "tipo": "switch",
+        "requisitoSwitch": 164
+      },
+      {
+        "id": "elp_pase",
+        "nombre": "🎫 Pase de peregrino",
+        "descripcion": "Consigue el pase para subir por el Camino del Peregrino.",
+        "tipo": "switch",
+        "requisitoSwitch": 168
+      },
+      {
+        "id": "elp_marco",
+        "nombre": "🦖 Cuentas pendientes con Marco",
+        "descripcion": "Derrota a Marco en el Camino del Peregrino.",
+        "tipo": "switch",
+        "requisitoSwitch": 169
+      },
+      {
+        "id": "elp_connor",
+        "nombre": "⚔️ Fin del perseguidor",
+        "descripcion": "Vence a Connor en el Camino del Peregrino.",
+        "tipo": "switch",
+        "requisitoSwitch": 170
+      },
+      {
+        "id": "elp_hominidos",
+        "nombre": "🦍 Amigo de los hominídos",
+        "descripcion": "Ayuda a los hominídos de las Cámaras Científicas.",
+        "tipo": "switch",
+        "requisitoSwitch": 172
+      },
+      {
+        "id": "elp_puerta_templo",
+        "nombre": "🗝️ Puerta del templo",
+        "descripcion": "Consigue que se abra la puerta del Templo Olimpo.",
+        "tipo": "switch",
+        "requisitoSwitch": 173
+      },
+      {
+        "id": "elp_primeape",
+        "nombre": "🐒 Hipótesis de Oak",
+        "descripcion": "Captura un Primeape y sigue la pista de la evolución humana.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "PRIMEAPE"
+        ]
+      },
+      {
+        "id": "elp_final",
+        "nombre": "🧬 El eslabón perdido",
+        "descripcion": "Completa la historia principal de Pokémon El Eslabón Perdido.",
+        "tipo": "switch",
+        "requisitoSwitch": 175
+      },
+      {
+        "id": "elp_arceus",
+        "nombre": "🔱 El origen de todo",
+        "descripcion": "Captura a Arceus.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "ARCEUS"
+        ]
+      },
+      {
+        "id": "elp_isla_alma",
+        "nombre": "🏝️ Rumbo a la Isla Alma",
+        "descripcion": "Consigue acceso a la Isla Alma.",
+        "tipo": "switch",
+        "requisitoSwitch": 177
+      },
+      {
+        "id": "elp_reto_gims",
+        "nombre": "🏟️ El reto de Petre",
+        "descripcion": "Acepta el desafío de Petre: vence a todos los líderes de gimnasio.",
+        "tipo": "switch",
+        "requisitoSwitch": 178
+      },
+      {
+        "id": "elp_gim_fuego",
+        "nombre": "🔥 Gimnasio Gársules",
+        "descripcion": "Vence a Flare en el Gimnasio Gársules.",
+        "tipo": "switch",
+        "requisitoSwitch": 187
+      },
+      {
+        "id": "elp_gim_lucha",
+        "nombre": "🥊 Gimnasio Benk",
+        "descripcion": "Vence a Greta en el Gimnasio Benk.",
+        "tipo": "switch",
+        "requisitoSwitch": 188
+      },
+      {
+        "id": "elp_gim_agua",
+        "nombre": "💧 Gimnasio Cartina",
+        "descripcion": "Vence a Mara en el Gimnasio Cartina.",
+        "tipo": "switch",
+        "requisitoSwitch": 189
+      },
+      {
+        "id": "elp_gim_hielo",
+        "nombre": "❄️ Gimnasio Rivak",
+        "descripcion": "Vence a Solo en el Gimnasio Rivak.",
+        "tipo": "switch",
+        "requisitoSwitch": 190
+      },
+      {
+        "id": "elp_gim_volador",
+        "nombre": "🪶 Gimnasio Gronkas",
+        "descripcion": "Vence a Nando en el Gimnasio Gronkas.",
+        "tipo": "switch",
+        "requisitoSwitch": 191
+      },
+      {
+        "id": "elp_gim_dragon",
+        "nombre": "🐉 Gimnasio Mantrez",
+        "descripcion": "Vence a Kea en el Gimnasio Mantrez.",
+        "tipo": "switch",
+        "requisitoSwitch": 192
+      },
+      {
+        "id": "elp_gim_psiquico",
+        "nombre": "🔮 Gimnasio Kopa",
+        "descripcion": "Vence a Rone en el Gimnasio Kopa.",
+        "tipo": "switch",
+        "requisitoSwitch": 193
+      },
+      {
+        "id": "elp_gim_planta",
+        "nombre": "🌿 Gimnasio Pyke",
+        "descripcion": "Vence a los líderes del Gimnasio Pyke.",
+        "tipo": "switch",
+        "requisitoSwitch": 194
+      },
+      {
+        "id": "elp_gims_todos",
+        "nombre": "🎖️ Maestro de gimnasios",
+        "descripcion": "Vence a los ocho líderes de gimnasio.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194
+        ]
+      },
+      {
+        "id": "elp_safari",
+        "nombre": "👨‍👩‍👧‍👦 Familia del Safari",
+        "descripcion": "Reúne a los cuatro hermanos de la Zona Safari.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          72,
+          73,
+          74,
+          75
+        ]
+      },
+      {
+        "id": "elp_mundo_distorsion",
+        "nombre": "🌌 Más allá del espacio-tiempo",
+        "descripcion": "Entra en el Mundo Distorsión.",
+        "tipo": "mapaVisitado",
+        "requisitoMapas": [
+          344
+        ]
+      },
+      {
+        "id": "elp_regis",
+        "nombre": "🗿 Los Regis",
+        "descripcion": "Captura a Regirock, Regice y Registeel.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "REGIROCK",
+          "REGICE",
+          "REGISTEEL"
+        ]
+      },
+      {
+        "id": "elp_clima",
+        "nombre": "🌍 Creadores del mundo",
+        "descripcion": "Captura a Groudon, Kyogre y Rayquaza.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "GROUDON",
+          "KYOGRE",
+          "RAYQUAZA"
+        ]
+      },
+      {
+        "id": "elp_tiempo",
+        "nombre": "⏳ Tiempo, espacio y distorsión",
+        "descripcion": "Captura a Dialga, Palkia y Giratina.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "DIALGA",
+          "PALKIA",
+          "GIRATINA"
+        ]
+      },
+      {
+        "id": "elp_mew",
+        "nombre": "🧬 Código genético",
+        "descripcion": "Captura a Mew y a Mewtwo.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "MEW",
+          "MEWTWO"
+        ]
+      },
+      {
+        "id": "elp_shiny",
+        "nombre": "✨ ¡Es diferente!",
+        "descripcion": "Captura tu primer Pokémon variocolor.",
+        "tipo": "shinyActual",
+        "requisito": 1
+      },
+      {
+        "id": "elp_dex_completa",
+        "nombre": "📕 Pokédex completa",
+        "descripcion": "Registra los 658 Pokémon de la Pokédex.",
+        "tipo": "pokedexOwned",
+        "requisito": 658
+      },
+      {
+        "id": "elp_platino",
+        "nombre": "🧬 EL ESLABÓN PERDIDO",
+        "descripcion": "Desbloquea todos los demás logros.",
+        "tipo": "todosLosDemas"
+      }
     ]
   },
   {
