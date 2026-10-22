@@ -5400,6 +5400,7 @@
         "id": "elp_despertar",
         "nombre": "⛓️ ¿Dónde estoy?",
         "descripcion": "Despierta en una celda de la Prisión Gunes.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/1.jpg",
         "tipo": "mapaVisitado",
         "requisitoMapas": [
           43
@@ -5409,12 +5410,14 @@
         "id": "elp_primer_pokemon",
         "nombre": "🐾 Compañero tras las rejas",
         "descripcion": "Recibe tu primer Pokémon.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/2.jpg",
         "tipo": "primerPokemonReal"
       },
       {
         "id": "elp_amak",
         "nombre": "🔓 ¡Que comience el motín!",
         "descripcion": "Escapa de la Prisión Gunes y llega a Pueblo Amak.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/3.jpg",
         "tipo": "mapaVisitado",
         "requisitoMapas": [
           78
@@ -5424,6 +5427,7 @@
         "id": "elp_primera_captura",
         "nombre": "🎒 Primera captura",
         "descripcion": "Captura tu primer Pokémon salvaje.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/4.jpg",
         "tipo": "capturasReales",
         "requisito": 2
       },
@@ -5431,6 +5435,7 @@
         "id": "elp_anillo",
         "nombre": "💍 Amor recuperado",
         "descripcion": "Recupera el anillo de compromiso robado y devuélvelo a su dueña.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/5.jpg",
         "tipo": "switch",
         "requisitoSwitch": 84
       },
@@ -5438,6 +5443,7 @@
         "id": "elp_granja",
         "nombre": "🥛 Leche fresca tras la batalla",
         "descripcion": "Derrota a Connor en la Granja Sherlock.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/6.jpg",
         "tipo": "switch",
         "requisitoSwitch": 81
       },
@@ -5445,6 +5451,7 @@
         "id": "elp_santuario",
         "nombre": "🏯 Paz espiritual, ¿para quién?",
         "descripcion": "Supera el Santuario y a sus monjes combatientes.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/7.jpg",
         "tipo": "switch",
         "requisitoSwitch": 86
       },
@@ -5452,6 +5459,7 @@
         "id": "elp_fosil",
         "nombre": "🦴 Vuelta a la prehistoria",
         "descripcion": "Entrega un fósil para que lo revivan.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/8.jpg",
         "tipo": "switch",
         "requisitoSwitch": 13
       },
@@ -5459,6 +5467,7 @@
         "id": "elp_pesticidas",
         "nombre": "🧪 Operación pesticida",
         "descripcion": "Encuentra los pesticidas para despejar el puente del Camino Pantanoso.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/9.jpg",
         "tipo": "switch",
         "requisitoSwitch": 64
       },
@@ -5466,6 +5475,7 @@
         "id": "elp_brumas",
         "nombre": "🌫️ Entre la bruma",
         "descripcion": "Completa las Montañas Bruma.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/10.jpg",
         "tipo": "switch",
         "requisitoSwitch": 68
       },
@@ -5473,6 +5483,7 @@
         "id": "elp_insignia_roja",
         "nombre": "🔴 Insignia Roja",
         "descripcion": "Consigue la Insignia Roja en el Monte Rojo.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/11.jpg",
         "tipo": "medalla",
         "requisitoIndice": 0
       },
@@ -5480,6 +5491,7 @@
         "id": "elp_vuelos",
         "nombre": "🕊️ Primeras alas",
         "descripcion": "Desbloquea los vuelos entre los pueblos de la primera región.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/12.jpg",
         "tipo": "switch",
         "requisitoSwitch": 70
       },
@@ -5487,6 +5499,7 @@
         "id": "elp_torneo_r1",
         "nombre": "🌊 Calentando motores",
         "descripcion": "Supera la primera ronda del Torneo Kyogre.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/13.jpg",
         "tipo": "switch",
         "requisitoSwitch": 93
       },
@@ -5494,6 +5507,7 @@
         "id": "elp_torneo_final",
         "nombre": "🏆 Campeón del Torneo Kyogre",
         "descripcion": "Gana la final del Torneo Kyogre.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/14.jpg",
         "tipo": "switch",
         "requisitoSwitch": 96
       },
@@ -5501,6 +5515,7 @@
         "id": "elp_seels",
         "nombre": "🦭 Cena para los Seel",
         "descripcion": "Alimenta a los Seel hambrientos de Pueblo Rivak.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/15.jpg",
         "tipo": "switch",
         "requisitoSwitch": 103
       },
@@ -5508,6 +5523,7 @@
         "id": "elp_aves_libres",
         "nombre": "🦅 Aves libres",
         "descripcion": "Libera a las aves de la Cueva Mante.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/16.jpg",
         "tipo": "switch",
         "requisitoSwitch": 104
       },
@@ -5515,6 +5531,7 @@
         "id": "elp_reliquias",
         "nombre": "🏺 Rompecabezas de reliquias",
         "descripcion": "Resuelve el puzle de reliquias de la Cueva Mante.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/17.jpg",
         "tipo": "switch",
         "requisitoSwitch": 105
       },
@@ -5522,6 +5539,7 @@
         "id": "elp_kyogre",
         "nombre": "🌀 El despertar de Kyogre",
         "descripcion": "Presencia el desenlace de la Facción Kyogre en la Cueva Mante.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/18.jpg",
         "tipo": "switch",
         "requisitoSwitch": 106
       },
@@ -5529,6 +5547,7 @@
         "id": "elp_pokeflauta",
         "nombre": "🎵 Melodía de aventuras",
         "descripcion": "Consigue la Pokéflauta.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/19.jpg",
         "tipo": "switch",
         "requisitoSwitch": 107
       },
@@ -5536,6 +5555,7 @@
         "id": "elp_cueva_oscura",
         "nombre": "🕳️ Luz al final del túnel",
         "descripcion": "Atraviesa la Cueva Oscura.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/20.jpg",
         "tipo": "switch",
         "requisitoSwitch": 125
       },
@@ -5543,6 +5563,7 @@
         "id": "elp_megabrazalete",
         "nombre": "💎 Megabrazalete",
         "descripcion": "Consigue el Megabrazalete en Pueblo Giko.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/21.jpg",
         "tipo": "switch",
         "requisitoSwitch": 130
       },
@@ -5550,6 +5571,7 @@
         "id": "elp_megas",
         "nombre": "🌀 Secreto de la Megaevolución",
         "descripcion": "Descubre cómo activar la Megaevolución en la Cueva Espíritu.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/22.jpg",
         "tipo": "switch",
         "requisitoSwitch": 143
       },
@@ -5557,6 +5579,7 @@
         "id": "elp_skarmory",
         "nombre": "📜 Pergamino Skarmory",
         "descripcion": "Entra en la Torre Skarmory con el pergamino de la guardiana.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/23.jpg",
         "tipo": "switch",
         "requisitoSwitch": 139
       },
@@ -5564,6 +5587,7 @@
         "id": "elp_samurai",
         "nombre": "🥷 Samurái por un día",
         "descripcion": "Disfrázate de samurái en Pueblo Giko.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/24.jpg",
         "tipo": "switch",
         "requisitoSwitch": 141
       },
@@ -5571,6 +5595,7 @@
         "id": "elp_buzo",
         "nombre": "🤿 Traje de buzo",
         "descripcion": "Consigue el traje de buzo.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/25.jpg",
         "tipo": "switch",
         "requisitoSwitch": 163
       },
@@ -5578,6 +5603,7 @@
         "id": "elp_recluta",
         "nombre": "🪖 Infiltrado",
         "descripcion": "Hazte pasar por un recluta de Ruta 18.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/26.jpg",
         "tipo": "switch",
         "requisitoSwitch": 165
       },
@@ -5585,6 +5611,7 @@
         "id": "elp_faro",
         "nombre": "💡 Luz para el faro",
         "descripcion": "Ayuda al farero del Faro de Pueblo Mirtan.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/27.jpg",
         "tipo": "switch",
         "requisitoSwitch": 148
       },
@@ -5592,6 +5619,7 @@
         "id": "elp_piratas",
         "nombre": "🏴‍☠️ ¡Piratas a bordo!",
         "descripcion": "Descubre a los piratas del S. S. Hoshi.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/28.jpg",
         "tipo": "switch",
         "requisitoSwitch": 149
       },
@@ -5599,6 +5627,7 @@
         "id": "elp_maquinas",
         "nombre": "⚙️ Sala de máquinas",
         "descripcion": "Detén a los piratas en la sala de máquinas del S. S. Hoshi.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/29.jpg",
         "tipo": "switch",
         "requisitoSwitch": 153
       },
@@ -5606,6 +5635,7 @@
         "id": "elp_barco",
         "nombre": "🚢 Buen viaje",
         "descripcion": "Completa la travesía del S. S. Hoshi.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/30.jpg",
         "tipo": "switch",
         "requisitoSwitch": 154
       },
@@ -5613,6 +5643,7 @@
         "id": "elp_bici",
         "nombre": "🚲 Sobre ruedas",
         "descripcion": "Consigue la Bicicleta.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/31.jpg",
         "tipo": "switch",
         "requisitoSwitch": 158
       },
@@ -5620,6 +5651,7 @@
         "id": "elp_mantrez",
         "nombre": "🏛️ Plaza de Mantrez",
         "descripcion": "Resuelve lo ocurrido en la plaza de Ciudad Mantrez.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/32.jpg",
         "tipo": "switch",
         "requisitoSwitch": 157
       },
@@ -5627,6 +5659,7 @@
         "id": "elp_meseta",
         "nombre": "🌬️ Contra el viento",
         "descripcion": "Atraviesa la Meseta del Viento.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/33.jpg",
         "tipo": "switch",
         "requisitoSwitch": 161
       },
@@ -5634,6 +5667,7 @@
         "id": "elp_insignia_cielo",
         "nombre": "🟢 Tercera Insignia de Keito",
         "descripcion": "Consigue la Insignia de la Facción Rayquaza en la Zona Prohibida.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/34.jpg",
         "tipo": "medalla",
         "requisitoIndice": 2
       },
@@ -5641,6 +5675,7 @@
         "id": "elp_incendio",
         "nombre": "🔥 ¡Todos al cubo!",
         "descripcion": "Ayuda a apagar el incendio de Pueblo Kopa.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/35.jpg",
         "tipo": "switch",
         "requisitoSwitch": 164
       },
@@ -5648,6 +5683,7 @@
         "id": "elp_pase",
         "nombre": "🎫 Pase de peregrino",
         "descripcion": "Consigue el pase para subir por el Camino del Peregrino.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/36.jpg",
         "tipo": "switch",
         "requisitoSwitch": 168
       },
@@ -5655,6 +5691,7 @@
         "id": "elp_marco",
         "nombre": "🦖 Cuentas pendientes con Marco",
         "descripcion": "Derrota a Marco en el Camino del Peregrino.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/37.jpg",
         "tipo": "switch",
         "requisitoSwitch": 169
       },
@@ -5662,6 +5699,7 @@
         "id": "elp_connor",
         "nombre": "⚔️ Fin del perseguidor",
         "descripcion": "Vence a Connor en el Camino del Peregrino.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/38.jpg",
         "tipo": "switch",
         "requisitoSwitch": 170
       },
@@ -5669,6 +5707,7 @@
         "id": "elp_hominidos",
         "nombre": "🦍 Amigo de los hominídos",
         "descripcion": "Ayuda a los hominídos de las Cámaras Científicas.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/39.jpg",
         "tipo": "switch",
         "requisitoSwitch": 172
       },
@@ -5676,6 +5715,7 @@
         "id": "elp_puerta_templo",
         "nombre": "🗝️ Puerta del templo",
         "descripcion": "Consigue que se abra la puerta del Templo Olimpo.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/40.jpg",
         "tipo": "switch",
         "requisitoSwitch": 173
       },
@@ -5683,6 +5723,7 @@
         "id": "elp_primeape",
         "nombre": "🐒 Hipótesis de Oak",
         "descripcion": "Captura un Primeape y sigue la pista de la evolución humana.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/41.jpg",
         "tipo": "pokedexEspecies",
         "especies": [
           "PRIMEAPE"
@@ -5692,6 +5733,7 @@
         "id": "elp_final",
         "nombre": "🧬 El eslabón perdido",
         "descripcion": "Completa la historia principal de Pokémon El Eslabón Perdido.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/42.jpg",
         "tipo": "switch",
         "requisitoSwitch": 175
       },
@@ -5699,6 +5741,7 @@
         "id": "elp_arceus",
         "nombre": "🔱 El origen de todo",
         "descripcion": "Captura a Arceus.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/43.jpg",
         "tipo": "pokedexEspecies",
         "especies": [
           "ARCEUS"
@@ -5708,6 +5751,7 @@
         "id": "elp_isla_alma",
         "nombre": "🏝️ Rumbo a la Isla Alma",
         "descripcion": "Consigue acceso a la Isla Alma.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/44.jpg",
         "tipo": "switch",
         "requisitoSwitch": 177
       },
@@ -5715,6 +5759,7 @@
         "id": "elp_reto_gims",
         "nombre": "🏟️ El reto de Petre",
         "descripcion": "Acepta el desafío de Petre: vence a todos los líderes de gimnasio.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/45.jpg",
         "tipo": "switch",
         "requisitoSwitch": 178
       },
@@ -5722,6 +5767,7 @@
         "id": "elp_gim_fuego",
         "nombre": "🔥 Gimnasio Gársules",
         "descripcion": "Vence a Flare en el Gimnasio Gársules.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/46.jpg",
         "tipo": "switch",
         "requisitoSwitch": 187
       },
@@ -5729,6 +5775,7 @@
         "id": "elp_gim_lucha",
         "nombre": "🥊 Gimnasio Benk",
         "descripcion": "Vence a Greta en el Gimnasio Benk.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/47.jpg",
         "tipo": "switch",
         "requisitoSwitch": 188
       },
@@ -5736,6 +5783,7 @@
         "id": "elp_gim_agua",
         "nombre": "💧 Gimnasio Cartina",
         "descripcion": "Vence a Mara en el Gimnasio Cartina.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/48.jpg",
         "tipo": "switch",
         "requisitoSwitch": 189
       },
@@ -5743,6 +5791,7 @@
         "id": "elp_gim_hielo",
         "nombre": "❄️ Gimnasio Rivak",
         "descripcion": "Vence a Solo en el Gimnasio Rivak.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/49.jpg",
         "tipo": "switch",
         "requisitoSwitch": 190
       },
@@ -5750,6 +5799,7 @@
         "id": "elp_gim_volador",
         "nombre": "🪶 Gimnasio Gronkas",
         "descripcion": "Vence a Nando en el Gimnasio Gronkas.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/50.jpg",
         "tipo": "switch",
         "requisitoSwitch": 191
       },
@@ -5757,6 +5807,7 @@
         "id": "elp_gim_dragon",
         "nombre": "🐉 Gimnasio Mantrez",
         "descripcion": "Vence a Kea en el Gimnasio Mantrez.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/51.jpg",
         "tipo": "switch",
         "requisitoSwitch": 192
       },
@@ -5764,6 +5815,7 @@
         "id": "elp_gim_psiquico",
         "nombre": "🔮 Gimnasio Kopa",
         "descripcion": "Vence a Rone en el Gimnasio Kopa.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/52.jpg",
         "tipo": "switch",
         "requisitoSwitch": 193
       },
@@ -5771,6 +5823,7 @@
         "id": "elp_gim_planta",
         "nombre": "🌿 Gimnasio Pyke",
         "descripcion": "Vence a los líderes del Gimnasio Pyke.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/53.jpg",
         "tipo": "switch",
         "requisitoSwitch": 194
       },
@@ -5778,6 +5831,7 @@
         "id": "elp_gims_todos",
         "nombre": "🎖️ Maestro de gimnasios",
         "descripcion": "Vence a los ocho líderes de gimnasio.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/54.jpg",
         "tipo": "switchTodos",
         "requisitoSwitches": [
           187,
@@ -5794,6 +5848,7 @@
         "id": "elp_safari",
         "nombre": "👨‍👩‍👧‍👦 Familia del Safari",
         "descripcion": "Reúne a los cuatro hermanos de la Zona Safari.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/55.jpg",
         "tipo": "switchTodos",
         "requisitoSwitches": [
           72,
@@ -5806,6 +5861,7 @@
         "id": "elp_mundo_distorsion",
         "nombre": "🌌 Más allá del espacio-tiempo",
         "descripcion": "Entra en el Mundo Distorsión.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/56.jpg",
         "tipo": "mapaVisitado",
         "requisitoMapas": [
           344
@@ -5815,6 +5871,7 @@
         "id": "elp_regis",
         "nombre": "🗿 Los Regis",
         "descripcion": "Captura a Regirock, Regice y Registeel.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/57.jpg",
         "tipo": "pokedexEspecies",
         "especies": [
           "REGIROCK",
@@ -5826,6 +5883,7 @@
         "id": "elp_clima",
         "nombre": "🌍 Creadores del mundo",
         "descripcion": "Captura a Groudon, Kyogre y Rayquaza.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/58.jpg",
         "tipo": "pokedexEspecies",
         "especies": [
           "GROUDON",
@@ -5837,6 +5895,7 @@
         "id": "elp_tiempo",
         "nombre": "⏳ Tiempo, espacio y distorsión",
         "descripcion": "Captura a Dialga, Palkia y Giratina.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/59.jpg",
         "tipo": "pokedexEspecies",
         "especies": [
           "DIALGA",
@@ -5848,6 +5907,7 @@
         "id": "elp_mew",
         "nombre": "🧬 Código genético",
         "descripcion": "Captura a Mew y a Mewtwo.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/60.jpg",
         "tipo": "pokedexEspecies",
         "especies": [
           "MEW",
@@ -5858,6 +5918,7 @@
         "id": "elp_shiny",
         "nombre": "✨ ¡Es diferente!",
         "descripcion": "Captura tu primer Pokémon variocolor.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/61.jpg",
         "tipo": "shinyActual",
         "requisito": 1
       },
@@ -5865,6 +5926,7 @@
         "id": "elp_dex_completa",
         "nombre": "📕 Pokédex completa",
         "descripcion": "Registra los 658 Pokémon de la Pokédex.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/62.jpg",
         "tipo": "pokedexOwned",
         "requisito": 658
       },
@@ -5872,6 +5934,7 @@
         "id": "elp_platino",
         "nombre": "🧬 EL ESLABÓN PERDIDO",
         "descripcion": "Desbloquea todos los demás logros.",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/logros/63.jpg",
         "tipo": "todosLosDemas"
       }
     ]
