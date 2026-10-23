@@ -2,6 +2,7 @@
   {
     "id": 4,
     "nombre": "Pokémon Añil",
+    "pokedexTotal": 151,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/anil-logo.jpg",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/anil-preview-1.png",
@@ -1131,6 +1132,7 @@
   {
     "id": 6,
     "nombre": "Pokémon Ópalo",
+    "pokedexTotal": 898,
     "carpetaGuardadoJuegosGuardados": "Pokemon Opalo",
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/opalo/opalo-logo.png",
     "capturas": [
@@ -2568,6 +2570,7 @@
   {
     "id": 9,
     "nombre": "Pokémon Titán",
+    "pokedexTotal": 806,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-logo.jpg",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-preview-1.jpg",
@@ -3249,6 +3252,7 @@
   {
     "id": 10,
     "nombre": "Pokémon Africanvs",
+    "pokedexTotal": 831,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/africanvs-logo.jpg",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/africanvs/africanvs-preview-1.jpg",
@@ -3886,6 +3890,7 @@
   {
     "id": 11,
     "nombre": "Pokémon Shattered Dimensions",
+    "pokedexTotal": 811,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-logo.png",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-preview-1.png",
@@ -5369,6 +5374,7 @@
   {
     "id": 13,
     "nombre": "Pokémon El Eslabón Perdido",
+    "pokedexTotal": 658,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/eslabonperdido-logo.jpg",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/eslabonperdido/eslabonperdido-preview-1.png",
@@ -5942,6 +5948,7 @@
   {
     "id": 18,
     "nombre": "Pokémon Heads and Tails",
+    "pokedexTotal": 610,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-logo.jpg",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/headsandtails/headsandtails-preview-1.png",
@@ -6711,6 +6718,7 @@
   {
     "id": 19,
     "nombre": "Pokémon Bizarre",
+    "pokedexTotal": 255,
     "resumen": "El fangame más loco: humor, referencias y puzles de gimnasio extravagantes en la región de Quintueles.",
     "descripcion": "Pokémon Bizarre es un fangame de humor creado por MrGrossi con RPG Maker. Vives una serie de aventuras locas por la región de Quintueles, con misiones como liberar a un culto de setas alucinógenas, volar a la luna o enfrentarte a historias lovecraftianas con Octillerys, y gimnasios con puzles extravagantes.\n\nMantiene la estructura clásica de 8 gimnasios, con nueva historia y personajes, ciclo de día y noche, formas regionales propias de Quintueles, buena dificultad y entre 25 y 30 horas de juego. La actualización de marzo de 2025 añadió Pokémon de la novena generación, revanchas contra los líderes tras la Liga y un nuevo menú de objetos en combate.",
     "desarrollador": "MrGrossi",
@@ -7556,6 +7564,7 @@
   {
     "id": 23,
     "nombre": "Pokémon Gadir Deluxe",
+    "pokedexTotal": 1078,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-logo.png",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/gadir-preview-1.png",
