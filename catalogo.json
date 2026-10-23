@@ -8191,6 +8191,14 @@
         "imagen": null
       },
       {
+        "id": "gadir_pokedex_completa",
+        "nombre": "📕 Enciclopedia de Gadir",
+        "descripcion": "Completa la Pokédex: registra como capturados los 1078 Pokémon de Gadir.",
+        "tipo": "pokedexOwned",
+        "requisito": 1078,
+        "imagen": null
+      },
+      {
         "id": "gadir_leyenda",
         "nombre": "🏆 LEYENDA DE GADIR",
         "descripcion": "Desbloquea todos los demás logros.",
