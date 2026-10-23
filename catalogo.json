@@ -7593,7 +7593,7 @@
         "nombre": "🎁 Compañero de bolsillo",
         "descripcion": "Recibe tu primer Pokémon.",
         "tipo": "primerPokemonReal",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/1.jpg"
       },
       {
         "id": "gadir_primera_captura",
@@ -7601,7 +7601,7 @@
         "descripcion": "Captura tu primer Pokémon salvaje.",
         "tipo": "capturasReales",
         "requisito": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/2.jpg"
       },
       {
         "id": "gadir_gim_terry",
@@ -7609,7 +7609,7 @@
         "descripcion": "Derrota a Terry en el Gimnasio Excavación.",
         "tipo": "switch",
         "requisitoSwitch": 110,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/3.jpg"
       },
       {
         "id": "gadir_gim_fina",
@@ -7617,7 +7617,7 @@
         "descripcion": "Derrota a Fina en el Gimnasio Astral.",
         "tipo": "switch",
         "requisitoSwitch": 181,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/4.jpg"
       },
       {
         "id": "gadir_gim_deif",
@@ -7625,7 +7625,7 @@
         "descripcion": "Derrota a Deif en el Gimnasio Wingull.",
         "tipo": "switch",
         "requisitoSwitch": 218,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/5.jpg"
       },
       {
         "id": "gadir_gim_sacarina",
@@ -7633,7 +7633,7 @@
         "descripcion": "Derrota a Sacarina en el Gimnasio Lúgubre.",
         "tipo": "switch",
         "requisitoSwitch": 292,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/6.jpg"
       },
       {
         "id": "gadir_gim_alek",
@@ -7641,7 +7641,7 @@
         "descripcion": "Derrota a Alek en el Gimnasio Tuerca.",
         "tipo": "switch",
         "requisitoSwitch": 358,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/7.jpg"
       },
       {
         "id": "gadir_gim_dux",
@@ -7649,7 +7649,7 @@
         "descripcion": "Derrota a Dux en el Gimnasio Mural.",
         "tipo": "switch",
         "requisitoSwitch": 461,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/8.jpg"
       },
       {
         "id": "gadir_gim_mark",
@@ -7657,7 +7657,7 @@
         "descripcion": "Derrota a Mark en el Gimnasio Riajo.",
         "tipo": "switch",
         "requisitoSwitch": 655,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/9.jpg"
       },
       {
         "id": "gadir_gim_lien",
@@ -7665,7 +7665,7 @@
         "descripcion": "Derrota a Lien en el Gimnasio Ring.",
         "tipo": "switch",
         "requisitoSwitch": 732,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/10.jpg"
       },
       {
         "id": "gadir_cuatro_medallas",
@@ -7673,14 +7673,14 @@
         "descripcion": "Reúne 4 medallas de Gadir.",
         "tipo": "medallasCantidad",
         "requisito": 4,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/11.jpg"
       },
       {
         "id": "gadir_ocho_medallas",
         "nombre": "🏅 Pechera de Gadir",
         "descripcion": "Consigue las 8 medallas de Gadir.",
         "tipo": "todasMedallas",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/12.jpg"
       },
       {
         "id": "gadir_orange_ruta1",
@@ -7688,7 +7688,7 @@
         "descripcion": "Gana tu primer combate contra Orange en la Ruta 1.",
         "tipo": "switch",
         "requisitoSwitch": 107,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/13.jpg"
       },
       {
         "id": "gadir_tanya_teatro",
@@ -7696,7 +7696,7 @@
         "descripcion": "Vence a Tanya en el Teatro de Bolona.",
         "tipo": "switch",
         "requisitoSwitch": 169,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/14.jpg"
       },
       {
         "id": "gadir_roud_ruta8",
@@ -7704,7 +7704,7 @@
         "descripcion": "Vence a Roud en la Ruta 8.",
         "tipo": "switch",
         "requisitoSwitch": 327,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/15.jpg"
       },
       {
         "id": "gadir_raulett_algesia",
@@ -7712,7 +7712,7 @@
         "descripcion": "Vence a Raulett en Ciudad Algesia.",
         "tipo": "switch",
         "requisitoSwitch": 401,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/16.jpg"
       },
       {
         "id": "gadir_tanya_frente",
@@ -7720,7 +7720,7 @@
         "descripcion": "Vence a Tanya en el Frente Batalla Gadir.",
         "tipo": "switch",
         "requisitoSwitch": 1103,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/17.jpg"
       },
       {
         "id": "gadir_tres_rivales",
@@ -7732,7 +7732,7 @@
           1051,
           1053
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/18.jpg"
       },
       {
         "id": "gadir_campeon",
@@ -7740,7 +7740,7 @@
         "descripcion": "Vence a la Liga Pokémon de Gadir y entra en el Hall de la Fama.",
         "tipo": "switch",
         "requisitoSwitch": 12,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/19.jpg"
       },
       {
         "id": "gadir_revancha_liga",
@@ -7748,7 +7748,7 @@
         "descripcion": "Vuelve a vencer a la Liga Pokémon en su revancha.",
         "tipo": "switch",
         "requisitoSwitch": 1094,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/20.jpg"
       },
       {
         "id": "gadir_ecuador",
@@ -7756,7 +7756,7 @@
         "descripcion": "Llega a la mitad de la historia, de camino a Pueblo Portllano.",
         "tipo": "switch",
         "requisitoSwitch": 315,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/21.jpg"
       },
       {
         "id": "gadir_historia_completa",
@@ -7764,7 +7764,7 @@
         "descripcion": "Completa la historia principal al 100 %.",
         "tipo": "switch",
         "requisitoSwitch": 1079,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/22.jpg"
       },
       {
         "id": "gadir_hans",
@@ -7772,7 +7772,7 @@
         "descripcion": "Derrota a Hans y frena los planes del Team Tectonic.",
         "tipo": "switch",
         "requisitoSwitch": 426,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/23.jpg"
       },
       {
         "id": "gadir_novena_medalla",
@@ -7780,7 +7780,7 @@
         "descripcion": "Vence a Irinna en el Gimnasio Brasa y consigue la novena medalla.",
         "tipo": "switch",
         "requisitoSwitch": 1041,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/24.jpg"
       },
       {
         "id": "gadir_director_juego",
@@ -7788,7 +7788,7 @@
         "descripcion": "Vence al Director de Juego en el Edificio Gadir.",
         "tipo": "switch",
         "requisitoSwitch": 379,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/25.jpg"
       },
       {
         "id": "gadir_final_secreto",
@@ -7796,7 +7796,7 @@
         "descripcion": "Desbloquea el Final Secreto de Pokémon Gadir Deluxe.",
         "tipo": "switch",
         "requisitoSwitch": 72,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/26.jpg"
       },
       {
         "id": "gadir_fortaleza",
@@ -7804,7 +7804,7 @@
         "descripcion": "Vence al jefe secreto de la Fortaleza Onírica.",
         "tipo": "switch",
         "requisitoSwitch": 1085,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/27.jpg"
       },
       {
         "id": "gadir_panteon",
@@ -7812,7 +7812,7 @@
         "descripcion": "Completa el Panteón Onírico.",
         "tipo": "switch",
         "requisitoSwitch": 1115,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/28.jpg"
       },
       {
         "id": "gadir_frente_batalla",
@@ -7824,7 +7824,7 @@
           1102,
           1107
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/29.jpg"
       },
       {
         "id": "gadir_regis",
@@ -7832,7 +7832,7 @@
         "descripcion": "Encuentra a Regirock, Regice y Registeel.",
         "tipo": "switch",
         "requisitoSwitch": 856,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/30.jpg"
       },
       {
         "id": "gadir_espadachines",
@@ -7840,7 +7840,7 @@
         "descripcion": "Encuentra a todos los Espadachines de la Justicia.",
         "tipo": "switch",
         "requisitoSwitch": 858,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/31.jpg"
       },
       {
         "id": "gadir_unown",
@@ -7848,7 +7848,7 @@
         "descripcion": "Resuelve el enigma de los Unown.",
         "tipo": "switch",
         "requisitoSwitch": 944,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/32.jpg"
       },
       {
         "id": "gadir_jefes_20",
@@ -7857,7 +7857,7 @@
         "tipo": "variable",
         "requisitoVariable": 20,
         "requisitoValor": 20,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/33.jpg"
       },
       {
         "id": "gadir_jefes",
@@ -7866,7 +7866,7 @@
         "tipo": "variable",
         "requisitoVariable": 20,
         "requisitoValor": 40,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/34.jpg"
       },
       {
         "id": "gadir_revanchas",
@@ -7875,7 +7875,7 @@
         "tipo": "variable",
         "requisitoVariable": 184,
         "requisitoValor": 8,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/35.jpg"
       },
       {
         "id": "gadir_misiones",
@@ -7884,7 +7884,7 @@
         "tipo": "variable",
         "requisitoVariable": 24,
         "requisitoValor": 30,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/36.jpg"
       },
       {
         "id": "gadir_museo",
@@ -7893,7 +7893,7 @@
         "tipo": "variable",
         "requisitoVariable": 64,
         "requisitoValor": 75,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/37.jpg"
       },
       {
         "id": "gadir_meowth",
@@ -7902,7 +7902,7 @@
         "tipo": "variable",
         "requisitoVariable": 65,
         "requisitoValor": 24,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/38.jpg"
       },
       {
         "id": "gadir_monturas",
@@ -7911,7 +7911,7 @@
         "tipo": "variable",
         "requisitoVariable": 60,
         "requisitoValor": 6,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/39.jpg"
       },
       {
         "id": "gadir_durant_rocas",
@@ -7920,7 +7920,7 @@
         "tipo": "variable",
         "requisitoVariable": 134,
         "requisitoValor": 10,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/40.jpg"
       },
       {
         "id": "gadir_oficinas",
@@ -7929,7 +7929,7 @@
         "tipo": "variable",
         "requisitoVariable": 111,
         "requisitoValor": 8,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/41.jpg"
       },
       {
         "id": "gadir_carteles",
@@ -7938,7 +7938,7 @@
         "tipo": "variable",
         "requisitoVariable": 115,
         "requisitoValor": 5,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/42.jpg"
       },
       {
         "id": "gadir_macetas",
@@ -7947,7 +7947,7 @@
         "tipo": "variable",
         "requisitoVariable": 116,
         "requisitoValor": 10,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/43.jpg"
       },
       {
         "id": "gadir_radares",
@@ -7956,7 +7956,7 @@
         "tipo": "variable",
         "requisitoVariable": 117,
         "requisitoValor": 10,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/44.jpg"
       },
       {
         "id": "gadir_rutas",
@@ -7965,7 +7965,7 @@
         "tipo": "variable",
         "requisitoVariable": 154,
         "requisitoValor": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/45.jpg"
       },
       {
         "id": "gadir_localidades",
@@ -7974,7 +7974,7 @@
         "tipo": "variable",
         "requisitoVariable": 156,
         "requisitoValor": 2,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/46.jpg"
       },
       {
         "id": "gadir_ruinas",
@@ -7983,7 +7983,7 @@
         "tipo": "variable",
         "requisitoVariable": 138,
         "requisitoValor": 6,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/47.jpg"
       },
       {
         "id": "gadir_legendarios",
@@ -7992,7 +7992,7 @@
         "tipo": "variable",
         "requisitoVariable": 157,
         "requisitoValor": 15,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/48.jpg"
       },
       {
         "id": "gadir_singulares",
@@ -8001,7 +8001,7 @@
         "tipo": "variable",
         "requisitoVariable": 164,
         "requisitoValor": 8,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/49.jpg"
       },
       {
         "id": "gadir_don_torchic",
@@ -8010,7 +8010,7 @@
         "tipo": "variable",
         "requisitoVariable": 73,
         "requisitoValor": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/50.jpg"
       },
       {
         "id": "gadir_piano",
@@ -8018,7 +8018,7 @@
         "descripcion": "Escucha tocar al pianista del Teatro de Bolona.",
         "tipo": "switch",
         "requisitoSwitch": 141,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/51.jpg"
       },
       {
         "id": "gadir_mision_1",
@@ -8027,7 +8027,7 @@
         "tipo": "variable",
         "requisitoVariable": 24,
         "requisitoValor": 1,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/52.jpg"
       },
       {
         "id": "gadir_mision_5",
@@ -8036,7 +8036,7 @@
         "tipo": "variable",
         "requisitoVariable": 24,
         "requisitoValor": 5,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/53.jpg"
       },
       {
         "id": "gadir_mision_15",
@@ -8045,7 +8045,7 @@
         "tipo": "variable",
         "requisitoVariable": 24,
         "requisitoValor": 15,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/54.jpg"
       },
       {
         "id": "gadir_m_wattle",
@@ -8053,7 +8053,7 @@
         "descripcion": "Completa el encargo del Wattle en la Central Eléctrica.",
         "tipo": "switch",
         "requisitoSwitch": 816,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/55.jpg"
       },
       {
         "id": "gadir_m_lilligant",
@@ -8061,7 +8061,7 @@
         "descripcion": "Completa el encargo del Lilligant.",
         "tipo": "switch",
         "requisitoSwitch": 818,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/56.jpg"
       },
       {
         "id": "gadir_m_enfermero",
@@ -8069,7 +8069,7 @@
         "descripcion": "Atiende el pedido del enfermero que necesita una limonada fresquita.",
         "tipo": "switch",
         "requisitoSwitch": 821,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/57.jpg"
       },
       {
         "id": "gadir_m_skitty",
@@ -8077,7 +8077,7 @@
         "descripcion": "Ayuda a Nina a recuperar a su Skitty perdido.",
         "tipo": "switch",
         "requisitoSwitch": 823,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/58.jpg"
       },
       {
         "id": "gadir_m_xatara",
@@ -8085,7 +8085,7 @@
         "descripcion": "Ayuda a Xatara a resolver el acertijo de las Ruinas Guadalsianas.",
         "tipo": "switch",
         "requisitoSwitch": 357,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/59.jpg"
       },
       {
         "id": "gadir_m_onikit",
@@ -8093,14 +8093,14 @@
         "descripcion": "Completa la historia de Onikit en el Mundo Onírico.",
         "tipo": "switch",
         "requisitoSwitch": 874,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/60.jpg"
       },
       {
         "id": "gadir_huevo",
         "nombre": "🥚 Cascarón en camino",
         "descripcion": "Recibe un huevo en la Guardería.",
         "tipo": "pokemonDeHuevo",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/61.jpg"
       },
       {
         "id": "gadir_visita_onirico",
@@ -8112,7 +8112,7 @@
           225,
           226
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/62.jpg"
       },
       {
         "id": "gadir_visita_kubo",
@@ -8124,7 +8124,7 @@
           306,
           307
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/63.jpg"
       },
       {
         "id": "gadir_visita_museo",
@@ -8134,7 +8134,7 @@
         "requisitoMapas": [
           360
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/64.jpg"
       },
       {
         "id": "gadir_visita_fates_cima",
@@ -8144,7 +8144,7 @@
         "requisitoMapas": [
           443
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/65.jpg"
       },
       {
         "id": "gadir_visita_pico",
@@ -8154,7 +8154,7 @@
         "requisitoMapas": [
           499
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/66.jpg"
       },
       {
         "id": "gadir_visita_carcel",
@@ -8167,7 +8167,7 @@
           566,
           567
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/67.jpg"
       },
       {
         "id": "gadir_visita_luna",
@@ -8179,7 +8179,7 @@
           657,
           660
         ],
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/68.jpg"
       },
       {
         "id": "gadir_arceus",
@@ -8188,7 +8188,7 @@
         "tipo": "pokedexEspecie",
         "especie": "493",
         "especieNombre": "ARCEUS",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/69.jpg"
       },
       {
         "id": "gadir_pokedex_completa",
@@ -8196,14 +8196,14 @@
         "descripcion": "Completa la Pokédex: registra como capturados los 1078 Pokémon de Gadir.",
         "tipo": "pokedexOwned",
         "requisito": 1078,
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/70.jpg"
       },
       {
         "id": "gadir_leyenda",
         "nombre": "🏆 LEYENDA DE GADIR",
         "descripcion": "Desbloquea todos los demás logros.",
         "tipo": "todosLosDemas",
-        "imagen": null
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/71.jpg"
       }
     ]
   },
