@@ -7851,12 +7851,21 @@
         "imagen": null
       },
       {
-        "id": "gadir_jefes",
-        "nombre": "🎖️ Cazador de jefes",
-        "descripcion": "Derrota a 60 jefes a lo largo de tu aventura.",
+        "id": "gadir_jefes_20",
+        "nombre": "⚔️ Calentando motores",
+        "descripcion": "Gana 20 combates importantes contra jefes: líderes de gimnasio, rivales, Team Tectonic, Liga, jefes del Hoyo y del Frente Batalla.",
         "tipo": "variable",
         "requisitoVariable": 20,
-        "requisitoValor": 60,
+        "requisitoValor": 20,
+        "imagen": null
+      },
+      {
+        "id": "gadir_jefes",
+        "nombre": "🎖️ Cazador de jefes",
+        "descripcion": "Gana 40 combates importantes contra jefes: líderes de gimnasio, rivales, Team Tectonic, Liga, jefes del Hoyo y del Frente Batalla.",
+        "tipo": "variable",
+        "requisitoVariable": 20,
+        "requisitoValor": 40,
         "imagen": null
       },
       {
