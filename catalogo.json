@@ -7527,7 +7527,8 @@
     ],
     "etiquetas": [
       "Completo",
-      "Alta dificultad"
+      "Alta dificultad",
+      "Maestrías"
     ],
     "logros": [
       {
@@ -8372,7 +8373,36 @@
         "tipo": "todosLosDemas",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/78.jpg"
       }
-    ]
+    ],
+    "maestria": {
+      "recompensa": {
+        "id": "maestro-reborn",
+        "nombre": "Maestro Pokémon Reborn",
+        "descripcion": "Completar las tres maestrías de Pokémon Reborn: misiones secundarias, Nuzlocke y Randomlocke sin bajas",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/maestria/medallon-maestria.png",
+        "tema": "amatista"
+      },
+      "items": [
+        {
+          "id": "misiones-secundarias",
+          "icono": "star",
+          "titulo": "Nivel 1 · Misiones secundarias",
+          "descripcion": "Completar todas las misiones secundarias"
+        },
+        {
+          "id": "nuzlocke-completo",
+          "icono": "heart",
+          "titulo": "Nivel 2 · Modo Nuzlocke",
+          "descripcion": "Completar el juego en modo Nuzlocke"
+        },
+        {
+          "id": "randomlocke-sin-bajas",
+          "icono": "crown",
+          "titulo": "Nivel 3 · Randomlocke sin bajas",
+          "descripcion": "Completar el juego en Randomlocke sin perder ningún Pokémon"
+        }
+      ]
+    }
   },
   {
     "id": 23,
