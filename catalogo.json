@@ -7528,6 +7528,850 @@
     "etiquetas": [
       "Completo",
       "Alta dificultad"
+    ],
+    "logros": [
+      {
+        "id": "reborn_intro",
+        "nombre": "🚪 Primer paso en la ciudad",
+        "descripcion": "Termina la introducción en Peridot Ward y marcha hacia el Grand Hall.",
+        "tipo": "switch",
+        "requisitoSwitch": 30,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/1.jpg"
+      },
+      {
+        "id": "reborn_victoria",
+        "nombre": "⚔️ Bautismo de fuego",
+        "descripcion": "Enfréntate a Victoria en el Grand Hall.",
+        "tipo": "switch",
+        "requisitoSwitch": 33,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/2.jpg"
+      },
+      {
+        "id": "reborn_zigpachi",
+        "nombre": "🐾 Rescate en Opal",
+        "descripcion": "Salva a ZigPachi en Opal Ward.",
+        "tipo": "switch",
+        "requisitoSwitch": 37,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/3.jpg"
+      },
+      {
+        "id": "reborn_simon",
+        "nombre": "🧪 Los encargos de Simon",
+        "descripcion": "Completa la misión de Simon en Peridot Ward.",
+        "tipo": "switch",
+        "requisitoSwitch": 693,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/4.jpg"
+      },
+      {
+        "id": "reborn_looker",
+        "nombre": "🕵️ Caso cerrado",
+        "descripcion": "Ayuda a Looker en Peridot Ward hasta que se despide.",
+        "tipo": "switch",
+        "requisitoSwitch": 727,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/5.jpg"
+      },
+      {
+        "id": "reborn_spyce",
+        "nombre": "🌶️ La sazón de la vida",
+        "descripcion": "Reúne los ingredientes que pide el restaurante The Spyce y sírvete la recompensa.",
+        "tipo": "switch",
+        "requisitoSwitch": 706,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/6.jpg"
+      },
+      {
+        "id": "reborn_fosil",
+        "nombre": "🦴 Piedra con vida",
+        "descripcion": "Haz revivir un fósil en Spinel Town.",
+        "tipo": "switch",
+        "requisitoSwitch": 240,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/7.jpg"
+      },
+      {
+        "id": "reborn_quiz_tipos",
+        "nombre": "🧠 Examen de tipos",
+        "descripcion": "Supera el quiz de tipos de Lower Peridot Ward.",
+        "tipo": "switch",
+        "requisitoSwitch": 1864,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/8.jpg"
+      },
+      {
+        "id": "reborn_med_volt",
+        "nombre": "⚡ Chispa inaugural",
+        "descripcion": "Gana la Medalla Volt: derrota a Julia en el Gimnasio Peridot.",
+        "tipo": "medalla",
+        "requisitoIndice": 0,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/9.jpg"
+      },
+      {
+        "id": "reborn_med_canopy",
+        "nombre": "🍃 Bajo el dosel",
+        "descripcion": "Gana la Medalla Canopy: derrota a Florinia en la Onyx Trainers' Arena.",
+        "tipo": "medalla",
+        "requisitoIndice": 1,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/10.jpg"
+      },
+      {
+        "id": "reborn_med_cocoon",
+        "nombre": "🐛 Dentro del capullo",
+        "descripcion": "Gana la Medalla Cocoon: derrota a Shelly en el Gimnasio Lapis.",
+        "tipo": "medalla",
+        "requisitoIndice": 2,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/11.jpg"
+      },
+      {
+        "id": "reborn_med_omen",
+        "nombre": "🔮 Mal presagio",
+        "descripcion": "Gana la Medalla Omen: derrota a Shade en la Yureyu Power Plant.",
+        "tipo": "medalla",
+        "requisitoIndice": 3,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/12.jpg"
+      },
+      {
+        "id": "reborn_med_blight",
+        "nombre": "☠️ Plaga viva",
+        "descripcion": "Gana la Medalla Blight: derrota a Aya en el Wasteland Hideout.",
+        "tipo": "medalla",
+        "requisitoIndice": 4,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/13.jpg"
+      },
+      {
+        "id": "reborn_med_rime",
+        "nombre": "❄️ Escarcha en el salón",
+        "descripcion": "Gana la Medalla Rime: derrota a Serra en Voclain Estate.",
+        "tipo": "medalla",
+        "requisitoIndice": 5,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/14.jpg"
+      },
+      {
+        "id": "reborn_med_standard",
+        "nombre": "📏 Norma de oro",
+        "descripcion": "Gana la Medalla Standard: derrota a Noel en Tanzan Cove.",
+        "tipo": "medalla",
+        "requisitoIndice": 6,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/15.jpg"
+      },
+      {
+        "id": "reborn_med_millennium",
+        "nombre": "🏰 Mil años de espera",
+        "descripcion": "Gana la Medalla Millennium: derrota a Radomus en el Castillo Vanhanen.",
+        "tipo": "medalla",
+        "requisitoIndice": 7,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/16.jpg"
+      },
+      {
+        "id": "reborn_med_eclipse",
+        "nombre": "🌑 Sombra total",
+        "descripcion": "Gana la Medalla Eclipse: derrota a Luna en Iolia Valley.",
+        "tipo": "medalla",
+        "requisitoIndice": 8,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/17.jpg"
+      },
+      {
+        "id": "reborn_med_strike",
+        "nombre": "🥊 Golpe de carpa",
+        "descripcion": "Gana la Medalla Strike: derrota a Samson en el Big Top.",
+        "tipo": "medalla",
+        "requisitoIndice": 9,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/18.jpg"
+      },
+      {
+        "id": "reborn_med_cinder",
+        "nombre": "🔥 Cenizas calientes",
+        "descripcion": "Gana la Medalla Cinder: derrota a Charlotte en el Gimnasio Calcenon.",
+        "tipo": "medalla",
+        "requisitoIndice": 10,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/19.jpg"
+      },
+      {
+        "id": "reborn_med_gravity",
+        "nombre": "🌍 El peso del campeón",
+        "descripcion": "Gana la Medalla Gravity: derrota a Terra en la Champion Room.",
+        "tipo": "medalla",
+        "requisitoIndice": 11,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/20.jpg"
+      },
+      {
+        "id": "reborn_med_suspension",
+        "nombre": "🎪 Trapecio sin red",
+        "descripcion": "Gana la Medalla Suspension: derrota a Ciel en el Big Top.",
+        "tipo": "medalla",
+        "requisitoIndice": 12,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/21.jpg"
+      },
+      {
+        "id": "reborn_med_amaranth",
+        "nombre": "🌺 Flor que no se marchita",
+        "descripcion": "Gana la Medalla Amaranth: derrota a Adrienn en el Gimnasio Coral.",
+        "tipo": "medalla",
+        "requisitoIndice": 13,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/22.jpg"
+      },
+      {
+        "id": "reborn_med_alloy",
+        "nombre": "🛡️ Aleación de cuento",
+        "descripcion": "Gana la Medalla Alloy: derrota a Titania en Never After.",
+        "tipo": "medalla",
+        "requisitoIndice": 14,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/23.jpg"
+      },
+      {
+        "id": "reborn_med_torrent",
+        "nombre": "🌊 Rápidos de Fiore",
+        "descripcion": "Gana la Medalla Torrent: derrota a Amaria en la Fiore Arena.",
+        "tipo": "medalla",
+        "requisitoIndice": 15,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/24.jpg"
+      },
+      {
+        "id": "reborn_med_geode",
+        "nombre": "💎 Geoda abierta",
+        "descripcion": "Gana la Medalla Geode: derrota a Hardy en la Agate Arena.",
+        "tipo": "medalla",
+        "requisitoIndice": 16,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/25.jpg"
+      },
+      {
+        "id": "reborn_med_treasure",
+        "nombre": "🪙 El botín final",
+        "descripcion": "Gana la Medalla Treasure en el Gimnasio Labradorra.",
+        "tipo": "medalla",
+        "requisitoIndice": 17,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/26.jpg"
+      },
+      {
+        "id": "reborn_dieciocho_medallas",
+        "nombre": "🎖️ Dieciocho caminos",
+        "descripcion": "Reúne las 18 medallas de Reborn.",
+        "tipo": "medallasCantidad",
+        "requisito": 18,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/27.jpg"
+      },
+      {
+        "id": "reborn_jasper",
+        "nombre": "🏚️ Jasper despejado",
+        "descripcion": "Despeja Jasper Ward de la amenaza de Team Meteor.",
+        "tipo": "switch",
+        "requisitoSwitch": 85,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/28.jpg"
+      },
+      {
+        "id": "reborn_meteor_jasper",
+        "nombre": "☄️ Fuego cruzado en las escaleras",
+        "descripcion": "Frena a Team Meteor en la escalera de Jasper.",
+        "tipo": "switch",
+        "requisitoSwitch": 138,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/29.jpg"
+      },
+      {
+        "id": "reborn_solaris",
+        "nombre": "☀️ Eclipse a Solaris",
+        "descripcion": "Derrota a Solaris en Pyrous Mountain.",
+        "tipo": "switch",
+        "requisitoSwitch": 183,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/30.jpg"
+      },
+      {
+        "id": "reborn_meteor_pyrous",
+        "nombre": "🌋 Lluvia sobre el volcán",
+        "descripcion": "Frena a Team Meteor en Pyrous Mountain.",
+        "tipo": "switch",
+        "requisitoSwitch": 182,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/31.jpg"
+      },
+      {
+        "id": "reborn_meteor_yureyu",
+        "nombre": "⚙️ Cuartel sin corriente",
+        "descripcion": "Frena a Team Meteor en el cuartel de Yureyu.",
+        "tipo": "switch",
+        "requisitoSwitch": 211,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/32.jpg"
+      },
+      {
+        "id": "reborn_meteor_tanzan",
+        "nombre": "⛰️ Mala hora en Tanzan",
+        "descripcion": "Frena a Team Meteor en Tanzan Mountain.",
+        "tipo": "switch",
+        "requisitoSwitch": 274,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/33.jpg"
+      },
+      {
+        "id": "reborn_meteor_vanhanen",
+        "nombre": "🕯️ Castillo asediado",
+        "descripcion": "Frena a Team Meteor en el Castillo Vanhanen.",
+        "tipo": "switch",
+        "requisitoSwitch": 423,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/34.jpg"
+      },
+      {
+        "id": "reborn_meteor_cascada",
+        "nombre": "💦 Cascada turbia",
+        "descripcion": "Frena a Team Meteor en Celestinine Cascade.",
+        "tipo": "switch",
+        "requisitoSwitch": 575,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/35.jpg"
+      },
+      {
+        "id": "reborn_meteor_railnet",
+        "nombre": "🚇 Línea cortada",
+        "descripcion": "Frena a Team Meteor en la Underground Railnet.",
+        "tipo": "switch",
+        "requisitoSwitch": 777,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/36.jpg"
+      },
+      {
+        "id": "reborn_meteor_cristal",
+        "nombre": "🔬 Estación de cristal",
+        "descripcion": "Frena a Team Meteor en la Glass Workstation.",
+        "tipo": "switch",
+        "requisitoSwitch": 945,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/37.jpg"
+      },
+      {
+        "id": "reborn_biggles",
+        "nombre": "😾 Piedad para el gato",
+        "descripcion": "Derrota a Mr. Bigglesworth en la Byxbysion Grotto.",
+        "tipo": "switch",
+        "requisitoSwitch": 197,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/38.jpg"
+      },
+      {
+        "id": "reborn_espejo",
+        "nombre": "🪞 Siete años de mala suerte",
+        "descripcion": "Rompe la Mirror Arena de Voclain Estate.",
+        "tipo": "switch",
+        "requisitoSwitch": 569,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/39.jpg"
+      },
+      {
+        "id": "reborn_cristal",
+        "nombre": "💠 Cristal quebrado",
+        "descripcion": "Rompe el cristal de la Grand Stairway.",
+        "tipo": "switch",
+        "requisitoSwitch": 639,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/40.jpg"
+      },
+      {
+        "id": "reborn_santuario",
+        "nombre": "🕯️ Santuario en ruinas",
+        "descripcion": "Presencia la destrucción del Subseven Sanctum.",
+        "tipo": "switch",
+        "requisitoSwitch": 1691,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/41.jpg"
+      },
+      {
+        "id": "reborn_dialkia",
+        "nombre": "🌀 Huida del pasado",
+        "descripcion": "Escapa del pasado en el Subseven Sanctum.",
+        "tipo": "switch",
+        "requisitoSwitch": 2089,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/42.jpg"
+      },
+      {
+        "id": "reborn_cain",
+        "nombre": "🥋 Cain no se rinde",
+        "descripcion": "Derrota a Cain en el Grand Hall.",
+        "tipo": "switch",
+        "requisitoSwitch": 1758,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/43.jpg"
+      },
+      {
+        "id": "reborn_vulpix",
+        "nombre": "🦊 Colas libres",
+        "descripcion": "Libera a los Vulpix en el Grand Hall.",
+        "tipo": "switch",
+        "requisitoSwitch": 977,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/44.jpg"
+      },
+      {
+        "id": "reborn_primer_pokemon",
+        "nombre": "🎒 Primer compañero",
+        "descripcion": "Recibe tu primer Pokémon en el Grand Hall.",
+        "tipo": "switch",
+        "requisitoSwitch": 2,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/79.jpg"
+      },
+      {
+        "id": "reborn_apophyll_alumno",
+        "nombre": "🎓 Alumno nuevo",
+        "descripcion": "Llega a la Apophyll Academy como estudiante.",
+        "tipo": "switch",
+        "requisitoSwitch": 173,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/80.jpg"
+      },
+      {
+        "id": "reborn_apophyll_victoria",
+        "nombre": "📖 Lección de Victoria",
+        "descripcion": "Enfréntate a Victoria en la Apophyll Academy.",
+        "tipo": "switch",
+        "requisitoSwitch": 2017,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/81.jpg"
+      },
+      {
+        "id": "reborn_arc",
+        "nombre": "🎩 Primer cruce con Arc",
+        "descripcion": "Cruza tu camino con Arc por primera vez en Obsidia.",
+        "tipo": "switch",
+        "requisitoSwitch": 402,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/82.jpg"
+      },
+      {
+        "id": "reborn_titania",
+        "nombre": "🌲 Había una vez en Aventurine",
+        "descripcion": "Conoce a Titania en North Aventurine Woods.",
+        "tipo": "switch",
+        "requisitoSwitch": 401,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/83.jpg"
+      },
+      {
+        "id": "reborn_aliados",
+        "nombre": "🤝 Compañeros de ruta",
+        "descripcion": "Haz equipo con Victoria, Cain y Aya durante la aventura.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          180,
+          209,
+          488
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/84.jpg"
+      },
+      {
+        "id": "reborn_torres",
+        "nombre": "🗼 Torres gemelas",
+        "descripcion": "Abre la Sapphire Tower y la Emerald Tower desde Citae Astrae.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          1292,
+          1293
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/85.jpg"
+      },
+      {
+        "id": "reborn_belrose",
+        "nombre": "🏚️ Noche en Belrose",
+        "descripcion": "Presencia el secuestro en la Belrose Manse.",
+        "tipo": "switch",
+        "requisitoSwitch": 256,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/86.jpg"
+      },
+      {
+        "id": "reborn_tren",
+        "nombre": "🚆 Descarrilados",
+        "descripcion": "Vive el descarrilamiento del tren de la Underground Railnet.",
+        "tipo": "switch",
+        "requisitoSwitch": 972,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/87.jpg"
+      },
+      {
+        "id": "reborn_meteor_prisma",
+        "nombre": "🌈 Meteor en el prisma",
+        "descripcion": "Frena a Team Meteor en Citae Prisma.",
+        "tipo": "switch",
+        "requisitoSwitch": 1938,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/88.jpg"
+      },
+      {
+        "id": "reborn_equilibrio",
+        "nombre": "⚖️ Todo en equilibrio",
+        "descripcion": "Equilibra los cristales del New World Helix.",
+        "tipo": "switch",
+        "requisitoSwitch": 1827,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/89.jpg"
+      },
+      {
+        "id": "reborn_aegir_amy_titania",
+        "nombre": "🌊 Cara a cara en Aegir",
+        "descripcion": "Enfréntate a Amy y a Titania en la Aegir Cave.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          1766,
+          1767
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/90.jpg"
+      },
+      {
+        "id": "reborn_nightclub",
+        "nombre": "🌃 Bienvenido al Nightclub",
+        "descripcion": "Termina la presentación del Nightclub.",
+        "tipo": "switch",
+        "requisitoSwitch": 1354,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/91.jpg"
+      },
+      {
+        "id": "reborn_desierto",
+        "nombre": "🚂 Fin de línea en Tourmaline",
+        "descripcion": "Llega al Tourmaline Desert en tren.",
+        "tipo": "switch",
+        "requisitoSwitch": 806,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/92.jpg"
+      },
+      {
+        "id": "reborn_europa",
+        "nombre": "🛰️ Chatarra y compañía",
+        "descripcion": "Conoce a Europa en el Scrapyard.",
+        "tipo": "switch",
+        "requisitoSwitch": 835,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/93.jpg"
+      },
+      {
+        "id": "reborn_grassium",
+        "nombre": "🌿 Ración de Grassium",
+        "descripcion": "Completa la misión del Grassium en el Centro de Azurine.",
+        "tipo": "switch",
+        "requisitoSwitch": 983,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/45.jpg"
+      },
+      {
+        "id": "reborn_firium",
+        "nombre": "🔥 Fuego en los rieles",
+        "descripcion": "Completa la misión del Firium en la Underground Railnet.",
+        "tipo": "switch",
+        "requisitoSwitch": 985,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/46.jpg"
+      },
+      {
+        "id": "reborn_stickers",
+        "nombre": "🏷️ Álbum de grandes almacenes",
+        "descripcion": "Consigue los 8 stickers de los grandes almacenes.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          1089,
+          1090,
+          1091,
+          1092,
+          1093,
+          1094,
+          1095,
+          1096
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/47.jpg"
+      },
+      {
+        "id": "reborn_cofres",
+        "nombre": "🧸 Cofres del Toybox",
+        "descripcion": "Abre los 9 cofres del Triskeline Toybox.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          2058,
+          2059,
+          2060,
+          2061,
+          2062,
+          2063,
+          2064,
+          2065,
+          2066
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/48.jpg"
+      },
+      {
+        "id": "reborn_vr",
+        "nombre": "🛤️ Camino de gemas",
+        "descripcion": "Resuelve los puzles de la Victory Road y abre la salida.",
+        "tipo": "switch",
+        "requisitoSwitch": 1244,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/49.jpg"
+      },
+      {
+        "id": "reborn_buceo",
+        "nombre": "🤿 Bajo la superficie",
+        "descripcion": "Consigue la habilidad de bucear (Dive) en el circo de Agate.",
+        "tipo": "switch",
+        "requisitoSwitch": 2049,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/50.jpg"
+      },
+      {
+        "id": "reborn_pc",
+        "nombre": "📡 PC en el bolsillo",
+        "descripcion": "Consigue el acceso remoto al PC.",
+        "tipo": "switch",
+        "requisitoSwitch": 2110,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/51.jpg"
+      },
+      {
+        "id": "reborn_dex_mision",
+        "nombre": "📗 Informe para el profesor",
+        "descripcion": "Completa la misión de la Pokédex en Agate City.",
+        "tipo": "switch",
+        "requisitoSwitch": 1043,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/52.jpg"
+      },
+      {
+        "id": "reborn_dex_certificado",
+        "nombre": "🎓 Doctorado en Reborn",
+        "descripcion": "Consigue el certificado de Pokédex al 100%.",
+        "tipo": "switch",
+        "requisitoSwitch": 2115,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/53.jpg"
+      },
+      {
+        "id": "reborn_dex_completa",
+        "nombre": "📕 Pokédex completa",
+        "descripcion": "Registra los 807 Pokémon de Reborn como capturados.",
+        "tipo": "pokedexOwned",
+        "requisito": 807,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/95.jpg"
+      },
+      {
+        "id": "reborn_eevee",
+        "nombre": "🦊 Ocho caras de Eevee",
+        "descripcion": "Consigue las ocho evoluciones de Eevee.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "134",
+          "135",
+          "136",
+          "196",
+          "197",
+          "470",
+          "471",
+          "700"
+        ],
+        "especiesNombres": [
+          "VAPOREON",
+          "JOLTEON",
+          "FLAREON",
+          "ESPEON",
+          "UMBREON",
+          "LEAFEON",
+          "GLACEON",
+          "SYLVEON"
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/54.jpg"
+      },
+      {
+        "id": "reborn_postgame",
+        "nombre": "🌌 Después del final",
+        "descripcion": "Desbloquea el postgame de Reborn.",
+        "tipo": "switch",
+        "requisitoSwitch": 1305,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/55.jpg"
+      },
+      {
+        "id": "reborn_e4_repetible",
+        "nombre": "🏆 Siempre hay otra ronda",
+        "descripcion": "Desbloquea el Alto Mando repetible en Ametrine City.",
+        "tipo": "switch",
+        "requisitoSwitch": 1865,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/56.jpg"
+      },
+      {
+        "id": "reborn_aegir_abre",
+        "nombre": "🚪 Puerta al fondo del mar",
+        "descripcion": "Abre el camino a Aegir.",
+        "tipo": "switch",
+        "requisitoSwitch": 1651,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/57.jpg"
+      },
+      {
+        "id": "reborn_aegir_cae",
+        "nombre": "🌊 Aegirfall",
+        "descripcion": "Presencia la caída de Aegir.",
+        "tipo": "switch",
+        "requisitoSwitch": 1765,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/58.jpg"
+      },
+      {
+        "id": "reborn_sigmund",
+        "nombre": "⛵ Zarpa Sigmund",
+        "descripcion": "Ve a Sigmund zarpar desde Not Truly For Children.",
+        "tipo": "switch",
+        "requisitoSwitch": 1661,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/59.jpg"
+      },
+      {
+        "id": "reborn_boss_rush",
+        "nombre": "🔔 Que empiece el Rush",
+        "descripcion": "Pon en marcha el Boss Rush en el Nightclub.",
+        "tipo": "switch",
+        "requisitoSwitch": 1347,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/60.jpg"
+      },
+      {
+        "id": "reborn_rush_clear",
+        "nombre": "🏁 Primera vuelta",
+        "descripcion": "Supera por primera vez un desafío de la Rush Challenge.",
+        "tipo": "switch",
+        "requisitoSwitch": 1587,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/61.jpg"
+      },
+      {
+        "id": "reborn_theme_team",
+        "nombre": "🎨 Equipo con tema",
+        "descripcion": "Gana el torneo Theme Team del Nightclub.",
+        "tipo": "switch",
+        "requisitoSwitch": 1396,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/62.jpg"
+      },
+      {
+        "id": "reborn_mnm",
+        "nombre": "🎭 Pareja ganadora",
+        "descripcion": "Gana el torneo MnM del Nightclub.",
+        "tipo": "switch",
+        "requisitoSwitch": 1398,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/63.jpg"
+      },
+      {
+        "id": "reborn_koth",
+        "nombre": "👑 Rey de la colina",
+        "descripcion": "Completa King of the Hill (KotH) en el Gimnasio Labradorra.",
+        "tipo": "switch",
+        "requisitoSwitch": 1098,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/64.jpg"
+      },
+      {
+        "id": "reborn_ame_secreta",
+        "nombre": "🗝️ Sala secreta",
+        "descripcion": "Enfréntate a Ame en la sala secreta del Grand Hall.",
+        "tipo": "switch",
+        "requisitoSwitch": 2072,
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/94.jpg"
+      },
+      {
+        "id": "reborn_perros",
+        "nombre": "🐕 Jauría legendaria",
+        "descripcion": "Completa los eventos de Entei, Raikou y Suicune.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          1372,
+          1373,
+          1374
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/65.jpg"
+      },
+      {
+        "id": "reborn_tapus",
+        "nombre": "🏝️ Guardianes de la isla",
+        "descripcion": "Completa las pruebas de Tapu Koko, Tapu Lele, Tapu Bulu y Tapu Fini en Tabula Rasa.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          1662,
+          1663,
+          1664,
+          1665
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/66.jpg"
+      },
+      {
+        "id": "reborn_regis",
+        "nombre": "🗿 Conclave de gigantes",
+        "descripcion": "Consigue a Regirock, Regice, Registeel y Regigigas.",
+        "tipo": "pokedexEspecies",
+        "especies": [
+          "377",
+          "378",
+          "379",
+          "486"
+        ],
+        "especiesNombres": [
+          "REGIROCK",
+          "REGICE",
+          "REGISTEEL",
+          "REGIGIGAS"
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/67.jpg"
+      },
+      {
+        "id": "reborn_vida_muerte",
+        "nombre": "🌳 Vida y muerte",
+        "descripcion": "Resuelve los eventos de Xerneas e Yveltal en Rhodochrine Tree.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          1880,
+          1881
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/68.jpg"
+      },
+      {
+        "id": "reborn_tao",
+        "nombre": "☯️ Tao de los dragones",
+        "descripcion": "Consigue a Reshiram, Zekrom y Kyurem en New World Helix.",
+        "tipo": "switchTodos",
+        "requisitoSwitches": [
+          1854,
+          1855,
+          1856
+        ],
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/69.jpg"
+      },
+      {
+        "id": "reborn_mewtwo",
+        "nombre": "🧬 Lo que nadie debía crear",
+        "descripcion": "Consigue a Mewtwo.",
+        "tipo": "pokedexEspecie",
+        "especie": "150",
+        "especieNombre": "MEWTWO",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/70.jpg"
+      },
+      {
+        "id": "reborn_arceus",
+        "nombre": "🌀 El que lo empezó todo",
+        "descripcion": "Consigue a Arceus.",
+        "tipo": "pokedexEspecie",
+        "especie": "493",
+        "especieNombre": "ARCEUS",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/71.jpg"
+      },
+      {
+        "id": "reborn_giratina",
+        "nombre": "🕳️ Hijo del Mundo Distorsión",
+        "descripcion": "Consigue a Giratina.",
+        "tipo": "pokedexEspecie",
+        "especie": "487",
+        "especieNombre": "GIRATINA",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/72.jpg"
+      },
+      {
+        "id": "reborn_rayquaza",
+        "nombre": "🐉 Dueño del cielo",
+        "descripcion": "Consigue a Rayquaza.",
+        "tipo": "pokedexEspecie",
+        "especie": "384",
+        "especieNombre": "RAYQUAZA",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/73.jpg"
+      },
+      {
+        "id": "reborn_necrozma",
+        "nombre": "🌈 Luz en el prisma",
+        "descripcion": "Consigue a Necrozma.",
+        "tipo": "pokedexEspecie",
+        "especie": "800",
+        "especieNombre": "NECROZMA",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/74.jpg"
+      },
+      {
+        "id": "reborn_darkrai",
+        "nombre": "🌙 Pesadilla despierta",
+        "descripcion": "Consigue a Darkrai.",
+        "tipo": "pokedexEspecie",
+        "especie": "491",
+        "especieNombre": "DARKRAI",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/75.jpg"
+      },
+      {
+        "id": "reborn_genesect",
+        "nombre": "🔩 Fruto del laboratorio",
+        "descripcion": "Consigue a Genesect.",
+        "tipo": "pokedexEspecie",
+        "especie": "649",
+        "especieNombre": "GENESECT",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/76.jpg"
+      },
+      {
+        "id": "reborn_jirachi",
+        "nombre": "⭐ Deseo cumplido",
+        "descripcion": "Consigue a Jirachi.",
+        "tipo": "pokedexEspecie",
+        "especie": "385",
+        "especieNombre": "JIRACHI",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/77.jpg"
+      },
+      {
+        "id": "reborn_leyenda",
+        "nombre": "🏆 LEYENDA DE REBORN",
+        "descripcion": "Desbloquea todos los demás logros.",
+        "tipo": "todosLosDemas",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/reborn/logros/78.jpg"
+      }
     ]
   },
   {
