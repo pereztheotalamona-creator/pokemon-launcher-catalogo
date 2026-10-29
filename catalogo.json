@@ -815,6 +815,7 @@
   {
     "id": 5,
     "nombre": "Pokémon Z",
+    "pokedexTotal": 1018,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-logo.png",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/z/z-preview-1.png",
