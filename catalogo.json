@@ -2410,6 +2410,7 @@
   {
     "id": 8,
     "nombre": "Pokémon Iberia",
+    "pokedexTotal": 814,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/iberia-logo.png",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/iberia/iberia-preview-1.png",
@@ -2940,7 +2941,7 @@
   {
     "id": 9,
     "nombre": "Pokémon Titán",
-    "pokedexTotal": 806,
+    "pokedexTotal": 805,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-logo.jpg",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/titan/titan-preview-1.jpg",
@@ -4260,7 +4261,7 @@
   {
     "id": 11,
     "nombre": "Pokémon Shattered Dimensions",
-    "pokedexTotal": 811,
+    "pokedexTotal": 810,
     "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-logo.png",
     "capturas": [
       "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/shattereddim-preview-1.png",
