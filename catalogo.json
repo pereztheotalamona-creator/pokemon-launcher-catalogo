@@ -79,7 +79,7 @@
         "descripcion": "Derrota a Atlas en el Monte Moon.",
         "tipo": "switch",
         "requisitoSwitch": 74,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/47.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/47.jpg"
       },
       {
         "id": "team_rocket_primera_vez",
@@ -119,7 +119,7 @@
         "descripcion": "Ayuda a Bill en su casa y deshazle el embrollo.",
         "tipo": "switch",
         "requisitoSwitch": 82,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/48.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/48.jpg"
       },
       {
         "id": "ss_anne_salvado",
@@ -127,7 +127,7 @@
         "descripcion": "Salva el S.S. Anne de las garras del Team Rocket.",
         "tipo": "switch",
         "requisitoSwitch": 89,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/49.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/49.jpg"
       },
       {
         "id": "medalla_trueno",
@@ -143,7 +143,7 @@
         "descripcion": "Ilumina el Túnel Roca con el Iluminador.",
         "tipo": "switch",
         "requisitoSwitch": 90,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/50.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/50.jpg"
       },
       {
         "id": "cubone_madre",
@@ -151,7 +151,7 @@
         "descripcion": "Ayuda a Cubone a reencontrarse con el espíritu de Marowak, su madre.",
         "tipo": "switch",
         "requisitoSwitch": 101,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/51.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/51.jpg"
       },
       {
         "id": "urano_torre",
@@ -159,7 +159,7 @@
         "descripcion": "Derrota a Urano en la Torre Pokémon.",
         "tipo": "switch",
         "requisitoSwitch": 103,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/52.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/52.jpg"
       },
       {
         "id": "fuji_salvado",
@@ -183,7 +183,7 @@
         "descripcion": "Consigue la Poké Flauta en el Refugio Fuji.",
         "tipo": "switch",
         "requisitoSwitch": 106,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/53.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/53.jpg"
       },
       {
         "id": "recupera_pikachu",
@@ -207,7 +207,7 @@
         "descripcion": "Derrota a Giovanni en la Guarida Rocket bajo el Casino de Ciudad Azulona.",
         "tipo": "switch",
         "requisitoSwitch": 97,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/54.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/54.jpg"
       },
       {
         "id": "silph_atlas_atenea",
@@ -218,7 +218,7 @@
           197,
           198
         ],
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/55.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/55.jpg"
       },
       {
         "id": "rescate_silph",
@@ -258,7 +258,7 @@
         "descripcion": "Derrota a Surya en la Mansión Quemada.",
         "tipo": "switch",
         "requisitoSwitch": 210,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/56.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/56.jpg"
       },
       {
         "id": "explorador_incansable",
@@ -313,7 +313,7 @@
         "descripcion": "Vence a Hoja y a Rojo en la Ruta 25 Norte, antes de la Liga.",
         "tipo": "switch",
         "requisitoSwitch": 245,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/57.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/57.jpg"
       },
       {
         "id": "liga_lorelei",
@@ -322,7 +322,7 @@
         "tipo": "variable",
         "requisitoVariable": 69,
         "requisitoValor": 1,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/58.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/58.jpg"
       },
       {
         "id": "liga_lance",
@@ -331,7 +331,7 @@
         "tipo": "variable",
         "requisitoVariable": 69,
         "requisitoValor": 10,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/59.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/59.jpg"
       },
       {
         "id": "campeon_de_kanto",
@@ -369,7 +369,7 @@
           169,
           170
         ],
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/60.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/60.jpg"
       },
       {
         "id": "mapa_claro_secreto",
@@ -379,7 +379,7 @@
         "requisitoMapas": [
           178
         ],
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/61.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/61.jpg"
       },
       {
         "id": "mas_alla_de_kanto",
@@ -403,7 +403,7 @@
         "descripcion": "Derrota a Prisma, la gran campeona de Isla Prisma.",
         "tipo": "switch",
         "requisitoSwitch": 331,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/62.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/62.jpg"
       },
       {
         "id": "desafio_campeones",
@@ -415,7 +415,7 @@
           256,
           258
         ],
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/63.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/63.jpg"
       },
       {
         "id": "mapa_monte_plateado",
@@ -430,7 +430,7 @@
           164,
           165
         ],
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/64.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/64.jpg"
       },
       {
         "id": "ash_monte_plateado",
@@ -438,7 +438,7 @@
         "descripcion": "Derrota a Ash en el Monte Plateado.",
         "tipo": "switch",
         "requisitoSwitch": 143,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/65.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/65.jpg"
       },
       {
         "id": "arceus_encontrado",
@@ -446,7 +446,7 @@
         "descripcion": "Encuentra a Arceus en el Monte Plateado.",
         "tipo": "switch",
         "requisitoSwitch": 358,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/66.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/66.jpg"
       },
       {
         "id": "hoopa_liberado",
@@ -454,7 +454,7 @@
         "descripcion": "Captura a Hoopa y cierra su historia.",
         "tipo": "switch",
         "requisitoSwitch": 360,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/67.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/67.jpg"
       },
       {
         "id": "tormenta_perfecta",
@@ -463,7 +463,7 @@
         "tipo": "variable",
         "requisitoVariable": 253,
         "requisitoValor": 3,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/68.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/68.jpg"
       },
       {
         "id": "senores_tiempo",
@@ -472,7 +472,7 @@
         "tipo": "variable",
         "requisitoVariable": 255,
         "requisitoValor": 3,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/69.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/69.jpg"
       },
       {
         "id": "dragones_dualidad",
@@ -481,7 +481,7 @@
         "tipo": "variable",
         "requisitoVariable": 261,
         "requisitoValor": 3,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/70.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/70.jpg"
       },
       {
         "id": "invasion_ultraente",
@@ -490,7 +490,7 @@
         "tipo": "variable",
         "requisitoVariable": 267,
         "requisitoValor": 9,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/71.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/71.jpg"
       },
       {
         "id": "heroes_galar",
@@ -499,7 +499,7 @@
         "tipo": "variable",
         "requisitoVariable": 269,
         "requisitoValor": 3,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/72.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/72.jpg"
       },
       {
         "id": "companeros_paldea",
@@ -508,7 +508,7 @@
         "tipo": "variable",
         "requisitoVariable": 273,
         "requisitoValor": 2,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/73.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/73.jpg"
       },
       {
         "id": "foto_album",
@@ -517,7 +517,7 @@
         "tipo": "variable",
         "requisitoVariable": 71,
         "requisitoValor": 10,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/74.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/74.jpg"
       },
       {
         "id": "nidos_todos",
@@ -526,7 +526,7 @@
         "tipo": "variable",
         "requisitoVariable": 70,
         "requisitoValor": 17,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/75.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/75.jpg"
       },
       {
         "id": "torre_racha_21",
@@ -535,7 +535,7 @@
         "tipo": "variable",
         "requisitoVariable": 50,
         "requisitoValor": 21,
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/76.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/76.jpg"
       },
       {
         "id": "tres_pajaros",
@@ -589,7 +589,7 @@
           "CHARIZARD",
           "BLASTOISE"
         ],
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/77.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/77.jpg"
       },
       {
         "id": "fosiles_kanto",
@@ -601,7 +601,7 @@
           "KABUTO",
           "AERODACTYL"
         ],
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/78.jpeg"
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/anil/logros/78.jpg"
       },
       {
         "id": "evoluciones_eevee",
