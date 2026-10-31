@@ -3705,6 +3705,12 @@
     ],
     "tiempoEstimado": "20 - 30 horas (estimado)",
     "desarrollador": "EL_GAMID",
+    "creadorNombre": "El Gamid",
+    "redes": {
+      "twitch": "https://www.twitch.tv/el_gamid",
+      "youtube": "https://www.youtube.com/@El_Gamid",
+      "x": "https://x.com/gamid271"
+    },
     "lanzamiento": "2024",
     "logros": [
       {
@@ -4342,6 +4348,13 @@
     ],
     "tiempoEstimado": "20 - 30 horas (estimado)",
     "desarrollador": "Seeth",
+    "creadorNombre": "Seeth",
+    "redes": {
+      "tiktok": "https://www.tiktok.com/@seeth704",
+      "youtube": "https://www.youtube.com/@Seeth704",
+      "instagram": "https://www.instagram.com/seeth_704/",
+      "x": "https://x.com/Seeth_0"
+    },
     "lanzamiento": "2022",
     "logros": [
       {
@@ -4749,6 +4762,35 @@
     "descripcion": "Pokémon Realidea System es un fangame creado por Phion Games (Elena y Maxewenx) con RPG Maker XP y Pokémon Essentials. La historia transcurre en la región de Esoteria: reúnes las 8 medallas y desafías a la Liga Pokémon mientras investigas a un grupo que usa una extraña tecnología para forzar los vínculos entre humanos y Pokémon.\n\nIncluye el Sistema Realidea (funciones que dependen del nivel de amistad con tus Pokémon), iniciales Fakemon, un nuevo legendario, algunas formas regionales, sprites de combate animados, un sistema de misiones con contenido extra tras el final y modos como Randomlocke y restricciones monotype.",
     "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/Realidea-V4.1/Realidea.V4.1.zip",
     "desarrollador": "Elena y Maxewenx (Phion Games)",
+    "creadorNombre": "Elena y Maxewenx",
+    "redes": {
+      "youtube": "https://www.youtube.com/@PhionGames",
+      "x": "https://x.com/pkmn_realidea",
+      "patreon": "https://www.patreon.com/cw/elena_realidea",
+      "web": "https://phiongames.blogspot.com/",
+      "discord": "https://discord.com/invite/gNmjGNDST9"
+    },
+    "creadores": [
+      {
+        "nombre": "Elena",
+        "redes": {
+          "youtube": "https://www.youtube.com/@PhionGames",
+          "x": "https://x.com/pkmn_realidea",
+          "patreon": "https://www.patreon.com/cw/elena_realidea",
+          "web": "https://phiongames.blogspot.com/",
+          "discord": "https://discord.com/invite/gNmjGNDST9"
+        }
+      },
+      {
+        "nombre": "Maxewenx",
+        "redes": {
+          "youtube": "https://www.youtube.com/@PhionGames",
+          "x": "https://x.com/alfpixel",
+          "web": "https://phiongames.blogspot.com/",
+          "discord": "https://discord.com/invite/gNmjGNDST9"
+        }
+      }
+    ],
     "lanzamiento": "2022",
     "version": "4.1",
     "idiomas": [
@@ -5796,6 +5838,11 @@
     "descripcion": "Pokémon El Eslabón Perdido es un fangame completo en español creado por Gonfoz con RPG Maker XP y Pokémon Essentials. El protagonista es el Profesor Oak: tras recibir una Pokédex completa descubre una posible relación entre la evolución de los humanos y la de los Mankey, y su investigación lo lleva a Keito, una región donde los Pokémon legendarios son venerados como dioses.\n\nIncluye Pokémon hasta la quinta generación, tipo Hada, iniciales Fakemon, un estilo gráfico de combate propio, una pestaña nueva con IV y EV en la ficha de cada Pokémon, nuevas medallas y retos, y unas 30 horas de juego.",
     "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/eslabon-completo/Pokemon.El.Eslabon.Perdido.zip",
     "desarrollador": "Gonfoz (GonfozPokemon)",
+    "creadorNombre": "Gonfoz",
+    "redes": {
+      "instagram": "https://www.instagram.com/pkmnseiko/",
+      "x": "https://x.com/GonfozPokemon"
+    },
     "lanzamiento": "2019",
     "version": "Completo",
     "idiomas": [
@@ -6374,6 +6421,11 @@
     "descripcion": "Pokémon Heads and Tails es un fangame en español creado por Lgarabato con Pokémon Essentials. Han pasado cinco años desde que la región de Metropia fue liberada de la tiranía del villano Mr. Apocalipsis por el campeón Pokeman. Ahora los Pokehéroes protegen a los ciudadanos, pero los Pokevillanos, entre ellos el Team Kaiser, esperan su momento para tomar de nuevo la región.\n\nIncluye una temática de superhéroes con un postgame extenso, 610 especies hasta la séptima generación, más de 30 Pokémon legendarios escondidos por la región, un Frente Batalla con mecánicas nuevas, un club de lucha donde se combate contra artistas marciales, Pokémon que evolucionan por intercambio mediante un objeto especial y una dificultad algo mayor que la de los juegos oficiales.",
     "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/headandtails/Heads.Tails.zip",
     "desarrollador": "Lgarabato",
+    "creadorNombre": "Lgarabato",
+    "redes": {
+      "x": "https://x.com/lord_garabato",
+      "itchio": "https://lgarabato.itch.io/"
+    },
     "lanzamiento": "2018",
     "version": "Completo (22/05/2021)",
     "idiomas": [
@@ -7133,6 +7185,12 @@
     "descripcion": "Pokémon Bizarre es un fangame de humor creado por MrGrossi con RPG Maker. Vives una serie de aventuras locas por la región de Quintueles, con misiones como liberar a un culto de setas alucinógenas, volar a la luna o enfrentarte a historias lovecraftianas con Octillerys, y gimnasios con puzles extravagantes.\n\nMantiene la estructura clásica de 8 gimnasios, con nueva historia y personajes, ciclo de día y noche, formas regionales propias de Quintueles, buena dificultad y entre 25 y 30 horas de juego. La actualización de marzo de 2025 añadió Pokémon de la novena generación, revanchas contra los líderes tras la Liga y un nuevo menú de objetos en combate.",
     "urlDescarga": "https://github.com/pereztheotalamona-creator/pokemon-launcher-catalogo/releases/download/bizarre/Pokemon.Bizarre.zip",
     "desarrollador": "MrGrossi",
+    "creadorNombre": "MrGrossi",
+    "redes": {
+      "youtube": "https://www.youtube.com/@mrgrossi8167",
+      "x": "https://x.com/PKMNBizarre",
+      "github": "https://pablogarciagrossi.github.io/portfolio/"
+    },
     "lanzamiento": "2022",
     "version": "Completo (actualización de marzo de 2025)",
     "idiomas": [
@@ -7958,6 +8016,15 @@
     "resumen": "Una historia oscura y un desafío exigente en Reborn City, con los 807 Pokémon hasta la séptima generación.",
     "descripcion": "Pokémon Reborn es un fangame creado por Amethyst (Ame) Liddell con RPG Maker XP y Pokémon Essentials, nacido a partir de una liga online entre usuarios. Se ambienta en la región de Reborn, con una trama más madura que la de los juegos oficiales, y es conocido por su dificultad y por sus topes de nivel ligados a las medallas.\n\nTodos los 807 Pokémon hasta la séptima generación se pueden encontrar sin intercambiar, muchos mediante encuentros especiales en lugares secretos, rescates o regalos, y los shinies tienen diseños propios y son más fáciles de conseguir. Incluye contenido sensible que puede resultar perturbador para algunos jugadores. La versión actual es el Episodio 19, la entrega final.",
     "desarrollador": "Amethyst (Ame) Liddell",
+    "creadorNombre": "Amethyst Liddell",
+    "redes": {
+      "youtube": "https://www.youtube.com/c/amethystliddell",
+      "x": "https://x.com/amethystvl",
+      "bluesky": "https://bsky.app/profile/amethyst-liddell.bsky.social",
+      "patreon": "https://www.patreon.com/amethystvl",
+      "reddit": "https://www.reddit.com/r/PokemonReborn/",
+      "web": "https://www.rebornevo.com/"
+    },
     "lanzamiento": "2012",
     "version": "Episodio 19 (versión final)",
     "idiomas": [
@@ -8870,6 +8937,29 @@
     "resumen": "La reinvención de Pokémon Gadir: una región inspirada en Cádiz con 1078 Pokémon y mecánicas de novena generación.",
     "descripcion": "Pokémon Gadir Deluxe es un fangame en español creado por PKMarioG y AlekZ_YT, la reinvención de Pokémon Gadir (2019) con nueva historia, nuevos gráficos y todas las mecánicas actualizadas a la novena generación. Transcurre en la región de Gadir, inspirada en la provincia de Cádiz, durante el Gran Día del Recorrido de los Entrenadores, mientras detienes al Team Tectonic y consigues las 8 medallas y el título de Campeón.\n\nIncluye 1078 Pokémon con nuevos Fakemon y formas regionales, monturas, la Vinculación (un fenómeno que potencia a un Pokémon en combate), expediciones, un modo Roguelike secundario llamado el Hoyo, revanchas, legendarios y un postgame con una isla explorable y un capítulo extra de historia.",
     "desarrollador": "PKMarioG y AlekZ_YT",
+    "creadorNombre": "PKMarioG y AlekZ_YT",
+    "redes": {
+      "youtube": "https://www.youtube.com/@PKMarioGC",
+      "x": "https://x.com/PKMarioG",
+      "discord": "https://discord.com/invite/t2zZwNYEeR"
+    },
+    "creadores": [
+      {
+        "nombre": "PKMarioG",
+        "redes": {
+          "youtube": "https://www.youtube.com/@PKMarioGC",
+          "x": "https://x.com/PKMarioG",
+          "discord": "https://discord.com/invite/t2zZwNYEeR"
+        }
+      },
+      {
+        "nombre": "AlekZ_YT",
+        "redes": {
+          "youtube": "https://www.youtube.com/@Alekz12",
+          "x": "https://x.com/AlekZ_YT"
+        }
+      }
+    ],
     "lanzamiento": "2025",
     "version": "1.1",
     "idiomas": [
