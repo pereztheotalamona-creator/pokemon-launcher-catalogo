@@ -7935,37 +7935,6 @@
     ]
   },
   {
-    "id": 21,
-    "nombre": "Pokémon Insurgence",
-    "portada": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/insurgence/insurgence-logo.jpg",
-    "capturas": [
-      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/insurgence/insurgence-preview-1.png",
-      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/insurgence/insurgence-preview-2.png",
-      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/insurgence/insurgence-preview-3.png",
-      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/insurgence/insurgence-preview-4.png",
-      "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/insurgence/insurgence-preview-5.png"
-    ],
-    "banner": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/insurgence/insurgence-banner.jpg",
-    "resumen": "Un fangame oscuro en la región de Torren, con cultos, Pokémon Delta y megaevoluciones nuevas.",
-    "descripcion": "Pokémon Insurgence es un fangame creado por TheSuzerain junto a un equipo de programadores, artistas y compositores, tras terminar Pokémon Zeta y Omicron. Se ambienta en la región de Torren, dominada por cultos peligrosos: despiertas sin memoria en el cuartel del Culto de Darkrai, escapas con ayuda de Mew y debes recuperar tus recuerdos y descubrir la verdad detrás de una misteriosa profecía.\n\nIncluye Pokémon de la primera a la sexta generación, Pokémon Delta (variantes inspiradas en el juego de cartas), Pokémon acorazados, megaevoluciones nuevas, bases secretas, intercambios y combates en línea, personalización del personaje y dos modos de historia: una versión más ligera y otra más oscura.",
-    "desarrollador": "TheSuzerain (Wyatt Verchere) y Team Insurgence",
-    "lanzamiento": "2014",
-    "version": "1.2.5",
-    "idiomas": [
-      "Inglés"
-    ],
-    "categorias": [
-      "Fan Game",
-      "RPG",
-      "Aventura"
-    ],
-    "etiquetas": [
-      "Megaevoluciones",
-      "Online",
-      "Modos de dificultad"
-    ]
-  },
-  {
     "id": 22,
     "nombre": "Pokémon Reborn",
     "pokedexTotal": 807,
@@ -9561,39 +9530,7 @@
         "tipo": "todosLosDemas",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/71.jpg"
       }
-    ],
-    "maestria": {
-      "recompensa": {
-        "id": "maestro-gadir",
-        "nombre": "Maestro Pokémon Gadir",
-        "descripcion": "Completar las tres maestrías de Pokémon Gadir Deluxe: Modo Reto, Nuzlocke en Modo Reto y Randomlocke sin bajas en Modo Reto",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/maestria/medallon-maestria.png",
-        "tema": "diamante"
-      },
-      "items": [
-        {
-          "id": "modo-reto",
-          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/maestria/1.jpg",
-          "icono": "star",
-          "titulo": "Nivel 1 · Modo Reto",
-          "descripcion": "Completar el juego con el Modo Reto activado"
-        },
-        {
-          "id": "nuzlocke-modo-reto",
-          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/maestria/2.jpg",
-          "icono": "heart",
-          "titulo": "Nivel 2 · Nuzlocke en Modo Reto",
-          "descripcion": "Completar el juego en modo Nuzlocke con el Modo Reto activado"
-        },
-        {
-          "id": "randomlocke-sin-bajas-modo-reto",
-          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/maestria/3.jpg",
-          "icono": "crown",
-          "titulo": "Nivel 3 · Randomlocke sin bajas en Modo Reto",
-          "descripcion": "Completar el juego en modo Randomlocke con el Modo Reto activado y sin que ningún Pokémon caiga debilitado"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": 24,
