@@ -4342,7 +4342,6 @@
     ],
     "etiquetas": [
       "Logros",
-      "Maestrías",
       "Nuzlocke",
       "Megaevoluciones"
     ],
@@ -4711,39 +4710,7 @@
         "tipo": "todosLosDemas",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/logros/41.jpg"
       }
-    ],
-    "maestria": {
-      "recompensa": {
-        "id": "maestro-shattereddim",
-        "nombre": "Maestro Pokémon Shattered Dimensions",
-        "descripcion": "Completar las tres maestrías de Pokémon Shattered Dimensions: Cazador de portales, Victoria Inmortal y Maestro Nuzlocke Absoluto",
-        "tema": "galaxia",
-        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/maestria/medallon-maestria.png"
-      },
-      "items": [
-        {
-          "id": "cazador-de-portales",
-          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/maestria/1.png",
-          "icono": "star",
-          "titulo": "Nivel 1 · Cazador de portales",
-          "descripcion": "Capturar legendarios frente al portal"
-        },
-        {
-          "id": "victoria-inmortal",
-          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/maestria/2.png",
-          "icono": "heart",
-          "titulo": "Nivel 2 · Victoria Inmortal",
-          "descripcion": "Lograr el triunfo en el estadio sin debilitaciones"
-        },
-        {
-          "id": "maestro-nuzlocke-absoluto",
-          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/shattereddim/maestria/3.png",
-          "icono": "crown",
-          "titulo": "Nivel 3 · Maestro Nuzlocke Absoluto",
-          "descripcion": "Alcanzar el honor máximo tras el desafío más exigente"
-        }
-      ]
-    }
+    ]
   },
   {
     "id": 12,
@@ -5791,32 +5758,32 @@
       "recompensa": {
         "id": "maestro-realidea",
         "nombre": "Maestro Pokémon Realidea System",
-        "descripcion": "Completar las tres maestrías de Pokémon Realidea System: Monotipo, Randomized y Sin bajas",
+        "descripcion": "Completar las tres maestrías de Pokémon Realidea System: Misiones secundarias, Nuzlocke y Randomlocke",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/maestria/medallon-maestria.png",
         "tema": "realidea",
         "estiloId": "realidea-system"
       },
       "items": [
         {
-          "id": "realidea-monotipo",
+          "id": "realidea-misiones-secundarias",
           "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/maestria/1.jpg",
           "icono": "star",
-          "titulo": "Nivel 1 · Monotipo",
-          "descripcion": "Completar el juego con un equipo unificado bajo un mismo tipo"
+          "titulo": "Nivel 1 · Misiones secundarias",
+          "descripcion": "Completar todas las misiones secundarias"
         },
         {
-          "id": "realidea-randomized",
+          "id": "realidea-nuzlocke",
           "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/maestria/2.jpg",
-          "icono": "crown",
-          "titulo": "Nivel 2 · Randomized",
-          "descripcion": "Completar el juego en modo Randomized, dominando el caos elemental"
+          "icono": "heart",
+          "titulo": "Nivel 2 · Nuzlocke",
+          "descripcion": "Completar el juego en modo Nuzlocke"
         },
         {
-          "id": "realidea-sin-bajas",
+          "id": "realidea-randomlocke",
           "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/realidea/maestria/3.jpg",
-          "icono": "heart",
-          "titulo": "Nivel 3 · Sin bajas",
-          "descripcion": "Entrar al Hall de la Fama con el equipo invicto, sin que ningún Pokémon caiga debilitado"
+          "icono": "crown",
+          "titulo": "Nivel 3 · Randomlocke",
+          "descripcion": "Completar el juego en modo Randomlocke"
         }
       ]
     }
@@ -9594,7 +9561,39 @@
         "tipo": "todosLosDemas",
         "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/logros/71.jpg"
       }
-    ]
+    ],
+    "maestria": {
+      "recompensa": {
+        "id": "maestro-gadir",
+        "nombre": "Maestro Pokémon Gadir",
+        "descripcion": "Completar las tres maestrías de Pokémon Gadir Deluxe: Modo Reto, Nuzlocke en Modo Reto y Randomlocke sin bajas en Modo Reto",
+        "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/maestria/medallon-maestria.png",
+        "tema": "diamante"
+      },
+      "items": [
+        {
+          "id": "modo-reto",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/maestria/1.jpg",
+          "icono": "star",
+          "titulo": "Nivel 1 · Modo Reto",
+          "descripcion": "Completar el juego con el Modo Reto activado"
+        },
+        {
+          "id": "nuzlocke-modo-reto",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/maestria/2.jpg",
+          "icono": "heart",
+          "titulo": "Nivel 2 · Nuzlocke en Modo Reto",
+          "descripcion": "Completar el juego en modo Nuzlocke con el Modo Reto activado"
+        },
+        {
+          "id": "randomlocke-sin-bajas-modo-reto",
+          "imagen": "https://raw.githubusercontent.com/pereztheotalamona-creator/pokemon-launcher-catalogo/refs/heads/main/capturas/gadir/maestria/3.jpg",
+          "icono": "crown",
+          "titulo": "Nivel 3 · Randomlocke sin bajas en Modo Reto",
+          "descripcion": "Completar el juego en modo Randomlocke con el Modo Reto activado y sin que ningún Pokémon caiga debilitado"
+        }
+      ]
+    }
   },
   {
     "id": 24,
